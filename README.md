@@ -18,8 +18,8 @@ Este proyecto **reemplaza** a uno anterior, basado en demanda eléctrica, genera
 
 El motivo del cambio: se necesitaba superar los 100.000 registros por serie para el TP Final. El histórico horario real de CAMMESA (demanda por provincia, oferta por fuente/tecnología) sólo cubre 2023-01-01 a 2026-06-30 (~30.648 horas) — muy por debajo de lo necesario, y sin una vía automatizable para extenderlo hacia atrás sin recurrir a trucos de conteo (sumar provincias o tecnologías como si fueran observaciones independientes). Tras evaluar varias alternativas (otros países, otros dominios: tránsito, calidad del aire, radiación solar), se eligió esta combinación en California porque:
 
-- Las tres fuentes son de **acceso público y gratuito**, verificado en vivo.
-- Cada serie por sí sola supera los 100.000 registros horarios **sin sumar de más**.
+- Las tres fuentes son de **acceso público y gratuito**.
+- Cada serie por sí sola supera los 100.000 registros horarios.
 - Las tres correlacionan entre sí por una razón física real (ver más abajo), no sólo por casualidad de volumen.
 
 ---
@@ -32,11 +32,11 @@ Modelar el comportamiento horario del ozono troposférico en la cuenca de Los Á
 
 # Series Seleccionadas
 
-| Serie | Unidad | Fuente | Frecuencia nativa |
-| --- | --- | --- | --- |
-| Ozono troposférico (O₃) | ppm | EPA AQS / AirData | Horaria |
-| Temperatura y clima | °C (y otras variables) | NOAA ISD (Global Hourly) | Horaria |
-| Radiación solar | W/m² | NSRDB (NLR, ex-NREL) | 30 minutos |
+| Serie                   | Unidad                 | Fuente                   | Frecuencia nativa |
+| ----------------------- | ---------------------- | ------------------------ | ----------------- |
+| Ozono troposférico (O₃) | ppm                    | EPA AQS / AirData        | Horaria           |
+| Temperatura y clima     | °C (y otras variables) | NOAA ISD (Global Hourly) | Horaria           |
+| Radiación solar         | W/m²                   | NSRDB (NLR, ex-NREL)     | 30 minutos        |
 
 ---
 
@@ -61,17 +61,17 @@ Este vínculo permite aplicar VAR, funciones impulso-respuesta y causalidad de G
 Para que las tres series sean comparables (mismo punto geográfico, mismo huso horario, misma cuenca atmosférica):
 
 - **Clima y radiación solar**: coordenadas de LAX — 33.9425, -118.4081.
-- **Ozono**: estación de EPA AQS *Los Angeles-North Main Street* (sitio `06-037-1103`), a pocos kilómetros de LAX, dentro de la misma cuenca del aire (South Coast Air Basin) — una de las estaciones de ozono con historial más largo de California.
+- **Ozono**: estación de EPA AQS _Los Angeles-North Main Street_ (sitio `06-037-1103`), a pocos kilómetros de LAX, dentro de la misma cuenca del aire (South Coast Air Basin) — una de las estaciones de ozono con historial más largo de California.
 
 ---
 
 # Alcance del proyecto (verificado, no estimado)
 
-| Fuente | Cobertura horaria real verificada |
-| --- | --- |
-| EPA AQS (ozono) | Desde 1990 |
-| NOAA ISD (LAX) | Desde 1944 |
-| NSRDB GOES Aggregated (radiación solar) | Desde 1998 |
+| Fuente                                  | Cobertura horaria real verificada |
+| --------------------------------------- | --------------------------------- |
+| EPA AQS (ozono)                         | Desde 1990                        |
+| NOAA ISD (LAX)                          | Desde 1944                        |
+| NSRDB GOES Aggregated (radiación solar) | Desde 1998                        |
 
 **El período común del proyecto es 1998 – año actual - 1** (NSRDB es la fuente que acota el rango; se excluye el año en curso porque los tres organismos publican sus archivos anuales con demora). Con este rango:
 
