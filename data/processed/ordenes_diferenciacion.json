@@ -1,0 +1,17 @@
+{
+  "ozono_ppm": {
+    "d": 0,
+    "D": 1,
+    "periodo_estacional": 24
+  },
+  "temperatura_c": {
+    "d": 0,
+    "D": 1,
+    "periodo_estacional": 24
+  },
+  "radiacion_ghi_wm2": {
+    "d": 0,
+    "D": 1,
+    "periodo_estacional": 24
+  }
+}

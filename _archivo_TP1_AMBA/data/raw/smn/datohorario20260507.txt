@@ -1,0 +1,1923 @@
+FECHA     HORA  TEMP   HUM   PNM    DD    FF     NOMBRE                                             
+         [HOA]  [ºC]   [%]  [hPa]  [gr] [km/hr]                                                     
+07052026     0  22.2   87   999.5  330   11     AEROPARQUE AERO                                     
+07052026     1  22.5   90   999.0  230    6     AEROPARQUE AERO                                     
+07052026     2  18.8   96  1000.9  990    7     AEROPARQUE AERO                                     
+07052026     3  18.8   94  1002.5  250   11     AEROPARQUE AERO                                     
+07052026     4  18.4   93  1000.9  100   17     AEROPARQUE AERO                                     
+07052026     5  18.3   91   998.6  110   19     AEROPARQUE AERO                                     
+07052026     6  18.0   93   999.4  230    9     AEROPARQUE AERO                                     
+07052026     7  17.7   90   999.5  240   13     AEROPARQUE AERO                                     
+07052026     8  17.2   90   999.4  230    9     AEROPARQUE AERO                                     
+07052026     9  16.9   84   999.5  230    7     AEROPARQUE AERO                                     
+07052026    10  16.5   80  1001.7  230    7     AEROPARQUE AERO                                     
+07052026    11  17.4   81  1001.0  220    9     AEROPARQUE AERO                                     
+07052026    12  17.3   80  1002.0  250   13     AEROPARQUE AERO                                     
+07052026    13  16.0   79  1000.8  220   13     AEROPARQUE AERO                                     
+07052026    14  15.4   72  1001.9  270   11     AEROPARQUE AERO                                     
+07052026    15  15.1   71  1002.0  280   13     AEROPARQUE AERO                                     
+07052026    16  15.0   69  1000.8  260   13     AEROPARQUE AERO                                     
+07052026    17  15.1   66   999.3  260   19     AEROPARQUE AERO                                     
+07052026    18  14.8   68  1000.9  270   13     AEROPARQUE AERO                                     
+07052026    19  14.4   71  1000.9  270   15     AEROPARQUE AERO                                     
+07052026    20  13.4   80  1001.3  270   17     AEROPARQUE AERO                                     
+07052026    21  13.2   76  1001.1  260   17     AEROPARQUE AERO                                     
+07052026    22  12.0   88  1001.1  260   15     AEROPARQUE AERO                                     
+07052026    23  11.5   88  1000.7  990   17     AEROPARQUE AERO                                     
+07052026     0  13.5   90   999.2  180    7     AZUL AERO                                           
+07052026     1  13.6   91  1000.5  230   11     AZUL AERO                                           
+07052026     2  13.2   94  1000.3  180    4     AZUL AERO                                           
+07052026     3  12.5   94  1001.2  230    6     AZUL AERO                                           
+07052026     4  12.2   96  1001.3  270   11     AZUL AERO                                           
+07052026     5  12.0   95  1000.5  230    6     AZUL AERO                                           
+07052026     6  12.4   92  1001.3  230    7     AZUL AERO                                           
+07052026     7  12.4   91  1000.9  230    7     AZUL AERO                                           
+07052026     8  12.7   88   999.6  230    7     AZUL AERO                                           
+07052026     9  12.8   92  1000.3  270   11     AZUL AERO                                           
+07052026    10  13.7   91   999.3  230   11     AZUL AERO                                           
+07052026    11  13.7   89  1000.6  230    6     AZUL AERO                                           
+07052026    12  13.9   84   999.9  230   15     AZUL AERO                                           
+07052026    13  13.7   84   999.6  230    7     AZUL AERO                                           
+07052026    14  13.8   87  1000.1  270    7     AZUL AERO                                           
+07052026    15  13.8   88   999.8  270    6     AZUL AERO                                           
+07052026    16  13.6   94   999.9  270    7     AZUL AERO                                           
+07052026    17  13.8   91   999.2  230   11     AZUL AERO                                           
+07052026    18  12.2   96   999.1  180   19     AZUL AERO                                           
+07052026    19  11.4   83  1000.0  230   13     AZUL AERO                                           
+07052026    20  10.7   89  1000.3  230   17     AZUL AERO                                           
+07052026    21  10.2   89  1001.3  230   15     AZUL AERO                                           
+07052026    22   8.9   94  1001.1  230   20     AZUL AERO                                           
+07052026    23   7.8   92  1001.1  230   17     AZUL AERO                                           
+07052026     0  12.6   93  1003.7   90   13     BAHIA BLANCA AERO                                   
+07052026     1  12.4   93  1004.2   50   17     BAHIA BLANCA AERO                                   
+07052026     2  12.2   93  1002.9   30   13     BAHIA BLANCA AERO                                   
+07052026     3  12.8   96  1003.3  340   20     BAHIA BLANCA AERO                                   
+07052026     4  13.6   96  1002.0  320   11     BAHIA BLANCA AERO                                   
+07052026     5  13.6  100  1002.5  300   17     BAHIA BLANCA AERO                                   
+07052026     6  13.6  100  1002.7  290    6     BAHIA BLANCA AERO                                   
+07052026     7  12.6  100  1003.1  200   13     BAHIA BLANCA AERO                                   
+07052026     8  12.0  100  1002.4    0    0     BAHIA BLANCA AERO                                   
+07052026     9  12.0  100  1002.0  290   19     BAHIA BLANCA AERO                                   
+07052026    10  11.8   99  1002.0  270   22     BAHIA BLANCA AERO                                   
+07052026    11  11.6   99  1002.3  230   28     BAHIA BLANCA AERO                                   
+07052026    12  11.0  100  1002.6  230   31     BAHIA BLANCA AERO                                   
+07052026    13  10.9   97  1003.0  240   26     BAHIA BLANCA AERO                                   
+07052026    14  11.0   99  1003.5  230   26     BAHIA BLANCA AERO                                   
+07052026    15  10.0   99  1003.6  230   33     BAHIA BLANCA AERO                                   
+07052026    16   9.8   97  1004.3  230   26     BAHIA BLANCA AERO                                   
+07052026    17   9.3   99  1004.7  230   28     BAHIA BLANCA AERO                                   
+07052026    18   8.6   96  1005.0  230   33     BAHIA BLANCA AERO                                   
+07052026    19   7.8   96  1005.5  230   30     BAHIA BLANCA AERO                                   
+07052026    20   7.8   90  1005.8  250   31     BAHIA BLANCA AERO                                   
+07052026    21   7.9   86  1005.9  250   30     BAHIA BLANCA AERO                                   
+07052026    22   8.0   90  1005.4  250   30     BAHIA BLANCA AERO                                   
+07052026    23   8.1   89  1005.3  250   31     BAHIA BLANCA AERO                                   
+07052026     0   5.4   63          270   26     BARILOCHE AERO                                      
+07052026     1   5.0   71          290   30     BARILOCHE AERO                                      
+07052026     2   4.7   70          290   26     BARILOCHE AERO                                      
+07052026     3   4.7   73          290   33     BARILOCHE AERO                                      
+07052026     4   4.0   75          290   35     BARILOCHE AERO                                      
+07052026     5   4.2   70          290   33     BARILOCHE AERO                                      
+07052026     6   4.2   65          290   39     BARILOCHE AERO                                      
+07052026     7   3.8   62          290   30     BARILOCHE AERO                                      
+07052026     8   3.4   58          250   37     BARILOCHE AERO                                      
+07052026     9   3.1   55          230   43     BARILOCHE AERO                                      
+07052026    10   3.7   48          250   33     BARILOCHE AERO                                      
+07052026    11   4.3   44          230   39     BARILOCHE AERO                                      
+07052026    12   5.6   45          250   48     BARILOCHE AERO                                      
+07052026    13   6.1   43          230   44     BARILOCHE AERO                                      
+07052026    14   5.1   45          230   35     BARILOCHE AERO                                      
+07052026    15   6.2   40          230   41     BARILOCHE AERO                                      
+07052026    16   6.3   42          230   39     BARILOCHE AERO                                      
+07052026    17   5.6   45          250   41     BARILOCHE AERO                                      
+07052026    18   4.7   47          250   31     BARILOCHE AERO                                      
+07052026    19   4.1   54          280   31     BARILOCHE AERO                                      
+07052026    20   4.0   54          290   28     BARILOCHE AERO                                      
+07052026    21   4.0   64          290   35     BARILOCHE AERO                                      
+07052026    22   4.3   63          280   30     BARILOCHE AERO                                      
+07052026    23   4.0   70          290   30     BARILOCHE AERO                                      
+07052026     0 -17.6   58   994.3  140    4     BASE BELGRANO II                                    
+07052026     3 -18.2   51   994.3  180    9     BASE BELGRANO II                                    
+07052026     6 -20.6   56   995.4  140   13     BASE BELGRANO II                                    
+07052026     9 -19.7   46   995.9  140   22     BASE BELGRANO II                                    
+07052026    12 -17.7   26   996.6  110   17     BASE BELGRANO II                                    
+07052026    15 -14.7   23   997.7  140   22     BASE BELGRANO II                                    
+07052026    18 -13.6   40   998.9  180   39     BASE BELGRANO II                                    
+07052026    21 -13.2   69   999.3  140   44     BASE BELGRANO II                                    
+07052026     0   -.6   88  1014.2  290   26     BASE CARLINI (EX JUBANY)                            
+07052026     3    .5   87  1014.1  290   22     BASE CARLINI (EX JUBANY)                            
+07052026     6   -.3   98  1014.4  270   13     BASE CARLINI (EX JUBANY)                            
+07052026     9   -.4   88  1015.3  250   15     BASE CARLINI (EX JUBANY)                            
+07052026    12   -.1   83  1015.8  270    7     BASE CARLINI (EX JUBANY)                            
+07052026    15   -.1   83  1016.2  200   11     BASE CARLINI (EX JUBANY)                            
+07052026    18  -1.8   96  1018.1   50    4     BASE CARLINI (EX JUBANY)                            
+07052026    21  -3.6   96  1020.2    0    0     BASE CARLINI (EX JUBANY)                            
+07052026     0 -12.7   77  1011.3  160    7     BASE ESPERANZA                                      
+07052026     3 -13.1   62  1012.2  180    7     BASE ESPERANZA                                      
+07052026     6  -8.5   78  1012.7    0    0     BASE ESPERANZA                                      
+07052026     9  -6.7   86  1014.1    0    0     BASE ESPERANZA                                      
+07052026    10  -5.7   82  1014.4   50    6     BASE ESPERANZA                                      
+07052026    11  -4.3   66  1014.8    0    0     BASE ESPERANZA                                      
+07052026    12  -2.9   78  1014.9  360    6     BASE ESPERANZA                                      
+07052026    13  -2.7   78  1015.5  360    6     BASE ESPERANZA                                      
+07052026    14  -4.9   81  1015.9  160    4     BASE ESPERANZA                                      
+07052026    15  -5.2   83  1016.5  360    7     BASE ESPERANZA                                      
+07052026    18  -8.1   84  1017.8  200    4     BASE ESPERANZA                                      
+07052026    21  -8.1   79  1019.9  200    7     BASE ESPERANZA                                      
+07052026     0  -9.0   50  1011.3  290   13     BASE MARAMBIO                                       
+07052026     1  -7.7   52  1011.5  250    7     BASE MARAMBIO                                       
+07052026     2  -8.1   53  1011.5  270    4     BASE MARAMBIO                                       
+07052026     3  -7.9   43  1012.2  270    4     BASE MARAMBIO                                       
+07052026     4  -7.3   42  1012.5  180   13     BASE MARAMBIO                                       
+07052026     5  -5.2   36  1012.3  180    7     BASE MARAMBIO                                       
+07052026     6  -3.7   22  1012.5  200   22     BASE MARAMBIO                                       
+07052026     7  -4.0   23  1012.8  200   24     BASE MARAMBIO                                       
+07052026     8  -2.6   33  1013.5  210   26     BASE MARAMBIO                                       
+07052026     9  -3.4   40  1013.9  210   24     BASE MARAMBIO                                       
+07052026    10  -3.5   46  1014.3  220   28     BASE MARAMBIO                                       
+07052026    11  -3.6   48  1014.8  210   31     BASE MARAMBIO                                       
+07052026    12  -4.0   55  1015.0  210   26     BASE MARAMBIO                                       
+07052026    13  -5.8   55  1015.1  200   33     BASE MARAMBIO                                       
+07052026    14  -4.2   62  1015.4  200   33     BASE MARAMBIO                                       
+07052026    15  -6.6   65  1015.6  200   37     BASE MARAMBIO                                       
+07052026    16  -7.6   63  1016.2  180   33     BASE MARAMBIO                                       
+07052026    17  -8.6   69  1016.8  180   31     BASE MARAMBIO                                       
+07052026    18  -8.4   69  1017.2  180   33     BASE MARAMBIO                                       
+07052026    19  -8.4   69  1017.8  180   28     BASE MARAMBIO                                       
+07052026    20 -11.2   73  1018.6  180   24     BASE MARAMBIO                                       
+07052026    21  -9.0   71  1019.6  180   20     BASE MARAMBIO                                       
+07052026    22 -10.6   54  1020.3  180   15     BASE MARAMBIO                                       
+07052026    23  -9.3   43  1020.5  180    7     BASE MARAMBIO                                       
+07052026     0  -5.8   95  1012.0  140   13     BASE ORCADAS                                        
+07052026     3  -5.0   95  1012.4  140   13     BASE ORCADAS                                        
+07052026     6  -5.8   95  1013.3  180   15     BASE ORCADAS                                        
+07052026     9  -6.2   94  1014.8  110   13     BASE ORCADAS                                        
+07052026    12  -5.4   95  1015.9  110   11     BASE ORCADAS                                        
+07052026    15  -6.0   97  1016.6  270    9     BASE ORCADAS                                        
+07052026    18  -6.2  100  1017.0  140    6     BASE ORCADAS                                        
+07052026    21  -6.1  100  1017.8  180    6     BASE ORCADAS                                        
+07052026     0   -.7   88  1012.8  290    6     BASE SAN MARTIN                                     
+07052026     3  -2.2   96  1013.8   90    7     BASE SAN MARTIN                                     
+07052026     6   -.9   76  1014.8  990    2     BASE SAN MARTIN                                     
+07052026     9   -.8   76  1016.0  140    4     BASE SAN MARTIN                                     
+07052026    12   -.6   80  1017.6  160    6     BASE SAN MARTIN                                     
+07052026    15   -.4   76  1018.9  140    6     BASE SAN MARTIN                                     
+07052026    18  -1.8   94  1019.3  180    4     BASE SAN MARTIN                                     
+07052026    21  -1.1   95  1020.6   90    4     BASE SAN MARTIN                                     
+07052026     9  12.4   97   998.8  230    9     BENITO JUAREZ AERO                                  
+07052026    15  16.0   84   998.1  140    9     BENITO JUAREZ AERO                                  
+07052026    21   9.6   97   999.2  230   44     BENITO JUAREZ AERO                                  
+07052026     9  20.8   86           50   24     BERNARDO DE IRIGOYEN AERO                           
+07052026    15  24.7   80          360   33     BERNARDO DE IRIGOYEN AERO                           
+07052026    21  23.0   82          360   33     BERNARDO DE IRIGOYEN AERO                           
+07052026     9  11.4   83  1002.8  230   44     BOLIVAR AERO                                        
+07052026    10  11.4   81  1001.7  230   44     BOLIVAR AERO                                        
+07052026    11  12.4   75  1002.4  230   44     BOLIVAR AERO                                        
+07052026    12  13.0   71  1002.1  230   41     BOLIVAR AERO                                        
+07052026    13  12.8   82  1002.8  230   41     BOLIVAR AERO                                        
+07052026    14  12.2   88  1002.9  230   41     BOLIVAR AERO                                        
+07052026    15  12.2   91  1002.4  230   44     BOLIVAR AERO                                        
+07052026    16  11.4   88  1002.9  230   48     BOLIVAR AERO                                        
+07052026    17  11.0   85  1002.1  230   48     BOLIVAR AERO                                        
+07052026    18  10.2   92  1003.1  230   48     BOLIVAR AERO                                        
+07052026    19   9.8   92  1003.6  230   46     BOLIVAR AERO                                        
+07052026    20   9.0   95  1003.8  230   48     BOLIVAR AERO                                        
+07052026    21   8.8   84  1005.1  230   48     BOLIVAR AERO                                        
+07052026     0  25.1   77   999.3  360   11     BUENOS AIRES OBSERVATORIO                           
+07052026     1  23.3   90   999.6  200    7     BUENOS AIRES OBSERVATORIO                           
+07052026     2  19.1   93  1000.6  140    6     BUENOS AIRES OBSERVATORIO                           
+07052026     3  18.6   96  1002.9  230    6     BUENOS AIRES OBSERVATORIO                           
+07052026     4  18.4   93  1000.0   90    9     BUENOS AIRES OBSERVATORIO                           
+07052026     5  18.3   89   998.5    0    0     BUENOS AIRES OBSERVATORIO                           
+07052026     6  17.8   95   999.0  230   15     BUENOS AIRES OBSERVATORIO                           
+07052026     7  17.3   93   998.9  230    7     BUENOS AIRES OBSERVATORIO                           
+07052026     8  16.8   92   999.4  240   13     BUENOS AIRES OBSERVATORIO                           
+07052026     9  16.2   90  1000.1  240   11     BUENOS AIRES OBSERVATORIO                           
+07052026    10  16.4   86  1002.4  230    7     BUENOS AIRES OBSERVATORIO                           
+07052026    11  17.0   84  1001.5  230    6     BUENOS AIRES OBSERVATORIO                           
+07052026    12  17.0   83  1002.0  250   11     BUENOS AIRES OBSERVATORIO                           
+07052026    13  16.1   79  1000.9  250    9     BUENOS AIRES OBSERVATORIO                           
+07052026    14  15.6   75  1002.0  240    9     BUENOS AIRES OBSERVATORIO                           
+07052026    15  15.4   75  1002.2  270    9     BUENOS AIRES OBSERVATORIO                           
+07052026    16  15.6   71  1000.9  250   11     BUENOS AIRES OBSERVATORIO                           
+07052026    17  15.1   69  1002.4  250   11     BUENOS AIRES OBSERVATORIO                           
+07052026    18  14.6   80  1000.9  270    9     BUENOS AIRES OBSERVATORIO                           
+07052026    19  14.1   87  1001.3  270   11     BUENOS AIRES OBSERVATORIO                           
+07052026    20  13.3   94  1001.7  270   13     BUENOS AIRES OBSERVATORIO                           
+07052026    21  13.3   76  1001.2  270   11     BUENOS AIRES OBSERVATORIO                           
+07052026    22  12.0   91  1001.6  230    6     BUENOS AIRES OBSERVATORIO                           
+07052026    23  11.4   92  1000.8  230   15     BUENOS AIRES OBSERVATORIO                           
+07052026     9  15.0   94  1001.3  230   20     CAMPO DE MAYO AERO                                  
+07052026    10  15.6   87  1003.8  270   13     CAMPO DE MAYO AERO                                  
+07052026    11  15.8   89  1001.6  230    9     CAMPO DE MAYO AERO                                  
+07052026    12  15.2   86  1002.2  230   17     CAMPO DE MAYO AERO                                  
+07052026    13  14.0   79  1003.0  270   24     CAMPO DE MAYO AERO                                  
+07052026    14  14.0   79  1001.6  250   11     CAMPO DE MAYO AERO                                  
+07052026    15  14.6   73  1003.6  270   20     CAMPO DE MAYO AERO                                  
+07052026    16  14.6   71  1001.3  270   22     CAMPO DE MAYO AERO                                  
+07052026    17  14.0   75  1000.6  270   20     CAMPO DE MAYO AERO                                  
+07052026    18  13.6   74  1002.0  270   19     CAMPO DE MAYO AERO                                  
+07052026    20  12.2   79  1003.3  250   19     CAMPO DE MAYO AERO                                  
+07052026    21  11.1   65  1003.6  250   19     CAMPO DE MAYO AERO                                  
+07052026     0  17.2   92  1002.2  180    9     CATAMARCA AERO                                      
+07052026     1  16.8   94  1002.2  140   11     CATAMARCA AERO                                      
+07052026     2  16.8   94  1001.4  320    7     CATAMARCA AERO                                      
+07052026     3  16.2   90  1001.2  320    6     CATAMARCA AERO                                      
+07052026     4  15.8   86  1000.9  320   11     CATAMARCA AERO                                      
+07052026     5  15.4   87  1000.8  270    7     CATAMARCA AERO                                      
+07052026     6  17.6   84  1001.6  230    7     CATAMARCA AERO                                      
+07052026     7  18.6   81  1003.2  230   17     CATAMARCA AERO                                      
+07052026     8  17.4   77  1006.5  230   26     CATAMARCA AERO                                      
+07052026     9  13.6   84  1009.9  210   31     CATAMARCA AERO                                      
+07052026    10  13.3   86  1012.2  190   13     CATAMARCA AERO                                      
+07052026    11  13.2   91  1012.8  140   11     CATAMARCA AERO                                      
+07052026    12  13.4   89  1012.7   90    6     CATAMARCA AERO                                      
+07052026    13  16.0   82  1011.9  200   11     CATAMARCA AERO                                      
+07052026    14  18.2   72  1011.6  170   13     CATAMARCA AERO                                      
+07052026    15  20.6   33  1011.0  170   22     CATAMARCA AERO                                      
+07052026    16  21.2   31  1010.1  210   11     CATAMARCA AERO                                      
+07052026    17  21.3   28  1010.6  180   17     CATAMARCA AERO                                      
+07052026    18  20.0   29  1010.4  170   15     CATAMARCA AERO                                      
+07052026    19  16.0   47  1010.7  180    4     CATAMARCA AERO                                      
+07052026    20  13.8   56  1011.7  330    6     CATAMARCA AERO                                      
+07052026    21  11.8   64  1012.8   50   13     CATAMARCA AERO                                      
+07052026    22  11.2   63  1012.8   50   19     CATAMARCA AERO                                      
+07052026    23  11.2   63  1013.1   50   17     CATAMARCA AERO                                      
+07052026     0  25.0   84  1000.8  340   13     CERES AERO                                          
+07052026     3  23.6   82  1000.7    0    0     CERES AERO                                          
+07052026     6  22.9   78  1000.8  180   26     CERES AERO                                          
+07052026     9  18.7   68  1005.7  180   30     CERES AERO                                          
+07052026    10  19.3   58  1006.3  170   35     CERES AERO                                          
+07052026    11  16.7   57  1008.9  180   43     CERES AERO                                          
+07052026    12  16.9   52  1009.4  180   37     CERES AERO                                          
+07052026    13  13.0   74  1007.9  160   28     CERES AERO                                          
+07052026    14  13.0   75  1006.0  140   20     CERES AERO                                          
+07052026    15  13.2   77  1008.0  150   17     CERES AERO                                          
+07052026    16  13.4   77  1008.5  210    9     CERES AERO                                          
+07052026    17  15.0   61  1008.6  200   15     CERES AERO                                          
+07052026    18  15.5   60  1009.5  220    9     CERES AERO                                          
+07052026    19  13.2   70  1010.3  270    6     CERES AERO                                          
+07052026    20  12.3   73  1011.0  270    9     CERES AERO                                          
+07052026    21  11.7   75  1011.1  290    7     CERES AERO                                          
+07052026     9  17.8   56  1007.7  140    9     CHAMICAL AERO                                       
+07052026    10  17.0   58  1010.8  140    9     CHAMICAL AERO                                       
+07052026    11  19.0   36  1011.6    0    0     CHAMICAL AERO                                       
+07052026    12  20.0   25  1011.7  140   33     CHAMICAL AERO                                       
+07052026    13  21.4   17  1011.1  140   15     CHAMICAL AERO                                       
+07052026    14  22.2   12  1010.4  140   24     CHAMICAL AERO                                       
+07052026    15  23.0    7  1009.0  140   24     CHAMICAL AERO                                       
+07052026    16  22.6   10  1009.0  140   24     CHAMICAL AERO                                       
+07052026    17  22.0   12  1009.1  140   24     CHAMICAL AERO                                       
+07052026    18  21.0   16  1009.4  140    9     CHAMICAL AERO                                       
+07052026    19  14.8   39  1009.7    0    0     CHAMICAL AERO                                       
+07052026    20  12.6   34  1010.3    0    0     CHAMICAL AERO                                       
+07052026    21  11.0   41  1010.1    0    0     CHAMICAL AERO                                       
+07052026     0   5.6   72  1015.4  260   26     CHAPELCO AERO                                       
+07052026     1   5.6   72  1015.8  250   28     CHAPELCO AERO                                       
+07052026     2   5.4   72  1016.1  250   26     CHAPELCO AERO                                       
+07052026     3   5.2   71  1016.4  270   26     CHAPELCO AERO                                       
+07052026     4   5.2   71  1016.7  240   35     CHAPELCO AERO                                       
+07052026     5   4.2   67  1016.8  240   31     CHAPELCO AERO                                       
+07052026     6   4.2   67  1017.0  260   24     CHAPELCO AERO                                       
+07052026     7   4.0   70  1017.8  250   30     CHAPELCO AERO                                       
+07052026     8   3.5   65  1018.2  270   28     CHAPELCO AERO                                       
+07052026     9   2.8   59  1017.4  250   59     CHAPELCO AERO                                       
+07052026    10   3.2   57  1019.3  250   43     CHAPELCO AERO                                       
+07052026    11   4.2   52  1019.3  240   52     CHAPELCO AERO                                       
+07052026    12   5.2   55  1019.4  240   41     CHAPELCO AERO                                       
+07052026    13   6.2   51  1019.3  240   43     CHAPELCO AERO                                       
+07052026    14   6.4   46  1018.8  260   43     CHAPELCO AERO                                       
+07052026    15   6.8   50  1019.0  250   39     CHAPELCO AERO                                       
+07052026    16   7.0   50  1019.0  260   33     CHAPELCO AERO                                       
+07052026    17   6.2   57  1020.2  250   24     CHAPELCO AERO                                       
+07052026    18   5.2   60  1020.1  250   28     CHAPELCO AERO                                       
+07052026    19   4.4   67  1019.9  250   22     CHAPELCO AERO                                       
+07052026    20   4.0   70  1020.3  250   26     CHAPELCO AERO                                       
+07052026    21   4.0   73  1020.5  250   26     CHAPELCO AERO                                       
+07052026    22   3.6   78  1020.0  250   28     CHAPELCO AERO                                       
+07052026    23   3.8   78  1019.4  250   30     CHAPELCO AERO                                       
+07052026     9  14.7   37  1010.1  180    9     CHEPES                                              
+07052026    15  20.2   22          180    9     CHEPES                                              
+07052026    21  11.2   47  1011.2    0    0     CHEPES                                              
+07052026     9  15.6   35          200   11     CHILECITO AERO                                      
+07052026    21  11.4   54          360    4     CHILECITO AERO                                      
+07052026     0   8.7   90  1011.3  200   15     COMODORO RIVADAVIA AERO                             
+07052026     1   8.6   90  1011.0  200   17     COMODORO RIVADAVIA AERO                             
+07052026     2   8.5   92  1011.0  200   11     COMODORO RIVADAVIA AERO                             
+07052026     3   8.4   93  1011.0  200   15     COMODORO RIVADAVIA AERO                             
+07052026     4   8.3   93  1010.8  200   13     COMODORO RIVADAVIA AERO                             
+07052026     5   8.2   92  1010.8  200   17     COMODORO RIVADAVIA AERO                             
+07052026     6   8.1   90  1010.9  200   17     COMODORO RIVADAVIA AERO                             
+07052026     7   7.9   86  1011.4  230   19     COMODORO RIVADAVIA AERO                             
+07052026     8   7.6   87  1011.6  210   22     COMODORO RIVADAVIA AERO                             
+07052026     9   6.8   85  1012.1  220   20     COMODORO RIVADAVIA AERO                             
+07052026    10   5.7   88  1013.0  220   22     COMODORO RIVADAVIA AERO                             
+07052026    11   5.5   87  1013.1  230   26     COMODORO RIVADAVIA AERO                             
+07052026    12   5.4   86  1013.5  230   28     COMODORO RIVADAVIA AERO                             
+07052026    13   5.8   81  1013.5  200   31     COMODORO RIVADAVIA AERO                             
+07052026    14   6.5   78  1013.3  200   30     COMODORO RIVADAVIA AERO                             
+07052026    15   7.1   73  1013.3  200   24     COMODORO RIVADAVIA AERO                             
+07052026    16   8.0   65  1013.4  200   28     COMODORO RIVADAVIA AERO                             
+07052026    17   7.8   55  1013.6  200   24     COMODORO RIVADAVIA AERO                             
+07052026    18   7.8   53  1013.8  200   28     COMODORO RIVADAVIA AERO                             
+07052026    19   8.2   50  1013.8  190   26     COMODORO RIVADAVIA AERO                             
+07052026    20   8.1   52  1014.4  190   24     COMODORO RIVADAVIA AERO                             
+07052026    21   8.0   51  1014.4  180   26     COMODORO RIVADAVIA AERO                             
+07052026    22   7.3   53  1014.6  230   22     COMODORO RIVADAVIA AERO                             
+07052026    23   7.2   52  1014.3  230   28     COMODORO RIVADAVIA AERO                             
+07052026     6  26.5   87   998.1   50   15     CONCORDIA AERO                                      
+07052026     7  26.9   85   997.0   50   17     CONCORDIA AERO                                      
+07052026     8  26.6   70   998.2   20   15     CONCORDIA AERO                                      
+07052026     9  19.6   96   999.6  230   33     CONCORDIA AERO                                      
+07052026    10  19.4   96  1001.3  230   20     CONCORDIA AERO                                      
+07052026    11  19.1   97   999.4  230   24     CONCORDIA AERO                                      
+07052026    12  18.4   98  1001.9  230   17     CONCORDIA AERO                                      
+07052026    13  17.8   98  1001.8  230   26     CONCORDIA AERO                                      
+07052026    14  17.6   92  1000.7  230   24     CONCORDIA AERO                                      
+07052026    15  17.4   88  1000.6  230   35     CONCORDIA AERO                                      
+07052026    16  17.1   83  1001.6  250   20     CONCORDIA AERO                                      
+07052026    17  16.0   71  1006.9  270   15     CONCORDIA AERO                                      
+07052026    18  13.2   93  1008.3  230    6     CONCORDIA AERO                                      
+07052026    19  12.8   97  1004.5  230    7     CONCORDIA AERO                                      
+07052026    20  12.3   92  1004.8  250   11     CONCORDIA AERO                                      
+07052026    21  11.8   93  1005.5  270    9     CONCORDIA AERO                                      
+07052026     0  22.6   79  1002.1  200   15     CORDOBA AERO                                        
+07052026     1  22.1   71  1002.9  180   26     CORDOBA AERO                                        
+07052026     2  20.5   57  1004.0  180   26     CORDOBA AERO                                        
+07052026     3  19.4   50  1004.4  200   24     CORDOBA AERO                                        
+07052026     4  18.8   49  1004.7  200   22     CORDOBA AERO                                        
+07052026     5  18.0   48  1005.5  200   30     CORDOBA AERO                                        
+07052026     6  16.6   48  1005.5  180   22     CORDOBA AERO                                        
+07052026     7  15.4   56  1006.1  180   17     CORDOBA AERO                                        
+07052026     8  15.6   55  1008.7  230   15     CORDOBA AERO                                        
+07052026     9  13.2   61  1008.9  140   15     CORDOBA AERO                                        
+07052026    10  13.8   47  1010.2  180   17     CORDOBA AERO                                        
+07052026    11  13.6   48  1010.3  190   15     CORDOBA AERO                                        
+07052026    12  14.9   38  1010.4  170   15     CORDOBA AERO                                        
+07052026    13  17.5   32  1009.5  180   19     CORDOBA AERO                                        
+07052026    14  18.8   25  1008.4  180   17     CORDOBA AERO                                        
+07052026    15  20.1   20  1007.6  200   30     CORDOBA AERO                                        
+07052026    16  20.1   17  1007.7  200   19     CORDOBA AERO                                        
+07052026    17  19.3   17  1008.1  200   30     CORDOBA AERO                                        
+07052026    18  17.7   19  1009.3  230   13     CORDOBA AERO                                        
+07052026    19  14.3   28  1010.5  190   11     CORDOBA AERO                                        
+07052026    20  12.7   25  1011.2  290    9     CORDOBA AERO                                        
+07052026    21   8.2   57  1012.0  340   13     CORDOBA AERO                                        
+07052026    22   7.1   61  1012.1  320   13     CORDOBA AERO                                        
+07052026    23   6.5   62  1012.4  180    4     CORDOBA AERO                                        
+07052026     0  22.4   73  1002.0  230    7     CORDOBA OBSERVATORIO                                
+07052026     1  22.1   68  1002.8  210   20     CORDOBA OBSERVATORIO                                
+07052026     2  21.1   56  1003.2  210   17     CORDOBA OBSERVATORIO                                
+07052026     3  20.2   49  1004.0  210   19     CORDOBA OBSERVATORIO                                
+07052026     4  19.4   49  1004.6  210   17     CORDOBA OBSERVATORIO                                
+07052026     5  18.8   42  1005.2  210   20     CORDOBA OBSERVATORIO                                
+07052026     6  17.7   45  1004.4  200   13     CORDOBA OBSERVATORIO                                
+07052026     7  16.4   51  1005.6  220   22     CORDOBA OBSERVATORIO                                
+07052026     8  16.2   45  1005.8  200   17     CORDOBA OBSERVATORIO                                
+07052026     9  16.4   36  1008.8  160   13     CORDOBA OBSERVATORIO                                
+07052026    10  15.6   40  1010.2  180    9     CORDOBA OBSERVATORIO                                
+07052026    11  15.3   37  1009.9  200    9     CORDOBA OBSERVATORIO                                
+07052026    12  16.3   33  1010.3  200    9     CORDOBA OBSERVATORIO                                
+07052026    13  19.3   27  1009.4  200   11     CORDOBA OBSERVATORIO                                
+07052026    14  20.6   23  1008.3  210   17     CORDOBA OBSERVATORIO                                
+07052026    15  21.5   17  1007.3  220   24     CORDOBA OBSERVATORIO                                
+07052026    16  21.6   17  1007.4  220   24     CORDOBA OBSERVATORIO                                
+07052026    17  20.6   16  1007.9  210   20     CORDOBA OBSERVATORIO                                
+07052026    18  18.6   21  1008.7  210   13     CORDOBA OBSERVATORIO                                
+07052026    19  17.0   21  1009.7  210   11     CORDOBA OBSERVATORIO                                
+07052026    20  14.2   41  1010.7  230    6     CORDOBA OBSERVATORIO                                
+07052026    21  12.2   40  1011.1  180    4     CORDOBA OBSERVATORIO                                
+07052026    22  11.2   42  1011.4  180    2     CORDOBA OBSERVATORIO                                
+07052026    23  11.0   47  1011.7  160    4     CORDOBA OBSERVATORIO                                
+07052026     6  11.4   84  1003.5  320   15     CORONEL SUAREZ AERO                                 
+07052026     7  10.4   88  1002.8  290   24     CORONEL SUAREZ AERO                                 
+07052026     8  10.2   90  1002.1  250   22     CORONEL SUAREZ AERO                                 
+07052026     9  10.4   89  1001.9  270   24     CORONEL SUAREZ AERO                                 
+07052026    10  11.9   83  1001.4  250   20     CORONEL SUAREZ AERO                                 
+07052026    11  12.0   83  1000.9  250   24     CORONEL SUAREZ AERO                                 
+07052026    12  13.4   77  1000.8  230   24     CORONEL SUAREZ AERO                                 
+07052026    15  12.3   69  1002.0  230   19     CORONEL SUAREZ AERO                                 
+07052026    21   8.2   63  1005.0  210   22     CORONEL SUAREZ AERO                                 
+07052026     0  26.3   75  1004.5   60   17     CORRIENTES AERO                                     
+07052026     1  26.3   75  1004.1   60   20     CORRIENTES AERO                                     
+07052026     2  26.2   75  1003.8   60   15     CORRIENTES AERO                                     
+07052026     3  25.5   79  1003.1   70   13     CORRIENTES AERO                                     
+07052026     4  25.3   79  1002.3   50   19     CORRIENTES AERO                                     
+07052026     5  26.1   72  1002.0   50   22     CORRIENTES AERO                                     
+07052026     6  26.2   70  1001.1   50   28     CORRIENTES AERO                                     
+07052026     7  26.3   69  1001.8   50   26     CORRIENTES AERO                                     
+07052026     8  26.8   66  1002.8   50   19     CORRIENTES AERO                                     
+07052026     9  26.4   70  1003.1   50   20     CORRIENTES AERO                                     
+07052026    10  27.0   70  1002.5   50   22     CORRIENTES AERO                                     
+07052026    11  26.8   71  1001.9   50   24     CORRIENTES AERO                                     
+07052026    12  26.2   77  1001.8   20   19     CORRIENTES AERO                                     
+07052026    13  27.8   72  1000.9   20   24     CORRIENTES AERO                                     
+07052026    14  28.0   73   999.9  360   31     CORRIENTES AERO                                     
+07052026    15  18.4   92  1001.7  230   44     CORRIENTES AERO                                     
+07052026    16  17.6   94  1004.2  230   43     CORRIENTES AERO                                     
+07052026    17  15.8   90  1005.3  230   37     CORRIENTES AERO                                     
+07052026    18  15.0   79  1006.7  200   28     CORRIENTES AERO                                     
+07052026    19  15.8   73  1007.5  230   22     CORRIENTES AERO                                     
+07052026    20  15.7   74  1008.1  200   11     CORRIENTES AERO                                     
+07052026    21  14.3   85  1010.2  230   17     CORRIENTES AERO                                     
+07052026    22  14.3   92  1011.0  260   15     CORRIENTES AERO                                     
+07052026    23  13.5   87  1010.8  240   19     CORRIENTES AERO                                     
+07052026     9  13.6   96   999.3  250   26     DOLORES AERO                                        
+07052026    10  14.5   93   999.7  250   22     DOLORES AERO                                        
+07052026    11  15.0   91   998.3  250   22     DOLORES AERO                                        
+07052026    12  15.4   89   998.4  250   22     DOLORES AERO                                        
+07052026    13  16.1   85   998.6  250   22     DOLORES AERO                                        
+07052026    14  16.2   85   998.1  290   22     DOLORES AERO                                        
+07052026    15  16.6   83   997.9  290   22     DOLORES AERO                                        
+07052026    16  16.7   80   998.3  290   22     DOLORES AERO                                        
+07052026    17  15.9   84   996.9  290   26     DOLORES AERO                                        
+07052026    18  14.9   87   996.7  290   22     DOLORES AERO                                        
+07052026    19  13.8   89   997.8  290   19     DOLORES AERO                                        
+07052026    20  13.8   90   998.2  290   19     DOLORES AERO                                        
+07052026    21  13.2   94   997.8  290   19     DOLORES AERO                                        
+07052026     9    .5   98  1021.6    0    0     EL BOLSON AERO                                      
+07052026    12   5.7   76  1022.3    0    0     EL BOLSON AERO                                      
+07052026    15   9.4   45  1021.6    0    0     EL BOLSON AERO                                      
+07052026    18   8.2   50  1021.3    0    0     EL BOLSON AERO                                      
+07052026    21   4.9   77  1022.3    0    0     EL BOLSON AERO                                      
+07052026     0   1.0   89  1018.3  230    7     EL CALAFATE AERO                                    
+07052026     1    .8   85  1018.4  230    9     EL CALAFATE AERO                                    
+07052026     2    .0   92  1018.6  200    7     EL CALAFATE AERO                                    
+07052026     3  -1.0   96  1018.6  230    9     EL CALAFATE AERO                                    
+07052026     4  -2.8   91  1018.4  110    9     EL CALAFATE AERO                                    
+07052026     5  -3.8   90  1018.2  140    9     EL CALAFATE AERO                                    
+07052026     6  -4.2   95  1018.7  140    6     EL CALAFATE AERO                                    
+07052026     7  -4.2   95  1019.4  110   11     EL CALAFATE AERO                                    
+07052026     8  -4.8  100  1019.6  110   11     EL CALAFATE AERO                                    
+07052026     9  -5.8  100  1020.4  130    7     EL CALAFATE AERO                                    
+07052026    10  -3.6  100  1020.7  130    7     EL CALAFATE AERO                                    
+07052026    11   2.2   62  1020.4   90    7     EL CALAFATE AERO                                    
+07052026    12   4.2   37  1019.8  990    6     EL CALAFATE AERO                                    
+07052026    13   5.4   55  1019.2  340    7     EL CALAFATE AERO                                    
+07052026    14   6.2   48  1019.3  990    6     EL CALAFATE AERO                                    
+07052026    15   7.2   56  1019.2  300   11     EL CALAFATE AERO                                    
+07052026    16   8.0   52  1019.3  270   17     EL CALAFATE AERO                                    
+07052026    17   7.6   56  1020.0  290    7     EL CALAFATE AERO                                    
+07052026    18   5.6   61  1020.9  110   11     EL CALAFATE AERO                                    
+07052026    19   3.4   70  1021.8   90    6     EL CALAFATE AERO                                    
+07052026    20    .4   81  1022.4  110    7     EL CALAFATE AERO                                    
+07052026    21   -.2   80  1023.3  230    6     EL CALAFATE AERO                                    
+07052026    22   -.4   80  1023.9  990    6     EL CALAFATE AERO                                    
+07052026    23  -1.0   83  1024.2  990    4     EL CALAFATE AERO                                    
+07052026     0  25.2   76   998.4  360   13     EL PALOMAR AERO                                     
+07052026     1  21.1   88   999.6  190   24     EL PALOMAR AERO                                     
+07052026     2  18.2   98   999.9  190   13     EL PALOMAR AERO                                     
+07052026     3  18.1   96  1002.0   70    7     EL PALOMAR AERO                                     
+07052026     4  17.8   93   999.6   80    7     EL PALOMAR AERO                                     
+07052026     5  17.8   90   998.9  180    7     EL PALOMAR AERO                                     
+07052026     6  17.0   94   999.3  240   17     EL PALOMAR AERO                                     
+07052026     7  16.4   94   998.9  230   13     EL PALOMAR AERO                                     
+07052026     8  16.1   90   999.8  250   19     EL PALOMAR AERO                                     
+07052026     9  15.6   89  1000.5  250   22     EL PALOMAR AERO                                     
+07052026    10  16.3   86  1003.3  290   13     EL PALOMAR AERO                                     
+07052026    11  16.0   87  1001.4  230   11     EL PALOMAR AERO                                     
+07052026    12  15.4   83  1002.0  250   19     EL PALOMAR AERO                                     
+07052026    13  15.2   78  1001.1  250   19     EL PALOMAR AERO                                     
+07052026    14  14.4   74  1001.7  250   13     EL PALOMAR AERO                                     
+07052026    15  14.6   74  1002.6  270   15     EL PALOMAR AERO                                     
+07052026    16  14.8   69  1000.9  260   17     EL PALOMAR AERO                                     
+07052026    17  14.6   68   999.7  260   17     EL PALOMAR AERO                                     
+07052026    18  13.6   76  1001.4  260   15     EL PALOMAR AERO                                     
+07052026    19  13.4   73  1001.3  260   20     EL PALOMAR AERO                                     
+07052026    20  12.6   81  1001.8  270   22     EL PALOMAR AERO                                     
+07052026    21  12.2   77  1001.3  270   22     EL PALOMAR AERO                                     
+07052026    22  11.1   94  1001.6  270   24     EL PALOMAR AERO                                     
+07052026    23  10.5   95  1001.1  260   31     EL PALOMAR AERO                                     
+07052026     7  16.0   45  1006.5  180   26     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+07052026     8  15.5   43  1007.7  180   24     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+07052026     9  16.0   34  1009.2  160   30     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+07052026    10  15.0   34  1010.9  160   33     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+07052026    11  14.7   34  1011.2  180   24     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+07052026    12  15.8   34  1011.3  160   22     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+07052026    13  17.7   29  1010.4  160   22     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+07052026    14  19.3   25  1009.3  180   26     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+07052026    15  20.1   18  1008.3  180   41     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+07052026    16  20.4   17  1008.1  180   41     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+07052026    17  19.2   19  1008.6  180   37     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+07052026    18  17.0   29  1009.8  180   15     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+07052026    19  13.8   30  1011.0  180   19     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+07052026    20  10.2   46  1011.7  230   11     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+07052026    21   7.8   59  1012.2  270    4     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+07052026     0   4.1   77  1015.2  250    9     ESQUEL AERO                                         
+07052026     1   3.8   78  1014.8  230   19     ESQUEL AERO                                         
+07052026     2   3.4   78  1014.6  230   24     ESQUEL AERO                                         
+07052026     3   3.4   75  1015.1  230   15     ESQUEL AERO                                         
+07052026     4   3.6   72  1015.1  230   17     ESQUEL AERO                                         
+07052026     5   3.0   75  1015.2  180   19     ESQUEL AERO                                         
+07052026     6   3.6   66  1016.0  230   17     ESQUEL AERO                                         
+07052026     7   3.6   63  1016.8  230   19     ESQUEL AERO                                         
+07052026     8   2.9   68  1017.5  230   24     ESQUEL AERO                                         
+07052026     9   2.4   52  1018.7  230   22     ESQUEL AERO                                         
+07052026    10   2.7   46  1019.1  230   28     ESQUEL AERO                                         
+07052026    11   3.3   48  1019.6  230   22     ESQUEL AERO                                         
+07052026    12   4.4   40  1019.5  220   31     ESQUEL AERO                                         
+07052026    13   5.2   37  1019.3  230   26     ESQUEL AERO                                         
+07052026    14   5.3   39  1019.1  220   26     ESQUEL AERO                                         
+07052026    15   5.7   35  1018.6  230   31     ESQUEL AERO                                         
+07052026    16   5.9   38  1018.5  230   26     ESQUEL AERO                                         
+07052026    17   5.4   44  1018.6  240   20     ESQUEL AERO                                         
+07052026    18   4.3   49  1018.5  240   19     ESQUEL AERO                                         
+07052026    19   3.1   53  1019.0  230   17     ESQUEL AERO                                         
+07052026    20   3.5   69  1019.1  240   20     ESQUEL AERO                                         
+07052026    21   3.5   58  1020.1  230   20     ESQUEL AERO                                         
+07052026    22   3.1   59  1020.0  230   15     ESQUEL AERO                                         
+07052026    23   3.1   62  1019.5  240   13     ESQUEL AERO                                         
+07052026     0  23.6   73  1000.4  230   19     EZEIZA AERO                                         
+07052026     1  17.9   93  1000.3  180   19     EZEIZA AERO                                         
+07052026     2  17.1   98  1000.8  200    9     EZEIZA AERO                                         
+07052026     3  17.5   94  1002.7  340   13     EZEIZA AERO                                         
+07052026     4  17.4   96  1000.1   70   20     EZEIZA AERO                                         
+07052026     5  17.4   95   999.0  990    6     EZEIZA AERO                                         
+07052026     6  16.6   95   999.5  250   11     EZEIZA AERO                                         
+07052026     7  16.3   95   999.2  250    9     EZEIZA AERO                                         
+07052026     8  15.8   94  1000.3  320   11     EZEIZA AERO                                         
+07052026     9  14.8   94   999.8  230   19     EZEIZA AERO                                         
+07052026    10  15.0   93  1001.3  250   13     EZEIZA AERO                                         
+07052026    11  15.8   91  1001.3  270   13     EZEIZA AERO                                         
+07052026    12  15.8   79  1001.9  250   22     EZEIZA AERO                                         
+07052026    13  14.8   83  1001.0  250   15     EZEIZA AERO                                         
+07052026    14  13.7   79  1002.1  270   22     EZEIZA AERO                                         
+07052026    15  14.5   75  1001.8  270   24     EZEIZA AERO                                         
+07052026    16  14.6   74  1000.8  270   22     EZEIZA AERO                                         
+07052026    17  14.0   72   999.3  270   17     EZEIZA AERO                                         
+07052026    18  13.6   73   999.0  270   19     EZEIZA AERO                                         
+07052026    19  13.0   82  1000.6  270   26     EZEIZA AERO                                         
+07052026    20  11.8   93  1001.5  270   24     EZEIZA AERO                                         
+07052026    21  11.8   97  1001.1  270   22     EZEIZA AERO                                         
+07052026    22  11.2   91  1001.2  270   22     EZEIZA AERO                                         
+07052026    23  10.6   96  1000.6  260   22     EZEIZA AERO                                         
+07052026     0  27.4   68  1005.7   50   15     FORMOSA AERO                                        
+07052026     1  26.6   70  1005.3   20   15     FORMOSA AERO                                        
+07052026     2  26.2   71  1005.1   20   15     FORMOSA AERO                                        
+07052026     3  25.8   71  1004.5   50   19     FORMOSA AERO                                        
+07052026     4  25.4   70  1003.8   50   19     FORMOSA AERO                                        
+07052026     5  25.7   68  1003.4   20   20     FORMOSA AERO                                        
+07052026     6  26.1   68  1003.3   20   20     FORMOSA AERO                                        
+07052026     7  26.2   67  1003.1   20   20     FORMOSA AERO                                        
+07052026     8  26.1   67  1003.3   20   22     FORMOSA AERO                                        
+07052026     9  26.2   68  1003.4   50   26     FORMOSA AERO                                        
+07052026    10  29.7   51  1004.2  360   17     FORMOSA AERO                                        
+07052026    11  27.4   65  1003.9   20   19     FORMOSA AERO                                        
+07052026    12  28.1   63  1002.6   20   28     FORMOSA AERO                                        
+07052026    13  28.8   61  1001.3  360   28     FORMOSA AERO                                        
+07052026    14  28.7   61  1001.2  360   20     FORMOSA AERO                                        
+07052026    15  29.1   61  1000.2  360   20     FORMOSA AERO                                        
+07052026    16  28.5   65  1000.1  360   20     FORMOSA AERO                                        
+07052026    17  26.9   76  1000.8  230   37     FORMOSA AERO                                        
+07052026    18  16.4   98  1004.0  200   52     FORMOSA AERO                                        
+07052026    19  15.4   93  1006.4  200   35     FORMOSA AERO                                        
+07052026    20  15.8   79  1008.7  200   35     FORMOSA AERO                                        
+07052026    21  16.1   76  1009.5  200   26     FORMOSA AERO                                        
+07052026    22  16.0   79  1010.3  140    7     FORMOSA AERO                                        
+07052026    23  16.2   81  1009.9  250    4     FORMOSA AERO                                        
+07052026     5  12.9   59  1006.7  250   22     GENERAL PICO AERO                                   
+07052026     6  12.1   58  1007.2  250   24     GENERAL PICO AERO                                   
+07052026     7  11.2   56  1007.3  250   22     GENERAL PICO AERO                                   
+07052026     8  10.4   58  1007.1  250   26     GENERAL PICO AERO                                   
+07052026     9  10.4   58  1008.0  250   24     GENERAL PICO AERO                                   
+07052026    10  12.6   49  1007.1  250   39     GENERAL PICO AERO                                   
+07052026    11  13.8   47  1007.4  230   44     GENERAL PICO AERO                                   
+07052026    12  13.9   46  1007.8  230   37     GENERAL PICO AERO                                   
+07052026    13  15.5   36  1007.1  230   43     GENERAL PICO AERO                                   
+07052026    14  15.5   36  1006.8  200   41     GENERAL PICO AERO                                   
+07052026    15  15.8   34  1007.2  230   39     GENERAL PICO AERO                                   
+07052026    16  15.8   34  1007.2  230   35     GENERAL PICO AERO                                   
+07052026    17  14.5   40  1007.7  230   33     GENERAL PICO AERO                                   
+07052026    18  14.1   39  1008.0  230   24     GENERAL PICO AERO                                   
+07052026    19  12.5   54  1008.5  230   24     GENERAL PICO AERO                                   
+07052026    20   9.9   42  1008.8  230   13     GENERAL PICO AERO                                   
+07052026    21   7.7   60  1009.5  250   13     GENERAL PICO AERO                                   
+07052026     9    .4   85  1017.6  270    9     GOBERNADOR GREGORES AERO                            
+07052026    15   6.5   41          270   28     GOBERNADOR GREGORES AERO                            
+07052026    21   1.0   78  1020.0   90    9     GOBERNADOR GREGORES AERO                            
+07052026     6  17.6   98   999.5  360    6     GUALEGUAYCHU AERO                                   
+07052026     7  17.6  100   999.4  200   13     GUALEGUAYCHU AERO                                   
+07052026     8  17.6   98  1001.0  180   15     GUALEGUAYCHU AERO                                   
+07052026     9  17.0   98  1002.1  180   22     GUALEGUAYCHU AERO                                   
+07052026    10  16.8   96  1003.2  180   15     GUALEGUAYCHU AERO                                   
+07052026    11  16.6   90  1001.5  180   15     GUALEGUAYCHU AERO                                   
+07052026    12  16.8   92  1001.8  180   11     GUALEGUAYCHU AERO                                   
+07052026    13  17.0   82  1003.1  230   22     GUALEGUAYCHU AERO                                   
+07052026    14  15.4   77  1004.4  230   20     GUALEGUAYCHU AERO                                   
+07052026    15  14.8   77  1003.2  230   24     GUALEGUAYCHU AERO                                   
+07052026    16  14.2   73  1001.1  230   20     GUALEGUAYCHU AERO                                   
+07052026    17  13.5   74  1003.0  230   26     GUALEGUAYCHU AERO                                   
+07052026    18  13.2   77  1002.9  230   20     GUALEGUAYCHU AERO                                   
+07052026    19  13.4   77  1004.5  230   17     GUALEGUAYCHU AERO                                   
+07052026    20  13.3   76  1004.0  230   17     GUALEGUAYCHU AERO                                   
+07052026    21  13.5   77  1004.0  250   24     GUALEGUAYCHU AERO                                   
+07052026     0  22.0   91  1011.4   90    7     IGUAZU AERO                                         
+07052026     1  22.0   91  1010.9   90    7     IGUAZU AERO                                         
+07052026     2  21.8   92  1010.2   90    9     IGUAZU AERO                                         
+07052026     3  21.6   92  1009.5  110    7     IGUAZU AERO                                         
+07052026     4  21.5   93  1009.2  110    7     IGUAZU AERO                                         
+07052026     5  21.3   93  1009.0  110    6     IGUAZU AERO                                         
+07052026     6  20.8   86  1008.7  140    7     IGUAZU AERO                                         
+07052026     7  20.3   88  1008.7  110    7     IGUAZU AERO                                         
+07052026     8  20.5   89  1009.3   90    7     IGUAZU AERO                                         
+07052026     9  21.9   83  1009.7   70    9     IGUAZU AERO                                         
+07052026    10  24.0   79  1009.4   90    9     IGUAZU AERO                                         
+07052026    11  27.2   64  1008.5   50   17     IGUAZU AERO                                         
+07052026    12  28.8   58  1007.8   50   15     IGUAZU AERO                                         
+07052026    13  29.0   58  1006.7   20   22     IGUAZU AERO                                         
+07052026    14  28.0   63  1005.6   50   20     IGUAZU AERO                                         
+07052026    15  28.3   62  1004.9   50   15     IGUAZU AERO                                         
+07052026    16  28.0   64  1004.2   70   13     IGUAZU AERO                                         
+07052026    17  27.5   66  1003.8   70   11     IGUAZU AERO                                         
+07052026    18  25.7   71  1003.4   70    9     IGUAZU AERO                                         
+07052026    19  24.8   70  1003.5   50    9     IGUAZU AERO                                         
+07052026    20  24.5   72  1004.0   50    7     IGUAZU AERO                                         
+07052026    21  24.0   71  1003.6   50   13     IGUAZU AERO                                         
+07052026    22  24.5   68  1003.4   70   11     IGUAZU AERO                                         
+07052026    23  24.7   69  1003.1   50    9     IGUAZU AERO                                         
+07052026     9  25.0   74  1004.5  320   22     ITUZAINGO                                           
+07052026    12  27.4   62  1001.8  320   19     ITUZAINGO                                           
+07052026    15  27.8   64   998.7  320   19     ITUZAINGO                                           
+07052026    18  19.0   95  1002.3  180   30     ITUZAINGO                                           
+07052026    21  14.8   91  1007.4  140   22     ITUZAINGO                                           
+07052026     9   8.7   62          270    4     JACHAL                                              
+07052026    15  17.8   33          140    9     JACHAL                                              
+07052026    21  10.1   49          230    4     JACHAL                                              
+07052026     0  17.9   95          300   11     JUJUY AERO                                          
+07052026     1  15.6   98          310   11     JUJUY AERO                                          
+07052026     2  15.2   94          290    9     JUJUY AERO                                          
+07052026     3  14.2   97          310   11     JUJUY AERO                                          
+07052026     4  14.5   93          300   13     JUJUY AERO                                          
+07052026     5  14.3   93          300   13     JUJUY AERO                                          
+07052026     6  13.2   96          340    9     JUJUY AERO                                          
+07052026     7  12.0   96          280    7     JUJUY AERO                                          
+07052026     8  11.5   96          270    6     JUJUY AERO                                          
+07052026     9  14.1   84          320    9     JUJUY AERO                                          
+07052026    10  19.5   78          990    4     JUJUY AERO                                          
+07052026    11  22.0   71          160    6     JUJUY AERO                                          
+07052026    12  24.9   60          170   15     JUJUY AERO                                          
+07052026    13  27.0   45          190   33     JUJUY AERO                                          
+07052026    14  25.0   55          180   41     JUJUY AERO                                          
+07052026    15  19.5   65          180   37     JUJUY AERO                                          
+07052026    16  17.8   63          180   31     JUJUY AERO                                          
+07052026    17  16.3   64          190   30     JUJUY AERO                                          
+07052026    18  15.4   53          200   39     JUJUY AERO                                          
+07052026    19  14.5   55          200   26     JUJUY AERO                                          
+07052026    20  14.6   58          230   15     JUJUY AERO                                          
+07052026    21  14.4   61          230   13     JUJUY AERO                                          
+07052026    22  14.4   60          270    9     JUJUY AERO                                          
+07052026    23  13.6   65          310    9     JUJUY AERO                                          
+07052026     6  16.4   51          320   15     JUJUY U N                                           
+07052026     7  20.2   26          320   33     JUJUY U N                                           
+07052026     8  23.4   17          320   33     JUJUY U N                                           
+07052026     9  20.8   30          320   24     JUJUY U N                                           
+07052026    10  28.6   14          320   33     JUJUY U N                                           
+07052026    11  26.0   46           50    4     JUJUY U N                                           
+07052026    12  28.6   44          320    9     JUJUY U N                                           
+07052026    13  26.4   53          140    9     JUJUY U N                                           
+07052026    14  25.6   50          140    9     JUJUY U N                                           
+07052026    15  24.8   59          140    9     JUJUY U N                                           
+07052026    16  18.4   70          140    9     JUJUY U N                                           
+07052026    17  16.1   71          140    9     JUJUY U N                                           
+07052026    18  14.4   76          140    9     JUJUY U N                                           
+07052026    19  13.4   69           90   15     JUJUY U N                                           
+07052026    20  12.6   69          140    9     JUJUY U N                                           
+07052026    21  12.6   74           90    4     JUJUY U N                                           
+07052026    22  12.2   78          270    9     JUJUY U N                                           
+07052026     0  20.2   73  1002.0  200   19     JUNIN AERO                                          
+07052026     1  19.4   78  1001.9  230   11     JUNIN AERO                                          
+07052026     2  18.6   82  1002.9  200    4     JUNIN AERO                                          
+07052026     3  17.4   88  1003.0  160    7     JUNIN AERO                                          
+07052026     4  16.8   86  1003.5  230   19     JUNIN AERO                                          
+07052026     5  16.3   86  1004.4  250   24     JUNIN AERO                                          
+07052026     6  16.2   87  1004.5  230   20     JUNIN AERO                                          
+07052026     7  15.6   69  1004.1  250   20     JUNIN AERO                                          
+07052026     8  13.9   67  1003.1  230   31     JUNIN AERO                                          
+07052026     9  13.9   60  1002.4  230   30     JUNIN AERO                                          
+07052026    10  13.6   57  1003.8  230   24     JUNIN AERO                                          
+07052026    11  13.6   55  1004.4  250   22     JUNIN AERO                                          
+07052026    12  14.0   53  1004.6  270   24     JUNIN AERO                                          
+07052026    13  14.5   55  1005.2  230   20     JUNIN AERO                                          
+07052026    14  13.8   61  1004.5  230   24     JUNIN AERO                                          
+07052026    15  13.8   64  1005.0  230   26     JUNIN AERO                                          
+07052026    16  13.5   67  1003.5  230   31     JUNIN AERO                                          
+07052026    17  13.0   65  1003.8  230   28     JUNIN AERO                                          
+07052026    18  12.9   64  1004.7  230   22     JUNIN AERO                                          
+07052026    19  12.4   64  1004.5  230   30     JUNIN AERO                                          
+07052026    20  11.6   67  1005.8  230   28     JUNIN AERO                                          
+07052026    21  11.0   69  1006.7  230   28     JUNIN AERO                                          
+07052026    22  10.8   71  1006.5  230   20     JUNIN AERO                                          
+07052026    23  10.8   69  1006.4  230   17     JUNIN AERO                                          
+07052026     0  24.4   80  1000.7  290   15     LA PLATA AERO                                       
+07052026     1  18.7   94  1002.6  290   11     LA PLATA AERO                                       
+07052026     2  17.6   99  1001.5   20    7     LA PLATA AERO                                       
+07052026     3  17.3  100  1001.0  290    9     LA PLATA AERO                                       
+07052026     4  16.9  100  1003.4   70    6     LA PLATA AERO                                       
+07052026     5  16.8  100   999.7   70   15     LA PLATA AERO                                       
+07052026     6  16.1   98   998.4    0    0     LA PLATA AERO                                       
+07052026     7  15.8   99   999.3  230    4     LA PLATA AERO                                       
+07052026     8  15.6   97  1000.0  230   11     LA PLATA AERO                                       
+07052026     9  15.4   93  1001.4  270    7     LA PLATA AERO                                       
+07052026    10  14.9   91  1002.1  270    7     LA PLATA AERO                                       
+07052026    11  15.3   89  1002.0  270    7     LA PLATA AERO                                       
+07052026    12  15.4   93  1001.8  270    4     LA PLATA AERO                                       
+07052026    13  15.4   91  1000.3  290    9     LA PLATA AERO                                       
+07052026    14  14.8   83  1001.6  270   15     LA PLATA AERO                                       
+07052026    15  15.2   84  1000.4  270   15     LA PLATA AERO                                       
+07052026    16  14.6   79  1000.4  290   19     LA PLATA AERO                                       
+07052026    17  14.6   77   998.8  270   15     LA PLATA AERO                                       
+07052026    18  13.7   75   999.8  250   19     LA PLATA AERO                                       
+07052026    19  13.4   77  1000.4  270   13     LA PLATA AERO                                       
+07052026    20  13.0   83  1001.1  270   19     LA PLATA AERO                                       
+07052026    21  12.2   92  1000.6  270   15     LA PLATA AERO                                       
+07052026    22  12.0   88  1000.4  290   13     LA PLATA AERO                                       
+07052026    23  11.1   94  1000.1  320   15     LA PLATA AERO                                       
+07052026     6   5.0   67          230    4     LA QUIACA OBSERVATORIO                              
+07052026     7   4.7   69          230    4     LA QUIACA OBSERVATORIO                              
+07052026     8   5.3   71          230    4     LA QUIACA OBSERVATORIO                              
+07052026     9   6.1   69          230    4     LA QUIACA OBSERVATORIO                              
+07052026    10   9.3   64          230    4     LA QUIACA OBSERVATORIO                              
+07052026    11  12.5   55          180    9     LA QUIACA OBSERVATORIO                              
+07052026    12  17.0   45          270   15     LA QUIACA OBSERVATORIO                              
+07052026    13  18.8   34          270   15     LA QUIACA OBSERVATORIO                              
+07052026    14  19.9   25          270   24     LA QUIACA OBSERVATORIO                              
+07052026    15  21.5   22          270   33     LA QUIACA OBSERVATORIO                              
+07052026    16  21.1   20          270   24     LA QUIACA OBSERVATORIO                              
+07052026    17  21.2   16          270   24     LA QUIACA OBSERVATORIO                              
+07052026    18  20.0   13          270   15     LA QUIACA OBSERVATORIO                              
+07052026    19  17.4   13          270   15     LA QUIACA OBSERVATORIO                              
+07052026    20  15.0   15          270    9     LA QUIACA OBSERVATORIO                              
+07052026    21  12.4   18          270    9     LA QUIACA OBSERVATORIO                              
+07052026     0  19.3   74  1003.3  320    9     LA RIOJA AERO                                       
+07052026     1  18.9   78  1003.1  270    7     LA RIOJA AERO                                       
+07052026     2  18.4   80  1002.6  270    7     LA RIOJA AERO                                       
+07052026     3  18.0   81  1002.3  270    6     LA RIOJA AERO                                       
+07052026     4  17.4   83  1002.5  230   11     LA RIOJA AERO                                       
+07052026     5  16.9   85  1003.3  230   22     LA RIOJA AERO                                       
+07052026     6  20.2   79  1004.5  180   20     LA RIOJA AERO                                       
+07052026     7  20.2   69  1006.2  230   20     LA RIOJA AERO                                       
+07052026     8  18.4   45  1008.5  180    4     LA RIOJA AERO                                       
+07052026     9  15.6   65  1011.0  140   11     LA RIOJA AERO                                       
+07052026    10  16.0   66  1012.3  360   11     LA RIOJA AERO                                       
+07052026    11  18.3   51  1012.8   50    7     LA RIOJA AERO                                       
+07052026    12  20.7   31  1012.9  230   13     LA RIOJA AERO                                       
+07052026    13  21.4   26  1012.0   50    9     LA RIOJA AERO                                       
+07052026    14  22.2    8  1011.3  230   19     LA RIOJA AERO                                       
+07052026    15  22.3   14  1010.8  180   17     LA RIOJA AERO                                       
+07052026    16  22.9   18  1010.5  180   11     LA RIOJA AERO                                       
+07052026    17  23.1   18  1010.7  230    7     LA RIOJA AERO                                       
+07052026    18  22.6   17  1010.5  320   11     LA RIOJA AERO                                       
+07052026    19  18.6   35  1010.7  290    9     LA RIOJA AERO                                       
+07052026    20  13.3   50  1012.0  270    9     LA RIOJA AERO                                       
+07052026    21  13.2   41  1012.4  270    9     LA RIOJA AERO                                       
+07052026    22  12.2   43  1012.9  270    9     LA RIOJA AERO                                       
+07052026    23  11.4   44  1012.6  250   11     LA RIOJA AERO                                       
+07052026     6  16.1   34  1006.4  230   33     LABOULAYE AERO                                      
+07052026     7  15.1   37  1007.1  230   44     LABOULAYE AERO                                      
+07052026     8  14.1   39  1007.6  230   24     LABOULAYE AERO                                      
+07052026     9  13.5   40  1007.6  230   33     LABOULAYE AERO                                      
+07052026    10  13.5   38  1008.2  230   33     LABOULAYE AERO                                      
+07052026    11  14.7   33  1007.9  230   44     LABOULAYE AERO                                      
+07052026    12  15.7   30  1008.4  230   56     LABOULAYE AERO                                      
+07052026    13  16.9   27  1008.0  230   44     LABOULAYE AERO                                      
+07052026    14  17.3   25  1007.7  230   44     LABOULAYE AERO                                      
+07052026    15  17.7   23  1007.3  230   44     LABOULAYE AERO                                      
+07052026    16  17.9   19  1006.9  230   44     LABOULAYE AERO                                      
+07052026    17  17.7   18  1007.3  230   33     LABOULAYE AERO                                      
+07052026    18  16.3   23  1007.9  230   33     LABOULAYE AERO                                      
+07052026    19  14.1   28  1008.4  230   15     LABOULAYE AERO                                      
+07052026    20  12.7   32  1008.8  230   15     LABOULAYE AERO                                      
+07052026    21  11.1   39  1009.1  230    9     LABOULAYE AERO                                      
+07052026     6  13.0   99   999.7  270    7     LAS FLORES                                          
+07052026     9  13.4   97   999.0  230   19     LAS FLORES                                          
+07052026    12  13.6   92   999.8  230   15     LAS FLORES                                          
+07052026    15  14.9   82   999.8  180   22     LAS FLORES                                          
+07052026    18  13.4   88   997.5  230   15     LAS FLORES                                          
+07052026    21  12.4   97   999.1  230   31     LAS FLORES                                          
+07052026     9  26.6   77  1001.3  360   15     LAS LOMITAS                                         
+07052026    12  31.0   59  1001.0  360   19     LAS LOMITAS                                         
+07052026    15  28.4   76  1001.3  270    4     LAS LOMITAS                                         
+07052026    18  16.6   70  1007.7  180   37     LAS LOMITAS                                         
+07052026    21  16.2   68  1011.6  180   26     LAS LOMITAS                                         
+07052026     6   7.0   30          250   30     MALARGUE AERO                                       
+07052026     7   6.4   31          270   22     MALARGUE AERO                                       
+07052026     8   6.0   35          250   22     MALARGUE AERO                                       
+07052026     9   6.6   34          270   31     MALARGUE AERO                                       
+07052026    10   7.3   31          250   26     MALARGUE AERO                                       
+07052026    11   8.0   27          250   22     MALARGUE AERO                                       
+07052026    12   8.2   27          250   28     MALARGUE AERO                                       
+07052026    13  10.0   23          240   28     MALARGUE AERO                                       
+07052026    14  11.4   16          270   26     MALARGUE AERO                                       
+07052026    15  11.6   10          270   24     MALARGUE AERO                                       
+07052026    16  11.0    8          270   30     MALARGUE AERO                                       
+07052026    17  11.0   11          270   28     MALARGUE AERO                                       
+07052026    18  10.9   14          270   28     MALARGUE AERO                                       
+07052026    19  10.8   11          270   31     MALARGUE AERO                                       
+07052026    20  10.4   11          270   33     MALARGUE AERO                                       
+07052026    21  10.7   13          270   33     MALARGUE AERO                                       
+07052026     0   6.0   91          270    9     MAQUINCHAO                                          
+07052026     3   4.6   85          230    9     MAQUINCHAO                                          
+07052026     6   1.8   87          270   15     MAQUINCHAO                                          
+07052026     7   1.8   85          270    9     MAQUINCHAO                                          
+07052026     8   1.0   84          270   15     MAQUINCHAO                                          
+07052026     9   1.1   82          270   15     MAQUINCHAO                                          
+07052026    10   3.1   79          270   15     MAQUINCHAO                                          
+07052026    11   4.0   77          270   24     MAQUINCHAO                                          
+07052026    12   4.2   70          270   33     MAQUINCHAO                                          
+07052026    13   4.6   67          230   33     MAQUINCHAO                                          
+07052026    14   4.2   61          230   33     MAQUINCHAO                                          
+07052026    15   4.4   53          230   56     MAQUINCHAO                                          
+07052026    16   4.4   47          230   56     MAQUINCHAO                                          
+07052026    17   4.6   51          230   44     MAQUINCHAO                                          
+07052026    18   4.2   52          230   33     MAQUINCHAO                                          
+07052026    19   3.2   66          230   33     MAQUINCHAO                                          
+07052026    20   2.2   59          230   33     MAQUINCHAO                                          
+07052026    21   1.2   59          230    9     MAQUINCHAO                                          
+07052026     0  16.3  100   994.9  110   33     MAR DEL PLATA AERO                                  
+07052026     1  16.6   99   995.2   90   15     MAR DEL PLATA AERO                                  
+07052026     2  16.5   99   996.1  140    9     MAR DEL PLATA AERO                                  
+07052026     3  16.7  100   996.5  110    9     MAR DEL PLATA AERO                                  
+07052026     4  16.4  100   996.4    0    0     MAR DEL PLATA AERO                                  
+07052026     5  16.2  100   995.8   70    6     MAR DEL PLATA AERO                                  
+07052026     6  16.0  100   997.5  250   11     MAR DEL PLATA AERO                                  
+07052026     7  14.9   99   996.5  230   17     MAR DEL PLATA AERO                                  
+07052026     8  15.6   99   995.9  230   13     MAR DEL PLATA AERO                                  
+07052026     9  15.3   99   996.3  180   11     MAR DEL PLATA AERO                                  
+07052026    10  14.9   99   997.3  230   15     MAR DEL PLATA AERO                                  
+07052026    11  14.9   99   997.0  200    9     MAR DEL PLATA AERO                                  
+07052026    12  14.8  100   996.1  230   13     MAR DEL PLATA AERO                                  
+07052026    13  15.3  100   997.4  250   11     MAR DEL PLATA AERO                                  
+07052026    14  15.1  100   996.6  230   13     MAR DEL PLATA AERO                                  
+07052026    15  16.2   87   997.0  250   17     MAR DEL PLATA AERO                                  
+07052026    16  15.9   89   997.1  250   13     MAR DEL PLATA AERO                                  
+07052026    17  15.3   87   997.0  250   17     MAR DEL PLATA AERO                                  
+07052026    18  14.3   91   995.4  230   15     MAR DEL PLATA AERO                                  
+07052026    19  14.1   90   995.8  230   15     MAR DEL PLATA AERO                                  
+07052026    20  14.0   92   996.3  250    9     MAR DEL PLATA AERO                                  
+07052026    21  13.8   96   996.8  270    7     MAR DEL PLATA AERO                                  
+07052026    22  13.6  100   996.8  270    7     MAR DEL PLATA AERO                                  
+07052026    23  13.6  100   995.7  250    9     MAR DEL PLATA AERO                                  
+07052026     9  13.0   75  1005.8  230   44     MARCOS JUAREZ AERO                                  
+07052026    10  13.2   65  1007.9  230   22     MARCOS JUAREZ AERO                                  
+07052026    11  13.4   63  1008.9  230   28     MARCOS JUAREZ AERO                                  
+07052026    12  14.0   57  1009.1  230   22     MARCOS JUAREZ AERO                                  
+07052026    13  14.2   54  1008.4  250   33     MARCOS JUAREZ AERO                                  
+07052026    14  15.8   43  1008.0  230   37     MARCOS JUAREZ AERO                                  
+07052026    15  16.0   42  1006.6  230   48     MARCOS JUAREZ AERO                                  
+07052026    16  18.0   37  1005.8  230   37     MARCOS JUAREZ AERO                                  
+07052026    17  18.8   34  1007.4  230   52     MARCOS JUAREZ AERO                                  
+07052026    18  15.4   44  1006.8  230   37     MARCOS JUAREZ AERO                                  
+07052026    19  14.0   42  1008.3  230   30     MARCOS JUAREZ AERO                                  
+07052026    20  11.4   51  1009.4  250   11     MARCOS JUAREZ AERO                                  
+07052026    21   8.4   68  1009.6  230    9     MARCOS JUAREZ AERO                                  
+07052026     8  16.0   91  1000.8  270    7     MARIANO MORENO AERO                                 
+07052026     9  15.4   89  1001.2  230   19     MARIANO MORENO AERO                                 
+07052026    10  15.4   89  1003.0  250   15     MARIANO MORENO AERO                                 
+07052026    11  16.0   85  1001.1  230   11     MARIANO MORENO AERO                                 
+07052026    12  14.6   79  1001.8  250   22     MARIANO MORENO AERO                                 
+07052026    13  14.6   79  1001.3  230   19     MARIANO MORENO AERO                                 
+07052026    14  14.2   76  1001.8  230   13     MARIANO MORENO AERO                                 
+07052026    15  14.4   74  1002.6  270   20     MARIANO MORENO AERO                                 
+07052026    16  14.6   72  1001.4  250   19     MARIANO MORENO AERO                                 
+07052026    17  14.4   68   999.7  250   20     MARIANO MORENO AERO                                 
+07052026    18  13.4   75  1001.5  270   19     MARIANO MORENO AERO                                 
+07052026    19  12.6   84  1001.5  270   20     MARIANO MORENO AERO                                 
+07052026    20  12.4   84  1002.2  250   24     MARIANO MORENO AERO                                 
+07052026    21  12.0   81  1001.6  250   28     MARIANO MORENO AERO                                 
+07052026     0  15.6   38  1006.7   50    9     MENDOZA AERO                                        
+07052026     1  14.8   43  1007.2  290    6     MENDOZA AERO                                        
+07052026     2  14.1   48  1008.1  320    9     MENDOZA AERO                                        
+07052026     3  13.7   50  1008.7   50   11     MENDOZA AERO                                        
+07052026     4  11.2   57  1008.7  320    6     MENDOZA AERO                                        
+07052026     5  10.5   61  1009.5  230    6     MENDOZA AERO                                        
+07052026     6  10.5   61  1010.1  270    6     MENDOZA AERO                                        
+07052026     7  10.8   59  1010.8  270    7     MENDOZA AERO                                        
+07052026     8   9.5   61  1011.8  340    4     MENDOZA AERO                                        
+07052026     9   9.8   53  1013.5  290    9     MENDOZA AERO                                        
+07052026    10  13.6   31  1013.7  340    9     MENDOZA AERO                                        
+07052026    11  15.1   27  1013.6   50    9     MENDOZA AERO                                        
+07052026    12  16.4   23  1013.4  360   15     MENDOZA AERO                                        
+07052026    13  17.2   20  1012.9  340   15     MENDOZA AERO                                        
+07052026    14  18.6   20  1012.0  360   15     MENDOZA AERO                                        
+07052026    15  19.8   19  1010.9  360   15     MENDOZA AERO                                        
+07052026    16  20.3   18  1010.5  360   13     MENDOZA AERO                                        
+07052026    17  20.3   18  1010.6   50   11     MENDOZA AERO                                        
+07052026    18  19.6   20  1010.6   20   13     MENDOZA AERO                                        
+07052026    19  16.8   28  1010.9   20    9     MENDOZA AERO                                        
+07052026    20  14.7   36  1012.0  290    6     MENDOZA AERO                                        
+07052026    21  13.1   35  1012.5    0    0     MENDOZA AERO                                        
+07052026    22  13.4   35  1011.9  990    4     MENDOZA AERO                                        
+07052026    23  12.7   44  1012.7  990    4     MENDOZA AERO                                        
+07052026     0  15.4   47           60    9     MENDOZA OBSERVATORIO                                
+07052026     3  10.9   68          360    9     MENDOZA OBSERVATORIO                                
+07052026     6   9.4   67          250    6     MENDOZA OBSERVATORIO                                
+07052026     7   8.2   70          270    6     MENDOZA OBSERVATORIO                                
+07052026     8   7.3   68          250    4     MENDOZA OBSERVATORIO                                
+07052026     9   7.4   68            0    0     MENDOZA OBSERVATORIO                                
+07052026    10  12.9   43           30    9     MENDOZA OBSERVATORIO                                
+07052026    11  14.1   38           30   11     MENDOZA OBSERVATORIO                                
+07052026    12  15.6   34           40   11     MENDOZA OBSERVATORIO                                
+07052026    13  17.0   32           50   11     MENDOZA OBSERVATORIO                                
+07052026    14  18.4   33          360   11     MENDOZA OBSERVATORIO                                
+07052026    15  18.8   28           50    7     MENDOZA OBSERVATORIO                                
+07052026    16  19.2   26          360    7     MENDOZA OBSERVATORIO                                
+07052026    17  19.1   28            0    0     MENDOZA OBSERVATORIO                                
+07052026    18  16.2   38            0    0     MENDOZA OBSERVATORIO                                
+07052026    19  13.4   45            0    0     MENDOZA OBSERVATORIO                                
+07052026    20  11.0   42          270    6     MENDOZA OBSERVATORIO                                
+07052026    21  10.5   43            0    0     MENDOZA OBSERVATORIO                                
+07052026    22  11.6   42          230    7     MENDOZA OBSERVATORIO                                
+07052026    23  11.8   37            0    0     MENDOZA OBSERVATORIO                                
+07052026     9  23.8   80  1000.0  320   30     MERCEDES AERO (CTES)                                
+07052026    12  28.1   65   998.0  290   41     MERCEDES AERO (CTES)                                
+07052026    15  16.8   96   999.4  160   44     MERCEDES AERO (CTES)                                
+07052026    18  15.0   76  1005.7  180   30     MERCEDES AERO (CTES)                                
+07052026    21  13.8   83  1006.9  180    9     MERCEDES AERO (CTES)                                
+07052026     0  22.6   96  1000.3  360   24     MERLO AERO                                          
+07052026     3  18.6   96  1001.5  270    9     MERLO AERO                                          
+07052026     6  18.6   94  1001.6  180   15     MERLO AERO                                          
+07052026     7  17.4   94  1001.0  180   19     MERLO AERO                                          
+07052026     8  16.2   94  1001.9  270    9     MERLO AERO                                          
+07052026     9  15.4   91  1002.4  270    9     MERLO AERO                                          
+07052026    10  15.5   89  1001.6  270   19     MERLO AERO                                          
+07052026    11  16.0   81  1002.4  230   17     MERLO AERO                                          
+07052026    12  16.5   80  1002.4  230   22     MERLO AERO                                          
+07052026    13  15.0   74  1002.1  270   28     MERLO AERO                                          
+07052026    14  15.0   74  1001.7  270   19     MERLO AERO                                          
+07052026    15  14.5   73  1001.6  270   22     MERLO AERO                                          
+07052026    16  14.5   68  1002.0  270   37     MERLO AERO                                          
+07052026    17  14.4   68  1001.8  270   33     MERLO AERO                                          
+07052026    18  13.5   72  1001.5  270   28     MERLO AERO                                          
+07052026    19  13.0   83  1001.5  270   22     MERLO AERO                                          
+07052026    20  12.7   84  1001.4  270   19     MERLO AERO                                          
+07052026    21  12.0   82  1001.1  270   41     MERLO AERO                                          
+07052026     9  14.8   86          320    4     METAN                                               
+07052026    15  15.6   71          180   24     METAN                                               
+07052026    21  12.0   80          230    9     METAN                                               
+07052026     0  25.2   76  1004.8   20   19     MONTE CASEROS AERO                                  
+07052026     1  26.0   74  1004.1   20   24     MONTE CASEROS AERO                                  
+07052026     2  25.6   75  1003.7   20   26     MONTE CASEROS AERO                                  
+07052026     3  25.4   75  1003.1   20   20     MONTE CASEROS AERO                                  
+07052026     4  25.8   72  1002.4  360   19     MONTE CASEROS AERO                                  
+07052026     5  25.4   73  1001.7  360   20     MONTE CASEROS AERO                                  
+07052026     6  24.6   79  1000.3   20   28     MONTE CASEROS AERO                                  
+07052026     7  23.8   82   999.3   20   28     MONTE CASEROS AERO                                  
+07052026     8  23.8   82   999.5   20   28     MONTE CASEROS AERO                                  
+07052026     9  25.4   72   998.7   20   39     MONTE CASEROS AERO                                  
+07052026    10  25.2   75   998.5   20   37     MONTE CASEROS AERO                                  
+07052026    11  26.0   75   998.2  360   33     MONTE CASEROS AERO                                  
+07052026    12  20.0   92   998.4  200   28     MONTE CASEROS AERO                                  
+07052026    13  18.2   98   998.9  230   30     MONTE CASEROS AERO                                  
+07052026    14  18.0   98   999.9  230   46     MONTE CASEROS AERO                                  
+07052026    15  18.4   96  1001.3  230   37     MONTE CASEROS AERO                                  
+07052026    16  18.0   88  1002.5  230   37     MONTE CASEROS AERO                                  
+07052026    17  17.6   84  1005.6  270   46     MONTE CASEROS AERO                                  
+07052026    18  14.4   87  1006.1  230   37     MONTE CASEROS AERO                                  
+07052026    19  12.0   91  1006.6  200   33     MONTE CASEROS AERO                                  
+07052026    20  12.6   91  1004.1  180   19     MONTE CASEROS AERO                                  
+07052026    21  13.4   91  1004.2  200   17     MONTE CASEROS AERO                                  
+07052026    22  12.6   88  1007.4  270   28     MONTE CASEROS AERO                                  
+07052026    23  11.6   85  1008.1  270   20     MONTE CASEROS AERO                                  
+07052026     0  25.6   74   998.7  360   24     MORON AERO                                          
+07052026     1  23.8   86   999.4  180   20     MORON AERO                                          
+07052026     2  21.4   89   999.4  180    9     MORON AERO                                          
+07052026     3  17.8   98  1002.2  200   15     MORON AERO                                          
+07052026     4  17.8   96   999.1   50   13     MORON AERO                                          
+07052026     5  17.8   92   998.8  160    4     MORON AERO                                          
+07052026     6  16.9   93   998.9  230   17     MORON AERO                                          
+07052026     7  16.6   93   998.0  230   19     MORON AERO                                          
+07052026     8  15.9   89   999.7  240   17     MORON AERO                                          
+07052026     9  15.4   89  1000.2  250   26     MORON AERO                                          
+07052026    10  15.6   85  1002.3  230   17     MORON AERO                                          
+07052026    11  16.1   85  1000.6  240    7     MORON AERO                                          
+07052026    12  15.4   84  1001.8  240   22     MORON AERO                                          
+07052026    13  14.9   79  1000.4  250   19     MORON AERO                                          
+07052026    14  14.3   74  1000.8  270   15     MORON AERO                                          
+07052026    15  15.0   69  1002.2  240   24     MORON AERO                                          
+07052026    16  14.7   68  1000.2  270   26     MORON AERO                                          
+07052026    17  14.3   68   999.3  250   28     MORON AERO                                          
+07052026    18  13.8   70  1001.0  270   20     MORON AERO                                          
+07052026    19  13.0   70  1000.9  270   22     MORON AERO                                          
+07052026    20  12.8   81  1001.4  250   26     MORON AERO                                          
+07052026    21  12.5   78  1001.2  270   24     MORON AERO                                          
+07052026    22  11.4   89  1001.3  270   30     MORON AERO                                          
+07052026    23  11.2   89  1000.9  250   30     MORON AERO                                          
+07052026     0  10.4   82  1010.7  250   17     NEUQUEN AERO                                        
+07052026     1  11.2   60  1010.8  230   19     NEUQUEN AERO                                        
+07052026     2  11.2   55  1010.9  250   28     NEUQUEN AERO                                        
+07052026     3  10.8   55  1011.5  250   20     NEUQUEN AERO                                        
+07052026     4  10.4   56  1011.8  230   19     NEUQUEN AERO                                        
+07052026     5   9.7   59  1012.2  230   17     NEUQUEN AERO                                        
+07052026     6   9.8   57  1012.3  250   19     NEUQUEN AERO                                        
+07052026     7   9.6   57  1012.0  250   30     NEUQUEN AERO                                        
+07052026     8   8.8   56  1013.4  230   15     NEUQUEN AERO                                        
+07052026     9   8.7   57  1014.5  250   15     NEUQUEN AERO                                        
+07052026    10   9.8   55  1014.8  230   20     NEUQUEN AERO                                        
+07052026    11  11.2   42  1014.9  230   19     NEUQUEN AERO                                        
+07052026    12  12.5   38  1015.3  230   26     NEUQUEN AERO                                        
+07052026    13  12.8   36  1014.3  230   26     NEUQUEN AERO                                        
+07052026    14  13.2   26  1014.2  230   26     NEUQUEN AERO                                        
+07052026    15  13.5   24  1013.9  230   26     NEUQUEN AERO                                        
+07052026    16  12.8   20  1013.5  230   35     NEUQUEN AERO                                        
+07052026    17  12.1   24  1014.4  230   30     NEUQUEN AERO                                        
+07052026    18  12.2   24  1014.6  230   26     NEUQUEN AERO                                        
+07052026    19  12.2   24  1015.0  180   24     NEUQUEN AERO                                        
+07052026    20  11.4   36  1016.1  230   13     NEUQUEN AERO                                        
+07052026    21  10.8   39  1016.6  200    9     NEUQUEN AERO                                        
+07052026    22   9.6   43  1016.9  230   11     NEUQUEN AERO                                        
+07052026    23   8.6   51  1016.9  200    7     NEUQUEN AERO                                        
+07052026     9  12.6   71  1001.9  270   30     NUEVE DE JULIO                                      
+07052026    12  14.4   65  1003.2  230   30     NUEVE DE JULIO                                      
+07052026    15  12.1   82  1003.5  230   31     NUEVE DE JULIO                                      
+07052026    18  11.6   83  1003.6  230   39     NUEVE DE JULIO                                      
+07052026    21   9.4   89  1005.0  230   44     NUEVE DE JULIO                                      
+07052026     9  20.8   93  1013.0  360    4     OBERA                                               
+07052026    15  28.2   63  1010.1   50    4     OBERA                                               
+07052026    21  21.4   96  1011.2  360    4     OBERA                                               
+07052026     9  13.1   97   999.9  230   22     OLAVARRIA AERO                                      
+07052026    10  12.1   89   999.6  230   22     OLAVARRIA AERO                                      
+07052026    11  11.9   89   999.4  230   19     OLAVARRIA AERO                                      
+07052026    12  12.8   87  1000.3  230   15     OLAVARRIA AERO                                      
+07052026    13  13.8   86   999.6  230   19     OLAVARRIA AERO                                      
+07052026    14  13.8   86   999.8  230   15     OLAVARRIA AERO                                      
+07052026    15  13.9  100   999.5  230   22     OLAVARRIA AERO                                      
+07052026    21  10.1  100          180   22     OLAVARRIA AERO                                      
+07052026     6  18.6   94   998.4  360    4     ORAN AERO                                           
+07052026     7  18.4   95   998.2  360    9     ORAN AERO                                           
+07052026     8  18.2   96   999.0    0    0     ORAN AERO                                           
+07052026     9  19.0   92   998.9  360   15     ORAN AERO                                           
+07052026    10  20.1   91   998.6  360   15     ORAN AERO                                           
+07052026    11  22.0   87   999.0  360    4     ORAN AERO                                           
+07052026    12  24.0   81   999.2  360   15     ORAN AERO                                           
+07052026    13  23.8   80   999.8  360    9     ORAN AERO                                           
+07052026    14  26.2   75  1001.0  140   24     ORAN AERO                                           
+07052026    15  28.0   57  1001.3  140   44     ORAN AERO                                           
+07052026    16  23.7   65  1004.3  140   44     ORAN AERO                                           
+07052026    17  20.5   64  1007.3  140   33     ORAN AERO                                           
+07052026    18  19.8   56  1009.6  140   44     ORAN AERO                                           
+07052026    19  19.7   45  1010.8  140   24     ORAN AERO                                           
+07052026    20  18.8   53  1012.1   90    9     ORAN AERO                                           
+07052026    21  17.8   71  1013.5  180    9     ORAN AERO                                           
+07052026     0  23.7   84  1001.5  340   15     PARANA AERO                                         
+07052026     1  23.3   85  1000.6  360   19     PARANA AERO                                         
+07052026     2  23.4   82  1000.6  340   22     PARANA AERO                                         
+07052026     3  23.1   87  1000.3  340   15     PARANA AERO                                         
+07052026     4  21.8   87  1001.0   90    9     PARANA AERO                                         
+07052026     5  19.2   94  1000.3  140   11     PARANA AERO                                         
+07052026     6  18.7   93   999.8  180   20     PARANA AERO                                         
+07052026     7  18.4   96  1000.2  180   31     PARANA AERO                                         
+07052026     8  18.4   82  1002.5  180   35     PARANA AERO                                         
+07052026     9  17.9   87  1004.2  170   22     PARANA AERO                                         
+07052026    10  17.4   84  1004.5  200   30     PARANA AERO                                         
+07052026    11  15.4   61  1007.4  220   30     PARANA AERO                                         
+07052026    12  15.9   59  1006.6  210   31     PARANA AERO                                         
+07052026    13  14.4   72  1006.2  220   26     PARANA AERO                                         
+07052026    14  12.2   87  1006.4  230   15     PARANA AERO                                         
+07052026    15  13.0   76  1004.0  230   22     PARANA AERO                                         
+07052026    16  13.4   75  1006.4  230   19     PARANA AERO                                         
+07052026    17  14.0   67  1005.8  230   15     PARANA AERO                                         
+07052026    18  14.7   64  1006.2  230   11     PARANA AERO                                         
+07052026    19  13.2   69  1006.8  230    9     PARANA AERO                                         
+07052026    20  12.4   72  1007.9  230    7     PARANA AERO                                         
+07052026    21  12.2   72  1007.5  230   13     PARANA AERO                                         
+07052026    22  12.0   72  1007.5  230   15     PARANA AERO                                         
+07052026    23  11.8   65  1008.2  230   17     PARANA AERO                                         
+07052026     9   2.1   74  1014.5  230   24     PASO DE INDIOS                                      
+07052026    12   4.8   67          180   30     PASO DE INDIOS                                      
+07052026    15   6.6   53          180   31     PASO DE INDIOS                                      
+07052026    18   6.7   52          230   17     PASO DE INDIOS                                      
+07052026    21   3.1   62  1017.5  230   17     PASO DE INDIOS                                      
+07052026     6  23.1   91  1002.4   20   11     PASO DE LOS LIBRES AERO                             
+07052026     7  23.3   87  1001.7  360   19     PASO DE LOS LIBRES AERO                             
+07052026     8  24.0   82  1001.1  360   19     PASO DE LOS LIBRES AERO                             
+07052026     9  25.9   70   999.9  360   33     PASO DE LOS LIBRES AERO                             
+07052026    10  27.3   68  1000.0  360   31     PASO DE LOS LIBRES AERO                             
+07052026    11  29.2   63   998.9  360   56     PASO DE LOS LIBRES AERO                             
+07052026    12  28.9   64   998.1  360   56     PASO DE LOS LIBRES AERO                             
+07052026    13  27.3   74   996.8  320   44     PASO DE LOS LIBRES AERO                             
+07052026    14  20.2   96   997.8  270   33     PASO DE LOS LIBRES AERO                             
+07052026    15  18.4   92   999.9  230   43     PASO DE LOS LIBRES AERO                             
+07052026    16  18.3   83   999.9  230   46     PASO DE LOS LIBRES AERO                             
+07052026    17  18.6   84  1002.4  230   33     PASO DE LOS LIBRES AERO                             
+07052026    18  16.2   87  1006.2  230   44     PASO DE LOS LIBRES AERO                             
+07052026    19  14.9   81  1005.6  230   35     PASO DE LOS LIBRES AERO                             
+07052026    20  15.0   81  1004.7  230   22     PASO DE LOS LIBRES AERO                             
+07052026    21  14.6   87  1005.8  230   13     PASO DE LOS LIBRES AERO                             
+07052026     9  12.2   77  1004.8  230   19     PEHUAJO AERO                                        
+07052026    10  12.0   75  1003.2  230   24     PEHUAJO AERO                                        
+07052026    11  12.5   75  1003.8  230   28     PEHUAJO AERO                                        
+07052026    12  12.1   79  1004.2  230   28     PEHUAJO AERO                                        
+07052026    13  11.5   85  1004.7  230   31     PEHUAJO AERO                                        
+07052026    14  11.8   83  1004.4  230   41     PEHUAJO AERO                                        
+07052026    15  11.8   82  1005.1  230   44     PEHUAJO AERO                                        
+07052026    16  11.6   79  1005.3  230   46     PEHUAJO AERO                                        
+07052026    17  10.5   86  1004.7  230   46     PEHUAJO AERO                                        
+07052026    18  10.4   86  1005.8  230   46     PEHUAJO AERO                                        
+07052026    19   9.2   89  1006.5  230   44     PEHUAJO AERO                                        
+07052026    20   9.2   88  1006.6  230   43     PEHUAJO AERO                                        
+07052026    21   9.1   92  1006.8  230   30     PEHUAJO AERO                                        
+07052026     9   1.8   84  1018.8    0    0     PERITO MORENO AERO                                  
+07052026    10   1.9   81  1018.8    0    0     PERITO MORENO AERO                                  
+07052026    11   5.0   71  1018.7    0    0     PERITO MORENO AERO                                  
+07052026    12   5.8   45  1017.6    0    0     PERITO MORENO AERO                                  
+07052026    13   6.4   41  1017.7  250   19     PERITO MORENO AERO                                  
+07052026    14   7.3   32  1017.1  250    9     PERITO MORENO AERO                                  
+07052026    15   8.6   27  1016.8  250    9     PERITO MORENO AERO                                  
+07052026    16   8.2   32  1016.2  250   19     PERITO MORENO AERO                                  
+07052026    17   8.2   36  1016.6  250   22     PERITO MORENO AERO                                  
+07052026    18   7.0   46  1017.8  250   19     PERITO MORENO AERO                                  
+07052026    19   4.8   57  1018.4  250   15     PERITO MORENO AERO                                  
+07052026    20   3.0   66  1019.2    0    0     PERITO MORENO AERO                                  
+07052026    21   1.5   72  1020.4    0    0     PERITO MORENO AERO                                  
+07052026     9  10.1   88  1002.0  230   24     PIGUE AERO                                          
+07052026    15   9.3   92  1002.6  230   44     PIGUE AERO                                          
+07052026    21   6.5   71  1003.9  230   44     PIGUE AERO                                          
+07052026     6  16.6   46  1005.8  180   19     PILAR OBSERVATORIO                                  
+07052026     7  16.2   46  1007.1  180    9     PILAR OBSERVATORIO                                  
+07052026     8  15.0   50  1007.4  180   11     PILAR OBSERVATORIO                                  
+07052026     9  15.8   33  1010.4  160   11     PILAR OBSERVATORIO                                  
+07052026    10  14.9   35  1010.3  160   15     PILAR OBSERVATORIO                                  
+07052026    11  14.8   29  1010.8  200   17     PILAR OBSERVATORIO                                  
+07052026    12  15.6   29  1011.2  180   20     PILAR OBSERVATORIO                                  
+07052026    13  17.1   24  1010.6  180   22     PILAR OBSERVATORIO                                  
+07052026    14  18.9   18  1009.0  160   22     PILAR OBSERVATORIO                                  
+07052026    15  19.2   15  1007.8  180   24     PILAR OBSERVATORIO                                  
+07052026    16  19.7   15  1008.1  180   24     PILAR OBSERVATORIO                                  
+07052026    17  19.5   14  1008.3  200   19     PILAR OBSERVATORIO                                  
+07052026    18  17.8   17  1009.5  180   13     PILAR OBSERVATORIO                                  
+07052026    19  15.3   25  1010.4  180    7     PILAR OBSERVATORIO                                  
+07052026    20  12.1   40  1011.1    0    0     PILAR OBSERVATORIO                                  
+07052026    21   9.4   64  1011.6    0    0     PILAR OBSERVATORIO                                  
+07052026     0  25.7   75  1008.6   20    9     POSADAS AERO                                        
+07052026     1  25.5   75  1008.1   20    9     POSADAS AERO                                        
+07052026     2  25.1   76  1007.4   20   11     POSADAS AERO                                        
+07052026     3  25.0   74  1006.3   50   13     POSADAS AERO                                        
+07052026     4  24.9   70  1006.1   20    9     POSADAS AERO                                        
+07052026     5  24.6   72  1005.6   20    9     POSADAS AERO                                        
+07052026     6  24.4   73  1005.7   20   11     POSADAS AERO                                        
+07052026     7  24.6   71  1005.7   20   11     POSADAS AERO                                        
+07052026     8  24.6   70  1005.9   20   13     POSADAS AERO                                        
+07052026     9  24.8   72  1006.3  340    9     POSADAS AERO                                        
+07052026    10  26.0   64  1006.1  360   19     POSADAS AERO                                        
+07052026    11  27.3   56  1005.4  340   28     POSADAS AERO                                        
+07052026    12  28.0   56  1004.2  340   26     POSADAS AERO                                        
+07052026    13  28.6   55  1002.4  340   28     POSADAS AERO                                        
+07052026    14  28.8   54  1001.0  340   30     POSADAS AERO                                        
+07052026    15  29.8   52   999.9  340   30     POSADAS AERO                                        
+07052026    16  30.0   50   999.1  340   33     POSADAS AERO                                        
+07052026    17  29.2   52  1000.0  340   26     POSADAS AERO                                        
+07052026    18  28.6   55  1000.0  340   20     POSADAS AERO                                        
+07052026    19  20.2   92  1002.1  200   35     POSADAS AERO                                        
+07052026    20  17.3   99  1003.9  200   24     POSADAS AERO                                        
+07052026    21  17.6   96  1006.0  200   22     POSADAS AERO                                        
+07052026    22  15.5   83  1006.3  180   35     POSADAS AERO                                        
+07052026    23  13.7   96  1008.3  180   22     POSADAS AERO                                        
+07052026     0  25.9   79  1002.8    0    0     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+07052026     1  25.8   79  1002.2   50   13     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+07052026     2  26.2   77  1001.2   50   19     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+07052026     3  26.6   75  1001.0   20   19     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+07052026     4  26.1   77  1000.6   20   11     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+07052026     5  25.2   82   999.5   70   13     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+07052026     6  25.0   83   998.6   70   13     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+07052026     7  24.2   87   999.4   70    9     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+07052026     8  24.8   83  1000.4   70    6     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+07052026     9  24.5   88  1001.4  110    4     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+07052026    10  25.0   86  1002.0  110    6     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+07052026    11  26.2   82  1001.4   50   11     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+07052026    12  27.6   75  1001.8   50   11     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+07052026    13  28.9   71  1001.6  290   11     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+07052026    14  18.1   91  1004.0  200   41     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+07052026    15  16.9   77  1005.7  200   33     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+07052026    16  16.6   60  1006.9  230   30     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+07052026    17  16.4   59  1008.1  180   22     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+07052026    18  16.0   66  1008.5  200   15     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+07052026    19  15.8   70  1009.1  180    4     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+07052026    20  15.3   71  1010.5  250   13     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+07052026    21  14.7   73  1011.9  230   20     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+07052026    22  12.8   84  1012.1  250    7     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+07052026    23  11.4   85  1012.3  230    9     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+07052026     9   7.7   96  1012.0   90    9     PUERTO DESEADO AERO                                 
+07052026    15   7.0   85          360    9     PUERTO DESEADO AERO                                 
+07052026    21   7.2   83  1012.0    0    0     PUERTO DESEADO AERO                                 
+07052026     6   9.7   96  1004.0  230   30     PUERTO MADRYN AERO                                  
+07052026     7   9.7   96  1005.5  230   37     PUERTO MADRYN AERO                                  
+07052026     8   8.4   95  1006.0  230   44     PUERTO MADRYN AERO                                  
+07052026     9   7.7   93  1006.8  230   37     PUERTO MADRYN AERO                                  
+07052026    10   7.2   92  1007.6  230   41     PUERTO MADRYN AERO                                  
+07052026    11   7.8   83  1007.6  230   37     PUERTO MADRYN AERO                                  
+07052026    12   8.4   78  1008.1  230   46     PUERTO MADRYN AERO                                  
+07052026    13   9.7   72  1007.5  230   46     PUERTO MADRYN AERO                                  
+07052026    14   8.8   74  1007.4  230   44     PUERTO MADRYN AERO                                  
+07052026    15   8.0   78  1006.6  230   46     PUERTO MADRYN AERO                                  
+07052026    16   8.6   76  1006.9  230   46     PUERTO MADRYN AERO                                  
+07052026    17   8.6   79  1007.2  230   48     PUERTO MADRYN AERO                                  
+07052026    18   8.0   81  1007.8  230   41     PUERTO MADRYN AERO                                  
+07052026    19   7.6   80  1008.4  230   39     PUERTO MADRYN AERO                                  
+07052026    20   7.2   80  1008.7  200   46     PUERTO MADRYN AERO                                  
+07052026    21   7.0   80  1008.7  200   44     PUERTO MADRYN AERO                                  
+07052026    22   6.6   74  1009.4  230   43     PUERTO MADRYN AERO                                  
+07052026    23   6.0   73  1009.4  200   39     PUERTO MADRYN AERO                                  
+07052026     9  15.5   90   999.3  290   20     PUNTA INDIO B.A.                                    
+07052026    10  15.0   89  1001.0  290    7     PUNTA INDIO B.A.                                    
+07052026    11  15.2   91  1001.6  360   17     PUNTA INDIO B.A.                                    
+07052026    12  15.5   90  1000.2  340   13     PUNTA INDIO B.A.                                    
+07052026    13  15.8   86   998.9  360   15     PUNTA INDIO B.A.                                    
+07052026    14  15.6   91   999.5  320   17     PUNTA INDIO B.A.                                    
+07052026    15  15.8   86   999.2  300   20     PUNTA INDIO B.A.                                    
+07052026    16  15.0   89   999.7  300   24     PUNTA INDIO B.A.                                    
+07052026    17  14.5   89   997.8  330   20     PUNTA INDIO B.A.                                    
+07052026    18  13.8   80   999.1  300   19     PUNTA INDIO B.A.                                    
+07052026    19  13.0   88   999.1  290   15     PUNTA INDIO B.A.                                    
+07052026    20  13.0   88  1000.7  330   19     PUNTA INDIO B.A.                                    
+07052026    21  12.8   85  1000.0  320   15     PUNTA INDIO B.A.                                    
+07052026     6  19.6   92  1002.5  180   19     RAFAELA AERO                                        
+07052026     9  16.8   76  1005.6  180   28     RAFAELA AERO                                        
+07052026    12  13.5   84  1009.8  230   26     RAFAELA AERO                                        
+07052026    15  13.5   68  1010.3  250   30     RAFAELA AERO                                        
+07052026    18  15.3   65  1009.7  200   15     RAFAELA AERO                                        
+07052026    21  12.0   56  1010.2  230    9     RAFAELA AERO                                        
+07052026     0  26.2   75  1003.1   20   24     RECONQUISTA AERO                                    
+07052026     1  26.4   74  1002.4   20   33     RECONQUISTA AERO                                    
+07052026     2  26.4   74  1001.5   20   24     RECONQUISTA AERO                                    
+07052026     3  26.5   73  1001.2   20   24     RECONQUISTA AERO                                    
+07052026     4  26.4   74  1000.8   20   24     RECONQUISTA AERO                                    
+07052026     5  26.4   74  1000.5   20   24     RECONQUISTA AERO                                    
+07052026     6  26.1   76   999.9  360   15     RECONQUISTA AERO                                    
+07052026     7  25.5   78   999.5   20   15     RECONQUISTA AERO                                    
+07052026     8  26.1   77   999.2   20   24     RECONQUISTA AERO                                    
+07052026     9  27.0   73   998.7   20   22     RECONQUISTA AERO                                    
+07052026    10  26.4   77  1001.9  250   22     RECONQUISTA AERO                                    
+07052026    11  18.9   95  1003.0  200   35     RECONQUISTA AERO                                    
+07052026    12  18.0   94  1003.2  200   33     RECONQUISTA AERO                                    
+07052026    13  17.9   95  1005.0  200   44     RECONQUISTA AERO                                    
+07052026    14  17.3   67  1005.4  200   44     RECONQUISTA AERO                                    
+07052026    15  16.4   65  1005.9  200   44     RECONQUISTA AERO                                    
+07052026    16  15.0   82  1008.1  200   24     RECONQUISTA AERO                                    
+07052026    17  14.7   79  1008.2  180   24     RECONQUISTA AERO                                    
+07052026    18  14.2   81  1007.4  180   24     RECONQUISTA AERO                                    
+07052026    19  13.5   86  1009.9  250   24     RECONQUISTA AERO                                    
+07052026    20  12.9   84  1008.6  230   24     RECONQUISTA AERO                                    
+07052026    21  12.2   86  1009.5  250   24     RECONQUISTA AERO                                    
+07052026    22  11.5   85  1010.9  270   15     RECONQUISTA AERO                                    
+07052026    23  11.1   89  1010.7  270    9     RECONQUISTA AERO                                    
+07052026     0  25.9   75  1004.1   30   15     RESISTENCIA AERO                                    
+07052026     1  25.9   75  1003.9   30   11     RESISTENCIA AERO                                    
+07052026     2  25.7   75  1003.4   30   15     RESISTENCIA AERO                                    
+07052026     3  25.4   77  1002.6   30   15     RESISTENCIA AERO                                    
+07052026     4  25.2   79  1001.9   30   17     RESISTENCIA AERO                                    
+07052026     5  25.2   78  1001.5   30   15     RESISTENCIA AERO                                    
+07052026     6  24.7   78  1000.9   30   15     RESISTENCIA AERO                                    
+07052026     7  25.3   76  1002.0   20   11     RESISTENCIA AERO                                    
+07052026     8  24.8   78  1002.3   40   15     RESISTENCIA AERO                                    
+07052026     9  25.3   77  1002.8   30    9     RESISTENCIA AERO                                    
+07052026    10  26.1   74  1002.3   30   15     RESISTENCIA AERO                                    
+07052026    11  26.3   75  1002.2   10   11     RESISTENCIA AERO                                    
+07052026    12  27.0   76  1002.0  350   13     RESISTENCIA AERO                                    
+07052026    13  26.0   85  1000.6  350   20     RESISTENCIA AERO                                    
+07052026    14  26.9   78  1000.8  330   19     RESISTENCIA AERO                                    
+07052026    15  17.5   92  1003.1  190   33     RESISTENCIA AERO                                    
+07052026    16  17.2   89  1005.0  200   30     RESISTENCIA AERO                                    
+07052026    17  16.3   66  1006.2  200   26     RESISTENCIA AERO                                    
+07052026    18  16.3   65  1006.8  190   20     RESISTENCIA AERO                                    
+07052026    19  15.2   76  1007.7  180   13     RESISTENCIA AERO                                    
+07052026    20  14.0   94  1010.0  240    6     RESISTENCIA AERO                                    
+07052026    21  14.3   92  1010.6  250    7     RESISTENCIA AERO                                    
+07052026    22  13.5   88  1011.7  220   17     RESISTENCIA AERO                                    
+07052026    23  12.4   91  1011.2  220   17     RESISTENCIA AERO                                    
+07052026     6  14.9   39  1007.0  210   26     RIO CUARTO AERO                                     
+07052026     7  14.3   42  1009.0  210   19     RIO CUARTO AERO                                     
+07052026     8  12.0   44  1008.8  210   31     RIO CUARTO AERO                                     
+07052026     9  12.0   42  1009.2  210   26     RIO CUARTO AERO                                     
+07052026    10  12.1   44  1010.6  220   31     RIO CUARTO AERO                                     
+07052026    11  14.0   36  1010.0  220   26     RIO CUARTO AERO                                     
+07052026    12  15.0   29  1010.0  220   44     RIO CUARTO AERO                                     
+07052026    13  15.9   24  1009.9  220   46     RIO CUARTO AERO                                     
+07052026    14  16.2   23  1008.8  220   37     RIO CUARTO AERO                                     
+07052026    15  17.0   19  1008.5  220   35     RIO CUARTO AERO                                     
+07052026    16  17.0   18  1008.0  230   31     RIO CUARTO AERO                                     
+07052026    17  16.8   16  1008.3  230   33     RIO CUARTO AERO                                     
+07052026    18  15.9   15  1009.2  230   28     RIO CUARTO AERO                                     
+07052026    19  12.7   19  1009.7  230   15     RIO CUARTO AERO                                     
+07052026    20  12.4   21  1010.4  240   15     RIO CUARTO AERO                                     
+07052026    21  11.8   25  1010.7  240   15     RIO CUARTO AERO                                     
+07052026     0   3.8   97  1016.4  200   15     RIO GALLEGOS AERO                                   
+07052026     1   3.8   95  1016.2  230   19     RIO GALLEGOS AERO                                   
+07052026     2   3.4   95  1016.5  230   15     RIO GALLEGOS AERO                                   
+07052026     3   3.4   95  1016.1  200   17     RIO GALLEGOS AERO                                   
+07052026     4   3.2   97  1016.1  230   13     RIO GALLEGOS AERO                                   
+07052026     5   3.3   97  1015.9  230   15     RIO GALLEGOS AERO                                   
+07052026     6   3.4   99  1015.6  230   15     RIO GALLEGOS AERO                                   
+07052026     7   3.7   95  1016.4  230   15     RIO GALLEGOS AERO                                   
+07052026     8   3.8   95  1016.6  230   17     RIO GALLEGOS AERO                                   
+07052026     9   3.8   97  1017.0  240   17     RIO GALLEGOS AERO                                   
+07052026    10   4.0   97  1016.9  210   19     RIO GALLEGOS AERO                                   
+07052026    11   4.2   93  1017.0  230   20     RIO GALLEGOS AERO                                   
+07052026    12   5.0   94  1016.7  220   24     RIO GALLEGOS AERO                                   
+07052026    13   5.4   89  1016.9  230   26     RIO GALLEGOS AERO                                   
+07052026    14   5.6   88  1016.6  210   26     RIO GALLEGOS AERO                                   
+07052026    15   5.5   92  1016.6  210   26     RIO GALLEGOS AERO                                   
+07052026    16   6.0   93  1016.4  180   26     RIO GALLEGOS AERO                                   
+07052026    17   5.2   92  1017.1  180   26     RIO GALLEGOS AERO                                   
+07052026    18   4.4   90  1017.5  200   30     RIO GALLEGOS AERO                                   
+07052026    19   4.0   90  1018.2  200   30     RIO GALLEGOS AERO                                   
+07052026    20   3.0   97  1018.6  200   33     RIO GALLEGOS AERO                                   
+07052026    21   2.6   93  1019.3  200   33     RIO GALLEGOS AERO                                   
+07052026    22   3.8   93  1019.9  180   31     RIO GALLEGOS AERO                                   
+07052026    23   4.6   97  1020.4  180   33     RIO GALLEGOS AERO                                   
+07052026     0    .4   96  1017.4  200    9     RIO GRANDE B.A.                                     
+07052026     1   1.4   98  1017.1  160    9     RIO GRANDE B.A.                                     
+07052026     2   2.6   98  1017.0  140   13     RIO GRANDE B.A.                                     
+07052026     3   2.9   97  1017.0  140   19     RIO GRANDE B.A.                                     
+07052026     4   3.0   93  1017.0  140   15     RIO GRANDE B.A.                                     
+07052026     5   3.0   90  1017.0  150   13     RIO GRANDE B.A.                                     
+07052026     6   3.4   88  1017.1  140   15     RIO GRANDE B.A.                                     
+07052026     7   3.6   87  1017.3  140   19     RIO GRANDE B.A.                                     
+07052026     8   3.6   87  1017.6  140   17     RIO GRANDE B.A.                                     
+07052026     9   3.7   87  1018.1  140   19     RIO GRANDE B.A.                                     
+07052026    10   4.0   85  1018.6  130   19     RIO GRANDE B.A.                                     
+07052026    11   3.4   82  1018.8  130   28     RIO GRANDE B.A.                                     
+07052026    12   3.4   85  1018.9  130   28     RIO GRANDE B.A.                                     
+07052026    13   3.5   87  1018.9  140   30     RIO GRANDE B.A.                                     
+07052026    14   3.6   87  1019.0  130   31     RIO GRANDE B.A.                                     
+07052026    15   3.8   87  1018.9  130   26     RIO GRANDE B.A.                                     
+07052026    16   4.5   86  1019.5  130   26     RIO GRANDE B.A.                                     
+07052026    17   3.9   85  1019.8  130   28     RIO GRANDE B.A.                                     
+07052026    18   4.1   85  1020.6  130   24     RIO GRANDE B.A.                                     
+07052026    19   3.9   85  1021.5  140   22     RIO GRANDE B.A.                                     
+07052026    20   3.8   85  1022.1  140   19     RIO GRANDE B.A.                                     
+07052026    21   3.8   82  1023.3  130   19     RIO GRANDE B.A.                                     
+07052026    22   3.6   79  1024.2  140   20     RIO GRANDE B.A.                                     
+07052026    23   3.2   78  1024.8  140   19     RIO GRANDE B.A.                                     
+07052026     9  23.4   89   998.5    0    0     RIVADAVIA                                           
+07052026    12  27.2   74            0    0     RIVADAVIA                                           
+07052026    15  24.2   80          180    9     RIVADAVIA                                           
+07052026    20  19.4   52  1009.4  180    9     RIVADAVIA                                           
+07052026    21  18.2   54  1011.6  180    4     RIVADAVIA                                           
+07052026     0  23.1   89   999.5  320    9     ROSARIO AERO                                        
+07052026     1  20.5   98   999.5  270   26     ROSARIO AERO                                        
+07052026     2  20.9   84  1001.1  140   11     ROSARIO AERO                                        
+07052026     3  19.4   87  1001.3  230    7     ROSARIO AERO                                        
+07052026     4  19.7   91  1001.5  180    9     ROSARIO AERO                                        
+07052026     5  19.4   91  1002.2  180   17     ROSARIO AERO                                        
+07052026     6  18.6   88  1002.6  180   26     ROSARIO AERO                                        
+07052026     7  17.7   88  1001.3  190   33     ROSARIO AERO                                        
+07052026     8  16.1   66  1003.1  180   26     ROSARIO AERO                                        
+07052026     9  15.2   69  1004.1  180   19     ROSARIO AERO                                        
+07052026    10  14.8   65  1006.5  190   20     ROSARIO AERO                                        
+07052026    11  14.4   65  1006.0  200   24     ROSARIO AERO                                        
+07052026    12  14.1   63  1007.9  240   15     ROSARIO AERO                                        
+07052026    13  14.1   60  1005.7  230   22     ROSARIO AERO                                        
+07052026    14  14.5   57  1007.0  230   24     ROSARIO AERO                                        
+07052026    15  15.0   54  1004.7  230   19     ROSARIO AERO                                        
+07052026    16  16.4   44  1003.4  200   33     ROSARIO AERO                                        
+07052026    17  16.2   46  1005.2  200   31     ROSARIO AERO                                        
+07052026    18  15.6   50  1005.2  200   24     ROSARIO AERO                                        
+07052026    19  15.0   53  1006.1  200   17     ROSARIO AERO                                        
+07052026    20  14.8   55  1007.0  200   19     ROSARIO AERO                                        
+07052026    21  14.0   57  1007.2  230   17     ROSARIO AERO                                        
+07052026    22  13.6   53  1007.0  230   22     ROSARIO AERO                                        
+07052026    23  12.4   59  1007.0  230   20     ROSARIO AERO                                        
+07052026     0  13.8   94          360    4     SALTA AERO                                          
+07052026     1  11.7   94            0    0     SALTA AERO                                          
+07052026     2   9.9   95            0    0     SALTA AERO                                          
+07052026     3  10.7   96            0    0     SALTA AERO                                          
+07052026     4   9.4   96          180    6     SALTA AERO                                          
+07052026     5  11.0   99            0    0     SALTA AERO                                          
+07052026     6  10.4   99          290    6     SALTA AERO                                          
+07052026     7   9.8  100          140    4     SALTA AERO                                          
+07052026     8   8.9   99          320    4     SALTA AERO                                          
+07052026     9  10.7   97          360    6     SALTA AERO                                          
+07052026    10  12.8   93           50    9     SALTA AERO                                          
+07052026    11  23.7   42          320    7     SALTA AERO                                          
+07052026    12  25.1   38           90   19     SALTA AERO                                          
+07052026    13  24.2   52           50   26     SALTA AERO                                          
+07052026    14  21.2   64           90   39     SALTA AERO                                          
+07052026    15  17.4   67           90   39     SALTA AERO                                          
+07052026    16  15.2   67           50   26     SALTA AERO                                          
+07052026    17  14.0   67           90   19     SALTA AERO                                          
+07052026    18  12.7   67           50    9     SALTA AERO                                          
+07052026    19  12.7   66           50   11     SALTA AERO                                          
+07052026    20  12.4   65          360   13     SALTA AERO                                          
+07052026    21  12.2   69          360   13     SALTA AERO                                          
+07052026    22  12.2   74          360    9     SALTA AERO                                          
+07052026    23  12.0   72          360   11     SALTA AERO                                          
+07052026     9   9.0   87  1008.0  180   33     SAN ANTONIO OESTE AERO                              
+07052026    15  11.5   37          200   24     SAN ANTONIO OESTE AERO                              
+07052026    21   9.7   53  1011.4  180   44     SAN ANTONIO OESTE AERO                              
+07052026     0  25.6   74   999.0   10   24     SAN FERNANDO AERO                                   
+07052026     1  23.6   86   998.9   10   24     SAN FERNANDO AERO                                   
+07052026     2  19.1   98  1000.5  150    7     SAN FERNANDO AERO                                   
+07052026     3  19.2   95  1003.1  260   20     SAN FERNANDO AERO                                   
+07052026     4  18.5   95   999.9   80   15     SAN FERNANDO AERO                                   
+07052026     5  18.4   92   998.9  100    9     SAN FERNANDO AERO                                   
+07052026     6  17.9   95   999.6  250   17     SAN FERNANDO AERO                                   
+07052026     7  17.1   92   999.7  250   11     SAN FERNANDO AERO                                   
+07052026     8  16.4   94   999.4  250   19     SAN FERNANDO AERO                                   
+07052026     9  16.0   89  1001.4  230   20     SAN FERNANDO AERO                                   
+07052026    10  16.3   86  1003.7  290   13     SAN FERNANDO AERO                                   
+07052026    11  16.6   83  1001.3  270   17     SAN FERNANDO AERO                                   
+07052026    12  16.1   81  1002.0  270   28     SAN FERNANDO AERO                                   
+07052026    13  15.2   77  1001.0  270   24     SAN FERNANDO AERO                                   
+07052026    14  14.6   74  1001.7  270   22     SAN FERNANDO AERO                                   
+07052026    15  15.0   73  1003.2  290   22     SAN FERNANDO AERO                                   
+07052026    16  14.9   70  1001.1  280   26     SAN FERNANDO AERO                                   
+07052026    17  14.6   67   999.4  270   30     SAN FERNANDO AERO                                   
+07052026    18  14.1   70  1001.5  270   22     SAN FERNANDO AERO                                   
+07052026    19  13.5   77  1001.5  280   24     SAN FERNANDO AERO                                   
+07052026    20  12.3   87  1002.0  270   24     SAN FERNANDO AERO                                   
+07052026    21  12.3   83  1001.6  270   20     SAN FERNANDO AERO                                   
+07052026    22  11.3   89  1001.9  270   28     SAN FERNANDO AERO                                   
+07052026    23  10.9   89  1000.8  260   33     SAN FERNANDO AERO                                   
+07052026     6  13.6   38  1009.5  180   26     SAN JUAN AERO                                       
+07052026     7  12.4   42  1010.7  200   15     SAN JUAN AERO                                       
+07052026     8  13.2   36  1011.4  180   20     SAN JUAN AERO                                       
+07052026     9  12.6   34  1012.5  200   11     SAN JUAN AERO                                       
+07052026    10  16.0   26  1015.6  180   24     SAN JUAN AERO                                       
+07052026    11  16.8   26  1015.2  160   26     SAN JUAN AERO                                       
+07052026    12  17.8   21  1015.1  160   24     SAN JUAN AERO                                       
+07052026    13  18.4   18  1014.5  180   20     SAN JUAN AERO                                       
+07052026    14  19.2   13  1012.9  160   11     SAN JUAN AERO                                       
+07052026    15  20.0   13  1012.0  140   17     SAN JUAN AERO                                       
+07052026    16  20.3   13  1011.7  180   15     SAN JUAN AERO                                       
+07052026    17  20.4   12  1010.9  180   15     SAN JUAN AERO                                       
+07052026    18  20.0   11  1010.8  180   13     SAN JUAN AERO                                       
+07052026    19  17.5   34  1011.6    0    0     SAN JUAN AERO                                       
+07052026    20  13.6   33  1012.2  180    6     SAN JUAN AERO                                       
+07052026    21  11.0   38  1013.1  200    6     SAN JUAN AERO                                       
+07052026    22  10.2   34  1012.6  320    6     SAN JUAN AERO                                       
+07052026    23   7.8   41  1012.9  270    7     SAN JUAN AERO                                       
+07052026     9   3.4   99  1016.2  230   24     SAN JULIAN AERO                                     
+07052026    15   4.0   99  1016.1  230   22     SAN JULIAN AERO                                     
+07052026    21   4.6   95  1017.5  230   30     SAN JULIAN AERO                                     
+07052026     0  16.7   41  1007.2  140   11     SAN LUIS AERO                                       
+07052026     1  16.4   43  1007.6  130   11     SAN LUIS AERO                                       
+07052026     2  16.0   43  1007.9  130   19     SAN LUIS AERO                                       
+07052026     3  15.7   36  1008.0  130   22     SAN LUIS AERO                                       
+07052026     4  15.3   32  1007.6  110   17     SAN LUIS AERO                                       
+07052026     5  14.7   46  1008.4  110   19     SAN LUIS AERO                                       
+07052026     6  14.3   47  1009.3  110   20     SAN LUIS AERO                                       
+07052026     7  13.5   32  1010.2  110   20     SAN LUIS AERO                                       
+07052026     8  11.5   41  1012.0  110   17     SAN LUIS AERO                                       
+07052026     9  10.9   36  1012.3  110   20     SAN LUIS AERO                                       
+07052026    10  12.7   32  1012.9  110   19     SAN LUIS AERO                                       
+07052026    11  13.5   28  1012.9  160   20     SAN LUIS AERO                                       
+07052026    12  15.5   27  1012.4  160   22     SAN LUIS AERO                                       
+07052026    13  16.9   24  1011.8  160   22     SAN LUIS AERO                                       
+07052026    14  16.7   17  1011.6  180   22     SAN LUIS AERO                                       
+07052026    15  17.9   15  1010.9  210   28     SAN LUIS AERO                                       
+07052026    16  18.0   12  1010.2  220   20     SAN LUIS AERO                                       
+07052026    17  17.6   14  1010.2  180   17     SAN LUIS AERO                                       
+07052026    18  16.7   16  1010.1  170   13     SAN LUIS AERO                                       
+07052026    19  14.6   22  1010.4  140    9     SAN LUIS AERO                                       
+07052026    20  13.1   31  1011.5  100    9     SAN LUIS AERO                                       
+07052026    21  13.7   30  1012.4  120    7     SAN LUIS AERO                                       
+07052026    22  12.9   23  1013.0  110    7     SAN LUIS AERO                                       
+07052026    23  12.0   21  1014.7  130   17     SAN LUIS AERO                                       
+07052026     9  10.0   46  1013.3  260    6     SAN MARTIN (MZA)                                    
+07052026    10  13.5   30  1013.4  150    7     SAN MARTIN (MZA)                                    
+07052026    11  14.9   24  1013.3  110   13     SAN MARTIN (MZA)                                    
+07052026    12  17.0   25  1013.1  160    4     SAN MARTIN (MZA)                                    
+07052026    13  18.0   19  1012.6  320    7     SAN MARTIN (MZA)                                    
+07052026    14  19.0   19  1011.5  330   11     SAN MARTIN (MZA)                                    
+07052026    15  19.8   15  1010.8  330   13     SAN MARTIN (MZA)                                    
+07052026    16  20.8   14  1009.6  360    7     SAN MARTIN (MZA)                                    
+07052026    17  20.9   15  1009.7  330    6     SAN MARTIN (MZA)                                    
+07052026    18  19.9   15  1009.9  360    7     SAN MARTIN (MZA)                                    
+07052026    19  16.8   30  1010.5  330    6     SAN MARTIN (MZA)                                    
+07052026    20  13.6   37  1011.4   20    4     SAN MARTIN (MZA)                                    
+07052026    21  12.3   41  1012.1   50    4     SAN MARTIN (MZA)                                    
+07052026     6  11.6   57  1011.8  230   19     SAN RAFAEL AERO                                     
+07052026     7  11.0   61  1013.0  230   15     SAN RAFAEL AERO                                     
+07052026     8  10.8   67  1012.9  180   17     SAN RAFAEL AERO                                     
+07052026     9  11.8   66  1013.3  230   15     SAN RAFAEL AERO                                     
+07052026    10  13.8   54  1014.3  180   31     SAN RAFAEL AERO                                     
+07052026    11  16.4   16  1013.0  180   35     SAN RAFAEL AERO                                     
+07052026    12  18.4   20  1011.4  230   48     SAN RAFAEL AERO                                     
+07052026    13  18.8   48  1010.3  230   52     SAN RAFAEL AERO                                     
+07052026    14  19.8    7  1009.9  180   48     SAN RAFAEL AERO                                     
+07052026    15  19.8   43  1008.7  180   52     SAN RAFAEL AERO                                     
+07052026    16  20.2   46  1009.7  180   30     SAN RAFAEL AERO                                     
+07052026    17  19.8   46  1009.2  180   37     SAN RAFAEL AERO                                     
+07052026    18  18.8   48  1010.4  180   37     SAN RAFAEL AERO                                     
+07052026    19  17.4   47  1011.0  230   20     SAN RAFAEL AERO                                     
+07052026    20  16.4   18  1011.6  180    7     SAN RAFAEL AERO                                     
+07052026    21  15.0   34  1012.3  180   33     SAN RAFAEL AERO                                     
+07052026     9   3.7   87  1015.9  250   28     SANTA CRUZ AERO                                     
+07052026    15   5.4   80          200   37     SANTA CRUZ AERO                                     
+07052026    21   4.7   87  1017.4  200   46     SANTA CRUZ AERO                                     
+07052026     0  15.4   84  1005.6  230   13     SANTA ROSA AERO                                     
+07052026     1  14.6   64  1005.9  230   13     SANTA ROSA AERO                                     
+07052026     2  14.1   53  1007.2  250   20     SANTA ROSA AERO                                     
+07052026     3  13.6   54  1006.2  230   24     SANTA ROSA AERO                                     
+07052026     4  13.4   56  1006.7  230   20     SANTA ROSA AERO                                     
+07052026     5  12.8   57  1007.0  250   17     SANTA ROSA AERO                                     
+07052026     6  12.1   56  1006.3  250   17     SANTA ROSA AERO                                     
+07052026     7  11.5   58  1006.4  230   19     SANTA ROSA AERO                                     
+07052026     8  11.1   59  1006.7  230   19     SANTA ROSA AERO                                     
+07052026     9  11.6   60  1007.2  230   28     SANTA ROSA AERO                                     
+07052026    10  11.0   64  1008.3  230   26     SANTA ROSA AERO                                     
+07052026    11  11.7   56  1008.4  200   30     SANTA ROSA AERO                                     
+07052026    12  13.0   47  1007.9  200   35     SANTA ROSA AERO                                     
+07052026    13  13.0   46  1007.9  200   35     SANTA ROSA AERO                                     
+07052026    14  14.4   42  1007.3  200   37     SANTA ROSA AERO                                     
+07052026    15  14.5   42  1007.6  200   30     SANTA ROSA AERO                                     
+07052026    16  14.6   41  1008.0  180   35     SANTA ROSA AERO                                     
+07052026    17  14.5   38  1008.2  200   33     SANTA ROSA AERO                                     
+07052026    18  13.8   32  1008.8  200   30     SANTA ROSA AERO                                     
+07052026    19  12.2   39  1008.5  200   19     SANTA ROSA AERO                                     
+07052026    20  11.5   37  1009.4  200   22     SANTA ROSA AERO                                     
+07052026    21  10.3   40  1010.0  200   19     SANTA ROSA AERO                                     
+07052026    22   9.7   33  1010.4  200   26     SANTA ROSA AERO                                     
+07052026    23   8.7   34  1010.6  230   22     SANTA ROSA AERO                                     
+07052026     8  13.4   42  1007.9  180   26     SANTA ROSA DE CONLARA AERO                          
+07052026     9  12.3   43  1011.1  180   26     SANTA ROSA DE CONLARA AERO                          
+07052026    10  12.3   41  1012.5  180   22     SANTA ROSA DE CONLARA AERO                          
+07052026    11  13.0   38  1012.1  180   33     SANTA ROSA DE CONLARA AERO                          
+07052026    12  15.0   30  1012.3  180   37     SANTA ROSA DE CONLARA AERO                          
+07052026    13  16.1   28  1011.5  180   22     SANTA ROSA DE CONLARA AERO                          
+07052026    14  17.2   25  1010.8  180   30     SANTA ROSA DE CONLARA AERO                          
+07052026    15  17.7   23  1010.2  180   19     SANTA ROSA DE CONLARA AERO                          
+07052026    16  17.8   20  1009.7  180   39     SANTA ROSA DE CONLARA AERO                          
+07052026    17  18.1   18  1009.3  180   19     SANTA ROSA DE CONLARA AERO                          
+07052026    18  16.9   16  1010.4  180   19     SANTA ROSA DE CONLARA AERO                          
+07052026    19  14.8   23  1010.1  140   11     SANTA ROSA DE CONLARA AERO                          
+07052026    20   6.7   48  1011.3    0    0     SANTA ROSA DE CONLARA AERO                          
+07052026    21   4.5   60  1012.4    0    0     SANTA ROSA DE CONLARA AERO                          
+07052026    22   4.7   62  1013.0    0    0     SANTA ROSA DE CONLARA AERO                          
+07052026     0  21.7   92   999.9   20    7     SANTIAGO DEL ESTERO AERO                            
+07052026     1  21.2   93   999.5  270    4     SANTIAGO DEL ESTERO AERO                            
+07052026     2  20.3   92   998.2  340    7     SANTIAGO DEL ESTERO AERO                            
+07052026     3  20.2   96   999.1  170    4     SANTIAGO DEL ESTERO AERO                            
+07052026     4  20.2   97   998.7    0    0     SANTIAGO DEL ESTERO AERO                            
+07052026     5  19.4   98   998.3  100    4     SANTIAGO DEL ESTERO AERO                            
+07052026     6  19.0   99   999.4  180   17     SANTIAGO DEL ESTERO AERO                            
+07052026     7  20.0   99   999.8  180    9     SANTIAGO DEL ESTERO AERO                            
+07052026     8  21.2   92  1001.5  160   22     SANTIAGO DEL ESTERO AERO                            
+07052026     9  21.0   70  1004.2  150   35     SANTIAGO DEL ESTERO AERO                            
+07052026    10  21.1   59  1007.2  160   33     SANTIAGO DEL ESTERO AERO                            
+07052026    11  20.1   48  1008.6  180   46     SANTIAGO DEL ESTERO AERO                            
+07052026    12  21.1   45  1008.4  140   24     SANTIAGO DEL ESTERO AERO                            
+07052026    13  18.4   54  1010.4  150   20     SANTIAGO DEL ESTERO AERO                            
+07052026    14  16.6   68  1010.8  190   19     SANTIAGO DEL ESTERO AERO                            
+07052026    15  16.8   70  1010.8  180   11     SANTIAGO DEL ESTERO AERO                            
+07052026    16  17.6   70  1011.3  180    9     SANTIAGO DEL ESTERO AERO                            
+07052026    17  18.6   69  1011.5  150    6     SANTIAGO DEL ESTERO AERO                            
+07052026    18  18.3   70  1011.7   20    6     SANTIAGO DEL ESTERO AERO                            
+07052026    19  16.6   83  1011.9   20    4     SANTIAGO DEL ESTERO AERO                            
+07052026    20  14.6   87  1012.1   10    6     SANTIAGO DEL ESTERO AERO                            
+07052026    21  12.8   96  1013.0  360    6     SANTIAGO DEL ESTERO AERO                            
+07052026    22  13.2   86  1012.8  340    6     SANTIAGO DEL ESTERO AERO                            
+07052026    23  11.4   88  1013.1  290    6     SANTIAGO DEL ESTERO AERO                            
+07052026     0  23.5   85  1001.8   50   11     SAUCE VIEJO AERO                                    
+07052026     1  23.1   85  1001.2  320    7     SAUCE VIEJO AERO                                    
+07052026     2  23.3   85  1001.1  360   11     SAUCE VIEJO AERO                                    
+07052026     3  23.1   86  1000.8  320   11     SAUCE VIEJO AERO                                    
+07052026     4  23.1   88  1001.3  230   24     SAUCE VIEJO AERO                                    
+07052026     5  21.3   93  1001.5  270   19     SAUCE VIEJO AERO                                    
+07052026     6  20.1   81  1001.5  230   28     SAUCE VIEJO AERO                                    
+07052026     7  20.4   85  1001.1  230   30     SAUCE VIEJO AERO                                    
+07052026     8  19.3   89  1003.2  230   30     SAUCE VIEJO AERO                                    
+07052026     9  18.4   85  1004.6  230   28     SAUCE VIEJO AERO                                    
+07052026    10  16.8   76  1006.1  230   26     SAUCE VIEJO AERO                                    
+07052026    11  16.3   86  1008.7  270   33     SAUCE VIEJO AERO                                    
+07052026    12  15.3   77  1008.1  270   39     SAUCE VIEJO AERO                                    
+07052026    13  14.4   88  1006.4  230   19     SAUCE VIEJO AERO                                    
+07052026    14  14.2   86  1005.6  230   19     SAUCE VIEJO AERO                                    
+07052026    15  14.7   76  1003.8  230   26     SAUCE VIEJO AERO                                    
+07052026    16  13.8   73  1007.2  270   19     SAUCE VIEJO AERO                                    
+07052026    17  15.3   64  1006.6  270   15     SAUCE VIEJO AERO                                    
+07052026    18  15.1   69  1006.9  270   11     SAUCE VIEJO AERO                                    
+07052026    19  13.3   70  1007.4  270   15     SAUCE VIEJO AERO                                    
+07052026    20  11.4   75  1008.3  270   13     SAUCE VIEJO AERO                                    
+07052026    21  11.1   78  1008.5  230    9     SAUCE VIEJO AERO                                    
+07052026    22   9.8   82  1008.4  270   11     SAUCE VIEJO AERO                                    
+07052026    23   9.4   78  1009.3  270   15     SAUCE VIEJO AERO                                    
+07052026     0  23.0   88  1001.4   50    4     SUNCHALES AERO                                      
+07052026     1  22.6   91  1000.9  320    4     SUNCHALES AERO                                      
+07052026     2  22.8   91  1000.8  270    4     SUNCHALES AERO                                      
+07052026     3  22.4   91  1000.2    0    0     SUNCHALES AERO                                      
+07052026     4  22.0   91  1000.6  230   15     SUNCHALES AERO                                      
+07052026     5  19.8   87  1001.8  180   15     SUNCHALES AERO                                      
+07052026     6  17.6   84  1002.1  180   24     SUNCHALES AERO                                      
+07052026     7  18.6   84  1002.1  200   33     SUNCHALES AERO                                      
+07052026     8  17.8   82  1003.3  200   33     SUNCHALES AERO                                      
+07052026     9  17.1   75  1005.1  200   24     SUNCHALES AERO                                      
+07052026    10  17.2   74  1006.1  200   44     SUNCHALES AERO                                      
+07052026    11  15.0   66  1007.1  200   44     SUNCHALES AERO                                      
+07052026    12  13.3   84  1010.1  230   24     SUNCHALES AERO                                      
+07052026    13  11.6   93  1008.7  230   24     SUNCHALES AERO                                      
+07052026    14  12.6   83  1005.9  230   24     SUNCHALES AERO                                      
+07052026    15  13.5   67  1006.7  250   24     SUNCHALES AERO                                      
+07052026    16  13.7   67  1007.9  250   24     SUNCHALES AERO                                      
+07052026    17  15.7   56  1007.3  250   15     SUNCHALES AERO                                      
+07052026    18  15.5   61  1008.3  250    9     SUNCHALES AERO                                      
+07052026    19  13.7   63  1008.7  250    4     SUNCHALES AERO                                      
+07052026    20  12.1   64  1009.6  250    4     SUNCHALES AERO                                      
+07052026    21  12.1   54  1009.9  250    9     SUNCHALES AERO                                      
+07052026    22  10.4   60  1010.0  250    9     SUNCHALES AERO                                      
+07052026    23   8.2   71  1010.3  250    9     SUNCHALES AERO                                      
+07052026     8  13.3   96   998.7  220   24     TANDIL AERO                                         
+07052026     9  13.6   94   999.4  220   20     TANDIL AERO                                         
+07052026    10  13.9   92   999.4  190   15     TANDIL AERO                                         
+07052026    11  14.7   89   998.9  210   17     TANDIL AERO                                         
+07052026    12  15.3   84   998.5  210   13     TANDIL AERO                                         
+07052026    13  16.4   79   998.4  210    9     TANDIL AERO                                         
+07052026    14  16.7   78   998.1  240   13     TANDIL AERO                                         
+07052026    15  17.3   76   997.9  250   11     TANDIL AERO                                         
+07052026    16  16.8   79   997.9  230   11     TANDIL AERO                                         
+07052026    17  16.7   76   997.9  230    9     TANDIL AERO                                         
+07052026    18  13.4   90   996.4  220   28     TANDIL AERO                                         
+07052026    19  11.9   93   998.2  220   28     TANDIL AERO                                         
+07052026    20  11.7   92   998.7  220   24     TANDIL AERO                                         
+07052026    21  10.9   94   999.3  230   37     TANDIL AERO                                         
+07052026     9  21.0   95   998.7  290    4     TARTAGAL AERO                                       
+07052026    12  25.8   78          110    4     TARTAGAL AERO                                       
+07052026    15  23.8   79          160   33     TARTAGAL AERO                                       
+07052026    18  17.8   76          180   44     TARTAGAL AERO                                       
+07052026    21  16.3   60  1013.6  200    9     TARTAGAL AERO                                       
+07052026     9  20.2   84  1005.5  180   22     TERMAS DE RIO HONDO AERO                            
+07052026    10  20.8   84  1008.2  180   31     TERMAS DE RIO HONDO AERO                            
+07052026    11  21.0   82  1009.0  180   41     TERMAS DE RIO HONDO AERO                            
+07052026    12  20.6   80  1010.9  180   26     TERMAS DE RIO HONDO AERO                            
+07052026    13  19.0   58  1011.7  180   26     TERMAS DE RIO HONDO AERO                            
+07052026    14  18.6   50  1012.0  180   19     TERMAS DE RIO HONDO AERO                            
+07052026    15  18.0   64  1011.8  180   19     TERMAS DE RIO HONDO AERO                            
+07052026    16  18.4   59  1011.6  230   11     TERMAS DE RIO HONDO AERO                            
+07052026    17  19.4   69  1011.4    0    0     TERMAS DE RIO HONDO AERO                            
+07052026    18  19.0   72  1011.9    0    0     TERMAS DE RIO HONDO AERO                            
+07052026    19  17.0   80  1012.0  270    7     TERMAS DE RIO HONDO AERO                            
+07052026    20  17.0   80  1012.4  270   13     TERMAS DE RIO HONDO AERO                            
+07052026    21  16.6   74  1012.7  360   11     TERMAS DE RIO HONDO AERO                            
+07052026     9  17.8   34          110   33     TINOGASTA                                           
+07052026    12  18.8   24          110   33     TINOGASTA                                           
+07052026    15  21.2   22          110   24     TINOGASTA                                           
+07052026    18  20.2   25          180   15     TINOGASTA                                           
+07052026    21  13.8   40          110   15     TINOGASTA                                           
+07052026     0  11.6   96  1005.4  260   11     TRELEW AERO                                         
+07052026     1  10.6   96  1004.8  260   19     TRELEW AERO                                         
+07052026     2  10.5   95  1005.0  260   17     TRELEW AERO                                         
+07052026     3  10.1   96  1005.0  260   19     TRELEW AERO                                         
+07052026     4   9.8   96  1004.8  260   20     TRELEW AERO                                         
+07052026     5  10.4   97  1004.6  250   19     TRELEW AERO                                         
+07052026     6  11.0   94  1005.5  230   22     TRELEW AERO                                         
+07052026     7  10.4   97  1006.5  230   33     TRELEW AERO                                         
+07052026     8   9.4   92  1007.1  230   39     TRELEW AERO                                         
+07052026     9   8.6   89  1007.8  230   31     TRELEW AERO                                         
+07052026    10   8.4   84  1008.1  230   39     TRELEW AERO                                         
+07052026    11   9.0   76  1008.2  240   41     TRELEW AERO                                         
+07052026    12   9.2   75  1008.2  240   37     TRELEW AERO                                         
+07052026    13   9.2   74  1008.6  230   37     TRELEW AERO                                         
+07052026    14   9.6   73  1007.9  230   41     TRELEW AERO                                         
+07052026    15   9.9   71  1007.6  230   37     TRELEW AERO                                         
+07052026    16   9.6   72  1007.9  230   37     TRELEW AERO                                         
+07052026    17   9.0   71  1008.6  230   43     TRELEW AERO                                         
+07052026    18   8.4   71  1009.0  230   35     TRELEW AERO                                         
+07052026    19   8.0   70  1009.8  230   37     TRELEW AERO                                         
+07052026    20   7.6   72  1009.9  230   35     TRELEW AERO                                         
+07052026    21   7.4   69  1009.7  230   37     TRELEW AERO                                         
+07052026    22   7.4   64  1010.3  230   33     TRELEW AERO                                         
+07052026    23   7.2   66  1010.4  230   31     TRELEW AERO                                         
+07052026     9  11.0   69  1006.0  230   30     TRENQUE LAUQUEN                                     
+07052026    12  12.8   70  1004.9  230   41     TRENQUE LAUQUEN                                     
+07052026    15  13.8   59  1006.3  230   41     TRENQUE LAUQUEN                                     
+07052026    18  12.6   64  1007.1  230   33     TRENQUE LAUQUEN                                     
+07052026    21  11.2   62  1007.7  230   19     TRENQUE LAUQUEN                                     
+07052026     9  13.3   97  1000.5  180   24     TRES ARROYOS                                        
+07052026    12  14.9   90  1000.1  200    7     TRES ARROYOS                                        
+07052026    15  13.5   91  1000.0  250   19     TRES ARROYOS                                        
+07052026    18  12.3   91   998.5  270   17     TRES ARROYOS                                        
+07052026    21   9.7   90  1000.1  250   33     TRES ARROYOS                                        
+07052026     0  17.9   91  1000.5  360   11     TUCUMAN AERO                                        
+07052026     1  18.3   92   999.6   50   13     TUCUMAN AERO                                        
+07052026     2  20.3   88   997.8   50   22     TUCUMAN AERO                                        
+07052026     3  18.1   89   998.4  230   15     TUCUMAN AERO                                        
+07052026     4  17.1   99   998.8  230   13     TUCUMAN AERO                                        
+07052026     5  16.6   95   999.2  340    7     TUCUMAN AERO                                        
+07052026     6  16.6   95   999.2  270    9     TUCUMAN AERO                                        
+07052026     7  16.3   95  1000.9  360    6     TUCUMAN AERO                                        
+07052026     8  18.0   88  1002.2  230   17     TUCUMAN AERO                                        
+07052026     9  20.8   86  1004.2  200   15     TUCUMAN AERO                                        
+07052026    10  19.7   95  1006.3  230   19     TUCUMAN AERO                                        
+07052026    11  18.3   83  1009.7  230   15     TUCUMAN AERO                                        
+07052026    12  16.4   73  1011.0  200   28     TUCUMAN AERO                                        
+07052026    13  16.5   74  1012.0  230   15     TUCUMAN AERO                                        
+07052026    14  16.9   73  1011.3  230   15     TUCUMAN AERO                                        
+07052026    15  16.9   70  1011.5  180   11     TUCUMAN AERO                                        
+07052026    16  17.1   70  1011.5  230    6     TUCUMAN AERO                                        
+07052026    17  17.7   62  1011.4  270    7     TUCUMAN AERO                                        
+07052026    18  18.4   59  1011.8  270    9     TUCUMAN AERO                                        
+07052026    19  16.1   69  1012.3  340    9     TUCUMAN AERO                                        
+07052026    20  14.1   82  1013.0  360   13     TUCUMAN AERO                                        
+07052026    21  13.5   75  1013.4  360   15     TUCUMAN AERO                                        
+07052026    22  12.9   72  1013.4  360   15     TUCUMAN AERO                                        
+07052026    23  12.3   74  1013.0  360   20     TUCUMAN AERO                                        
+07052026     0   4.3   84  1018.2  320    4     USHUAIA AERO                                        
+07052026     1   4.7   79  1018.3  320    4     USHUAIA AERO                                        
+07052026     2   4.2   85  1018.6  230    6     USHUAIA AERO                                        
+07052026     3   4.1   87  1018.8  230    6     USHUAIA AERO                                        
+07052026     4   3.5   91  1018.6  270    9     USHUAIA AERO                                        
+07052026     5   3.7   90  1018.5  230    2     USHUAIA AERO                                        
+07052026     6   4.0   89  1018.8  140   17     USHUAIA AERO                                        
+07052026     7   4.0   93  1019.3   90    9     USHUAIA AERO                                        
+07052026     8   3.5   80  1019.7  110    9     USHUAIA AERO                                        
+07052026     9   3.0   88  1020.2   70   22     USHUAIA AERO                                        
+07052026    10   3.4   85  1020.4  340    6     USHUAIA AERO                                        
+07052026    11   4.0   84  1020.6  990    7     USHUAIA AERO                                        
+07052026    12   4.4   84  1020.9   50    6     USHUAIA AERO                                        
+07052026    13   4.8   79  1020.9   20    7     USHUAIA AERO                                        
+07052026    14   4.6   78  1021.2   50    2     USHUAIA AERO                                        
+07052026    15   4.8   81  1021.3   20    4     USHUAIA AERO                                        
+07052026    16   4.2   81  1021.6   20    4     USHUAIA AERO                                        
+07052026    17   4.2   81  1022.3   50    2     USHUAIA AERO                                        
+07052026    18   3.6   83  1023.1  290    2     USHUAIA AERO                                        
+07052026    19   3.4   86  1023.7    0    0     USHUAIA AERO                                        
+07052026    20   3.0   90  1024.3  110    9     USHUAIA AERO                                        
+07052026    21   3.0   90  1025.0   20    9     USHUAIA AERO                                        
+07052026    22   2.6   93  1025.7   50   13     USHUAIA AERO                                        
+07052026    23   2.4   97  1026.5   90    9     USHUAIA AERO                                        
+07052026     9   3.3   35          270   33     USPALLATA                                           
+07052026    12  10.4   14          270   24     USPALLATA                                           
+07052026    15  14.2   13          270   24     USPALLATA                                           
+07052026    18  14.6   26            0    0     USPALLATA                                           
+07052026    21   7.2   48            0    0     USPALLATA                                           
+07052026     6  15.0   60  1005.7  200   24     VENADO TUERTO AERO                                  
+07052026     7  14.9   53  1005.8  200   33     VENADO TUERTO AERO                                  
+07052026     8  14.4   53  1006.6  200   24     VENADO TUERTO AERO                                  
+07052026     9  13.8   57  1005.8  200   24     VENADO TUERTO AERO                                  
+07052026    10  14.0   51  1005.5  200   33     VENADO TUERTO AERO                                  
+07052026    11  13.5   53  1007.3  200   24     VENADO TUERTO AERO                                  
+07052026    12  14.0   48  1007.7  230   24     VENADO TUERTO AERO                                  
+07052026    13  15.0   47  1006.8  230   33     VENADO TUERTO AERO                                  
+07052026    14  16.5   41  1007.0  230   24     VENADO TUERTO AERO                                  
+07052026    15  16.7   41  1006.5  200   33     VENADO TUERTO AERO                                  
+07052026    16  16.0   44  1006.1  200   33     VENADO TUERTO AERO                                  
+07052026    17  15.7   45  1006.1  200   33     VENADO TUERTO AERO                                  
+07052026    18  15.1   45  1006.2  200   33     VENADO TUERTO AERO                                  
+07052026    19  13.6   52  1006.4  230   24     VENADO TUERTO AERO                                  
+07052026    20  12.5   59  1007.5  230   24     VENADO TUERTO AERO                                  
+07052026    21  10.2   68  1008.3  230    9     VENADO TUERTO AERO                                  
+07052026     9  10.6   51  1010.1  230   44     VICTORICA                                           
+07052026    15  15.3   24  1009.5  230   44     VICTORICA                                           
+07052026    21  10.8   36  1012.0  230   44     VICTORICA                                           
+07052026     0  14.7   91  1004.1   30    7     VIEDMA AERO                                         
+07052026     1  14.6   90  1003.4   40    7     VIEDMA AERO                                         
+07052026     2  14.5   91  1003.4  330    7     VIEDMA AERO                                         
+07052026     3  14.2   92  1003.9  330    9     VIEDMA AERO                                         
+07052026     4  13.9   94  1003.0  180    7     VIEDMA AERO                                         
+07052026     5  13.6   96  1003.1  230    6     VIEDMA AERO                                         
+07052026     6  13.0   94  1002.4  230   24     VIEDMA AERO                                         
+07052026     7  12.4   93  1002.8  220   22     VIEDMA AERO                                         
+07052026     8  12.1   93  1002.9  230   24     VIEDMA AERO                                         
+07052026     9  11.8   94  1004.2  280   17     VIEDMA AERO                                         
+07052026    10  11.4   95  1004.0  260   19     VIEDMA AERO                                         
+07052026    11  11.4   96  1003.9  290   17     VIEDMA AERO                                         
+07052026    12  11.4   94  1003.6  230   35     VIEDMA AERO                                         
+07052026    13  10.8   94  1003.5  230   37     VIEDMA AERO                                         
+07052026    14  10.9   94  1003.5  210   44     VIEDMA AERO                                         
+07052026    15  10.4   96  1002.9  230   41     VIEDMA AERO                                         
+07052026    16  10.6   85  1003.1  220   44     VIEDMA AERO                                         
+07052026    17  10.2   90  1003.6  230   35     VIEDMA AERO                                         
+07052026    18   9.8   91  1003.9  230   41     VIEDMA AERO                                         
+07052026    19   9.7   92  1004.2  230   44     VIEDMA AERO                                         
+07052026    20   9.5   92  1004.2  230   41     VIEDMA AERO                                         
+07052026    21   9.9   85  1004.3  230   44     VIEDMA AERO                                         
+07052026    22  10.1   80  1004.4  220   48     VIEDMA AERO                                         
+07052026    23   9.6   81  1004.6  230   54     VIEDMA AERO                                         
+07052026     9  14.4   69  1008.4  180   24     VILLA DE MARIA DEL RIO SEC                          
+                                            O                                                       
+                                                                                                    
+07052026    15  17.6   45  1010.1  180    9     VILLA DE MARIA DEL RIO SEC                          
+                                            O                                                       
+                                                                                                    
+07052026    21   8.7   86  1012.7    0    0     VILLA DE MARIA DEL RIO SEC                          
+                                            O                                                       
+                                                                                                    
+07052026     9  15.4   29  1009.5  180   20     VILLA DOLORES AERO                                  
+07052026    10  13.6   36  1011.4  180   17     VILLA DOLORES AERO                                  
+07052026    11  13.5   35  1012.0  180   28     VILLA DOLORES AERO                                  
+07052026    12  15.7   29  1012.6  180   22     VILLA DOLORES AERO                                  
+07052026    13  17.2   24  1012.3  180   13     VILLA DOLORES AERO                                  
+07052026    14  17.8   17  1011.4  230   24     VILLA DOLORES AERO                                  
+07052026    15  18.6   20  1010.6  230   24     VILLA DOLORES AERO                                  
+07052026    16  18.9   19  1010.1  230   22     VILLA DOLORES AERO                                  
+07052026    17  18.4   20  1010.1  230   22     VILLA DOLORES AERO                                  
+07052026    18  17.4   23  1010.6  180   17     VILLA DOLORES AERO                                  
+07052026    19  14.2   34  1011.3  140    9     VILLA DOLORES AERO                                  
+07052026    20  10.2   40  1011.9  140   17     VILLA DOLORES AERO                                  
+07052026    21   7.8   53  1012.3   90    7     VILLA DOLORES AERO                                  
+07052026     8  14.0   99   996.8  230   19     VILLA GESELL AERO                                   
+07052026     9  14.5   97   995.5  210   20     VILLA GESELL AERO                                   
+07052026    10  15.0   99   997.3  230   20     VILLA GESELL AERO                                   
+07052026    11  15.5   94   996.3  240   19     VILLA GESELL AERO                                   
+07052026    12  16.0   94   996.9  240   19     VILLA GESELL AERO                                   
+07052026    13  17.5   94   997.2  240   19     VILLA GESELL AERO                                   
+07052026    14  16.5   90   996.8  250   20     VILLA GESELL AERO                                   
+07052026    15  16.5   89   996.7  220   20     VILLA GESELL AERO                                   
+07052026    16  16.1   89   996.3  220   20     VILLA GESELL AERO                                   
+07052026    17  16.0   87   996.0  220   22     VILLA GESELL AERO                                   
+07052026    18  15.5   89   995.2  200   17     VILLA GESELL AERO                                   
+07052026    19  14.0   94   996.4  160    6     VILLA GESELL AERO                                   
+07052026    20  13.5   88   996.8  230    6     VILLA GESELL AERO                                   
+07052026    21  13.0   92   997.1  250    6     VILLA GESELL AERO                                   
+07052026     0  15.6   86  1007.2  270   15     VILLA REYNOLDS AERO                                 
+07052026     1  15.4   85  1008.0  230   15     VILLA REYNOLDS AERO                                 
+07052026     2  15.5   79  1008.0  200   28     VILLA REYNOLDS AERO                                 
+07052026     3  15.3   76  1010.5  180   22     VILLA REYNOLDS AERO                                 
+07052026     4  14.0   73  1009.8  200   15     VILLA REYNOLDS AERO                                 
+07052026     5  12.4   74  1010.0  180    9     VILLA REYNOLDS AERO                                 
+07052026     6  11.7   72  1011.6  200   15     VILLA REYNOLDS AERO                                 
+07052026     7  10.9   66  1011.9  200   15     VILLA REYNOLDS AERO                                 
+07052026     8   9.5   73  1012.6  230   15     VILLA REYNOLDS AERO                                 
+07052026     9   9.7   81  1012.5  230   15     VILLA REYNOLDS AERO                                 
+07052026    10  11.7   62  1012.2  200   28     VILLA REYNOLDS AERO                                 
+07052026    11  13.5   41  1013.1  180   28     VILLA REYNOLDS AERO                                 
+07052026    12  15.2   26  1012.1  180   35     VILLA REYNOLDS AERO                                 
+07052026    13  17.0   21  1011.6  180   41     VILLA REYNOLDS AERO                                 
+07052026    14  17.1   17  1011.2  180   31     VILLA REYNOLDS AERO                                 
+07052026    15  17.4   14  1011.0  230   37     VILLA REYNOLDS AERO                                 
+07052026    16  17.6   10  1010.4  230   33     VILLA REYNOLDS AERO                                 
+07052026    17  17.0   10  1010.8  230   37     VILLA REYNOLDS AERO                                 
+07052026    18  15.3   14  1011.0  230   28     VILLA REYNOLDS AERO                                 
+07052026    19  11.0   22  1012.1  230    9     VILLA REYNOLDS AERO                                 
+07052026    20   9.0   36  1012.8  230    9     VILLA REYNOLDS AERO                                 
+07052026    21   8.8   28  1013.4  230    9     VILLA REYNOLDS AERO                                 
+07052026    22   6.9   34  1014.1  230    7     VILLA REYNOLDS AERO                                 
+07052026    23   6.4   40  1015.2  180   19     VILLA REYNOLDS AERO                                 

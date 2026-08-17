@@ -1,0 +1,87 @@
+2026-08-06 23:19:12 | INFO     | Notebook 01_descarga_datos (California) iniciado
+2026-08-06 23:20:55 | INFO     | EPA AQS 1998: descargado
+2026-08-06 23:22:43 | INFO     | EPA AQS 1999: descargado
+2026-08-06 23:24:45 | INFO     | EPA AQS 2000: descargado
+2026-08-06 23:26:09 | INFO     | EPA AQS 2001: descargado
+2026-08-06 23:28:07 | INFO     | EPA AQS 2002: descargado
+2026-08-06 23:30:08 | INFO     | EPA AQS 2003: descargado
+2026-08-06 23:32:01 | INFO     | EPA AQS 2004: descargado
+2026-08-06 23:33:24 | INFO     | EPA AQS 2005: descargado
+2026-08-06 23:35:26 | INFO     | EPA AQS 2006: descargado
+2026-08-06 23:37:29 | INFO     | EPA AQS 2007: descargado
+2026-08-06 23:39:30 | INFO     | EPA AQS 2008: descargado
+2026-08-07 00:02:48 | INFO     | Notebook 01_descarga_datos (California) iniciado
+2026-08-07 00:04:55 | INFO     | EPA AQS 2009: descargado
+2026-08-07 00:07:03 | INFO     | EPA AQS 2010: descargado
+2026-08-07 00:09:23 | INFO     | Notebook 01_descarga_datos (California) iniciado
+2026-08-07 00:11:46 | INFO     | EPA AQS 2011: descargado
+2026-08-07 00:13:56 | INFO     | EPA AQS 2012: descargado
+2026-08-07 00:16:15 | INFO     | EPA AQS 2013: descargado
+2026-08-07 00:18:32 | INFO     | EPA AQS 2014: descargado
+2026-08-07 00:20:51 | INFO     | EPA AQS 2015: descargado
+2026-08-07 00:23:04 | INFO     | EPA AQS 2016: descargado
+2026-08-07 00:25:51 | INFO     | EPA AQS 2017: descargado
+2026-08-07 00:27:27 | INFO     | EPA AQS 2018: descargado
+2026-08-07 00:29:42 | INFO     | EPA AQS 2019: descargado
+2026-08-07 00:31:50 | INFO     | EPA AQS 2020: descargado
+2026-08-07 00:33:58 | INFO     | EPA AQS 2021: descargado
+2026-08-07 00:35:54 | INFO     | EPA AQS 2022: descargado
+2026-08-07 00:38:05 | INFO     | EPA AQS 2023: descargado
+2026-08-07 00:40:36 | INFO     | EPA AQS 2024: descargado
+2026-08-07 00:42:07 | INFO     | EPA AQS 2025: descargado
+2026-08-07 00:42:16 | INFO     | NOAA ISD 1998: descargado
+2026-08-07 00:42:20 | INFO     | NOAA ISD 1999: descargado
+2026-08-07 00:42:23 | INFO     | NOAA ISD 2000: descargado
+2026-08-07 00:42:26 | INFO     | NOAA ISD 2001: descargado
+2026-08-07 00:42:30 | INFO     | NOAA ISD 2002: descargado
+2026-08-07 00:42:33 | INFO     | NOAA ISD 2003: descargado
+2026-08-07 00:42:37 | INFO     | NOAA ISD 2004: descargado
+2026-08-07 00:42:40 | INFO     | NOAA ISD 2005: descargado
+2026-08-07 00:42:43 | INFO     | NOAA ISD 2006: descargado
+2026-08-07 00:42:46 | INFO     | NOAA ISD 2007: descargado
+2026-08-07 00:42:49 | INFO     | NOAA ISD 2008: descargado
+2026-08-07 00:42:52 | INFO     | NOAA ISD 2009: descargado
+2026-08-07 00:42:55 | INFO     | NOAA ISD 2010: descargado
+2026-08-07 00:42:59 | INFO     | NOAA ISD 2011: descargado
+2026-08-07 00:43:02 | INFO     | NOAA ISD 2012: descargado
+2026-08-07 00:43:05 | INFO     | NOAA ISD 2013: descargado
+2026-08-07 00:43:09 | INFO     | NOAA ISD 2014: descargado
+2026-08-07 00:43:12 | INFO     | NOAA ISD 2015: descargado
+2026-08-07 00:43:15 | INFO     | NOAA ISD 2016: descargado
+2026-08-07 00:43:18 | INFO     | NOAA ISD 2017: descargado
+2026-08-07 00:43:21 | INFO     | NOAA ISD 2018: descargado
+2026-08-07 00:43:25 | INFO     | NOAA ISD 2019: descargado
+2026-08-07 00:43:28 | INFO     | NOAA ISD 2020: descargado
+2026-08-07 00:43:31 | INFO     | NOAA ISD 2021: descargado
+2026-08-07 00:43:34 | INFO     | NOAA ISD 2022: descargado
+2026-08-07 00:43:38 | INFO     | NOAA ISD 2023: descargado
+2026-08-07 00:43:41 | INFO     | NOAA ISD 2024: descargado
+2026-08-07 00:43:44 | INFO     | NOAA ISD 2025: descargado
+2026-08-07 00:44:12 | INFO     | NSRDB 1998: descargado
+2026-08-07 00:44:27 | INFO     | NSRDB 1999: descargado
+2026-08-07 00:44:42 | INFO     | NSRDB 2000: descargado
+2026-08-07 00:44:56 | INFO     | NSRDB 2001: descargado
+2026-08-07 00:45:11 | INFO     | NSRDB 2002: descargado
+2026-08-07 00:45:25 | INFO     | NSRDB 2003: descargado
+2026-08-07 00:45:39 | INFO     | NSRDB 2004: descargado
+2026-08-07 00:45:53 | INFO     | NSRDB 2005: descargado
+2026-08-07 00:46:08 | INFO     | NSRDB 2006: descargado
+2026-08-07 00:46:23 | INFO     | NSRDB 2007: descargado
+2026-08-07 00:46:38 | INFO     | NSRDB 2008: descargado
+2026-08-07 00:46:52 | INFO     | NSRDB 2009: descargado
+2026-08-07 00:47:06 | INFO     | NSRDB 2010: descargado
+2026-08-07 00:47:20 | INFO     | NSRDB 2011: descargado
+2026-08-07 00:47:35 | INFO     | NSRDB 2012: descargado
+2026-08-07 00:47:49 | INFO     | NSRDB 2013: descargado
+2026-08-07 00:48:04 | INFO     | NSRDB 2014: descargado
+2026-08-07 00:48:19 | INFO     | NSRDB 2015: descargado
+2026-08-07 00:48:33 | INFO     | NSRDB 2016: descargado
+2026-08-07 00:48:48 | INFO     | NSRDB 2017: descargado
+2026-08-07 00:49:02 | INFO     | NSRDB 2018: descargado
+2026-08-07 00:49:17 | INFO     | NSRDB 2019: descargado
+2026-08-07 00:49:31 | INFO     | NSRDB 2020: descargado
+2026-08-07 00:49:46 | INFO     | NSRDB 2021: descargado
+2026-08-07 00:50:00 | INFO     | NSRDB 2022: descargado
+2026-08-07 00:50:14 | INFO     | NSRDB 2023: descargado
+2026-08-07 00:50:28 | INFO     | NSRDB 2024: descargado
+2026-08-07 00:50:42 | INFO     | NSRDB 2025: descargado

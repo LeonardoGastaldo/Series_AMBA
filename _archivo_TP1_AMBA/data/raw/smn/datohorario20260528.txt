@@ -1,0 +1,1909 @@
+FECHA     HORA  TEMP   HUM   PNM    DD    FF     NOMBRE                                             
+         [HOA]  [ºC]   [%]  [hPa]  [gr] [km/hr]                                                     
+28052026     0  13.5   88  1023.4   80    9     AEROPARQUE AERO                                     
+28052026     1  14.0   83  1023.4   50    9     AEROPARQUE AERO                                     
+28052026     2  13.3   87  1023.1   20   15     AEROPARQUE AERO                                     
+28052026     3  12.9   90  1022.9   50   11     AEROPARQUE AERO                                     
+28052026     4  12.3   87  1022.6   80    6     AEROPARQUE AERO                                     
+28052026     5  12.6   92  1022.5  120    6     AEROPARQUE AERO                                     
+28052026     6  12.8   85  1022.4  110   13     AEROPARQUE AERO                                     
+28052026     7  12.9   91  1022.4  110   17     AEROPARQUE AERO                                     
+28052026     8  12.8   93  1022.6  100   19     AEROPARQUE AERO                                     
+28052026     9  13.3   91  1022.9   90   17     AEROPARQUE AERO                                     
+28052026    10  13.4   92  1023.3   90   20     AEROPARQUE AERO                                     
+28052026    11  13.7   89  1023.5   90   19     AEROPARQUE AERO                                     
+28052026    12  13.4   90  1023.3  100   22     AEROPARQUE AERO                                     
+28052026    13  13.5   88  1022.6  110   22     AEROPARQUE AERO                                     
+28052026    14  13.4   90  1021.9  110   22     AEROPARQUE AERO                                     
+28052026    15  13.5   86  1021.5  120   20     AEROPARQUE AERO                                     
+28052026    16  13.4   90  1022.1  100   20     AEROPARQUE AERO                                     
+28052026    17  13.4   90  1022.3  110   20     AEROPARQUE AERO                                     
+28052026    18  13.5   87  1022.2  100   26     AEROPARQUE AERO                                     
+28052026    19  13.6   88  1022.9  100   22     AEROPARQUE AERO                                     
+28052026    20  13.6   90  1023.2  100   22     AEROPARQUE AERO                                     
+28052026    21  13.5   86  1023.3   80   19     AEROPARQUE AERO                                     
+28052026    22  13.5   86  1023.4   80   19     AEROPARQUE AERO                                     
+28052026    23  13.5   87  1023.7   70   17     AEROPARQUE AERO                                     
+28052026     0   8.6   96  1024.3  340    9     AZUL AERO                                           
+28052026     1   8.7   97  1024.2  320    6     AZUL AERO                                           
+28052026     2   9.2   95  1023.6  360    6     AZUL AERO                                           
+28052026     3   9.3   95  1023.0  320    4     AZUL AERO                                           
+28052026     4   9.5   94  1022.8    0    0     AZUL AERO                                           
+28052026     5   9.5   95  1022.7    0    0     AZUL AERO                                           
+28052026     6   9.4   95  1022.6   50    6     AZUL AERO                                           
+28052026     7   9.7   94  1022.6   50    6     AZUL AERO                                           
+28052026     8   9.6   96  1022.8   70    7     AZUL AERO                                           
+28052026     9   9.9   95  1022.8   70    7     AZUL AERO                                           
+28052026    10  10.4   94  1023.2   70    4     AZUL AERO                                           
+28052026    11  11.4   91  1023.5  140    4     AZUL AERO                                           
+28052026    12  12.3   88  1023.9  110    4     AZUL AERO                                           
+28052026    13  12.5   87  1023.5  140    7     AZUL AERO                                           
+28052026    14  12.6   85  1023.0  110    9     AZUL AERO                                           
+28052026    15  12.4   87  1022.6   90   11     AZUL AERO                                           
+28052026    16  12.0   93  1022.6   90    7     AZUL AERO                                           
+28052026    17  12.0   92  1022.7   90    9     AZUL AERO                                           
+28052026    18  11.8   92  1023.1   90    9     AZUL AERO                                           
+28052026    19  11.3   91  1023.5   90    7     AZUL AERO                                           
+28052026    20  10.8   90  1023.8   90    9     AZUL AERO                                           
+28052026    21  10.3   90  1024.3   90    9     AZUL AERO                                           
+28052026    22   9.9   92  1024.5   90   11     AZUL AERO                                           
+28052026    23   9.3   95  1024.4   90    9     AZUL AERO                                           
+28052026     0   5.5   99  1021.4  360   11     BAHIA BLANCA AERO                                   
+28052026     1   5.0   99  1021.9  320    6     BAHIA BLANCA AERO                                   
+28052026     2   3.5  100  1021.5  360    6     BAHIA BLANCA AERO                                   
+28052026     3   2.5  100  1021.5   90    4     BAHIA BLANCA AERO                                   
+28052026     4   2.0  100  1021.4   50    7     BAHIA BLANCA AERO                                   
+28052026     5   2.2  100  1021.7   50    7     BAHIA BLANCA AERO                                   
+28052026     6   4.6  100  1022.0   50    6     BAHIA BLANCA AERO                                   
+28052026     7   4.4  100  1022.0   70   11     BAHIA BLANCA AERO                                   
+28052026     8   3.0   99  1022.6   50   19     BAHIA BLANCA AERO                                   
+28052026     9   4.8  100  1022.7   70   17     BAHIA BLANCA AERO                                   
+28052026    10   8.0   97  1023.0   90   22     BAHIA BLANCA AERO                                   
+28052026    11   8.8   95  1023.7  110   15     BAHIA BLANCA AERO                                   
+28052026    12  10.0   92  1023.9   90   11     BAHIA BLANCA AERO                                   
+28052026    13  12.0   86  1023.2  160    7     BAHIA BLANCA AERO                                   
+28052026    14  13.0   80  1022.5  180   15     BAHIA BLANCA AERO                                   
+28052026    15  14.1   74  1021.9  140    7     BAHIA BLANCA AERO                                   
+28052026    16  13.8   74  1021.6  140   17     BAHIA BLANCA AERO                                   
+28052026    17  12.4   80  1021.8  130   17     BAHIA BLANCA AERO                                   
+28052026    18  10.7   86  1022.0  120   11     BAHIA BLANCA AERO                                   
+28052026    19   9.4   91  1021.9   90    9     BAHIA BLANCA AERO                                   
+28052026    20   9.1   90  1022.7  360    9     BAHIA BLANCA AERO                                   
+28052026    21   8.7   95  1023.0  210    4     BAHIA BLANCA AERO                                   
+28052026    22   7.7   96  1023.5  290    6     BAHIA BLANCA AERO                                   
+28052026    23   7.1   97  1024.1  320    4     BAHIA BLANCA AERO                                   
+28052026     0   5.5   80          180    9     BARILOCHE AERO                                      
+28052026     1   6.3   81          140   11     BARILOCHE AERO                                      
+28052026     2   7.4   79          140    9     BARILOCHE AERO                                      
+28052026     3   6.5   86          140   13     BARILOCHE AERO                                      
+28052026     4   5.4   87          180    9     BARILOCHE AERO                                      
+28052026     5   5.7   88          140   11     BARILOCHE AERO                                      
+28052026     6   5.7   88          180    9     BARILOCHE AERO                                      
+28052026     7   5.5   88          180   11     BARILOCHE AERO                                      
+28052026     8   5.0   88          190    7     BARILOCHE AERO                                      
+28052026     9   4.8   90          150    9     BARILOCHE AERO                                      
+28052026    10   6.6   89          160    7     BARILOCHE AERO                                      
+28052026    11   7.8   83          160    9     BARILOCHE AERO                                      
+28052026    12   9.2   75          180    6     BARILOCHE AERO                                      
+28052026    13  10.4   70            0    0     BARILOCHE AERO                                      
+28052026    14   9.9   76          290    9     BARILOCHE AERO                                      
+28052026    15   9.8   78          350   11     BARILOCHE AERO                                      
+28052026    16   9.9   82          310   11     BARILOCHE AERO                                      
+28052026    17   9.6   86          250    7     BARILOCHE AERO                                      
+28052026    18   9.0   90            0    0     BARILOCHE AERO                                      
+28052026    19   8.3   92          330    7     BARILOCHE AERO                                      
+28052026    20   7.9   93          270    4     BARILOCHE AERO                                      
+28052026    21   7.1   95            0    0     BARILOCHE AERO                                      
+28052026    22   7.4   95          340    6     BARILOCHE AERO                                      
+28052026    23   8.1   89          250    7     BARILOCHE AERO                                      
+28052026     0 -12.7   66   980.7  140   26     BASE BELGRANO II                                    
+28052026     3 -14.9   61   979.4  180   52     BASE BELGRANO II                                    
+28052026     6 -13.9   59   979.3  140   37     BASE BELGRANO II                                    
+28052026     9 -15.4   64   979.2  140   28     BASE BELGRANO II                                    
+28052026    12 -15.7   49   977.9  140   13     BASE BELGRANO II                                    
+28052026    15 -16.2   62   977.4   90   19     BASE BELGRANO II                                    
+28052026    18 -15.4   46   976.6  140   41     BASE BELGRANO II                                    
+28052026    21 -17.7   58   975.7   90   31     BASE BELGRANO II                                    
+28052026     0    .6   93  1015.9  290   37     BASE CARLINI (EX JUBANY)                            
+28052026     3    .1   98  1015.5  290   48     BASE CARLINI (EX JUBANY)                            
+28052026     6    .5   92  1014.3  290   52     BASE CARLINI (EX JUBANY)                            
+28052026     9    .2  100  1014.9  290   35     BASE CARLINI (EX JUBANY)                            
+28052026    12   -.3   92  1015.2  290   28     BASE CARLINI (EX JUBANY)                            
+28052026    15   -.5   90  1014.4  230    9     BASE CARLINI (EX JUBANY)                            
+28052026    18   1.0   83  1013.6  290   33     BASE CARLINI (EX JUBANY)                            
+28052026    21  -2.0   98  1010.3  320   37     BASE CARLINI (EX JUBANY)                            
+28052026     0  -2.5   77  1008.8  140    9     BASE ESPERANZA                                      
+28052026     3   9.3   68  1006.6  230   44     BASE ESPERANZA                                      
+28052026     6   8.7   33  1007.8  200   48     BASE ESPERANZA                                      
+28052026     9   5.7   40  1010.5   50   11     BASE ESPERANZA                                      
+28052026    12   1.7   68  1011.1    0    0     BASE ESPERANZA                                      
+28052026    15  -1.1   73  1009.7  250    7     BASE ESPERANZA                                      
+28052026    18  -1.9   72  1007.4  230    7     BASE ESPERANZA                                      
+28052026    21   7.9   27  1004.9  270   41     BASE ESPERANZA                                      
+28052026     0   5.6   37  1006.7  230   24     BASE MARAMBIO                                       
+28052026     1   5.0   37  1005.7  250   20     BASE MARAMBIO                                       
+28052026     2   4.2   37  1005.3  270   19     BASE MARAMBIO                                       
+28052026     3   2.7   46  1004.8  250   20     BASE MARAMBIO                                       
+28052026     4   3.8   39  1005.2  230   37     BASE MARAMBIO                                       
+28052026     5   4.4   35  1006.3  230   41     BASE MARAMBIO                                       
+28052026     6   2.9   48  1005.8  210   57     BASE MARAMBIO                                       
+28052026     7   2.4   64  1006.8  210   52     BASE MARAMBIO                                       
+28052026     8   3.7   38  1007.7  210   44     BASE MARAMBIO                                       
+28052026     9   2.9   40  1008.9  250   30     BASE MARAMBIO                                       
+28052026    10   1.3   51  1009.3  210   31     BASE MARAMBIO                                       
+28052026    11    .5   60  1009.7  210   26     BASE MARAMBIO                                       
+28052026    12    .9   59  1009.9  210   17     BASE MARAMBIO                                       
+28052026    13   2.2   46  1009.0  300   11     BASE MARAMBIO                                       
+28052026    14   1.7   62  1008.7  320   17     BASE MARAMBIO                                       
+28052026    15   -.4   84  1008.3  340   19     BASE MARAMBIO                                       
+28052026    16  -1.3   65  1007.7  340   17     BASE MARAMBIO                                       
+28052026    17    .3   51  1006.6  320   17     BASE MARAMBIO                                       
+28052026    18  -1.2   65  1005.8  330   19     BASE MARAMBIO                                       
+28052026    19   -.3   57  1005.0  320   20     BASE MARAMBIO                                       
+28052026    20   -.6   59  1004.0  320   17     BASE MARAMBIO                                       
+28052026    21   2.3   37  1002.9  300   22     BASE MARAMBIO                                       
+28052026    22   2.5   37  1002.1  320   19     BASE MARAMBIO                                       
+28052026    23   3.2   39  1001.4  320   22     BASE MARAMBIO                                       
+28052026     0  -6.9   74  1015.0  200    6     BASE ORCADAS                                        
+28052026     3  -4.4   93  1012.5  340   20     BASE ORCADAS                                        
+28052026     6  -4.2   98  1009.2  270    7     BASE ORCADAS                                        
+28052026     9  -1.2   83  1006.4  140   13     BASE ORCADAS                                        
+28052026    12   -.2   88  1005.2   90    9     BASE ORCADAS                                        
+28052026    15  -1.6   90  1006.7   90   17     BASE ORCADAS                                        
+28052026    18  -3.4   91  1010.1  250   26     BASE ORCADAS                                        
+28052026    21  -3.6   95  1012.5  260   15     BASE ORCADAS                                        
+28052026     0   -.2  100  1008.6  340   41     BASE SAN MARTIN                                     
+28052026     3   -.8  100  1012.6  320   11     BASE SAN MARTIN                                     
+28052026     6   -.8   98  1013.9  320    4     BASE SAN MARTIN                                     
+28052026     9  -1.5   99  1014.1  340    4     BASE SAN MARTIN                                     
+28052026    12  -1.7   99  1013.0  110    9     BASE SAN MARTIN                                     
+28052026    15  -2.7   97  1010.0  140   11     BASE SAN MARTIN                                     
+28052026    18  -2.7   97  1006.4  200    9     BASE SAN MARTIN                                     
+28052026    21  -2.4   98  1003.3  140   11     BASE SAN MARTIN                                     
+28052026     9   9.8   83  1022.3  360    4     BENITO JUAREZ AERO                                  
+28052026    15  11.6   77  1022.0    0    0     BENITO JUAREZ AERO                                  
+28052026    21   9.7   91  1023.2    0    0     BENITO JUAREZ AERO                                  
+28052026     9  17.1   88           20    4     BERNARDO DE IRIGOYEN AERO                           
+28052026    12  22.0   80           20    9     BERNARDO DE IRIGOYEN AERO                           
+28052026    15  24.2   74          360    4     BERNARDO DE IRIGOYEN AERO                           
+28052026    18  20.5   84          140    4     BERNARDO DE IRIGOYEN AERO                           
+28052026    21  18.6   83          140    4     BERNARDO DE IRIGOYEN AERO                           
+28052026     9  10.6   97  1022.2   50    9     BOLIVAR AERO                                        
+28052026    10  11.5   91  1022.4   50    4     BOLIVAR AERO                                        
+28052026    11  12.3   92  1022.8   50    9     BOLIVAR AERO                                        
+28052026    12  13.2   93           50    9     BOLIVAR AERO                                        
+28052026    13  13.4   87  1023.0   50    9     BOLIVAR AERO                                        
+28052026    14  13.6   84  1022.5   50    6     BOLIVAR AERO                                        
+28052026    15  13.7   87  1021.6   50    6     BOLIVAR AERO                                        
+28052026    16  14.2   85  1021.8   50    4     BOLIVAR AERO                                        
+28052026    17  13.9   86  1022.0   50    4     BOLIVAR AERO                                        
+28052026    18  13.3   88  1022.2   50    4     BOLIVAR AERO                                        
+28052026    19  12.5   92  1022.6   50    4     BOLIVAR AERO                                        
+28052026    20  12.0   94  1023.1   50    4     BOLIVAR AERO                                        
+28052026    21  11.6   95  1023.8   50    4     BOLIVAR AERO                                        
+28052026     0  13.7   87  1023.4   50    9     BUENOS AIRES OBSERVATORIO                           
+28052026     1  13.7   89  1023.3   70    4     BUENOS AIRES OBSERVATORIO                           
+28052026     2  14.0   86  1022.9   20   13     BUENOS AIRES OBSERVATORIO                           
+28052026     3  13.2   82  1022.9  360   11     BUENOS AIRES OBSERVATORIO                           
+28052026     4  13.1   87  1022.6   50    4     BUENOS AIRES OBSERVATORIO                           
+28052026     5  12.6   88  1022.4  110    2     BUENOS AIRES OBSERVATORIO                           
+28052026     6  13.0   90  1022.3  110    4     BUENOS AIRES OBSERVATORIO                           
+28052026     7  13.3   86  1022.4   70    6     BUENOS AIRES OBSERVATORIO                           
+28052026     8  12.6   91  1022.6   90    4     BUENOS AIRES OBSERVATORIO                           
+28052026     9  13.4   88  1022.7   50    6     BUENOS AIRES OBSERVATORIO                           
+28052026    10  13.9   88  1023.3   70    7     BUENOS AIRES OBSERVATORIO                           
+28052026    11  14.2   85  1023.4   90    9     BUENOS AIRES OBSERVATORIO                           
+28052026    12  14.6   83  1023.2   90    9     BUENOS AIRES OBSERVATORIO                           
+28052026    13  14.5   82  1022.4   90   11     BUENOS AIRES OBSERVATORIO                           
+28052026    14  14.8   81  1021.7  110   11     BUENOS AIRES OBSERVATORIO                           
+28052026    15  14.5   82  1021.5   90   13     BUENOS AIRES OBSERVATORIO                           
+28052026    16  14.2   82  1021.9   90   17     BUENOS AIRES OBSERVATORIO                           
+28052026    17  14.0   82  1022.2   90    9     BUENOS AIRES OBSERVATORIO                           
+28052026    18  14.0   82  1022.2   90    9     BUENOS AIRES OBSERVATORIO                           
+28052026    19  13.9   82  1022.8   90    9     BUENOS AIRES OBSERVATORIO                           
+28052026    20  13.8   84  1023.1   90   13     BUENOS AIRES OBSERVATORIO                           
+28052026    21  13.8   82  1023.2   90   11     BUENOS AIRES OBSERVATORIO                           
+28052026    22  13.8   82  1023.3   90    7     BUENOS AIRES OBSERVATORIO                           
+28052026    23  13.8   84  1023.7   90   11     BUENOS AIRES OBSERVATORIO                           
+28052026     9  12.6   91  1023.1   70    9     CAMPO DE MAYO AERO                                  
+28052026    10  13.5   90  1023.5   90   13     CAMPO DE MAYO AERO                                  
+28052026    11  14.4   80  1023.5   90   15     CAMPO DE MAYO AERO                                  
+28052026    12  14.8   79  1023.3   90   17     CAMPO DE MAYO AERO                                  
+28052026    13  13.9   87  1022.6   90   17     CAMPO DE MAYO AERO                                  
+28052026    14  14.7   88  1022.4   90   15     CAMPO DE MAYO AERO                                  
+28052026    15  14.8   86  1021.8  110   13     CAMPO DE MAYO AERO                                  
+28052026    16  14.5   86  1022.1   90   19     CAMPO DE MAYO AERO                                  
+28052026    17  13.8   84  1022.4   90   13     CAMPO DE MAYO AERO                                  
+28052026    18  13.4   91  1022.4   70   11     CAMPO DE MAYO AERO                                  
+28052026    19  13.5   88  1023.0   90   15     CAMPO DE MAYO AERO                                  
+28052026    20  13.5   88  1023.3   90   13     CAMPO DE MAYO AERO                                  
+28052026    21  13.2   93  1023.7   90   17     CAMPO DE MAYO AERO                                  
+28052026     0  16.4   59  1014.4   30   24     CATAMARCA AERO                                      
+28052026     1  16.2   61  1014.0   30   28     CATAMARCA AERO                                      
+28052026     2  14.4   69  1013.8   50   19     CATAMARCA AERO                                      
+28052026     3  14.2   71  1013.3   50   15     CATAMARCA AERO                                      
+28052026     4  12.4   77  1013.0   50   15     CATAMARCA AERO                                      
+28052026     5  11.6   84  1013.2  360    6     CATAMARCA AERO                                      
+28052026     6   9.0   90  1013.9  360    6     CATAMARCA AERO                                      
+28052026     7   8.6   92  1014.5  360    9     CATAMARCA AERO                                      
+28052026     8   7.6   92  1015.1   20    6     CATAMARCA AERO                                      
+28052026     9   8.7   86  1015.8  360    4     CATAMARCA AERO                                      
+28052026    10  11.4   76  1015.8  180    7     CATAMARCA AERO                                      
+28052026    11  15.4   62  1015.5  230    4     CATAMARCA AERO                                      
+28052026    12  19.7   49  1014.6  270    7     CATAMARCA AERO                                      
+28052026    13  21.1   46  1013.6  230    7     CATAMARCA AERO                                      
+28052026    14  23.4   41  1012.2  140    7     CATAMARCA AERO                                      
+28052026    15  23.8   41  1011.4  210    9     CATAMARCA AERO                                      
+28052026    16  24.4   38  1011.4  210   13     CATAMARCA AERO                                      
+28052026    17  23.4   41  1011.6  200   11     CATAMARCA AERO                                      
+28052026    18  22.7   44  1012.1  200    9     CATAMARCA AERO                                      
+28052026    19  20.5   54  1013.6   40   15     CATAMARCA AERO                                      
+28052026    20  18.4   64  1014.9  360    6     CATAMARCA AERO                                      
+28052026    21  17.8   63  1015.6   30   15     CATAMARCA AERO                                      
+28052026    22  16.4   71  1016.2   20   11     CATAMARCA AERO                                      
+28052026    23  15.4   72  1017.2   20    9     CATAMARCA AERO                                      
+28052026     6  11.7   95  1017.4   90   11     CERES AERO                                          
+28052026     7  12.1   91  1017.8   80   13     CERES AERO                                          
+28052026     8  11.9   93  1018.3   90   11     CERES AERO                                          
+28052026     9  11.6   96  1018.8   80   11     CERES AERO                                          
+28052026    10  12.1   95  1019.2   80   15     CERES AERO                                          
+28052026    11  13.2   97  1019.5   60   13     CERES AERO                                          
+28052026    12  15.3   97  1019.1   60    9     CERES AERO                                          
+28052026    13  16.2   96  1018.4   60   11     CERES AERO                                          
+28052026    14  16.4   94  1017.6   50   13     CERES AERO                                          
+28052026    15  18.4   79  1017.0   60    9     CERES AERO                                          
+28052026    16  18.4   77  1016.6   90   11     CERES AERO                                          
+28052026    17  16.4   94  1016.5   80   11     CERES AERO                                          
+28052026    18  16.0   94  1016.7   90   13     CERES AERO                                          
+28052026    19  15.6   94  1017.5   90   11     CERES AERO                                          
+28052026    20  16.0   87  1018.0  100   15     CERES AERO                                          
+28052026    21  15.6   91  1018.9   90    9     CERES AERO                                          
+28052026     9  10.6   88  1017.2  140    4     CHAMICAL AERO                                       
+28052026    12  17.8   63          140    4     CHAMICAL AERO                                       
+28052026    15  20.3   52          110    9     CHAMICAL AERO                                       
+28052026    18  20.2   56          110    9     CHAMICAL AERO                                       
+28052026    21  17.6   73  1017.5    0    0     CHAMICAL AERO                                       
+28052026     0   1.6   90  1017.3    0    0     CHAPELCO AERO                                       
+28052026     1   2.4   90  1016.9    0    0     CHAPELCO AERO                                       
+28052026     2   2.2   90  1016.4    0    0     CHAPELCO AERO                                       
+28052026     3   2.2   93  1016.3    0    0     CHAPELCO AERO                                       
+28052026     4   3.0   81  1016.0    0    0     CHAPELCO AERO                                       
+28052026     5   3.0   81  1016.4    0    0     CHAPELCO AERO                                       
+28052026     6   2.8   81  1016.4    0    0     CHAPELCO AERO                                       
+28052026     7   2.0   97  1016.6    0    0     CHAPELCO AERO                                       
+28052026     8   2.2   97  1017.5    0    0     CHAPELCO AERO                                       
+28052026     9   2.6   97  1018.1  120    6     CHAPELCO AERO                                       
+28052026    10   3.2   97  1018.9    0    0     CHAPELCO AERO                                       
+28052026    11   6.8   89  1018.5   50    9     CHAPELCO AERO                                       
+28052026    12   8.0   82  1018.2   70   13     CHAPELCO AERO                                       
+28052026    13   8.8   80  1017.6   70    9     CHAPELCO AERO                                       
+28052026    14  10.2   79  1016.9    0    0     CHAPELCO AERO                                       
+28052026    15  11.4   75  1016.4    0    0     CHAPELCO AERO                                       
+28052026    16  10.5   92  1016.5  260    9     CHAPELCO AERO                                       
+28052026    17   9.9   92  1017.1  200    6     CHAPELCO AERO                                       
+28052026    18   9.6   95  1017.8    0    0     CHAPELCO AERO                                       
+28052026    19   9.2   95  1018.8    0    0     CHAPELCO AERO                                       
+28052026    20   9.3   92  1019.5  200    7     CHAPELCO AERO                                       
+28052026    21   9.6   92  1019.9  240   15     CHAPELCO AERO                                       
+28052026    22   9.6   87  1020.3  250   17     CHAPELCO AERO                                       
+28052026    23   8.2   92  1020.3    0    0     CHAPELCO AERO                                       
+28052026     9  10.6   75  1014.2  360   15     CHEPES                                              
+28052026    15  20.4   57           20    9     CHEPES                                              
+28052026    21  14.4   79  1016.5  360    9     CHEPES                                              
+28052026     9   5.5   92            0    0     CHILECITO AERO                                      
+28052026    21  12.8   76          210    7     CHILECITO AERO                                      
+28052026     0   8.7   95  1022.0   90   15     COMODORO RIVADAVIA AERO                             
+28052026     1   8.9   95  1021.9   70   20     COMODORO RIVADAVIA AERO                             
+28052026     2   9.0   96  1021.5   70   17     COMODORO RIVADAVIA AERO                             
+28052026     3   9.3   96  1021.0   50   17     COMODORO RIVADAVIA AERO                             
+28052026     4   9.5   96  1020.5   70   15     COMODORO RIVADAVIA AERO                             
+28052026     5   9.8   96  1019.9   70   15     COMODORO RIVADAVIA AERO                             
+28052026     6   9.7   96  1019.4   50   13     COMODORO RIVADAVIA AERO                             
+28052026     7  10.0   95  1019.4   50   20     COMODORO RIVADAVIA AERO                             
+28052026     8  10.0   97  1019.0   50   24     COMODORO RIVADAVIA AERO                             
+28052026     9  10.1   96  1019.0   50   22     COMODORO RIVADAVIA AERO                             
+28052026    10  10.2   96  1018.9   40   19     COMODORO RIVADAVIA AERO                             
+28052026    11  10.4   97  1018.4   40   22     COMODORO RIVADAVIA AERO                             
+28052026    12  10.6   97  1018.3   20   19     COMODORO RIVADAVIA AERO                             
+28052026    13  11.4   96  1017.5   30   15     COMODORO RIVADAVIA AERO                             
+28052026    14  11.4   95  1016.6   30   15     COMODORO RIVADAVIA AERO                             
+28052026    15  11.7   91  1016.3  360    9     COMODORO RIVADAVIA AERO                             
+28052026    16  11.6   84  1016.3  330   11     COMODORO RIVADAVIA AERO                             
+28052026    17  11.5   83  1016.2  330   13     COMODORO RIVADAVIA AERO                             
+28052026    18  11.2   84  1016.3  350    9     COMODORO RIVADAVIA AERO                             
+28052026    19  10.7   86  1016.4  340    7     COMODORO RIVADAVIA AERO                             
+28052026    20  10.8   82  1016.8  340   13     COMODORO RIVADAVIA AERO                             
+28052026    21  10.6   84  1017.0  320   11     COMODORO RIVADAVIA AERO                             
+28052026    22  10.4   85  1017.0  320    9     COMODORO RIVADAVIA AERO                             
+28052026    23  10.4   85  1016.7  290   13     COMODORO RIVADAVIA AERO                             
+28052026     6  10.0   97  1020.4  180    6     CONCORDIA AERO                                      
+28052026     7   9.8   97  1020.7  180    4     CONCORDIA AERO                                      
+28052026     8   9.6   99  1021.0  160    7     CONCORDIA AERO                                      
+28052026     9   9.5   99  1021.3  140    7     CONCORDIA AERO                                      
+28052026    10  12.4   97  1021.6  110    9     CONCORDIA AERO                                      
+28052026    11  14.2   91  1021.8  110    9     CONCORDIA AERO                                      
+28052026    12  17.6   77  1021.1  110   11     CONCORDIA AERO                                      
+28052026    13  18.4   73  1020.3  140   11     CONCORDIA AERO                                      
+28052026    14  19.6   68  1019.6   70   15     CONCORDIA AERO                                      
+28052026    15  19.5   70  1018.7   60    7     CONCORDIA AERO                                      
+28052026    16  19.1   72  1018.7   70    7     CONCORDIA AERO                                      
+28052026    17  18.7   82  1018.9   50    4     CONCORDIA AERO                                      
+28052026    18  17.9   85  1019.2  190    4     CONCORDIA AERO                                      
+28052026    19  17.2   86  1019.4  170    6     CONCORDIA AERO                                      
+28052026    20  16.5   79  1020.0   90   22     CONCORDIA AERO                                      
+28052026    21  15.7   81  1020.5   90   17     CONCORDIA AERO                                      
+28052026    22  13.8   91  1020.8  140    6     CONCORDIA AERO                                      
+28052026    23  13.6   92  1021.1  140    9     CONCORDIA AERO                                      
+28052026     0  11.6   91  1018.1  360    7     CORDOBA AERO                                        
+28052026     1  12.5   91  1018.2   40   11     CORDOBA AERO                                        
+28052026     2  12.8   92  1017.7   40   11     CORDOBA AERO                                        
+28052026     3  12.4   97  1017.1   70   19     CORDOBA AERO                                        
+28052026     4  12.0  100  1016.9   50   15     CORDOBA AERO                                        
+28052026     5  11.8  100  1016.9   50   17     CORDOBA AERO                                        
+28052026     6  11.8  100  1017.1   50   13     CORDOBA AERO                                        
+28052026     7  11.8  100  1017.8   50   13     CORDOBA AERO                                        
+28052026     8  11.8  100  1018.3   40   11     CORDOBA AERO                                        
+28052026     9  11.8  100  1018.4   40   11     CORDOBA AERO                                        
+28052026    10  12.5  100  1019.0   30   13     CORDOBA AERO                                        
+28052026    11  13.3   94  1019.0   40   17     CORDOBA AERO                                        
+28052026    12  14.1   89  1018.7   40   20     CORDOBA AERO                                        
+28052026    13  14.5   86  1018.1   70   13     CORDOBA AERO                                        
+28052026    14  14.5   85  1017.5   90   17     CORDOBA AERO                                        
+28052026    15  15.1   85  1016.9   70   13     CORDOBA AERO                                        
+28052026    16  14.2   90  1016.8   90   19     CORDOBA AERO                                        
+28052026    17  13.7   93  1017.1  110   11     CORDOBA AERO                                        
+28052026    18  13.7   93  1017.2  110    9     CORDOBA AERO                                        
+28052026    19  13.5   91  1018.6   70    7     CORDOBA AERO                                        
+28052026    20  13.5   90  1019.6    0    0     CORDOBA AERO                                        
+28052026    21  13.3   93  1020.1    0    0     CORDOBA AERO                                        
+28052026    22  13.3   93  1020.5    0    0     CORDOBA AERO                                        
+28052026    23  13.3   94  1021.0    0    0     CORDOBA AERO                                        
+28052026     0  13.6   69  1018.5  360    7     CORDOBA OBSERVATORIO                                
+28052026     1  13.4   71  1017.8   50    7     CORDOBA OBSERVATORIO                                
+28052026     2  13.0   72  1017.8   50    7     CORDOBA OBSERVATORIO                                
+28052026     3  12.4   75  1018.1   50   11     CORDOBA OBSERVATORIO                                
+28052026     4  11.8   81  1018.4   50    9     CORDOBA OBSERVATORIO                                
+28052026     5  11.0   87  1018.6   50    9     CORDOBA OBSERVATORIO                                
+28052026     6  12.0   97  1017.1   50    7     CORDOBA OBSERVATORIO                                
+28052026     7  12.4   99  1017.3   50    7     CORDOBA OBSERVATORIO                                
+28052026     8  12.7   99  1017.7   50    6     CORDOBA OBSERVATORIO                                
+28052026     9  12.8   97  1018.1   90    6     CORDOBA OBSERVATORIO                                
+28052026    10  13.0   97  1018.6   90    7     CORDOBA OBSERVATORIO                                
+28052026    11  13.6   94  1018.7   90    7     CORDOBA OBSERVATORIO                                
+28052026    12  14.2   93  1018.5   90    7     CORDOBA OBSERVATORIO                                
+28052026    13  14.6   90  1018.3   90    6     CORDOBA OBSERVATORIO                                
+28052026    14  14.7   89  1017.7   90    9     CORDOBA OBSERVATORIO                                
+28052026    15  14.6   88  1017.0   90   11     CORDOBA OBSERVATORIO                                
+28052026    16  14.7   88  1016.8   90    9     CORDOBA OBSERVATORIO                                
+28052026    17  14.0   94  1017.2   90    6     CORDOBA OBSERVATORIO                                
+28052026    18  14.3   90  1017.7   90    7     CORDOBA OBSERVATORIO                                
+28052026    19  14.4   89  1018.3  140    2     CORDOBA OBSERVATORIO                                
+28052026    20  14.6   88  1019.2   90    2     CORDOBA OBSERVATORIO                                
+28052026    21  14.5   90  1019.7  230    4     CORDOBA OBSERVATORIO                                
+28052026    22  14.4   93  1020.1  230    4     CORDOBA OBSERVATORIO                                
+28052026    23  14.4   94  1020.8  230    6     CORDOBA OBSERVATORIO                                
+28052026     6   8.8   99  1021.8  120    4     CORONEL SUAREZ AERO                                 
+28052026     7   8.6   99  1021.9  110    7     CORONEL SUAREZ AERO                                 
+28052026     8   8.6   99  1022.3   70    6     CORONEL SUAREZ AERO                                 
+28052026     9   8.7   99  1022.4   70    7     CORONEL SUAREZ AERO                                 
+28052026    10   8.9   99  1023.2  110    6     CORONEL SUAREZ AERO                                 
+28052026    11   9.8   97  1023.5  110    6     CORONEL SUAREZ AERO                                 
+28052026    12  10.6   95  1023.5  110    7     CORONEL SUAREZ AERO                                 
+28052026    15  12.7   81  1021.6   50    9     CORONEL SUAREZ AERO                                 
+28052026    21  10.1   96  1023.6   70    9     CORONEL SUAREZ AERO                                 
+28052026     0  14.8   96  1019.5  140    7     CORRIENTES AERO                                     
+28052026     1  14.8   96  1019.0  160    9     CORRIENTES AERO                                     
+28052026     2  14.6   98  1018.6  160    7     CORRIENTES AERO                                     
+28052026     3  14.8   96  1018.0  160    7     CORRIENTES AERO                                     
+28052026     4  14.8   96  1017.5  160    6     CORRIENTES AERO                                     
+28052026     5  14.8   93  1017.2  160    7     CORRIENTES AERO                                     
+28052026     6  14.8   93  1017.2  160    7     CORRIENTES AERO                                     
+28052026     7  15.0   91  1017.5  160    7     CORRIENTES AERO                                     
+28052026     8  14.9   93  1017.7  140   11     CORRIENTES AERO                                     
+28052026     9  15.3   93  1018.1  140    9     CORRIENTES AERO                                     
+28052026    10  15.9   90  1018.5  210    9     CORRIENTES AERO                                     
+28052026    11  16.7   88  1018.8  170    9     CORRIENTES AERO                                     
+28052026    12  17.9   84  1018.8  160    6     CORRIENTES AERO                                     
+28052026    13  19.1   83  1018.0  180    7     CORRIENTES AERO                                     
+28052026    14  19.3   83  1016.9  150    7     CORRIENTES AERO                                     
+28052026    15  19.9   81  1016.1  150    9     CORRIENTES AERO                                     
+28052026    16  20.9   74  1015.5  150   11     CORRIENTES AERO                                     
+28052026    17  20.1   81  1015.3  170   13     CORRIENTES AERO                                     
+28052026    18  19.3   86  1015.8  150    9     CORRIENTES AERO                                     
+28052026    19  18.7   88  1016.3  150   11     CORRIENTES AERO                                     
+28052026    20  18.4   89  1016.8  170    9     CORRIENTES AERO                                     
+28052026    21  17.9   92  1017.1  170   13     CORRIENTES AERO                                     
+28052026    22  17.8   91  1017.4  170   13     CORRIENTES AERO                                     
+28052026    23  17.6   92  1017.6  160   15     CORRIENTES AERO                                     
+28052026     9  11.0   95  1024.0    0    0     DOLORES AERO                                        
+28052026    10  11.5   92  1024.1   70    4     DOLORES AERO                                        
+28052026    11  12.2   89  1024.3   90    4     DOLORES AERO                                        
+28052026    12  12.6   84  1024.1   70    7     DOLORES AERO                                        
+28052026    13  12.9   86  1023.8   70    7     DOLORES AERO                                        
+28052026    14  13.2   84  1023.4   70    7     DOLORES AERO                                        
+28052026    15  13.0   83  1023.1   90    4     DOLORES AERO                                        
+28052026    16  12.8   84  1023.1   90    7     DOLORES AERO                                        
+28052026    17  12.5   85  1023.2   70    7     DOLORES AERO                                        
+28052026    18  12.2   85  1023.4   70    7     DOLORES AERO                                        
+28052026    19  11.9   84  1023.7   70    7     DOLORES AERO                                        
+28052026    20  11.9   82  1024.5   90   11     DOLORES AERO                                        
+28052026    21  11.5   83  1024.9   90    7     DOLORES AERO                                        
+28052026     9   3.0   95  1015.1    0    0     EL BOLSON AERO                                      
+28052026    12   9.0   90  1015.6    0    0     EL BOLSON AERO                                      
+28052026    15  10.1   85  1014.4    0    0     EL BOLSON AERO                                      
+28052026    18   9.2   94  1015.5    0    0     EL BOLSON AERO                                      
+28052026    21   7.3   96  1017.7    0    0     EL BOLSON AERO                                      
+28052026     0   4.6   97  1020.9   90    4     EL CALAFATE AERO                                    
+28052026     1   5.0   97  1020.5  140    6     EL CALAFATE AERO                                    
+28052026     2   4.8   97  1020.3    0    0     EL CALAFATE AERO                                    
+28052026     3   4.8   97  1019.8  230    4     EL CALAFATE AERO                                    
+28052026     4   4.4   93  1019.5  140    4     EL CALAFATE AERO                                    
+28052026     5   4.6   90  1018.8  990    4     EL CALAFATE AERO                                    
+28052026     6   4.4   93  1018.1  180    6     EL CALAFATE AERO                                    
+28052026     7   5.4   97  1018.0  250    7     EL CALAFATE AERO                                    
+28052026     8   5.4   97  1017.6  250    6     EL CALAFATE AERO                                    
+28052026     9   5.4   94  1017.4  230    7     EL CALAFATE AERO                                    
+28052026    10   5.4   97  1017.4  230    7     EL CALAFATE AERO                                    
+28052026    11   6.2   94  1017.2  240    9     EL CALAFATE AERO                                    
+28052026    12   6.4   97  1017.1  230   13     EL CALAFATE AERO                                    
+28052026    13   6.8   94  1017.0  250    9     EL CALAFATE AERO                                    
+28052026    14   7.0   97  1016.4  250   13     EL CALAFATE AERO                                    
+28052026    15   7.4   92  1015.7  230    9     EL CALAFATE AERO                                    
+28052026    16   7.6   89  1015.4  990    4     EL CALAFATE AERO                                    
+28052026    17   7.4   88  1015.2  990    6     EL CALAFATE AERO                                    
+28052026    18   7.2   92  1015.3  990    4     EL CALAFATE AERO                                    
+28052026    19   7.0   94  1015.2  290    4     EL CALAFATE AERO                                    
+28052026    20   6.8   94  1015.2  290    6     EL CALAFATE AERO                                    
+28052026    21   6.6   94  1015.3  290    7     EL CALAFATE AERO                                    
+28052026    22   6.0   97  1015.2  270    7     EL CALAFATE AERO                                    
+28052026    23   6.0   94  1014.9  250    9     EL CALAFATE AERO                                    
+28052026     0  13.3   87  1023.3   70    4     EL PALOMAR AERO                                     
+28052026     1  13.3   90  1023.1   60    6     EL PALOMAR AERO                                     
+28052026     2  13.6   87  1022.8   40    7     EL PALOMAR AERO                                     
+28052026     3  12.7   87  1022.9   40    9     EL PALOMAR AERO                                     
+28052026     4  11.7   93  1022.6   20    2     EL PALOMAR AERO                                     
+28052026     5   9.3   96  1022.3    0    0     EL PALOMAR AERO                                     
+28052026     6  11.6   91  1022.2   90    6     EL PALOMAR AERO                                     
+28052026     7  12.5   91  1022.4   90    6     EL PALOMAR AERO                                     
+28052026     8  11.6   92  1022.4   80    6     EL PALOMAR AERO                                     
+28052026     9  13.1   88  1022.9   70    9     EL PALOMAR AERO                                     
+28052026    10  13.6   88  1023.2   80   13     EL PALOMAR AERO                                     
+28052026    11  13.9   86  1023.1   80   15     EL PALOMAR AERO                                     
+28052026    12  14.4   82  1023.0   70   13     EL PALOMAR AERO                                     
+28052026    13  14.4   82  1022.3   80   13     EL PALOMAR AERO                                     
+28052026    14  14.4   80  1021.7   90   17     EL PALOMAR AERO                                     
+28052026    15  14.7   79  1021.4   90   13     EL PALOMAR AERO                                     
+28052026    16  14.3   80  1021.8  100   13     EL PALOMAR AERO                                     
+28052026    17  13.9   82  1022.0   90   15     EL PALOMAR AERO                                     
+28052026    18  13.8   81  1022.0   70   11     EL PALOMAR AERO                                     
+28052026    19  13.6   83  1022.7   90   13     EL PALOMAR AERO                                     
+28052026    20  13.6   83  1023.1   80   13     EL PALOMAR AERO                                     
+28052026    21  13.4   83  1023.1   80   11     EL PALOMAR AERO                                     
+28052026    22  13.1   85  1023.2   70   13     EL PALOMAR AERO                                     
+28052026    23  13.2   84  1023.6   60    9     EL PALOMAR AERO                                     
+28052026     7  12.0   99  1018.0   20    9     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+28052026     8  12.0   99  1018.4   20   13     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+28052026     9  12.0   99  1019.0   30    6     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+28052026    10  12.3   97  1019.5   30    6     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+28052026    11  13.2   93  1019.5   30    9     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+28052026    12  13.7   91  1019.5   50    7     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+28052026    13  14.4   87  1019.0   50    9     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+28052026    14  14.8   85  1018.3   60    9     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+28052026    15  14.8   87  1017.3   50    9     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+28052026    16  14.5   87  1017.2   70    6     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+28052026    17  13.8   91  1017.5   90    4     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+28052026    18  13.4   93  1018.6   90    4     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+28052026    19  13.0   97  1019.8    0    0     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+28052026    20  13.0   97  1020.5  230    4     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+28052026    21  13.0   97  1020.7  180    4     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+28052026     0   5.0   85  1016.1   20   13     ESQUEL AERO                                         
+28052026     1   5.3   82  1015.9   20   15     ESQUEL AERO                                         
+28052026     2   5.1   84  1015.8   50   15     ESQUEL AERO                                         
+28052026     3   6.2   85  1015.1   20   15     ESQUEL AERO                                         
+28052026     4   5.8   87  1015.1   10   17     ESQUEL AERO                                         
+28052026     5   4.9   88  1015.3   30   15     ESQUEL AERO                                         
+28052026     6   3.9   92  1015.6   30    9     ESQUEL AERO                                         
+28052026     7   3.0   92  1015.8   40   11     ESQUEL AERO                                         
+28052026     8   4.5   85  1015.5   40   22     ESQUEL AERO                                         
+28052026     9   3.8   92  1016.4   20   17     ESQUEL AERO                                         
+28052026    10   4.5   91  1016.6   20   15     ESQUEL AERO                                         
+28052026    11   5.7   87  1016.4   40   17     ESQUEL AERO                                         
+28052026    12   6.8   88  1016.4   30   11     ESQUEL AERO                                         
+28052026    13   7.9   82  1015.9   40   13     ESQUEL AERO                                         
+28052026    14   8.6   80  1015.0   30   17     ESQUEL AERO                                         
+28052026    15  10.6   71  1013.8   20   17     ESQUEL AERO                                         
+28052026    16  11.3   68  1013.7   20   15     ESQUEL AERO                                         
+28052026    17  10.9   71  1013.8   20   13     ESQUEL AERO                                         
+28052026    18  11.6   66  1014.2   20    2     ESQUEL AERO                                         
+28052026    19  11.0   69  1014.8  350    7     ESQUEL AERO                                         
+28052026    20   9.4   73  1015.6  990    9     ESQUEL AERO                                         
+28052026    21   8.2   82  1016.3  120    6     ESQUEL AERO                                         
+28052026    22   7.0   84  1017.0  990    4     ESQUEL AERO                                         
+28052026    23   4.0   88  1017.6  990    2     ESQUEL AERO                                         
+28052026     0  13.2   86  1023.5   60    9     EZEIZA AERO                                         
+28052026     1  13.1   87  1023.1   60    9     EZEIZA AERO                                         
+28052026     2  13.0   90  1023.0   70    4     EZEIZA AERO                                         
+28052026     3  13.4   87  1022.9   70    6     EZEIZA AERO                                         
+28052026     4  13.2   86  1022.8   10    7     EZEIZA AERO                                         
+28052026     5  12.8   88  1022.5   70    6     EZEIZA AERO                                         
+28052026     6  12.8   88  1022.4  110    7     EZEIZA AERO                                         
+28052026     7  11.8   93  1022.6  110    7     EZEIZA AERO                                         
+28052026     8  12.2   93  1022.7  110   13     EZEIZA AERO                                         
+28052026     9  12.4   88  1022.9  110   15     EZEIZA AERO                                         
+28052026    10  13.4   87  1023.2   90   19     EZEIZA AERO                                         
+28052026    11  14.0   84  1023.6   90   20     EZEIZA AERO                                         
+28052026    12  14.0   89  1023.3   90   20     EZEIZA AERO                                         
+28052026    13  14.2   85  1022.6   90   20     EZEIZA AERO                                         
+28052026    14  14.2   82  1021.9   90   20     EZEIZA AERO                                         
+28052026    15  15.0   79  1021.5  110   19     EZEIZA AERO                                         
+28052026    16  15.0   77  1021.9   90   17     EZEIZA AERO                                         
+28052026    17  14.8   81  1022.2   90   19     EZEIZA AERO                                         
+28052026    18  13.2   86  1022.2   90   19     EZEIZA AERO                                         
+28052026    19  13.0   88  1022.8   90   15     EZEIZA AERO                                         
+28052026    20  12.7   88  1023.3   90   17     EZEIZA AERO                                         
+28052026    21  12.3   91  1023.5   90   13     EZEIZA AERO                                         
+28052026    22  12.7   91  1023.4  100   15     EZEIZA AERO                                         
+28052026    23  12.7   90  1023.9  100   15     EZEIZA AERO                                         
+28052026     0  14.7   98  1019.2  180    6     FORMOSA AERO                                        
+28052026     1  14.1   97  1018.2  140    7     FORMOSA AERO                                        
+28052026     2  14.1   97  1017.9  140    7     FORMOSA AERO                                        
+28052026     3  15.7   98  1017.5  110    6     FORMOSA AERO                                        
+28052026     4  14.9   98  1016.8  140   11     FORMOSA AERO                                        
+28052026     5  15.5   96  1016.8  140    6     FORMOSA AERO                                        
+28052026     6  16.1   94  1016.4  140    4     FORMOSA AERO                                        
+28052026     7  16.1   94  1016.6  140    7     FORMOSA AERO                                        
+28052026     8  16.1   94  1017.1  140    4     FORMOSA AERO                                        
+28052026     9  17.0   93  1017.2  160    7     FORMOSA AERO                                        
+28052026    10  18.9   85  1017.9   90    9     FORMOSA AERO                                        
+28052026    11  21.5   77  1017.9  110    9     FORMOSA AERO                                        
+28052026    12  24.6   62  1017.6   50    4     FORMOSA AERO                                        
+28052026    13  26.0   57  1016.8  110    9     FORMOSA AERO                                        
+28052026    14  25.0   71  1015.8  140    7     FORMOSA AERO                                        
+28052026    15  25.8   68  1015.1  140    7     FORMOSA AERO                                        
+28052026    16  25.9   68  1014.6  140    9     FORMOSA AERO                                        
+28052026    17  25.9   70  1014.5  140    7     FORMOSA AERO                                        
+28052026    18  24.3   79  1014.7  140    6     FORMOSA AERO                                        
+28052026    19  22.4   86  1015.1  140    7     FORMOSA AERO                                        
+28052026    20  21.6   89  1015.5  160    6     FORMOSA AERO                                        
+28052026    21  20.9   92  1015.7  140    9     FORMOSA AERO                                        
+28052026    22  20.3   92  1016.0  130    6     FORMOSA AERO                                        
+28052026    23  20.2   92  1016.1  140    7     FORMOSA AERO                                        
+28052026     6  11.1   86  1019.1   50    9     GENERAL PICO AERO                                   
+28052026     7  11.1   91  1018.8   50   19     GENERAL PICO AERO                                   
+28052026     8  11.1   92  1019.5   30   22     GENERAL PICO AERO                                   
+28052026     9  11.1   94  1020.0   20   13     GENERAL PICO AERO                                   
+28052026    10  11.1   99  1020.7  360   17     GENERAL PICO AERO                                   
+28052026    11  11.5   96  1020.8   50   13     GENERAL PICO AERO                                   
+28052026    12  12.2   91  1021.1   20   11     GENERAL PICO AERO                                   
+28052026    13  13.4   88  1020.7   20    7     GENERAL PICO AERO                                   
+28052026    14  14.5   82  1019.5   50   11     GENERAL PICO AERO                                   
+28052026    15  15.6   79  1019.0   50   11     GENERAL PICO AERO                                   
+28052026    16  16.7   74  1018.9   50   11     GENERAL PICO AERO                                   
+28052026    17  16.6   72  1018.9   90   19     GENERAL PICO AERO                                   
+28052026    18  15.2   78  1019.3   90   20     GENERAL PICO AERO                                   
+28052026    19  13.3   86  1020.2   90   22     GENERAL PICO AERO                                   
+28052026    20  12.7   87  1021.1   90   19     GENERAL PICO AERO                                   
+28052026    21  12.5   88  1021.7   70   19     GENERAL PICO AERO                                   
+28052026     9   6.5   79  1018.6   70   19     GOBERNADOR GREGORES AERO                            
+28052026    15   6.5   92           70   28     GOBERNADOR GREGORES AERO                            
+28052026    21   6.5   88  1014.6    0    0     GOBERNADOR GREGORES AERO                            
+28052026     6   8.4   99  1021.1   90    4     GUALEGUAYCHU AERO                                   
+28052026     7  10.0   99  1021.1   90    6     GUALEGUAYCHU AERO                                   
+28052026     8   9.9   99  1021.5   50    6     GUALEGUAYCHU AERO                                   
+28052026     9  10.4   97  1021.7   50    9     GUALEGUAYCHU AERO                                   
+28052026    10  12.0   93  1022.0   50   11     GUALEGUAYCHU AERO                                   
+28052026    11  12.0   94  1022.1   50   13     GUALEGUAYCHU AERO                                   
+28052026    12  13.6   89  1021.6   50   15     GUALEGUAYCHU AERO                                   
+28052026    13  13.2   91  1021.2   50   15     GUALEGUAYCHU AERO                                   
+28052026    14  13.4   91  1020.8   50   15     GUALEGUAYCHU AERO                                   
+28052026    15  13.8   87  1020.4   50   15     GUALEGUAYCHU AERO                                   
+28052026    16  14.2   88  1020.4   50   15     GUALEGUAYCHU AERO                                   
+28052026    17  14.0   90  1020.5   50   11     GUALEGUAYCHU AERO                                   
+28052026    18  13.6   90  1021.0   70    9     GUALEGUAYCHU AERO                                   
+28052026    19  13.5   91  1020.8   90    7     GUALEGUAYCHU AERO                                   
+28052026    20  13.5   93  1021.3   90   11     GUALEGUAYCHU AERO                                   
+28052026    21  13.4   93  1021.6   90   11     GUALEGUAYCHU AERO                                   
+28052026     0  16.4   92  1018.4    0    0     IGUAZU AERO                                         
+28052026     1  16.0   94  1018.3    0    0     IGUAZU AERO                                         
+28052026     2  15.6   94  1018.3    0    0     IGUAZU AERO                                         
+28052026     3  15.4   98  1018.5    0    0     IGUAZU AERO                                         
+28052026     4  15.4   96  1017.8    0    0     IGUAZU AERO                                         
+28052026     5  15.0   93  1017.7    0    0     IGUAZU AERO                                         
+28052026     6  15.0   93  1017.8    0    0     IGUAZU AERO                                         
+28052026     7  13.8   96  1018.4    0    0     IGUAZU AERO                                         
+28052026     8  14.2   93  1019.2    0    0     IGUAZU AERO                                         
+28052026     9  15.9   90  1019.7   50    6     IGUAZU AERO                                         
+28052026    10  19.6   88  1019.8   90   13     IGUAZU AERO                                         
+28052026    11  21.7   85  1019.5   50   11     IGUAZU AERO                                         
+28052026    12  22.8   85  1018.9  140    4     IGUAZU AERO                                         
+28052026    13  24.1   82  1018.3  140    7     IGUAZU AERO                                         
+28052026    14  26.5   77  1017.0  140    6     IGUAZU AERO                                         
+28052026    15  26.6   76  1016.4   90    4     IGUAZU AERO                                         
+28052026    16  26.1   72  1016.0  140    4     IGUAZU AERO                                         
+28052026    17  25.6   74  1016.1   90    4     IGUAZU AERO                                         
+28052026    18  22.1   78  1016.5   90    6     IGUAZU AERO                                         
+28052026    19  21.9   81  1016.8   90    6     IGUAZU AERO                                         
+28052026    20  20.8   81  1017.2   90    7     IGUAZU AERO                                         
+28052026    21  19.7   96  1017.7   90    4     IGUAZU AERO                                         
+28052026    22  19.5   95  1018.0  110    6     IGUAZU AERO                                         
+28052026    23  20.2   93  1017.9   90    7     IGUAZU AERO                                         
+28052026     9  15.8   96  1017.9  140    9     ITUZAINGO                                           
+28052026    12  19.6   89  1018.1  140    6     ITUZAINGO                                           
+28052026    15  24.4   74  1016.2  140   11     ITUZAINGO                                           
+28052026    18  20.2   91  1015.7  140    9     ITUZAINGO                                           
+28052026    21  19.2   92  1016.5  140    9     ITUZAINGO                                           
+28052026     9   2.0   87          360    4     JACHAL                                              
+28052026    15  18.6   42          140    9     JACHAL                                              
+28052026    21  12.8   85          160    4     JACHAL                                              
+28052026     0  12.0   93          250    4     JUJUY AERO                                          
+28052026     1  11.9   94          220    2     JUJUY AERO                                          
+28052026     2  11.8   93          230    4     JUJUY AERO                                          
+28052026     3  11.8   94          990    2     JUJUY AERO                                          
+28052026     4  11.8   94          360    4     JUJUY AERO                                          
+28052026     5  11.7   94          360    4     JUJUY AERO                                          
+28052026     6  11.7   96           90    4     JUJUY AERO                                          
+28052026     7  11.6   97          230    2     JUJUY AERO                                          
+28052026     8  11.5   94          300    6     JUJUY AERO                                          
+28052026     9  11.6   87          300    7     JUJUY AERO                                          
+28052026    10  13.8   69          300    9     JUJUY AERO                                          
+28052026    11  15.3   68          180    4     JUJUY AERO                                          
+28052026    12  17.2   61          990    4     JUJUY AERO                                          
+28052026    13  18.0   61          990    6     JUJUY AERO                                          
+28052026    14  18.4   59          990    6     JUJUY AERO                                          
+28052026    15  20.0   56          990    6     JUJUY AERO                                          
+28052026    16  20.5   59          990    6     JUJUY AERO                                          
+28052026    17  20.3   61           70    9     JUJUY AERO                                          
+28052026    18  19.6   65           60    7     JUJUY AERO                                          
+28052026    19  16.6   79           70    9     JUJUY AERO                                          
+28052026    20  12.8   91          990    4     JUJUY AERO                                          
+28052026    21  10.8   96            0    0     JUJUY AERO                                          
+28052026    22   9.6   97          290    4     JUJUY AERO                                          
+28052026    23   9.6   95          330   11     JUJUY AERO                                          
+28052026     6  10.8   91            0    0     JUJUY U N                                           
+28052026     7  10.5   86          320    4     JUJUY U N                                           
+28052026     8   9.6   85          320    4     JUJUY U N                                           
+28052026     9   9.8   86          320    4     JUJUY U N                                           
+28052026    10  11.1   81          320    4     JUJUY U N                                           
+28052026    11  12.8   77          320    4     JUJUY U N                                           
+28052026    12  14.8   72          140    9     JUJUY U N                                           
+28052026    13  16.6   66          140    9     JUJUY U N                                           
+28052026    14  17.4   66          140    9     JUJUY U N                                           
+28052026    15  18.8   61          140    9     JUJUY U N                                           
+28052026    16  19.9   60          140    9     JUJUY U N                                           
+28052026    17  20.2   59          140    4     JUJUY U N                                           
+28052026    18  19.0   62           90    4     JUJUY U N                                           
+28052026    19  17.0   76           90    4     JUJUY U N                                           
+28052026    20  14.6   84            0    0     JUJUY U N                                           
+28052026    21  12.8   87          270    4     JUJUY U N                                           
+28052026    22  11.0   91          320    4     JUJUY U N                                           
+28052026     0  12.4   88  1022.6   50   20     JUNIN AERO                                          
+28052026     1  12.6   86  1022.5   50   11     JUNIN AERO                                          
+28052026     2  12.6   86  1022.4   50   13     JUNIN AERO                                          
+28052026     3  12.6   88  1022.0   50   15     JUNIN AERO                                          
+28052026     4  12.2   88  1021.7   90    7     JUNIN AERO                                          
+28052026     5  11.2   95  1021.1   90    7     JUNIN AERO                                          
+28052026     6  10.4   95  1020.9   90    9     JUNIN AERO                                          
+28052026     7   8.8   97  1021.1   90    9     JUNIN AERO                                          
+28052026     8   8.4   97  1021.4   70    7     JUNIN AERO                                          
+28052026     9   9.2   97  1021.6   70   13     JUNIN AERO                                          
+28052026    10  10.4   97  1021.9   50   17     JUNIN AERO                                          
+28052026    11  10.6   97  1022.1   50   13     JUNIN AERO                                          
+28052026    12  12.0   96  1022.2   50    9     JUNIN AERO                                          
+28052026    13  13.1   91  1021.9   50   11     JUNIN AERO                                          
+28052026    14  15.7   76  1020.9  340   11     JUNIN AERO                                          
+28052026    15  16.0   77  1020.4   20    4     JUNIN AERO                                          
+28052026    16  16.6   74  1020.4    0    0     JUNIN AERO                                          
+28052026    17  16.8   72  1020.3    0    0     JUNIN AERO                                          
+28052026    18  15.9   79  1020.6  140    2     JUNIN AERO                                          
+28052026    19  14.9   84  1021.0  200    4     JUNIN AERO                                          
+28052026    20  14.7   81  1021.7   90   15     JUNIN AERO                                          
+28052026    21  14.1   83  1022.2   90   15     JUNIN AERO                                          
+28052026    22  13.2   86  1022.9   90    9     JUNIN AERO                                          
+28052026    23  12.8   87  1023.2  110   11     JUNIN AERO                                          
+28052026     0  12.4   89  1024.1   20   13     LA PLATA AERO                                       
+28052026     1  12.1   91  1024.5   20    9     LA PLATA AERO                                       
+28052026     2  12.0   93  1024.2   50    6     LA PLATA AERO                                       
+28052026     3  12.0   92  1023.9   90    6     LA PLATA AERO                                       
+28052026     4  11.9   92  1023.8   90    6     LA PLATA AERO                                       
+28052026     5  11.6   94  1023.4   90    4     LA PLATA AERO                                       
+28052026     6  11.5   95  1023.5  110    7     LA PLATA AERO                                       
+28052026     7  11.4   97  1023.8  140    4     LA PLATA AERO                                       
+28052026     8  11.3   99  1024.1  140    7     LA PLATA AERO                                       
+28052026     9  11.6   97  1024.2  120    6     LA PLATA AERO                                       
+28052026    10  12.1   93  1024.4  110    9     LA PLATA AERO                                       
+28052026    11  12.4   92  1024.6  100   13     LA PLATA AERO                                       
+28052026    12  13.1   91  1024.3   80   15     LA PLATA AERO                                       
+28052026    13  13.0   90  1023.7   80   17     LA PLATA AERO                                       
+28052026    14  12.7   88  1023.2   60    9     LA PLATA AERO                                       
+28052026    15  13.3   86  1022.6   80   15     LA PLATA AERO                                       
+28052026    16  13.8   88  1022.6  110   13     LA PLATA AERO                                       
+28052026    17  13.6   89  1023.1  110   13     LA PLATA AERO                                       
+28052026    18  13.1   91  1023.5   80    9     LA PLATA AERO                                       
+28052026    19  12.6   92  1023.8  110   11     LA PLATA AERO                                       
+28052026    20  12.2   92  1024.1  100   13     LA PLATA AERO                                       
+28052026    21  11.8   84  1024.5  110   11     LA PLATA AERO                                       
+28052026    22  12.0   87  1024.5   90   11     LA PLATA AERO                                       
+28052026    23  11.8   87  1024.7  110   13     LA PLATA AERO                                       
+28052026     6  -1.3   51            0    0     LA QUIACA OBSERVATORIO                              
+28052026     7  -2.5   51            0    0     LA QUIACA OBSERVATORIO                              
+28052026     8  -2.8   52            0    0     LA QUIACA OBSERVATORIO                              
+28052026     9   1.3   54          230    4     LA QUIACA OBSERVATORIO                              
+28052026    10   5.5   56          230    4     LA QUIACA OBSERVATORIO                              
+28052026    11   8.7   56          230    9     LA QUIACA OBSERVATORIO                              
+28052026    12  10.0   53          230    9     LA QUIACA OBSERVATORIO                              
+28052026    13  12.6   49          230    9     LA QUIACA OBSERVATORIO                              
+28052026    14  14.2   45           50    4     LA QUIACA OBSERVATORIO                              
+28052026    15  14.6   40            0    0     LA QUIACA OBSERVATORIO                              
+28052026    16  15.5   36           50    4     LA QUIACA OBSERVATORIO                              
+28052026    17  15.4   32           90    9     LA QUIACA OBSERVATORIO                              
+28052026    18  15.6   33           50    9     LA QUIACA OBSERVATORIO                              
+28052026    19  13.9   36           50    4     LA QUIACA OBSERVATORIO                              
+28052026    20  11.5   39           50    4     LA QUIACA OBSERVATORIO                              
+28052026    21   9.6   44           50    4     LA QUIACA OBSERVATORIO                              
+28052026     0  11.3   77  1015.6  230    7     LA RIOJA AERO                                       
+28052026     1  11.1   75  1015.5  230   13     LA RIOJA AERO                                       
+28052026     2  10.4   81  1015.2  230   11     LA RIOJA AERO                                       
+28052026     3   9.3   80  1015.1  230    9     LA RIOJA AERO                                       
+28052026     4   8.2   83  1014.7  230   11     LA RIOJA AERO                                       
+28052026     5   7.4   81  1014.7  230   13     LA RIOJA AERO                                       
+28052026     6   8.4   79  1014.5  180   15     LA RIOJA AERO                                       
+28052026     7  10.7   80  1015.2  230   11     LA RIOJA AERO                                       
+28052026     8   6.6   92  1016.5  320    6     LA RIOJA AERO                                       
+28052026     9   6.4   92  1016.9  270    7     LA RIOJA AERO                                       
+28052026    10  12.7   74  1016.7  230   11     LA RIOJA AERO                                       
+28052026    11  15.0   67  1016.9  230    9     LA RIOJA AERO                                       
+28052026    12  17.1   58  1016.7  230    7     LA RIOJA AERO                                       
+28052026    13  18.8   53  1015.9  270    6     LA RIOJA AERO                                       
+28052026    14  20.2   50  1014.8  140    4     LA RIOJA AERO                                       
+28052026    15  20.6   48  1014.1    0    0     LA RIOJA AERO                                       
+28052026    16  21.5   47  1013.7  180    7     LA RIOJA AERO                                       
+28052026    17  21.1   49  1013.2  160    4     LA RIOJA AERO                                       
+28052026    18  20.8   49  1014.0  180    6     LA RIOJA AERO                                       
+28052026    19  18.3   57  1014.8  180    6     LA RIOJA AERO                                       
+28052026    20  16.9   58  1016.7    0    0     LA RIOJA AERO                                       
+28052026    21  12.6   78  1017.5  270    7     LA RIOJA AERO                                       
+28052026    22  11.9   80  1018.4  270    7     LA RIOJA AERO                                       
+28052026    23  11.5   83  1018.9  270    7     LA RIOJA AERO                                       
+28052026     6   9.9   94  1018.8   50   15     LABOULAYE AERO                                      
+28052026     7  10.3   96  1019.0   50   15     LABOULAYE AERO                                      
+28052026     8  10.8   95  1019.2   50   15     LABOULAYE AERO                                      
+28052026     9  11.0   92  1019.3   50   15     LABOULAYE AERO                                      
+28052026    10  11.6   95  1019.9   50   15     LABOULAYE AERO                                      
+28052026    11  12.5   88  1020.4   50   15     LABOULAYE AERO                                      
+28052026    12  13.3   87  1020.5   50   15     LABOULAYE AERO                                      
+28052026    13  14.3   81  1020.2   50    9     LABOULAYE AERO                                      
+28052026    14  15.0   79  1019.4   50   15     LABOULAYE AERO                                      
+28052026    15  15.3   77  1018.7   50    9     LABOULAYE AERO                                      
+28052026    16  15.3   76  1018.6   50   15     LABOULAYE AERO                                      
+28052026    17  15.5   76  1018.6   50    9     LABOULAYE AERO                                      
+28052026    18  15.1   78  1018.9   50    4     LABOULAYE AERO                                      
+28052026    19  14.2   82  1019.1   50    4     LABOULAYE AERO                                      
+28052026    20  14.1   83  1019.6    0    0     LABOULAYE AERO                                      
+28052026    21  14.3   81  1020.4   90    4     LABOULAYE AERO                                      
+28052026     6  10.7  100  1022.4    0    0     LAS FLORES                                          
+28052026     9  11.2  100  1023.1   50    4     LAS FLORES                                          
+28052026    12  13.4   88  1023.5  360    4     LAS FLORES                                          
+28052026    15  14.0   76  1021.9  360    7     LAS FLORES                                          
+28052026    18  13.0   90  1021.6   90   11     LAS FLORES                                          
+28052026    21  11.6   97  1022.5   90    7     LAS FLORES                                          
+28052026     9  18.0   87  1016.1   90    4     LAS LOMITAS                                         
+28052026    12  22.6   76  1016.4   90    4     LAS LOMITAS                                         
+28052026    15  23.8   80  1014.2   50    2     LAS LOMITAS                                         
+28052026    18  23.6   83  1013.5  180    4     LAS LOMITAS                                         
+28052026    21  22.8   86  1014.6  140    6     LAS LOMITAS                                         
+28052026     6   1.6   82          270    6     MALARGUE AERO                                       
+28052026     7   -.5   89           50    6     MALARGUE AERO                                       
+28052026     8   -.2   86          270    6     MALARGUE AERO                                       
+28052026     9   -.8   92            0    0     MALARGUE AERO                                       
+28052026    10    .4   86            0    0     MALARGUE AERO                                       
+28052026    11   5.6   75            0    0     MALARGUE AERO                                       
+28052026    12   7.4   72           90    9     MALARGUE AERO                                       
+28052026    13  10.2   63           90    6     MALARGUE AERO                                       
+28052026    14  12.6   55           90    6     MALARGUE AERO                                       
+28052026    15  13.4   53          140   11     MALARGUE AERO                                       
+28052026    16  13.0   52          110   11     MALARGUE AERO                                       
+28052026    17  11.4   51          110    9     MALARGUE AERO                                       
+28052026    18  10.0   52           70    6     MALARGUE AERO                                       
+28052026    19   8.6   59          300    4     MALARGUE AERO                                       
+28052026    20   6.7   65          290    6     MALARGUE AERO                                       
+28052026    21   5.4   75          270   11     MALARGUE AERO                                       
+28052026     0   7.0   84           50    9     MAQUINCHAO                                          
+28052026     3   6.4   95           50    9     MAQUINCHAO                                          
+28052026     6   6.2   89           50   15     MAQUINCHAO                                          
+28052026     7   6.2   87           50   15     MAQUINCHAO                                          
+28052026     8   6.3   89           90    9     MAQUINCHAO                                          
+28052026     9   5.6   91           90    9     MAQUINCHAO                                          
+28052026    10   5.6   93           90    9     MAQUINCHAO                                          
+28052026    11   6.4   90           90    9     MAQUINCHAO                                          
+28052026    12   8.0   87           90   15     MAQUINCHAO                                          
+28052026    13   8.0   84           90   15     MAQUINCHAO                                          
+28052026    14   9.7   80           90    9     MAQUINCHAO                                          
+28052026    15  11.8   73           90    9     MAQUINCHAO                                          
+28052026    16  12.0   73            0    0     MAQUINCHAO                                          
+28052026    17  10.4   79            0    0     MAQUINCHAO                                          
+28052026    18   7.8   92            0    0     MAQUINCHAO                                          
+28052026    19   7.0   92            0    0     MAQUINCHAO                                          
+28052026    20   6.4   97            0    0     MAQUINCHAO                                          
+28052026    21   5.2  100            0    0     MAQUINCHAO                                          
+28052026     0   6.6  100  1024.0  340   17     MAR DEL PLATA AERO                                  
+28052026     1   6.6  100  1023.9  320   22     MAR DEL PLATA AERO                                  
+28052026     2   6.8  100  1023.7  320   22     MAR DEL PLATA AERO                                  
+28052026     3   6.4  100  1023.3  290    9     MAR DEL PLATA AERO                                  
+28052026     4   6.0  100  1023.1  290    7     MAR DEL PLATA AERO                                  
+28052026     5   6.4   97  1022.8  360    6     MAR DEL PLATA AERO                                  
+28052026     6   6.0   97  1023.2    0    0     MAR DEL PLATA AERO                                  
+28052026     7   5.4  100  1023.8    0    0     MAR DEL PLATA AERO                                  
+28052026     8   4.6  100  1024.1    0    0     MAR DEL PLATA AERO                                  
+28052026     9   6.2  100  1024.2    0    0     MAR DEL PLATA AERO                                  
+28052026    10   8.0  100  1024.6    0    0     MAR DEL PLATA AERO                                  
+28052026    11   9.7  100  1025.0  180    6     MAR DEL PLATA AERO                                  
+28052026    12  11.0   83  1025.1  110    7     MAR DEL PLATA AERO                                  
+28052026    13  10.8   85  1024.5  110    9     MAR DEL PLATA AERO                                  
+28052026    14  11.0   83  1024.2  140    9     MAR DEL PLATA AERO                                  
+28052026    15  11.1   80  1024.0  140    7     MAR DEL PLATA AERO                                  
+28052026    16  11.1   80  1023.8  140    9     MAR DEL PLATA AERO                                  
+28052026    17  11.0   80  1024.0  140    9     MAR DEL PLATA AERO                                  
+28052026    18  10.6   82  1024.1  110    7     MAR DEL PLATA AERO                                  
+28052026    19  10.6   82  1024.9   90    6     MAR DEL PLATA AERO                                  
+28052026    20  10.7   80  1025.3  990    4     MAR DEL PLATA AERO                                  
+28052026    21  10.6   80  1025.7   90    6     MAR DEL PLATA AERO                                  
+28052026    22  10.7   78  1025.9  360    6     MAR DEL PLATA AERO                                  
+28052026    23  10.7   77  1026.0   20    6     MAR DEL PLATA AERO                                  
+28052026     9  10.6  100  1020.4   90   15     MARCOS JUAREZ AERO                                  
+28052026    10  11.0  100  1020.4   70   17     MARCOS JUAREZ AERO                                  
+28052026    11  12.5   99  1020.8   70   15     MARCOS JUAREZ AERO                                  
+28052026    12  14.7   93  1020.8   90   15     MARCOS JUAREZ AERO                                  
+28052026    13  16.6   77  1019.6   90   15     MARCOS JUAREZ AERO                                  
+28052026    14  17.5   70  1018.7   50   17     MARCOS JUAREZ AERO                                  
+28052026    15  17.6   71  1018.6   50   11     MARCOS JUAREZ AERO                                  
+28052026    16  17.2   72  1018.4   50   11     MARCOS JUAREZ AERO                                  
+28052026    17  17.0   72  1018.4   70   13     MARCOS JUAREZ AERO                                  
+28052026    18  16.3   76  1018.5   90    9     MARCOS JUAREZ AERO                                  
+28052026    19  15.5   80  1019.3   90    9     MARCOS JUAREZ AERO                                  
+28052026    20  15.0   83  1019.8  110    2     MARCOS JUAREZ AERO                                  
+28052026    21  14.8   83  1020.2  110    2     MARCOS JUAREZ AERO                                  
+28052026     8  10.2   95  1022.2    0    0     MARIANO MORENO AERO                                 
+28052026     9  11.8   93  1022.5   50    9     MARIANO MORENO AERO                                 
+28052026    10  13.2   88  1022.9   50    9     MARIANO MORENO AERO                                 
+28052026    11  14.2   85  1022.9   50   19     MARIANO MORENO AERO                                 
+28052026    12  14.8   79  1022.6   50   19     MARIANO MORENO AERO                                 
+28052026    13  14.4   82  1022.0   90   19     MARIANO MORENO AERO                                 
+28052026    14  14.6   81  1021.2   90   15     MARIANO MORENO AERO                                 
+28052026    15  14.8   77  1021.4   90   15     MARIANO MORENO AERO                                 
+28052026    16  14.8   79  1021.4   90   15     MARIANO MORENO AERO                                 
+28052026    17  14.4   76  1021.8   90   15     MARIANO MORENO AERO                                 
+28052026    18  14.0   80  1021.7   90    9     MARIANO MORENO AERO                                 
+28052026    19  13.8   84  1022.3   90    9     MARIANO MORENO AERO                                 
+28052026    20  13.8   82  1022.8   90   19     MARIANO MORENO AERO                                 
+28052026    21  13.8   82  1023.0   90   19     MARIANO MORENO AERO                                 
+28052026     0   9.7   82  1015.1  140    6     MENDOZA AERO                                        
+28052026     1   9.5   83  1015.0  200    7     MENDOZA AERO                                        
+28052026     2   9.5   82  1014.5  230    7     MENDOZA AERO                                        
+28052026     3   9.3   82  1014.1  200    6     MENDOZA AERO                                        
+28052026     4   9.2   82  1013.7  200    4     MENDOZA AERO                                        
+28052026     5   6.8   87  1014.0  360    6     MENDOZA AERO                                        
+28052026     6   6.2   90  1013.8  180    4     MENDOZA AERO                                        
+28052026     7   5.9   94  1014.4  200    4     MENDOZA AERO                                        
+28052026     8   5.6   88  1015.3    0    0     MENDOZA AERO                                        
+28052026     9   6.0   88  1015.9  200    4     MENDOZA AERO                                        
+28052026    10   6.8   86  1016.5   50    4     MENDOZA AERO                                        
+28052026    11   7.8   81  1017.6    0    0     MENDOZA AERO                                        
+28052026    12  11.4   69  1017.5    0    0     MENDOZA AERO                                        
+28052026    13  14.6   57  1016.4   90    6     MENDOZA AERO                                        
+28052026    14  16.2   54  1015.7   90   11     MENDOZA AERO                                        
+28052026    15  17.4   50  1014.9  160   11     MENDOZA AERO                                        
+28052026    16  18.0   51  1014.6  110    9     MENDOZA AERO                                        
+28052026    17  18.0   51  1015.4   90    9     MENDOZA AERO                                        
+28052026    18  17.4   54  1016.0  110    7     MENDOZA AERO                                        
+28052026    19  15.4   70  1017.3  110    4     MENDOZA AERO                                        
+28052026    20  14.4   71  1018.6  200    4     MENDOZA AERO                                        
+28052026    21  13.1   77  1019.2  250    6     MENDOZA AERO                                        
+28052026    22  11.4   80  1021.2  140    7     MENDOZA AERO                                        
+28052026    23  11.3   77  1022.0  140    9     MENDOZA AERO                                        
+28052026     0   8.9   81          250    9     MENDOZA OBSERVATORIO                                
+28052026     3   7.8   84          270    6     MENDOZA OBSERVATORIO                                
+28052026     6   7.4   83          230    6     MENDOZA OBSERVATORIO                                
+28052026     7   7.4   84          270    6     MENDOZA OBSERVATORIO                                
+28052026     8   7.0   84          250    7     MENDOZA OBSERVATORIO                                
+28052026     9   7.0   87          270    7     MENDOZA OBSERVATORIO                                
+28052026    10   8.0   84            0    0     MENDOZA OBSERVATORIO                                
+28052026    11  10.7   73           50    6     MENDOZA OBSERVATORIO                                
+28052026    12  13.0   67            0    0     MENDOZA OBSERVATORIO                                
+28052026    13  14.1   64           90    6     MENDOZA OBSERVATORIO                                
+28052026    14  15.9   56            0    0     MENDOZA OBSERVATORIO                                
+28052026    15  17.4   53            0    0     MENDOZA OBSERVATORIO                                
+28052026    16  18.0   56            0    0     MENDOZA OBSERVATORIO                                
+28052026    17  17.0   58            0    0     MENDOZA OBSERVATORIO                                
+28052026    18  15.4   70            0    0     MENDOZA OBSERVATORIO                                
+28052026    19  12.4   80            0    0     MENDOZA OBSERVATORIO                                
+28052026    20  11.0   80          270    7     MENDOZA OBSERVATORIO                                
+28052026    21  10.3   80          270    9     MENDOZA OBSERVATORIO                                
+28052026    22  10.2   81          250    6     MENDOZA OBSERVATORIO                                
+28052026    23   9.6   82            0    0     MENDOZA OBSERVATORIO                                
+28052026     9  10.8   92  1019.4   90    9     MERCEDES AERO (CTES)                                
+28052026    12  14.8   89  1019.9   50    7     MERCEDES AERO (CTES)                                
+28052026    15  16.4   82  1017.9   50   11     MERCEDES AERO (CTES)                                
+28052026    18  15.6   91  1017.7   70    7     MERCEDES AERO (CTES)                                
+28052026    21  15.4   91  1018.5   70   13     MERCEDES AERO (CTES)                                
+28052026     0  13.4   73  1023.8   90   15     MERLO AERO                                          
+28052026     3  13.6   72  1024.0   90    9     MERLO AERO                                          
+28052026     6   9.6   82  1024.2   90    6     MERLO AERO                                          
+28052026     7  10.4   78  1024.1   90    6     MERLO AERO                                          
+28052026     8  10.8   71  1024.1   90    6     MERLO AERO                                          
+28052026     9  11.8   85  1024.5   90    6     MERLO AERO                                          
+28052026    10  13.9   79  1023.7   50    9     MERLO AERO                                          
+28052026    11  14.2   82  1023.7   90   19     MERLO AERO                                          
+28052026    12  14.5   83  1023.5   90   19     MERLO AERO                                          
+28052026    13  14.8   81  1023.0   90   19     MERLO AERO                                          
+28052026    14  14.9   78  1021.1   90   19     MERLO AERO                                          
+28052026    15  15.2   76  1022.5   90   19     MERLO AERO                                          
+28052026    16  15.2   74  1022.2   90   19     MERLO AERO                                          
+28052026    17  14.2   77  1022.6   90   19     MERLO AERO                                          
+28052026    18  13.9   79  1023.3   90    9     MERLO AERO                                          
+28052026    19  13.6   81  1023.4   90   19     MERLO AERO                                          
+28052026    20  13.5   81  1024.2   90    9     MERLO AERO                                          
+28052026    21  13.1   80  1023.7   90    9     MERLO AERO                                          
+28052026     9   9.2   87          320    4     METAN                                               
+28052026    15  19.0   65          140    4     METAN                                               
+28052026    21  14.4   94           50    4     METAN                                               
+28052026     0  13.0   86  1020.9   90    9     MONTE CASEROS AERO                                  
+28052026     1  12.2   91  1020.7   90    6     MONTE CASEROS AERO                                  
+28052026     2   9.8   95  1020.4  140    4     MONTE CASEROS AERO                                  
+28052026     3  10.4   95  1020.0  140    7     MONTE CASEROS AERO                                  
+28052026     4  10.6   92  1019.5  140   11     MONTE CASEROS AERO                                  
+28052026     5  11.2   92  1019.4  140    9     MONTE CASEROS AERO                                  
+28052026     6  11.4   92  1019.3  140    9     MONTE CASEROS AERO                                  
+28052026     7  11.6   92  1019.6  110   11     MONTE CASEROS AERO                                  
+28052026     8  11.8   93  1019.9  110    9     MONTE CASEROS AERO                                  
+28052026     9  12.4   91  1020.2  140   13     MONTE CASEROS AERO                                  
+28052026    10  13.2   88  1020.7   90   15     MONTE CASEROS AERO                                  
+28052026    11  14.4   87  1020.9   90   19     MONTE CASEROS AERO                                  
+28052026    12  16.4   78  1020.7   90   13     MONTE CASEROS AERO                                  
+28052026    13  16.6   80  1020.1   90   11     MONTE CASEROS AERO                                  
+28052026    14  17.0   76  1019.6   90   13     MONTE CASEROS AERO                                  
+28052026    15  17.2   77  1018.5   90   15     MONTE CASEROS AERO                                  
+28052026    16  17.6   77  1018.7   90   11     MONTE CASEROS AERO                                  
+28052026    17  17.4   77  1018.5   90   11     MONTE CASEROS AERO                                  
+28052026    18  17.0   80  1018.6  110    9     MONTE CASEROS AERO                                  
+28052026    19  16.4   84  1019.1  140   11     MONTE CASEROS AERO                                  
+28052026    20  15.8   84  1019.4  110   15     MONTE CASEROS AERO                                  
+28052026    21  15.2   85  1019.8  160   15     MONTE CASEROS AERO                                  
+28052026    22  15.0   85  1020.3  110    9     MONTE CASEROS AERO                                  
+28052026    23  14.8   85  1020.1  140    9     MONTE CASEROS AERO                                  
+28052026     0  13.7   83  1023.0   40    6     MORON AERO                                          
+28052026     1  13.7   83  1022.7   50    6     MORON AERO                                          
+28052026     2  13.8   84  1022.4   40    6     MORON AERO                                          
+28052026     3  13.8   83  1022.4   20    9     MORON AERO                                          
+28052026     4  12.9   85  1022.2   20    6     MORON AERO                                          
+28052026     5  12.8   86  1021.9   90    4     MORON AERO                                          
+28052026     6  12.8   85  1021.8  110    6     MORON AERO                                          
+28052026     7  13.0   85  1022.0   90    4     MORON AERO                                          
+28052026     8  12.4   88  1021.9   90    7     MORON AERO                                          
+28052026     9  12.9   88  1022.5   50    6     MORON AERO                                          
+28052026    10  13.7   84  1022.6   70   11     MORON AERO                                          
+28052026    11  13.8   86  1022.6   70   11     MORON AERO                                          
+28052026    12  14.1   82  1022.6   70   15     MORON AERO                                          
+28052026    13  14.6   78  1021.8   70   15     MORON AERO                                          
+28052026    14  14.6   79  1021.1   70   13     MORON AERO                                          
+28052026    15  14.8   75  1020.9   90   17     MORON AERO                                          
+28052026    16  14.6   77  1021.4   90   13     MORON AERO                                          
+28052026    17  13.8   81  1021.6   90   11     MORON AERO                                          
+28052026    18  13.6   82  1021.7   70   15     MORON AERO                                          
+28052026    19  13.5   82  1022.2   70   17     MORON AERO                                          
+28052026    20  13.5   81  1022.7   70   11     MORON AERO                                          
+28052026    21  13.7   82  1022.6   70    9     MORON AERO                                          
+28052026    22  13.7   83  1022.7   70    9     MORON AERO                                          
+28052026    23  13.7   82  1023.2   70    7     MORON AERO                                          
+28052026     0   7.6   86  1016.9  290    4     NEUQUEN AERO                                        
+28052026     1   8.6   81  1017.5  270    4     NEUQUEN AERO                                        
+28052026     2   8.9   83  1017.4    0    0     NEUQUEN AERO                                        
+28052026     3   8.8   83  1016.8    0    0     NEUQUEN AERO                                        
+28052026     4  11.1   77  1016.8  110    9     NEUQUEN AERO                                        
+28052026     5  10.4   81  1017.0  110    7     NEUQUEN AERO                                        
+28052026     6  10.1   82  1017.2  110    7     NEUQUEN AERO                                        
+28052026     7   9.8   86  1017.4  110    7     NEUQUEN AERO                                        
+28052026     8   9.8   87  1018.2    0    0     NEUQUEN AERO                                        
+28052026     9  10.2   85  1018.9  180    4     NEUQUEN AERO                                        
+28052026    10  10.3   84  1019.4    0    0     NEUQUEN AERO                                        
+28052026    11  10.8   82  1019.9   90    4     NEUQUEN AERO                                        
+28052026    12  11.4   81  1020.3  140    7     NEUQUEN AERO                                        
+28052026    13  11.4   83  1019.9  110    4     NEUQUEN AERO                                        
+28052026    14  11.6   84  1019.3  110    4     NEUQUEN AERO                                        
+28052026    15  12.0   83  1019.0    0    0     NEUQUEN AERO                                        
+28052026    16  12.2   81  1018.9  180    6     NEUQUEN AERO                                        
+28052026    17  12.2   81  1019.1   90    4     NEUQUEN AERO                                        
+28052026    18  12.4   79  1019.5   50    6     NEUQUEN AERO                                        
+28052026    19  12.2   85  1020.1    0    0     NEUQUEN AERO                                        
+28052026    20  12.2   84  1020.9   90    4     NEUQUEN AERO                                        
+28052026    21  12.2   84  1021.8    0    0     NEUQUEN AERO                                        
+28052026    22  12.0   86  1022.1    0    0     NEUQUEN AERO                                        
+28052026    23  11.8   87  1022.3    0    0     NEUQUEN AERO                                        
+28052026     9  10.5   97  1021.7   70    9     NUEVE DE JULIO                                      
+28052026    15  15.3   81  1020.9   50    7     NUEVE DE JULIO                                      
+28052026    21  13.5   87  1022.8   90   11     NUEVE DE JULIO                                      
+28052026     9  18.8   92  1014.5  140    4     OBERA                                               
+28052026    15  22.4   88  1016.9  140    4     OBERA                                               
+28052026    21  20.8   93  1013.0  360    4     OBERA                                               
+28052026     9   9.8  100  1022.9   90    7     OLAVARRIA AERO                                      
+28052026    10  10.3  100  1023.1   90    4     OLAVARRIA AERO                                      
+28052026    11  11.3   95  1023.5   90    4     OLAVARRIA AERO                                      
+28052026    12  12.1   89  1023.7   90    4     OLAVARRIA AERO                                      
+28052026    13  12.1   92  1023.6   90    6     OLAVARRIA AERO                                      
+28052026    14  12.2   94  1022.9  360    6     OLAVARRIA AERO                                      
+28052026    15  12.8   90  1022.6   90    4     OLAVARRIA AERO                                      
+28052026    21  10.9   91  1023.5   90    7     OLAVARRIA AERO                                      
+28052026     6  15.6   91  1014.2  140    4     ORAN AERO                                           
+28052026     7  15.4   94  1014.1   50    9     ORAN AERO                                           
+28052026     8  15.6   91  1014.8    0    0     ORAN AERO                                           
+28052026     9  15.8   91  1015.3   50    4     ORAN AERO                                           
+28052026    10  16.6   88  1015.6    0    0     ORAN AERO                                           
+28052026    11  17.8   82  1015.9  140    4     ORAN AERO                                           
+28052026    12  18.8   76  1015.3  140    4     ORAN AERO                                           
+28052026    13  20.0   73  1014.4   50    9     ORAN AERO                                           
+28052026    14  20.9   69  1012.8   50    9     ORAN AERO                                           
+28052026    15  21.9   64  1011.7   50    4     ORAN AERO                                           
+28052026    16  22.2   61  1011.9   50    4     ORAN AERO                                           
+28052026    17  21.6   64  1012.1    0    0     ORAN AERO                                           
+28052026    18  21.0   69  1012.7   50    9     ORAN AERO                                           
+28052026    19  19.1   82  1013.9    0    0     ORAN AERO                                           
+28052026    20  17.3   90  1014.8   50    4     ORAN AERO                                           
+28052026    21  15.9   91  1015.6    0    0     ORAN AERO                                           
+28052026     0  10.5   96  1021.1   50    6     PARANA AERO                                         
+28052026     1   9.5  100  1020.5   50    6     PARANA AERO                                         
+28052026     2   9.6  100  1020.2   50    4     PARANA AERO                                         
+28052026     3   8.9  100  1020.1    0    0     PARANA AERO                                         
+28052026     4   8.5  100  1019.8   50    4     PARANA AERO                                         
+28052026     5   8.9  100  1019.5   90    4     PARANA AERO                                         
+28052026     6   9.2  100  1019.3   90    6     PARANA AERO                                         
+28052026     7   9.2  100  1019.7   90    7     PARANA AERO                                         
+28052026     8   9.6  100  1020.0   90    7     PARANA AERO                                         
+28052026     9   9.8  100  1020.3   90    9     PARANA AERO                                         
+28052026    10  10.5   99  1021.7   70    9     PARANA AERO                                         
+28052026    11  11.9   99  1021.6   70   13     PARANA AERO                                         
+28052026    12  13.1   97  1020.4   70   11     PARANA AERO                                         
+28052026    13  16.8   79  1019.7   50   11     PARANA AERO                                         
+28052026    14  17.8   75  1019.1  360   11     PARANA AERO                                         
+28052026    15  17.3   74  1018.5  320    7     PARANA AERO                                         
+28052026    16  17.3   73  1018.4  320    4     PARANA AERO                                         
+28052026    17  17.2   77  1018.5   20    4     PARANA AERO                                         
+28052026    18  17.0   80  1018.5   50    4     PARANA AERO                                         
+28052026    19  15.8   81  1019.0   90    4     PARANA AERO                                         
+28052026    20  15.2   84  1019.7   80    9     PARANA AERO                                         
+28052026    21  14.3   88  1020.0   80    9     PARANA AERO                                         
+28052026    22  13.8   90  1020.4   90    7     PARANA AERO                                         
+28052026    23  13.4   90  1020.7   90    7     PARANA AERO                                         
+28052026     9   6.6   99  1017.5    0    0     PASO DE INDIOS                                      
+28052026    12   7.1  100           50    6     PASO DE INDIOS                                      
+28052026    15   7.2  100           50    7     PASO DE INDIOS                                      
+28052026    18   7.6   99           90    6     PASO DE INDIOS                                      
+28052026    21   7.4  100  1017.3    0    0     PASO DE INDIOS                                      
+28052026     6  11.4   95  1019.1   90   11     PASO DE LOS LIBRES AERO                             
+28052026     7  11.7   94  1019.4   90   11     PASO DE LOS LIBRES AERO                             
+28052026     8  12.0   95  1019.9   90   13     PASO DE LOS LIBRES AERO                             
+28052026     9  12.8   92  1020.2   90   17     PASO DE LOS LIBRES AERO                             
+28052026    10  14.0   89  1020.8   90   17     PASO DE LOS LIBRES AERO                             
+28052026    11  15.2   85  1021.0   90   17     PASO DE LOS LIBRES AERO                             
+28052026    12  16.0   83  1020.7   70   15     PASO DE LOS LIBRES AERO                             
+28052026    13  16.6   81  1020.1   70   15     PASO DE LOS LIBRES AERO                             
+28052026    14  17.0   80  1019.3   90   15     PASO DE LOS LIBRES AERO                             
+28052026    15  17.4   80  1018.5  110   13     PASO DE LOS LIBRES AERO                             
+28052026    16  17.4   80  1018.4   70   13     PASO DE LOS LIBRES AERO                             
+28052026    17  17.4   82  1018.3  110   11     PASO DE LOS LIBRES AERO                             
+28052026    18  17.2   83  1018.5  110   11     PASO DE LOS LIBRES AERO                             
+28052026    19  16.5   90  1018.9  140   11     PASO DE LOS LIBRES AERO                             
+28052026    20  16.1   89  1019.2  110   24     PASO DE LOS LIBRES AERO                             
+28052026    21  15.5   89  1019.6  110   15     PASO DE LOS LIBRES AERO                             
+28052026     9   9.6   95  1021.6   50   13     PEHUAJO AERO                                        
+28052026    10  11.3   91  1021.9   50   19     PEHUAJO AERO                                        
+28052026    11  12.3   93  1022.4   50   20     PEHUAJO AERO                                        
+28052026    12  13.0   91  1022.6   50   19     PEHUAJO AERO                                        
+28052026    13  13.1   91  1022.3   50   13     PEHUAJO AERO                                        
+28052026    14  12.7   93  1021.5   50   13     PEHUAJO AERO                                        
+28052026    15  12.8   92  1021.3   50   13     PEHUAJO AERO                                        
+28052026    16  12.9   91  1021.6   50   11     PEHUAJO AERO                                        
+28052026    17  13.2   90  1021.7   50   15     PEHUAJO AERO                                        
+28052026    18  13.2   90  1021.7   50   17     PEHUAJO AERO                                        
+28052026    19  12.9   91  1022.0   90   13     PEHUAJO AERO                                        
+28052026    20  10.7   90  1022.4   70    7     PEHUAJO AERO                                        
+28052026    21  10.5   90  1023.2  110    6     PEHUAJO AERO                                        
+28052026     9   5.8   94  1017.9    0    0     PERITO MORENO AERO                                  
+28052026    10   5.8   99  1017.7    0    0     PERITO MORENO AERO                                  
+28052026    11   6.0   97  1017.6    0    0     PERITO MORENO AERO                                  
+28052026    12   6.3   97  1017.4   90    9     PERITO MORENO AERO                                  
+28052026    13   7.0   96  1017.1   90    9     PERITO MORENO AERO                                  
+28052026    14   7.8   90  1016.1    0    0     PERITO MORENO AERO                                  
+28052026    15   8.3   87  1015.4    0    0     PERITO MORENO AERO                                  
+28052026    16   8.3   88  1014.9    0    0     PERITO MORENO AERO                                  
+28052026    17   7.8   93  1014.9    0    0     PERITO MORENO AERO                                  
+28052026    18   7.6   95  1015.8    0    0     PERITO MORENO AERO                                  
+28052026    19   7.4   96  1015.7    0    0     PERITO MORENO AERO                                  
+28052026    20   7.0   96  1016.0    0    0     PERITO MORENO AERO                                  
+28052026    21   6.9   96  1016.5    0    0     PERITO MORENO AERO                                  
+28052026     9   8.9   97  1022.4   50   15     PIGUE AERO                                          
+28052026    15  12.1   82  1021.4   50   19     PIGUE AERO                                          
+28052026    21  10.9   91  1023.3   90   15     PIGUE AERO                                          
+28052026     6  11.4  100  1017.9    0    0     PILAR OBSERVATORIO                                  
+28052026     7  11.2  100  1018.2   50    4     PILAR OBSERVATORIO                                  
+28052026     8  11.4  100  1018.6    0    0     PILAR OBSERVATORIO                                  
+28052026     9  11.4  100  1019.1    0    0     PILAR OBSERVATORIO                                  
+28052026    10  11.2  100  1019.7    0    0     PILAR OBSERVATORIO                                  
+28052026    11  11.6  100  1019.8   50    4     PILAR OBSERVATORIO                                  
+28052026    12  12.0   95  1019.6   50    7     PILAR OBSERVATORIO                                  
+28052026    13  12.6   96  1019.3   50    4     PILAR OBSERVATORIO                                  
+28052026    14  13.8   96  1018.7    0    0     PILAR OBSERVATORIO                                  
+28052026    15  15.0   96  1017.7   50    9     PILAR OBSERVATORIO                                  
+28052026    16  14.4   91  1017.6    0    0     PILAR OBSERVATORIO                                  
+28052026    17  15.6   89  1017.6   50    7     PILAR OBSERVATORIO                                  
+28052026    18  15.0   89  1018.1    0    0     PILAR OBSERVATORIO                                  
+28052026    19  14.8   96  1019.1  140    4     PILAR OBSERVATORIO                                  
+28052026    20  14.2   91  1020.0    0    0     PILAR OBSERVATORIO                                  
+28052026    21  13.6   96  1020.1  140    6     PILAR OBSERVATORIO                                  
+28052026     0  15.4   94  1019.1  110    6     POSADAS AERO                                        
+28052026     1  15.2   93  1019.0  110    6     POSADAS AERO                                        
+28052026     2  15.0   93  1018.7  110    9     POSADAS AERO                                        
+28052026     3  14.7   94  1018.4  110    6     POSADAS AERO                                        
+28052026     4  14.5   86  1017.8  110    6     POSADAS AERO                                        
+28052026     5  14.8   97  1017.5  110    7     POSADAS AERO                                        
+28052026     6  14.8   96  1017.4   90    7     POSADAS AERO                                        
+28052026     7  14.7   96  1017.8  110    7     POSADAS AERO                                        
+28052026     8  15.1   96  1018.0  110    7     POSADAS AERO                                        
+28052026     9  15.8   94  1018.6  110    7     POSADAS AERO                                        
+28052026    10  17.7   89  1019.0  110    7     POSADAS AERO                                        
+28052026    11  19.7   80  1019.0   90    7     POSADAS AERO                                        
+28052026    12  21.2   78  1018.6   90    9     POSADAS AERO                                        
+28052026    13  22.3   74  1018.1   70    6     POSADAS AERO                                        
+28052026    14  23.7   67  1017.2  110    6     POSADAS AERO                                        
+28052026    15  24.3   67  1016.6   90    7     POSADAS AERO                                        
+28052026    16  24.4   62  1016.2   90    7     POSADAS AERO                                        
+28052026    17  24.5   67  1015.7   90    9     POSADAS AERO                                        
+28052026    18  23.9   71  1015.9   90    9     POSADAS AERO                                        
+28052026    19  22.1   76  1016.4  110    9     POSADAS AERO                                        
+28052026    20  21.2   78  1017.0  110   11     POSADAS AERO                                        
+28052026    21  20.3   84  1017.2  110    7     POSADAS AERO                                        
+28052026    22  19.8   86  1017.5  110    7     POSADAS AERO                                        
+28052026    23  19.5   88  1017.7  110    9     POSADAS AERO                                        
+28052026     0  17.6   82  1018.3   90    4     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+28052026     1  17.2   86  1018.0  110    4     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+28052026     2  16.8   86  1017.6  110    4     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+28052026     3  16.5   88  1017.0  110    4     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+28052026     4  16.2   90  1016.7  110    2     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+28052026     5  16.2   91  1016.5  140    2     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+28052026     6  16.1   93  1015.9   90    4     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+28052026     7  16.0   94  1016.3  110    4     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+28052026     8  16.3   91  1016.9  140    4     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+28052026     9  16.6   91  1017.5  110    4     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+28052026    10  17.1   89  1017.9  140    6     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+28052026    11  17.7   86  1018.0  140    7     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+28052026    12  19.2   81  1017.7  140    9     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+28052026    13  19.6   80  1017.1  140    7     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+28052026    14  20.5   77  1015.7  140    9     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+28052026    15  20.9   76  1014.9  140    9     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+28052026    16  21.3   76  1014.5   90    6     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+28052026    17  21.0   78  1014.5   90    7     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+28052026    18  20.3   82  1014.8  110    6     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+28052026    19  19.8   85  1015.1  110    6     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+28052026    20  19.7   85  1015.6  110    6     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+28052026    21  19.5   86  1016.1  110    6     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+28052026    22  19.1   91  1016.8  180    4     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+28052026    23  18.8   91  1016.7  160    4     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+28052026     9   6.2   97  1023.3   50   33     PUERTO DESEADO AERO                                 
+28052026    15   7.2   97           50   15     PUERTO DESEADO AERO                                 
+28052026    21   9.4   97  1017.6   50   33     PUERTO DESEADO AERO                                 
+28052026     6   9.4   94  1019.4  290    7     PUERTO MADRYN AERO                                  
+28052026     7   9.5   92  1019.5  360    9     PUERTO MADRYN AERO                                  
+28052026     8   9.4   92  1020.0  340    9     PUERTO MADRYN AERO                                  
+28052026     9   9.4   92  1019.6    0    0     PUERTO MADRYN AERO                                  
+28052026    10   9.5   91  1020.4  360    9     PUERTO MADRYN AERO                                  
+28052026    11  10.3   89  1020.2  340    7     PUERTO MADRYN AERO                                  
+28052026    12  11.7   85  1020.3    0    0     PUERTO MADRYN AERO                                  
+28052026    13  12.2   83  1019.8   90   15     PUERTO MADRYN AERO                                  
+28052026    14  12.2   84  1019.2   50   15     PUERTO MADRYN AERO                                  
+28052026    15  11.8   85  1018.7   50   15     PUERTO MADRYN AERO                                  
+28052026    16  11.8   88  1018.5   20   11     PUERTO MADRYN AERO                                  
+28052026    17  12.2   84  1018.3  360   11     PUERTO MADRYN AERO                                  
+28052026    18  12.0   83  1018.5  360   19     PUERTO MADRYN AERO                                  
+28052026    19  11.4   85  1019.0  360   15     PUERTO MADRYN AERO                                  
+28052026    20  11.6   88  1019.4  360   15     PUERTO MADRYN AERO                                  
+28052026    21  11.8   88  1019.6  340   19     PUERTO MADRYN AERO                                  
+28052026    22  11.6   88  1019.2  340   22     PUERTO MADRYN AERO                                  
+28052026    23  10.8   90  1019.0  340   26     PUERTO MADRYN AERO                                  
+28052026     9  12.0  100  1024.5  270    2     PUNTA INDIO B.A.                                    
+28052026    10  12.0  100  1024.7  200    7     PUNTA INDIO B.A.                                    
+28052026    11  12.4  100  1024.6  110   11     PUNTA INDIO B.A.                                    
+28052026    12  13.2   96  1024.5  120   15     PUNTA INDIO B.A.                                    
+28052026    13  14.4   82  1023.6   90   17     PUNTA INDIO B.A.                                    
+28052026    14  13.4   93  1023.4   90   15     PUNTA INDIO B.A.                                    
+28052026    15  13.8   89  1022.8  120   19     PUNTA INDIO B.A.                                    
+28052026    16  13.2   89  1023.3  120   19     PUNTA INDIO B.A.                                    
+28052026    17  13.0   91  1023.4  140   17     PUNTA INDIO B.A.                                    
+28052026    18  12.4   88  1023.7  110   15     PUNTA INDIO B.A.                                    
+28052026    19  11.0   97  1024.1  120   11     PUNTA INDIO B.A.                                    
+28052026    20  11.0   97  1024.6  110   11     PUNTA INDIO B.A.                                    
+28052026    21  11.2   96  1024.9   90    7     PUNTA INDIO B.A.                                    
+28052026     6   9.3  100  1019.6    0    0     RAFAELA AERO                                        
+28052026     9   8.4  100  1019.7    0    0     RAFAELA AERO                                        
+28052026    12  13.0   96  1020.1   90    9     RAFAELA AERO                                        
+28052026    15  17.0   71  1018.5   90   15     RAFAELA AERO                                        
+28052026    18  16.1   85  1018.1   90    9     RAFAELA AERO                                        
+28052026    21  14.0   94  1019.5   90    9     RAFAELA AERO                                        
+28052026     0  10.4   96  1020.3   90    6     RECONQUISTA AERO                                    
+28052026     1  12.0   95  1020.0   90    7     RECONQUISTA AERO                                    
+28052026     2  12.1   96  1019.4  100    4     RECONQUISTA AERO                                    
+28052026     3  11.2   97  1019.2  110    4     RECONQUISTA AERO                                    
+28052026     4  12.5   94  1018.6  110    7     RECONQUISTA AERO                                    
+28052026     5  12.8   93  1018.7  110    6     RECONQUISTA AERO                                    
+28052026     6  12.7   94  1018.4  140    7     RECONQUISTA AERO                                    
+28052026     7  13.0   93  1018.7  140    6     RECONQUISTA AERO                                    
+28052026     8  13.0   96  1019.0  100    7     RECONQUISTA AERO                                    
+28052026     9  13.4   96  1019.2   90    7     RECONQUISTA AERO                                    
+28052026    10  14.0   91  1019.6   90    7     RECONQUISTA AERO                                    
+28052026    11  14.8   93  1020.2   90    6     RECONQUISTA AERO                                    
+28052026    12  15.2   94  1019.9  110    6     RECONQUISTA AERO                                    
+28052026    13  16.0   90  1019.3  110    7     RECONQUISTA AERO                                    
+28052026    14  17.6   86  1018.3   90    7     RECONQUISTA AERO                                    
+28052026    15  18.8   77  1017.6  140    7     RECONQUISTA AERO                                    
+28052026    16  19.0   76  1017.2  120   13     RECONQUISTA AERO                                    
+28052026    17  18.2   84  1017.3  130   17     RECONQUISTA AERO                                    
+28052026    18  17.9   84  1017.7  140   11     RECONQUISTA AERO                                    
+28052026    19  17.2   88  1017.9  140   11     RECONQUISTA AERO                                    
+28052026    20  16.9   86  1018.4  130    9     RECONQUISTA AERO                                    
+28052026    21  16.7   87  1018.8  130    9     RECONQUISTA AERO                                    
+28052026    22  16.6   88  1019.0  120   15     RECONQUISTA AERO                                    
+28052026    23  16.4   86  1019.5  130    9     RECONQUISTA AERO                                    
+28052026     0  15.6   91  1019.3  100    4     RESISTENCIA AERO                                    
+28052026     1  15.4   91  1019.2   90    4     RESISTENCIA AERO                                    
+28052026     2  15.2   91  1018.5  100    4     RESISTENCIA AERO                                    
+28052026     3  15.2   94  1018.0   90    4     RESISTENCIA AERO                                    
+28052026     4  15.2   94  1017.4  110    2     RESISTENCIA AERO                                    
+28052026     5  15.1   93  1017.1  100    2     RESISTENCIA AERO                                    
+28052026     6  15.4   91  1017.0  110    2     RESISTENCIA AERO                                    
+28052026     7  15.3   94  1017.4  140    4     RESISTENCIA AERO                                    
+28052026     8  15.5   94  1017.7  130    2     RESISTENCIA AERO                                    
+28052026     9  15.9   91  1017.9   90    6     RESISTENCIA AERO                                    
+28052026    10  16.9   88  1018.4  110    4     RESISTENCIA AERO                                    
+28052026    11  17.9   84  1018.8  140    6     RESISTENCIA AERO                                    
+28052026    12  18.5   83  1018.7  110    2     RESISTENCIA AERO                                    
+28052026    13  18.9   79  1017.9  110    4     RESISTENCIA AERO                                    
+28052026    14  19.7   80  1016.7  110    4     RESISTENCIA AERO                                    
+28052026    15  20.3   76  1016.0  110    4     RESISTENCIA AERO                                    
+28052026    16  20.5   78  1015.5  130    7     RESISTENCIA AERO                                    
+28052026    17  20.3   84  1015.4  140    7     RESISTENCIA AERO                                    
+28052026    18  19.5   85  1015.6  130    4     RESISTENCIA AERO                                    
+28052026    19  18.9   88  1016.2  140    6     RESISTENCIA AERO                                    
+28052026    20  18.6   88  1016.7  130    7     RESISTENCIA AERO                                    
+28052026    21  18.2   92  1017.1  130    6     RESISTENCIA AERO                                    
+28052026    22  18.2   90  1017.5  130    6     RESISTENCIA AERO                                    
+28052026    23  17.9   91  1017.6  120    4     RESISTENCIA AERO                                    
+28052026     6  10.0   99  1017.0   20   15     RIO CUARTO AERO                                     
+28052026     7  10.0   99  1017.7   20   15     RIO CUARTO AERO                                     
+28052026     8  10.0   99  1017.9   20   13     RIO CUARTO AERO                                     
+28052026     9  10.2   99  1018.2   20   13     RIO CUARTO AERO                                     
+28052026    10  11.0   99  1018.6   20   15     RIO CUARTO AERO                                     
+28052026    11  11.2   99  1019.0   20   19     RIO CUARTO AERO                                     
+28052026    12  11.8   99  1019.2   50   19     RIO CUARTO AERO                                     
+28052026    13  12.0   99  1018.6   20   20     RIO CUARTO AERO                                     
+28052026    14  13.2   94  1017.9   50   22     RIO CUARTO AERO                                     
+28052026    15  15.2   85  1016.6   50   22     RIO CUARTO AERO                                     
+28052026    16  15.6   79  1016.3   50   28     RIO CUARTO AERO                                     
+28052026    17  13.9   89  1016.7   50   24     RIO CUARTO AERO                                     
+28052026    18  12.9   96  1017.6   50   28     RIO CUARTO AERO                                     
+28052026    19  12.4   99  1018.7   50   20     RIO CUARTO AERO                                     
+28052026    20  11.9   99  1019.6   20   17     RIO CUARTO AERO                                     
+28052026    21  12.0   99  1019.9   50   15     RIO CUARTO AERO                                     
+28052026     0   6.3   87  1023.0   30   30     RIO GALLEGOS AERO                                   
+28052026     1   6.4   88  1022.4   20   37     RIO GALLEGOS AERO                                   
+28052026     2   6.4   91  1022.4   20   41     RIO GALLEGOS AERO                                   
+28052026     3   6.6   88  1022.1   20   37     RIO GALLEGOS AERO                                   
+28052026     4   6.4   88  1022.0   20   31     RIO GALLEGOS AERO                                   
+28052026     5   6.4   91  1021.0   20   37     RIO GALLEGOS AERO                                   
+28052026     6   6.6   92  1020.9   20   41     RIO GALLEGOS AERO                                   
+28052026     7   6.4   85  1020.4   20   37     RIO GALLEGOS AERO                                   
+28052026     8   6.2   88  1020.0   20   43     RIO GALLEGOS AERO                                   
+28052026     9   6.5   87  1020.1   20   43     RIO GALLEGOS AERO                                   
+28052026    10   6.6   84  1019.5   20   50     RIO GALLEGOS AERO                                   
+28052026    11   7.0   85  1019.5   20   48     RIO GALLEGOS AERO                                   
+28052026    12   7.2   83  1019.7   20   43     RIO GALLEGOS AERO                                   
+28052026    13   7.5   84  1019.0   20   52     RIO GALLEGOS AERO                                   
+28052026    14   7.7   83  1018.0   20   44     RIO GALLEGOS AERO                                   
+28052026    15   7.8   82  1017.3   20   41     RIO GALLEGOS AERO                                   
+28052026    16   7.8   82  1016.7   20   48     RIO GALLEGOS AERO                                   
+28052026    17   7.6   87  1016.3   20   43     RIO GALLEGOS AERO                                   
+28052026    18   7.6   87  1016.5   20   39     RIO GALLEGOS AERO                                   
+28052026    19   7.8   87  1016.1   20   37     RIO GALLEGOS AERO                                   
+28052026    20   7.4   93  1016.0   20   33     RIO GALLEGOS AERO                                   
+28052026    21   7.3   94  1015.5   20   33     RIO GALLEGOS AERO                                   
+28052026    22   7.4   96  1015.1   10   31     RIO GALLEGOS AERO                                   
+28052026    23   7.3   96  1014.5   10   30     RIO GALLEGOS AERO                                   
+28052026     0   2.1   93  1026.0  990    4     RIO GRANDE B.A.                                     
+28052026     1   2.3   91  1025.9  280    6     RIO GRANDE B.A.                                     
+28052026     2   1.9   95  1025.9  180    6     RIO GRANDE B.A.                                     
+28052026     3   2.0   93  1025.6  170    7     RIO GRANDE B.A.                                     
+28052026     4   2.0   95  1025.4  320    6     RIO GRANDE B.A.                                     
+28052026     5   4.4   81  1024.9  340   15     RIO GRANDE B.A.                                     
+28052026     6   4.9   81  1024.3  340   20     RIO GRANDE B.A.                                     
+28052026     7   4.8   91  1024.0  340   17     RIO GRANDE B.A.                                     
+28052026     8   5.0   91  1023.7  340   17     RIO GRANDE B.A.                                     
+28052026     9   5.6   87  1023.3  350   19     RIO GRANDE B.A.                                     
+28052026    10   6.0   87  1022.9  350   19     RIO GRANDE B.A.                                     
+28052026    11   6.5   87  1022.5  360   20     RIO GRANDE B.A.                                     
+28052026    12   7.1   83  1022.4  360   20     RIO GRANDE B.A.                                     
+28052026    13   7.1   85  1021.9  360   22     RIO GRANDE B.A.                                     
+28052026    14   6.8   93  1021.1  320   28     RIO GRANDE B.A.                                     
+28052026    15   7.2   87  1020.6  340   20     RIO GRANDE B.A.                                     
+28052026    16   7.2   84  1019.9  340   26     RIO GRANDE B.A.                                     
+28052026    17   7.0   87  1019.3  360   24     RIO GRANDE B.A.                                     
+28052026    18   6.8   90  1018.9   10   24     RIO GRANDE B.A.                                     
+28052026    19   7.0   87  1018.4   10   24     RIO GRANDE B.A.                                     
+28052026    20   6.8   92  1018.1   10   24     RIO GRANDE B.A.                                     
+28052026    21   6.8   93  1017.9  340   19     RIO GRANDE B.A.                                     
+28052026    22   7.0   93  1017.2  350   20     RIO GRANDE B.A.                                     
+28052026    23   7.0   93  1016.6  340   17     RIO GRANDE B.A.                                     
+28052026     9  16.0   87  1017.9    0    0     RIVADAVIA                                           
+28052026    12  20.0   63          180    4     RIVADAVIA                                           
+28052026    15  22.0   53            0    0     RIVADAVIA                                           
+28052026    19  19.6   63  1018.1    0    0     RIVADAVIA                                           
+28052026    21  18.0   79  1017.6    0    0     RIVADAVIA                                           
+28052026     0  12.2   94  1020.9   70    9     ROSARIO AERO                                        
+28052026     1  12.4   93  1020.7   70   11     ROSARIO AERO                                        
+28052026     2  11.5   96  1021.0   70    6     ROSARIO AERO                                        
+28052026     3  10.4   97  1020.6   70    6     ROSARIO AERO                                        
+28052026     4  11.9   96  1020.0   70    9     ROSARIO AERO                                        
+28052026     5  11.2   97  1019.9   50    9     ROSARIO AERO                                        
+28052026     6  11.2   97  1019.7   70   11     ROSARIO AERO                                        
+28052026     7  10.5  100  1019.9   70    7     ROSARIO AERO                                        
+28052026     8  10.0  100  1020.2   90    4     ROSARIO AERO                                        
+28052026     9  10.6   99  1020.4   90    9     ROSARIO AERO                                        
+28052026    10  11.2   99  1020.9   30    9     ROSARIO AERO                                        
+28052026    11  12.9   94  1021.1  360    7     ROSARIO AERO                                        
+28052026    12  15.7   81  1020.6   50    6     ROSARIO AERO                                        
+28052026    13  18.1   70  1020.0   30    7     ROSARIO AERO                                        
+28052026    14  18.4   66  1019.0   50    7     ROSARIO AERO                                        
+28052026    15  18.3   64  1018.4   80    7     ROSARIO AERO                                        
+28052026    16  18.8   63  1018.5   30    9     ROSARIO AERO                                        
+28052026    17  18.3   68  1018.5   50    6     ROSARIO AERO                                        
+28052026    18  17.6   72  1018.7   90    4     ROSARIO AERO                                        
+28052026    19  17.0   76  1019.2  110    6     ROSARIO AERO                                        
+28052026    20  17.1   75  1019.6   60    9     ROSARIO AERO                                        
+28052026    21  16.3   79  1020.2   70   15     ROSARIO AERO                                        
+28052026    22  15.2   83  1020.9   70   17     ROSARIO AERO                                        
+28052026    23  14.5   86  1021.7   70    9     ROSARIO AERO                                        
+28052026     0   8.6   90          250    4     SALTA AERO                                          
+28052026     1   9.0   94            0    0     SALTA AERO                                          
+28052026     2   9.0   94            0    0     SALTA AERO                                          
+28052026     3   9.2   91            0    0     SALTA AERO                                          
+28052026     4   9.3   91            0    0     SALTA AERO                                          
+28052026     5   9.6   90            0    0     SALTA AERO                                          
+28052026     6   9.6   91          230    4     SALTA AERO                                          
+28052026     7   9.0   90            0    0     SALTA AERO                                          
+28052026     8   8.8   92            0    0     SALTA AERO                                          
+28052026     9   8.9   91            0    0     SALTA AERO                                          
+28052026    10   9.9   82          180    7     SALTA AERO                                          
+28052026    11  11.8   74            0    0     SALTA AERO                                          
+28052026    12  13.9   66          230    4     SALTA AERO                                          
+28052026    13  15.2   58          180    6     SALTA AERO                                          
+28052026    14  16.9   53          360    6     SALTA AERO                                          
+28052026    15  19.2   46          360    4     SALTA AERO                                          
+28052026    16  20.2   43          270    6     SALTA AERO                                          
+28052026    17  20.1   38          360    7     SALTA AERO                                          
+28052026    18  18.8   54           50   11     SALTA AERO                                          
+28052026    19  15.2   70           20    7     SALTA AERO                                          
+28052026    20  13.7   79          360    7     SALTA AERO                                          
+28052026    21  11.8   87          360    4     SALTA AERO                                          
+28052026    22  11.4   88          340    7     SALTA AERO                                          
+28052026     9  10.1   92  1021.1  110    4     SAN ANTONIO OESTE AERO                              
+28052026    15  13.0   85          180    9     SAN ANTONIO OESTE AERO                              
+28052026    21  13.3   78  1023.1  340   15     SAN ANTONIO OESTE AERO                              
+28052026     0  13.6   89  1023.4   90    7     SAN FERNANDO AERO                                   
+28052026     1  13.6   90  1023.2   70   15     SAN FERNANDO AERO                                   
+28052026     2  13.0   88  1023.0   60   17     SAN FERNANDO AERO                                   
+28052026     3  12.2   93  1022.9   50   13     SAN FERNANDO AERO                                   
+28052026     4   9.8   97  1022.6  110    2     SAN FERNANDO AERO                                   
+28052026     5  11.8   95  1022.4  170    6     SAN FERNANDO AERO                                   
+28052026     6  12.2   91  1022.2  100   11     SAN FERNANDO AERO                                   
+28052026     7  12.3   92  1022.4  110   11     SAN FERNANDO AERO                                   
+28052026     8  12.6   91  1022.4  100   13     SAN FERNANDO AERO                                   
+28052026     9  13.5   88  1022.9   90   15     SAN FERNANDO AERO                                   
+28052026    10  14.1   88  1023.1  100   17     SAN FERNANDO AERO                                   
+28052026    11  14.3   82  1023.2   90   20     SAN FERNANDO AERO                                   
+28052026    12  13.8   86  1023.0  100   20     SAN FERNANDO AERO                                   
+28052026    13  13.7   86  1022.2  100   20     SAN FERNANDO AERO                                   
+28052026    14  14.3   83  1021.4  110   22     SAN FERNANDO AERO                                   
+28052026    15  14.1   83  1021.4  100   22     SAN FERNANDO AERO                                   
+28052026    16  13.9   84  1021.7  110   19     SAN FERNANDO AERO                                   
+28052026    17  13.9   86  1021.9  120   17     SAN FERNANDO AERO                                   
+28052026    18  13.9   86  1021.9  110   19     SAN FERNANDO AERO                                   
+28052026    19  13.9   84  1022.6   80   17     SAN FERNANDO AERO                                   
+28052026    20  13.7   83  1022.9   90   24     SAN FERNANDO AERO                                   
+28052026    21  13.6   84  1023.1   90   20     SAN FERNANDO AERO                                   
+28052026    22  13.1   85  1023.3   80   19     SAN FERNANDO AERO                                   
+28052026    23  13.5   83  1023.6   90   17     SAN FERNANDO AERO                                   
+28052026     6   3.8   78  1014.4   20    7     SAN JUAN AERO                                       
+28052026     7   2.8   87  1015.1   20    7     SAN JUAN AERO                                       
+28052026     8   1.8   89  1016.3    0    0     SAN JUAN AERO                                       
+28052026     9   2.4   86  1017.2  180    6     SAN JUAN AERO                                       
+28052026    10   8.6   74  1018.3  210    4     SAN JUAN AERO                                       
+28052026    11  11.4   66  1018.7  200    6     SAN JUAN AERO                                       
+28052026    12  13.8   60  1018.4  180    9     SAN JUAN AERO                                       
+28052026    13  15.9   51  1017.1  180   20     SAN JUAN AERO                                       
+28052026    14  17.3   47  1016.2  180   20     SAN JUAN AERO                                       
+28052026    15  18.0   47  1015.4  180   26     SAN JUAN AERO                                       
+28052026    16  18.0   47  1015.4  180   22     SAN JUAN AERO                                       
+28052026    17  18.3   46  1014.7  180   19     SAN JUAN AERO                                       
+28052026    18  18.0   45  1015.9  180   22     SAN JUAN AERO                                       
+28052026    19  16.0   52  1017.4  200   15     SAN JUAN AERO                                       
+28052026    20  14.7   56  1018.7  200   11     SAN JUAN AERO                                       
+28052026    21  14.0   58  1019.8  180    7     SAN JUAN AERO                                       
+28052026     9   6.1   94  1023.2   50   30     SAN JULIAN AERO                                     
+28052026    15   7.5   93  1019.8   50   30     SAN JULIAN AERO                                     
+28052026    21   7.8  100  1018.0   50   15     SAN JULIAN AERO                                     
+28052026     0  11.5   71  1015.7   10   13     SAN LUIS AERO                                       
+28052026     1  10.5   65  1015.9   60    7     SAN LUIS AERO                                       
+28052026     2   9.6   80  1015.5   60    7     SAN LUIS AERO                                       
+28052026     3   8.6   81  1015.4   40    9     SAN LUIS AERO                                       
+28052026     4   8.9   82  1014.4   90   11     SAN LUIS AERO                                       
+28052026     5   7.7   85  1015.0   60    7     SAN LUIS AERO                                       
+28052026     6   7.8   84  1015.2   60    9     SAN LUIS AERO                                       
+28052026     7   7.7   84  1015.6   90    9     SAN LUIS AERO                                       
+28052026     8   7.5   88  1016.2   50    7     SAN LUIS AERO                                       
+28052026     9   7.9   87  1017.2   50    7     SAN LUIS AERO                                       
+28052026    10  11.1   78  1017.2   70    7     SAN LUIS AERO                                       
+28052026    11  16.7   48  1017.2  110    7     SAN LUIS AERO                                       
+28052026    12  18.3   51  1017.1  110    9     SAN LUIS AERO                                       
+28052026    13  18.5   50  1016.7  110    7     SAN LUIS AERO                                       
+28052026    14  19.1   48  1015.7  140    9     SAN LUIS AERO                                       
+28052026    15  19.4   46  1015.4  160    7     SAN LUIS AERO                                       
+28052026    16  19.5   46  1015.0  110    9     SAN LUIS AERO                                       
+28052026    17  18.3   49  1015.8  150    9     SAN LUIS AERO                                       
+28052026    18  17.1   53  1016.7  110   13     SAN LUIS AERO                                       
+28052026    19  16.4   55  1017.4   90   11     SAN LUIS AERO                                       
+28052026    20  14.8   66  1018.9   90   15     SAN LUIS AERO                                       
+28052026    21  14.4   74  1019.6   90   11     SAN LUIS AERO                                       
+28052026    22  14.0   76  1019.2   90   11     SAN LUIS AERO                                       
+28052026    23  14.2   77  1019.7  110    7     SAN LUIS AERO                                       
+28052026     9   6.4   83  1016.0  230    7     SAN MARTIN (MZA)                                    
+28052026    10   7.4   81  1016.8  200    4     SAN MARTIN (MZA)                                    
+28052026    11   9.2   76  1017.5  220    6     SAN MARTIN (MZA)                                    
+28052026    12  11.8   69  1017.1  180    6     SAN MARTIN (MZA)                                    
+28052026    13  13.8   64  1016.4  170    7     SAN MARTIN (MZA)                                    
+28052026    14  15.9   57  1015.4  170    7     SAN MARTIN (MZA)                                    
+28052026    15  17.8   51  1014.9  150    9     SAN MARTIN (MZA)                                    
+28052026    16  18.6   49  1014.8  130    9     SAN MARTIN (MZA)                                    
+28052026    17  18.6   48  1015.1  130    7     SAN MARTIN (MZA)                                    
+28052026    18  18.1   55  1015.6  160    4     SAN MARTIN (MZA)                                    
+28052026    19  15.7   60  1017.3  180    6     SAN MARTIN (MZA)                                    
+28052026    20  13.4   72  1018.3  170    4     SAN MARTIN (MZA)                                    
+28052026    21  13.4   70  1019.4  160   11     SAN MARTIN (MZA)                                    
+28052026     6   7.2   78  1014.0  270   11     SAN RAFAEL AERO                                     
+28052026     7   6.3   84  1015.1  360    4     SAN RAFAEL AERO                                     
+28052026     8   5.6   84  1016.3  270    6     SAN RAFAEL AERO                                     
+28052026     9   5.6   85  1017.0  270    9     SAN RAFAEL AERO                                     
+28052026    10   6.7   82  1018.6  270    7     SAN RAFAEL AERO                                     
+28052026    11   9.4   75  1018.9  230    4     SAN RAFAEL AERO                                     
+28052026    12  12.7   62  1018.3  180    7     SAN RAFAEL AERO                                     
+28052026    13  14.0   60  1016.9   90    7     SAN RAFAEL AERO                                     
+28052026    14  14.7   60  1016.1   90    9     SAN RAFAEL AERO                                     
+28052026    15  14.9   59  1015.4  180    6     SAN RAFAEL AERO                                     
+28052026    16  14.8   61  1016.7  140    7     SAN RAFAEL AERO                                     
+28052026    17  15.4   61  1016.8   90    6     SAN RAFAEL AERO                                     
+28052026    18  14.6   65  1017.4  140    4     SAN RAFAEL AERO                                     
+28052026    19  12.4   73  1018.6  180    4     SAN RAFAEL AERO                                     
+28052026    20  10.5   79  1020.4  180    4     SAN RAFAEL AERO                                     
+28052026    21   9.8   81  1021.5  180    4     SAN RAFAEL AERO                                     
+28052026     9   5.4   92  1020.9   20   37     SANTA CRUZ AERO                                     
+28052026     0  11.8   94  1019.8   20   28     SANTA ROSA AERO                                     
+28052026     1  11.5   96  1020.0   20   22     SANTA ROSA AERO                                     
+28052026     2  10.9   99  1019.6   20   24     SANTA ROSA AERO                                     
+28052026     3  10.8   97  1019.5   20   26     SANTA ROSA AERO                                     
+28052026     4  10.4   99  1019.2   20   24     SANTA ROSA AERO                                     
+28052026     5  10.3  100  1019.2   20   17     SANTA ROSA AERO                                     
+28052026     6  10.2   99  1019.3   20   17     SANTA ROSA AERO                                     
+28052026     7  10.1   99  1019.2  360   17     SANTA ROSA AERO                                     
+28052026     8  10.2   99  1019.3   50   20     SANTA ROSA AERO                                     
+28052026     9  10.1   99  1019.6   20   19     SANTA ROSA AERO                                     
+28052026    10  10.2  100  1020.4   20   19     SANTA ROSA AERO                                     
+28052026    11  10.6  100  1020.9  360   19     SANTA ROSA AERO                                     
+28052026    12  11.1   99  1021.1  340   17     SANTA ROSA AERO                                     
+28052026    13  11.8   97  1020.3  360   15     SANTA ROSA AERO                                     
+28052026    14  12.2   96  1019.9  360   11     SANTA ROSA AERO                                     
+28052026    15  12.4   96  1019.7  360    9     SANTA ROSA AERO                                     
+28052026    16  12.8   92  1019.5   20    9     SANTA ROSA AERO                                     
+28052026    17  12.5   94  1019.7   50   13     SANTA ROSA AERO                                     
+28052026    18  12.7   93  1019.9   50    9     SANTA ROSA AERO                                     
+28052026    19  12.2   93  1020.5   70   13     SANTA ROSA AERO                                     
+28052026    20  12.3   92  1021.7   50   15     SANTA ROSA AERO                                     
+28052026    21  11.9   94  1022.4   40   17     SANTA ROSA AERO                                     
+28052026    22  11.8   94  1022.8   40   13     SANTA ROSA AERO                                     
+28052026    23  11.8   94  1023.3   40    7     SANTA ROSA AERO                                     
+28052026     8   -.4   94  1019.5    0    0     SANTA ROSA DE CONLARA AERO                          
+28052026     9   2.0   93  1018.3    0    0     SANTA ROSA DE CONLARA AERO                          
+28052026    10   5.7   95  1020.2  180    7     SANTA ROSA DE CONLARA AERO                          
+28052026    11  12.4   75  1019.6  180    7     SANTA ROSA DE CONLARA AERO                          
+28052026    12  16.3   64  1017.9  320    7     SANTA ROSA DE CONLARA AERO                          
+28052026    13  18.8   56  1016.4  320    7     SANTA ROSA DE CONLARA AERO                          
+28052026    14  19.8   52  1014.6  320   22     SANTA ROSA DE CONLARA AERO                          
+28052026    15  20.7   50  1013.4  320    7     SANTA ROSA DE CONLARA AERO                          
+28052026    16  21.2   49  1012.5  320   17     SANTA ROSA DE CONLARA AERO                          
+28052026    17  19.7   53  1012.5  320    7     SANTA ROSA DE CONLARA AERO                          
+28052026    18  19.8   53  1015.9    0    0     SANTA ROSA DE CONLARA AERO                          
+28052026    19  17.8   61  1017.2    0    0     SANTA ROSA DE CONLARA AERO                          
+28052026    20  16.7   66  1017.8    0    0     SANTA ROSA DE CONLARA AERO                          
+28052026    21  15.4   70  1018.3    0    0     SANTA ROSA DE CONLARA AERO                          
+28052026    22  15.2   70  1019.4    0    0     SANTA ROSA DE CONLARA AERO                          
+28052026    23  14.6   73  1019.8    0    0     SANTA ROSA DE CONLARA AERO                          
+28052026     0  17.0   77  1017.0  360    4     SANTIAGO DEL ESTERO AERO                            
+28052026     1  15.4   87  1016.5   20    4     SANTIAGO DEL ESTERO AERO                            
+28052026     2  14.3   88  1015.8    0    0     SANTIAGO DEL ESTERO AERO                            
+28052026     3  14.6   86  1015.3   50    4     SANTIAGO DEL ESTERO AERO                            
+28052026     4  15.2   80  1014.9  360    4     SANTIAGO DEL ESTERO AERO                            
+28052026     5  14.8   85  1014.6   50    4     SANTIAGO DEL ESTERO AERO                            
+28052026     6  15.0   83  1014.6   30    4     SANTIAGO DEL ESTERO AERO                            
+28052026     7  15.1   84  1015.1   20    4     SANTIAGO DEL ESTERO AERO                            
+28052026     8  14.8   89  1015.9    0    0     SANTIAGO DEL ESTERO AERO                            
+28052026     9  15.2   89  1016.7    0    0     SANTIAGO DEL ESTERO AERO                            
+28052026    10  16.0   85  1017.2    0    0     SANTIAGO DEL ESTERO AERO                            
+28052026    11  17.6   79  1017.5   70    6     SANTIAGO DEL ESTERO AERO                            
+28052026    12  20.2   67  1017.0   50    9     SANTIAGO DEL ESTERO AERO                            
+28052026    13  21.2   64  1016.3   20   13     SANTIAGO DEL ESTERO AERO                            
+28052026    14  21.0   64  1015.5   20   11     SANTIAGO DEL ESTERO AERO                            
+28052026    15  21.4   64  1014.6   20    9     SANTIAGO DEL ESTERO AERO                            
+28052026    16  21.6   63  1013.9   20    9     SANTIAGO DEL ESTERO AERO                            
+28052026    17  20.8   64  1014.2   50    7     SANTIAGO DEL ESTERO AERO                            
+28052026    18  20.4   76  1014.5   70    7     SANTIAGO DEL ESTERO AERO                            
+28052026    19  19.8   78  1015.1   70    7     SANTIAGO DEL ESTERO AERO                            
+28052026    20  19.4   81  1016.3   90    6     SANTIAGO DEL ESTERO AERO                            
+28052026    21  19.0   81  1016.7   70   11     SANTIAGO DEL ESTERO AERO                            
+28052026    22  18.4   83  1017.8   70    7     SANTIAGO DEL ESTERO AERO                            
+28052026    23  17.8   84  1017.9   50    6     SANTIAGO DEL ESTERO AERO                            
+28052026     0   8.2  100  1021.0  110    9     SAUCE VIEJO AERO                                    
+28052026     1  10.9  100  1020.5  110   15     SAUCE VIEJO AERO                                    
+28052026     2  11.2   99  1020.3  110   13     SAUCE VIEJO AERO                                    
+28052026     3  10.4   99  1020.0  140   11     SAUCE VIEJO AERO                                    
+28052026     4   9.7  100  1019.7  110   11     SAUCE VIEJO AERO                                    
+28052026     5   9.5  100  1019.6  110    6     SAUCE VIEJO AERO                                    
+28052026     6   8.9  100  1019.3  110    9     SAUCE VIEJO AERO                                    
+28052026     7   9.3  100  1019.7   90    6     SAUCE VIEJO AERO                                    
+28052026     8   9.6  100  1020.1  120    6     SAUCE VIEJO AERO                                    
+28052026     9  10.7  100  1020.2  110    7     SAUCE VIEJO AERO                                    
+28052026    10  11.1  100  1020.7  110    7     SAUCE VIEJO AERO                                    
+28052026    11  12.6   99  1020.8  110   13     SAUCE VIEJO AERO                                    
+28052026    12  15.8   85  1020.7   60   15     SAUCE VIEJO AERO                                    
+28052026    13  16.4   79  1020.3   90    7     SAUCE VIEJO AERO                                    
+28052026    14  16.6   81  1019.6   40    6     SAUCE VIEJO AERO                                    
+28052026    15  17.0   81  1019.0   60    7     SAUCE VIEJO AERO                                    
+28052026    16  17.2   80  1018.6  120    7     SAUCE VIEJO AERO                                    
+28052026    17  17.4   81  1018.6  140    9     SAUCE VIEJO AERO                                    
+28052026    18  16.4   86  1018.6  130    6     SAUCE VIEJO AERO                                    
+28052026    19  16.1   89  1019.1  140    6     SAUCE VIEJO AERO                                    
+28052026    20  15.9   90  1019.4  140    6     SAUCE VIEJO AERO                                    
+28052026    21  15.6   90  1019.8  110   11     SAUCE VIEJO AERO                                    
+28052026    22  14.9   89  1020.4  110   11     SAUCE VIEJO AERO                                    
+28052026    23  14.5   90  1020.9  140    9     SAUCE VIEJO AERO                                    
+28052026     0  11.9   97  1019.7   70   24     SUNCHALES AERO                                      
+28052026     1  11.7   97  1019.5   70   15     SUNCHALES AERO                                      
+28052026     2  11.0   99  1019.6   90    9     SUNCHALES AERO                                      
+28052026     3  10.3   99  1019.3   70    4     SUNCHALES AERO                                      
+28052026     4   9.9   99  1018.8   70    4     SUNCHALES AERO                                      
+28052026     5   9.7  100  1018.5  110    9     SUNCHALES AERO                                      
+28052026     6   9.7  100  1018.8   90    9     SUNCHALES AERO                                      
+28052026     7   9.7  100  1018.9  110    9     SUNCHALES AERO                                      
+28052026     8   9.2  100  1019.1  110    4     SUNCHALES AERO                                      
+28052026     9   9.7  100  1019.6  110    4     SUNCHALES AERO                                      
+28052026    10  10.5  100  1019.9   90    9     SUNCHALES AERO                                      
+28052026    11  12.4   96  1020.1   90    9     SUNCHALES AERO                                      
+28052026    12  13.5   93  1020.0   90    9     SUNCHALES AERO                                      
+28052026    13  15.4   85  1019.2   70    9     SUNCHALES AERO                                      
+28052026    14  16.8   80  1018.7   90   15     SUNCHALES AERO                                      
+28052026    15  18.4   75  1017.9   90   15     SUNCHALES AERO                                      
+28052026    16  18.0   73  1017.6   90   15     SUNCHALES AERO                                      
+28052026    17  17.2   80  1017.6   90    9     SUNCHALES AERO                                      
+28052026    18  16.6   84  1017.9   90    9     SUNCHALES AERO                                      
+28052026    19  16.0   85  1018.4   90    9     SUNCHALES AERO                                      
+28052026    20  15.2   89  1018.8   90    9     SUNCHALES AERO                                      
+28052026    21  14.8   90  1019.2   90    9     SUNCHALES AERO                                      
+28052026    22  14.4   93  1019.7   90    4     SUNCHALES AERO                                      
+28052026    23  14.1   93  1020.4   90    4     SUNCHALES AERO                                      
+28052026     8  10.0   99  1023.4  360    4     TANDIL AERO                                         
+28052026     9  10.1   99  1023.5   20    4     TANDIL AERO                                         
+28052026    10  10.3   91  1023.7   70    4     TANDIL AERO                                         
+28052026    11  10.9   89  1024.0   90    9     TANDIL AERO                                         
+28052026    12  11.3   82  1024.1   60    7     TANDIL AERO                                         
+28052026    13  11.7   80  1023.9  360    4     TANDIL AERO                                         
+28052026    14  11.8   80  1023.4   40    4     TANDIL AERO                                         
+28052026    15  11.8   79  1022.8   90    9     TANDIL AERO                                         
+28052026    16  11.8   80  1022.8   60    9     TANDIL AERO                                         
+28052026    17  11.4   81  1022.8   50   13     TANDIL AERO                                         
+28052026    18  11.0   79  1023.3   70   13     TANDIL AERO                                         
+28052026    19  10.7   80  1024.0   80   11     TANDIL AERO                                         
+28052026    20  10.5   81  1024.6   70    9     TANDIL AERO                                         
+28052026    21  10.2   85  1024.8   70    9     TANDIL AERO                                         
+28052026     9  15.2   93  1015.4    0    0     TARTAGAL AERO                                       
+28052026    12  17.9   80          180    4     TARTAGAL AERO                                       
+28052026    15  19.9   63          180    4     TARTAGAL AERO                                       
+28052026    18  19.5   80          270    4     TARTAGAL AERO                                       
+28052026    21  15.3   94  1015.4  270    4     TARTAGAL AERO                                       
+28052026     9  14.0   83  1015.4   50    7     TERMAS DE RIO HONDO AERO                            
+28052026    10  14.8   79  1017.1   50    6     TERMAS DE RIO HONDO AERO                            
+28052026    11  18.3   72  1017.5  360    6     TERMAS DE RIO HONDO AERO                            
+28052026    12  18.4   73  1017.1  230    7     TERMAS DE RIO HONDO AERO                            
+28052026    13  20.2   68  1016.0  230    9     TERMAS DE RIO HONDO AERO                            
+28052026    14  20.4   66  1015.0  180   11     TERMAS DE RIO HONDO AERO                            
+28052026    15  22.6   55  1013.9   20   19     TERMAS DE RIO HONDO AERO                            
+28052026    16  21.8   60  1013.5   50   11     TERMAS DE RIO HONDO AERO                            
+28052026    17  21.0   64  1013.6   50   15     TERMAS DE RIO HONDO AERO                            
+28052026    18  20.2   69  1014.1   90   11     TERMAS DE RIO HONDO AERO                            
+28052026    19  19.6   66  1013.8   90    9     TERMAS DE RIO HONDO AERO                            
+28052026    20  19.0   77  1016.1   50    9     TERMAS DE RIO HONDO AERO                            
+28052026    21  18.4   81  1016.7   50   11     TERMAS DE RIO HONDO AERO                            
+28052026     9   4.0   77          160   15     TINOGASTA                                           
+28052026    12  16.2   47          140    9     TINOGASTA                                           
+28052026    15  22.4   38           50   15     TINOGASTA                                           
+28052026    18  19.8   45          160   15     TINOGASTA                                           
+28052026    21  13.4   61          340   15     TINOGASTA                                           
+28052026     0  11.2   99  1020.4    0    0     TRELEW AERO                                         
+28052026     1  10.8   99  1020.6    0    0     TRELEW AERO                                         
+28052026     2  10.6   99  1020.5    0    0     TRELEW AERO                                         
+28052026     3  10.4   99  1019.7    0    0     TRELEW AERO                                         
+28052026     4  10.4   99  1019.8   50    4     TRELEW AERO                                         
+28052026     5  10.3   97  1019.9   50    4     TRELEW AERO                                         
+28052026     6  10.2   97  1019.3  100    6     TRELEW AERO                                         
+28052026     7  10.3   97  1019.2   70    9     TRELEW AERO                                         
+28052026     8  10.2   95  1020.0   20    6     TRELEW AERO                                         
+28052026     9  10.1   95  1019.8   60    4     TRELEW AERO                                         
+28052026    10  10.4   92  1020.4   20    6     TRELEW AERO                                         
+28052026    11  10.6   90  1020.7    0    0     TRELEW AERO                                         
+28052026    12  11.6   84  1021.0   10    7     TRELEW AERO                                         
+28052026    13  12.8   77  1020.2   50   15     TRELEW AERO                                         
+28052026    14  12.9   78  1019.7   40    9     TRELEW AERO                                         
+28052026    15  13.0   80  1018.9   50    9     TRELEW AERO                                         
+28052026    16  13.2   82  1018.4   50   15     TRELEW AERO                                         
+28052026    17  13.1   82  1018.5   50   15     TRELEW AERO                                         
+28052026    18  12.8   83  1018.9   20   11     TRELEW AERO                                         
+28052026    19  12.3   86  1019.1   20    7     TRELEW AERO                                         
+28052026    20  11.9   87  1019.2   20   15     TRELEW AERO                                         
+28052026    21  11.5   87  1019.3   20   15     TRELEW AERO                                         
+28052026    22  12.0   86  1019.2   20   15     TRELEW AERO                                         
+28052026    23  11.4   90  1019.2   30   15     TRELEW AERO                                         
+28052026     9   8.6   97  1021.1   50    7     TRENQUE LAUQUEN                                     
+28052026    12  11.1   97  1022.4   50    7     TRENQUE LAUQUEN                                     
+28052026    15  12.5   96  1020.8   50    6     TRENQUE LAUQUEN                                     
+28052026    18  12.8   94  1021.3   90    7     TRENQUE LAUQUEN                                     
+28052026    21  12.4   96  1022.9   50    7     TRENQUE LAUQUEN                                     
+28052026     9   8.1   95  1023.3    0    0     TRES ARROYOS                                        
+28052026    12  11.1   86  1018.6  360    2     TRES ARROYOS                                        
+28052026    15  12.9   72  1023.9  360    7     TRES ARROYOS                                        
+28052026    18  12.1   71  1023.0   50    7     TRES ARROYOS                                        
+28052026    21  10.1   85  1025.2   50    4     TRES ARROYOS                                        
+28052026     0  15.1   82  1016.5  340    6     TUCUMAN AERO                                        
+28052026     1  15.4   79  1015.8   20    7     TUCUMAN AERO                                        
+28052026     2  14.9   80  1014.9   70    7     TUCUMAN AERO                                        
+28052026     3  14.1   87  1014.6   50    4     TUCUMAN AERO                                        
+28052026     4  13.3   89  1014.3   50    4     TUCUMAN AERO                                        
+28052026     5  11.1   93  1014.0   50   11     TUCUMAN AERO                                        
+28052026     6  11.7   89  1014.0  360   13     TUCUMAN AERO                                        
+28052026     7  12.2   87  1014.8  360   13     TUCUMAN AERO                                        
+28052026     8  11.1   92  1015.8  360    9     TUCUMAN AERO                                        
+28052026     9  11.5   89  1016.6   20    9     TUCUMAN AERO                                        
+28052026    10  14.1   82  1017.0  350    7     TUCUMAN AERO                                        
+28052026    11  16.7   72  1017.1  260    6     TUCUMAN AERO                                        
+28052026    12  18.1   68  1016.7  990    6     TUCUMAN AERO                                        
+28052026    13  19.5   61  1015.6  990    4     TUCUMAN AERO                                        
+28052026    14  20.9   54  1014.2  110    9     TUCUMAN AERO                                        
+28052026    15  21.1   56  1013.4  990    9     TUCUMAN AERO                                        
+28052026    16  21.3   58  1013.1   90    9     TUCUMAN AERO                                        
+28052026    17  20.8   61  1013.4  140    6     TUCUMAN AERO                                        
+28052026    18  20.1   66  1013.9  140    7     TUCUMAN AERO                                        
+28052026    19  18.8   72  1014.8  110   11     TUCUMAN AERO                                        
+28052026    20  18.4   77  1016.4  990    4     TUCUMAN AERO                                        
+28052026    21  17.8   80  1016.9   90    7     TUCUMAN AERO                                        
+28052026    22  17.2   80  1017.6   90    9     TUCUMAN AERO                                        
+28052026    23  16.9   81  1017.6   90   11     TUCUMAN AERO                                        
+28052026     0   4.1   63  1021.1  230    7     USHUAIA AERO                                        
+28052026     1   3.2   68  1021.0  230    6     USHUAIA AERO                                        
+28052026     2   2.4   74  1020.9  270    9     USHUAIA AERO                                        
+28052026     3   2.5   69  1021.0  320    9     USHUAIA AERO                                        
+28052026     4   2.9   63  1021.2  320    9     USHUAIA AERO                                        
+28052026     5   2.9   63  1020.7   90    4     USHUAIA AERO                                        
+28052026     6   3.3   62  1020.2   90    4     USHUAIA AERO                                        
+28052026     7   4.4   71  1019.6  360    6     USHUAIA AERO                                        
+28052026     8   4.8   69  1019.4  360   30     USHUAIA AERO                                        
+28052026     9   4.8   75  1019.0  340   13     USHUAIA AERO                                        
+28052026    10   5.8   73  1018.6  340   15     USHUAIA AERO                                        
+28052026    11   5.7   72  1018.3  340   19     USHUAIA AERO                                        
+28052026    12   7.2   66  1017.9  360   22     USHUAIA AERO                                        
+28052026    13   8.0   66  1017.7  340   17     USHUAIA AERO                                        
+28052026    14   8.4   65  1017.1  360   19     USHUAIA AERO                                        
+28052026    15   8.5   67  1016.6  990    9     USHUAIA AERO                                        
+28052026    16   8.5   68  1016.2  340   13     USHUAIA AERO                                        
+28052026    17   8.6   66  1015.8  340   24     USHUAIA AERO                                        
+28052026    18   8.0   70  1015.5  990    6     USHUAIA AERO                                        
+28052026    19   7.8   70  1015.4  360   13     USHUAIA AERO                                        
+28052026    20   7.8   72  1015.0  290   11     USHUAIA AERO                                        
+28052026    21   8.0   68  1015.0  270    9     USHUAIA AERO                                        
+28052026    22   8.0   70  1014.6  180   17     USHUAIA AERO                                        
+28052026    23   8.1   69  1013.8  180    9     USHUAIA AERO                                        
+28052026     9  -3.3   80            0    0     USPALLATA                                           
+28052026    12  10.3   40            0    0     USPALLATA                                           
+28052026    15  20.3   27            0    0     USPALLATA                                           
+28052026    18  18.3   28            0    0     USPALLATA                                           
+28052026    21   6.8   60            0    0     USPALLATA                                           
+28052026     6   9.2  100  1021.1   50    9     VENADO TUERTO AERO                                  
+28052026     7   8.9  100  1021.0   50    9     VENADO TUERTO AERO                                  
+28052026     8   8.6  100  1021.3   50    9     VENADO TUERTO AERO                                  
+28052026     9  10.0  100  1021.5   50    9     VENADO TUERTO AERO                                  
+28052026    10  10.6  100  1021.9   50   15     VENADO TUERTO AERO                                  
+28052026    11  11.2  100  1022.2   50    9     VENADO TUERTO AERO                                  
+28052026    12  12.2  100  1022.4   20    9     VENADO TUERTO AERO                                  
+28052026    13  13.3   97  1022.1   50    9     VENADO TUERTO AERO                                  
+28052026    14  14.6   89  1021.3   50    9     VENADO TUERTO AERO                                  
+28052026    15  16.2   80  1019.6   50    9     VENADO TUERTO AERO                                  
+28052026    16  17.4   72  1019.3   50    9     VENADO TUERTO AERO                                  
+28052026    17  16.5   76  1019.3   20    4     VENADO TUERTO AERO                                  
+28052026    18  16.0   80  1019.6  140    4     VENADO TUERTO AERO                                  
+28052026    19  14.0   84  1020.2   50    4     VENADO TUERTO AERO                                  
+28052026    20  13.8   81  1020.7  110    9     VENADO TUERTO AERO                                  
+28052026    21  13.2   84  1021.5   90   15     VENADO TUERTO AERO                                  
+28052026     9  10.4   96  1018.8  360    9     VICTORICA                                           
+28052026    15  13.1   82  1018.6   50    9     VICTORICA                                           
+28052026    21  12.0   94  1021.6   90    4     VICTORICA                                           
+28052026     0  10.1   88  1020.1  360    6     VIEDMA AERO                                         
+28052026     1   9.4   89  1020.5  360    6     VIEDMA AERO                                         
+28052026     2   8.2   92  1020.3  360    7     VIEDMA AERO                                         
+28052026     3   8.4   93  1020.9  330   20     VIEDMA AERO                                         
+28052026     4   9.2   92  1020.8  320   11     VIEDMA AERO                                         
+28052026     5   8.2   95  1020.5  990    4     VIEDMA AERO                                         
+28052026     6   7.6   92  1020.7   50    7     VIEDMA AERO                                         
+28052026     7   7.9   94  1020.5   70    7     VIEDMA AERO                                         
+28052026     8   8.3   93  1021.0   60    7     VIEDMA AERO                                         
+28052026     9   9.0   94  1021.4   50    7     VIEDMA AERO                                         
+28052026    10   9.4   91  1022.0   40    9     VIEDMA AERO                                         
+28052026    11  10.3   90  1022.3   30   13     VIEDMA AERO                                         
+28052026    12  11.1   88  1022.6   30    7     VIEDMA AERO                                         
+28052026    13  11.5   85  1022.1   30    9     VIEDMA AERO                                         
+28052026    14  11.8   83  1021.7   20    9     VIEDMA AERO                                         
+28052026    15  12.5   84  1021.0   30    9     VIEDMA AERO                                         
+28052026    16  12.3   84  1020.9   20   11     VIEDMA AERO                                         
+28052026    17  12.3   84  1021.0   20   11     VIEDMA AERO                                         
+28052026    18  12.0   85  1021.2   20   11     VIEDMA AERO                                         
+28052026    19  11.8   84  1022.0  360    9     VIEDMA AERO                                         
+28052026    20  11.1   88  1022.5   30    6     VIEDMA AERO                                         
+28052026    21  10.9   89  1022.9   50    7     VIEDMA AERO                                         
+28052026    22  10.7   89  1023.0   40    9     VIEDMA AERO                                         
+28052026    23  10.9   88  1022.9   30   11     VIEDMA AERO                                         
+28052026     9  13.2   93  1018.8    0    0     VILLA DE MARIA DEL RIO SEC                          
+                                            O                                                       
+                                                                                                    
+28052026    15  17.8   75  1016.7  140    9     VILLA DE MARIA DEL RIO SEC                          
+                                            O                                                       
+                                                                                                    
+28052026    21  15.2   90  1019.3  140    4     VILLA DE MARIA DEL RIO SEC                          
+                                            O                                                       
+                                                                                                    
+28052026     9   7.8   87  1017.8  140   13     VILLA DOLORES AERO                                  
+28052026    10  13.0   70  1018.1  140   11     VILLA DOLORES AERO                                  
+28052026    11  16.8   60  1018.2   50    9     VILLA DOLORES AERO                                  
+28052026    12  18.4   57  1017.9  270   11     VILLA DOLORES AERO                                  
+28052026    13  19.2   51  1017.4  230   11     VILLA DOLORES AERO                                  
+28052026    14  20.3   47  1016.3  230    7     VILLA DOLORES AERO                                  
+28052026    15  20.2   48  1015.4  180    7     VILLA DOLORES AERO                                  
+28052026    16  21.4   48  1014.4  320    6     VILLA DOLORES AERO                                  
+28052026    17  20.2   50  1014.9  320    6     VILLA DOLORES AERO                                  
+28052026    18  20.0   51  1015.5  320   11     VILLA DOLORES AERO                                  
+28052026    19  18.3   61  1016.8  360    6     VILLA DOLORES AERO                                  
+28052026    20  17.8   61  1017.8   90    4     VILLA DOLORES AERO                                  
+28052026    21  17.0   75  1018.2  140    9     VILLA DOLORES AERO                                  
+28052026     8   9.0   96  1024.4    0    0     VILLA GESELL AERO                                   
+28052026     9   9.5   95  1024.7   20    4     VILLA GESELL AERO                                   
+28052026    10  10.1   96  1024.8    0    0     VILLA GESELL AERO                                   
+28052026    11  11.0   88  1025.2  160    6     VILLA GESELL AERO                                   
+28052026    12  11.5   82  1025.2   70    4     VILLA GESELL AERO                                   
+28052026    13  11.8   79  1024.7   90    4     VILLA GESELL AERO                                   
+28052026    14  11.7   80  1024.2   90    6     VILLA GESELL AERO                                   
+28052026    15  11.5   80  1024.0  110    4     VILLA GESELL AERO                                   
+28052026    16  11.4   78  1024.3   90    4     VILLA GESELL AERO                                   
+28052026    17  11.0   81  1024.2   50    7     VILLA GESELL AERO                                   
+28052026    18  10.6   80  1024.4   50    7     VILLA GESELL AERO                                   
+28052026    19  10.5   85  1025.0   50    7     VILLA GESELL AERO                                   
+28052026    20  10.4   84  1025.5   50    4     VILLA GESELL AERO                                   
+28052026    21  10.5   81  1025.6   50    4     VILLA GESELL AERO                                   
+28052026     0   8.4   95  1017.5    0    0     VILLA REYNOLDS AERO                                 
+28052026     1   8.4   95  1017.3   50    9     VILLA REYNOLDS AERO                                 
+28052026     2   5.8   90  1017.3    0    0     VILLA REYNOLDS AERO                                 
+28052026     3   6.1   88  1016.9   50   11     VILLA REYNOLDS AERO                                 
+28052026     4   9.1   87  1016.0  360   22     VILLA REYNOLDS AERO                                 
+28052026     5   8.7   90  1016.3   50   13     VILLA REYNOLDS AERO                                 
+28052026     6   8.8   88  1015.9   50   13     VILLA REYNOLDS AERO                                 
+28052026     7   8.1   87  1016.7   50    9     VILLA REYNOLDS AERO                                 
+28052026     8   6.6   92  1017.5   50    9     VILLA REYNOLDS AERO                                 
+28052026     9   6.8   87  1018.1  320    6     VILLA REYNOLDS AERO                                 
+28052026    10  10.0   80  1018.4   50    9     VILLA REYNOLDS AERO                                 
+28052026    11  14.2   72  1018.6   90   13     VILLA REYNOLDS AERO                                 
+28052026    12  17.3   60  1018.5   90    9     VILLA REYNOLDS AERO                                 
+28052026    13  19.7   51  1017.7   90   11     VILLA REYNOLDS AERO                                 
+28052026    14  20.5   44  1016.9    0    0     VILLA REYNOLDS AERO                                 
+28052026    15  21.0   43  1016.1  140   11     VILLA REYNOLDS AERO                                 
+28052026    16  19.4   49  1015.9  140   19     VILLA REYNOLDS AERO                                 
+28052026    17  18.1   54  1016.5  140   19     VILLA REYNOLDS AERO                                 
+28052026    18  16.8   64  1017.0  140   19     VILLA REYNOLDS AERO                                 
+28052026    19  15.2   70  1018.3  140   15     VILLA REYNOLDS AERO                                 
+28052026    20  13.6   77  1019.7  140   15     VILLA REYNOLDS AERO                                 
+28052026    21  12.8   84  1020.6  140    9     VILLA REYNOLDS AERO                                 
+28052026    22  10.4   89  1021.0  140    7     VILLA REYNOLDS AERO                                 
+28052026    23  12.5   92  1021.2  130    9     VILLA REYNOLDS AERO                                 

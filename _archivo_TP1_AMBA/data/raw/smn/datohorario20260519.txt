@@ -1,0 +1,1900 @@
+FECHA     HORA  TEMP   HUM   PNM    DD    FF     NOMBRE                                             
+         [HOA]  [ºC]   [%]  [hPa]  [gr] [km/hr]                                                     
+19052026     0  11.1   59  1023.8  280    7     AEROPARQUE AERO                                     
+19052026     1  10.8   61  1023.6  280    7     AEROPARQUE AERO                                     
+19052026     2  10.5   62  1023.4  280    9     AEROPARQUE AERO                                     
+19052026     3  10.2   63  1023.2  290    6     AEROPARQUE AERO                                     
+19052026     4   9.8   65  1022.8  280    7     AEROPARQUE AERO                                     
+19052026     5   9.4   68  1022.8  280    9     AEROPARQUE AERO                                     
+19052026     6   9.5   68  1022.7  280    9     AEROPARQUE AERO                                     
+19052026     7   9.4   67  1023.0  280   11     AEROPARQUE AERO                                     
+19052026     8   8.8   71  1023.4  280   11     AEROPARQUE AERO                                     
+19052026     9   9.6   67  1023.5  270    9     AEROPARQUE AERO                                     
+19052026    10  11.2   62  1023.9  270    7     AEROPARQUE AERO                                     
+19052026    11  13.4   53  1024.0  270    7     AEROPARQUE AERO                                     
+19052026    12  14.8   52  1023.3  290   15     AEROPARQUE AERO                                     
+19052026    13  16.0   44  1022.6  250    9     AEROPARQUE AERO                                     
+19052026    14  17.1   40  1021.7  260    9     AEROPARQUE AERO                                     
+19052026    15  17.4   39  1021.2  250    9     AEROPARQUE AERO                                     
+19052026    16  17.8   38  1021.0  280    9     AEROPARQUE AERO                                     
+19052026    17  17.7   37  1020.9  270    7     AEROPARQUE AERO                                     
+19052026    18  16.2   42  1021.3  270    6     AEROPARQUE AERO                                     
+19052026    19  15.5   46  1021.6  290    4     AEROPARQUE AERO                                     
+19052026    20  13.8   53  1021.7  300    7     AEROPARQUE AERO                                     
+19052026    21  14.6   50  1021.9  990    4     AEROPARQUE AERO                                     
+19052026    22  13.5   51  1021.9  290    6     AEROPARQUE AERO                                     
+19052026    23  13.4   53  1022.2  280    6     AEROPARQUE AERO                                     
+19052026     0   5.0   92  1022.1  320    9     AZUL AERO                                           
+19052026     1   4.2   81  1021.7  320    9     AZUL AERO                                           
+19052026     2   3.9   82  1021.3  270    9     AZUL AERO                                           
+19052026     3   3.5   83  1021.2  270    9     AZUL AERO                                           
+19052026     4   4.1   80  1021.1  270   11     AZUL AERO                                           
+19052026     5   3.8   82  1021.0  270   13     AZUL AERO                                           
+19052026     6   3.3   85  1021.0  270    7     AZUL AERO                                           
+19052026     7   2.5   84  1021.3  270    4     AZUL AERO                                           
+19052026     8   3.2   82  1021.5  270    7     AZUL AERO                                           
+19052026     9   4.6   78  1021.7  270    9     AZUL AERO                                           
+19052026    10   7.4   69  1021.9  270    9     AZUL AERO                                           
+19052026    11  13.0   44  1021.7  270    9     AZUL AERO                                           
+19052026    12  14.9   41  1021.4  230   13     AZUL AERO                                           
+19052026    13  16.8   30  1020.8  230    9     AZUL AERO                                           
+19052026    14  17.8   32  1020.4  230    9     AZUL AERO                                           
+19052026    15  17.8   32  1020.1  230    7     AZUL AERO                                           
+19052026    16  17.6   38  1020.1  230    6     AZUL AERO                                           
+19052026    17  16.2   41  1020.8  200    9     AZUL AERO                                           
+19052026    18  14.4   54  1021.4  230   11     AZUL AERO                                           
+19052026    19  12.2   68  1022.0  180    6     AZUL AERO                                           
+19052026    20  10.9   76  1022.4  230    6     AZUL AERO                                           
+19052026    21   8.7   83  1022.9  180    9     AZUL AERO                                           
+19052026    22   7.5   79  1023.0  180    7     AZUL AERO                                           
+19052026    23   6.8   81  1023.1  180    7     AZUL AERO                                           
+19052026     0   6.6   71  1020.7  340   19     BAHIA BLANCA AERO                                   
+19052026     1   5.8   76  1020.4  340   17     BAHIA BLANCA AERO                                   
+19052026     2   6.2   74  1020.3  340   20     BAHIA BLANCA AERO                                   
+19052026     3   5.4   76  1020.5  340   20     BAHIA BLANCA AERO                                   
+19052026     4   4.6   78  1020.2  340   19     BAHIA BLANCA AERO                                   
+19052026     5   6.0   73  1020.1  330   15     BAHIA BLANCA AERO                                   
+19052026     6   5.4   76  1020.4  330   13     BAHIA BLANCA AERO                                   
+19052026     7   3.8   80  1020.6  330   11     BAHIA BLANCA AERO                                   
+19052026     8   3.5   82  1021.5  290    6     BAHIA BLANCA AERO                                   
+19052026     9   3.0   86  1022.0  340    9     BAHIA BLANCA AERO                                   
+19052026    10   7.0   72  1023.0  270   13     BAHIA BLANCA AERO                                   
+19052026    11   9.9   58  1023.1  270    7     BAHIA BLANCA AERO                                   
+19052026    12  11.4   58  1023.3  320    6     BAHIA BLANCA AERO                                   
+19052026    13  15.0   51  1023.2  160   11     BAHIA BLANCA AERO                                   
+19052026    14  16.1   49  1022.8  200    7     BAHIA BLANCA AERO                                   
+19052026    15  16.3   53  1022.7  180   19     BAHIA BLANCA AERO                                   
+19052026    16  16.6   55  1023.0  180    7     BAHIA BLANCA AERO                                   
+19052026    17  17.0   56  1023.1  230    6     BAHIA BLANCA AERO                                   
+19052026    18             1023.7  200    4     BAHIA BLANCA AERO                                   
+19052026    19  12.0   77  1024.3  290    6     BAHIA BLANCA AERO                                   
+19052026    20  10.8   80  1024.6  320    7     BAHIA BLANCA AERO                                   
+19052026    21   9.0   84  1024.8  320    9     BAHIA BLANCA AERO                                   
+19052026    22   9.7   82  1025.8  180   15     BAHIA BLANCA AERO                                   
+19052026    23   8.7   84  1026.4  230    7     BAHIA BLANCA AERO                                   
+19052026     0    .6   68          180   11     BARILOCHE AERO                                      
+19052026     1   -.6   75          990    2     BARILOCHE AERO                                      
+19052026     2  -1.8   79          990    4     BARILOCHE AERO                                      
+19052026     3  -2.0   78          150    4     BARILOCHE AERO                                      
+19052026     4  -2.8   81          180    6     BARILOCHE AERO                                      
+19052026     5  -4.0   82            0    0     BARILOCHE AERO                                      
+19052026     6  -3.1   82          180    6     BARILOCHE AERO                                      
+19052026     7  -3.4   85          160    9     BARILOCHE AERO                                      
+19052026     8  -4.2   79            0    0     BARILOCHE AERO                                      
+19052026     9  -4.0   82          180    6     BARILOCHE AERO                                      
+19052026    10   -.9   75            0    0     BARILOCHE AERO                                      
+19052026    11   3.4   66           70    4     BARILOCHE AERO                                      
+19052026    12   9.2   43            0    0     BARILOCHE AERO                                      
+19052026    13  13.4   33            0    0     BARILOCHE AERO                                      
+19052026    14  14.7   25           70   13     BARILOCHE AERO                                      
+19052026    15  15.6   26           50   17     BARILOCHE AERO                                      
+19052026    16  16.0   25           50    7     BARILOCHE AERO                                      
+19052026    17  16.2   25           50   11     BARILOCHE AERO                                      
+19052026    18  14.8   31           50    6     BARILOCHE AERO                                      
+19052026    19   8.6   44            0    0     BARILOCHE AERO                                      
+19052026    20   6.5   50          180   15     BARILOCHE AERO                                      
+19052026    21   6.4   48          990    4     BARILOCHE AERO                                      
+19052026    22   6.1   54          990    4     BARILOCHE AERO                                      
+19052026    23   5.8   59          140   13     BARILOCHE AERO                                      
+19052026     0 -15.8   63   996.3  140    7     BASE BELGRANO II                                    
+19052026     3 -17.7   64   996.6   90    4     BASE BELGRANO II                                    
+19052026     6 -16.4   66   995.9  180    4     BASE BELGRANO II                                    
+19052026     9 -14.6   70   995.6  110   11     BASE BELGRANO II                                    
+19052026    12 -13.7   64   995.4   90    7     BASE BELGRANO II                                    
+19052026    15 -15.6   59   996.5   20    2     BASE BELGRANO II                                    
+19052026    18 -15.7   72   996.8  140   13     BASE BELGRANO II                                    
+19052026    21 -15.9   63   996.0   90    4     BASE BELGRANO II                                    
+19052026     0  -5.0   62   997.2  200   15     BASE CARLINI (EX JUBANY)                            
+19052026     3  -4.0   62  1000.5  200   13     BASE CARLINI (EX JUBANY)                            
+19052026     6  -3.8   68  1002.7  180   15     BASE CARLINI (EX JUBANY)                            
+19052026     9  -5.2   71  1005.4  140   13     BASE CARLINI (EX JUBANY)                            
+19052026    12  -6.4   71  1008.5   70    7     BASE CARLINI (EX JUBANY)                            
+19052026    15  -5.9   77  1010.2   50    7     BASE CARLINI (EX JUBANY)                            
+19052026    18  -6.0   74  1011.6  340    9     BASE CARLINI (EX JUBANY)                            
+19052026    21  -3.0   75  1011.3  290   24     BASE CARLINI (EX JUBANY)                            
+19052026     0 -10.5   74   994.9  230   76     BASE ESPERANZA                                      
+19052026     3 -10.1   75   998.0  230   69     BASE ESPERANZA                                      
+19052026     6  -9.3   77  1001.7  230   57     BASE ESPERANZA                                      
+19052026     9  -8.5   84  1005.6  230   43     BASE ESPERANZA                                      
+19052026    12  -7.1   80  1008.0  200   46     BASE ESPERANZA                                      
+19052026    15  -6.9   80  1010.5  200   11     BASE ESPERANZA                                      
+19052026    18 -10.1   82  1011.1  200    7     BASE ESPERANZA                                      
+19052026    21  -8.9   77  1010.3    0    0     BASE ESPERANZA                                      
+19052026     0 -13.2   65   996.2  210   81     BASE MARAMBIO                                       
+19052026     1 -13.2   61   997.8  210   74     BASE MARAMBIO                                       
+19052026     3 -13.5   60   999.6  210   74     BASE MARAMBIO                                       
+19052026     4 -14.2   54  1001.1  210   67     BASE MARAMBIO                                       
+19052026     5 -14.4   54  1001.2  210   72     BASE MARAMBIO                                       
+19052026     6 -14.2   50  1002.7  210   70     BASE MARAMBIO                                       
+19052026     7 -13.9   47  1003.8  210   65     BASE MARAMBIO                                       
+19052026     8 -14.5   45  1005.1  210   61     BASE MARAMBIO                                       
+19052026     9 -14.4   50  1006.1  210   59     BASE MARAMBIO                                       
+19052026    10 -13.8   39  1006.9  210   63     BASE MARAMBIO                                       
+19052026    11 -13.4   41  1007.4  200   57     BASE MARAMBIO                                       
+19052026    12 -12.4   41  1008.6  200   54     BASE MARAMBIO                                       
+19052026    13 -12.5   45  1009.5  220   41     BASE MARAMBIO                                       
+19052026    14 -12.2   45  1009.6  200   41     BASE MARAMBIO                                       
+19052026    15 -12.5   48  1010.1  180   35     BASE MARAMBIO                                       
+19052026    16 -12.2   45  1010.1  180   28     BASE MARAMBIO                                       
+19052026    17 -13.4   37  1010.5  180   28     BASE MARAMBIO                                       
+19052026    18 -12.8   40  1010.7  180   15     BASE MARAMBIO                                       
+19052026    19 -12.0   46  1010.2  320    4     BASE MARAMBIO                                       
+19052026    20 -11.8   47  1009.9  320    7     BASE MARAMBIO                                       
+19052026    21 -12.5   48  1009.4  360   15     BASE MARAMBIO                                       
+19052026    22 -11.1   70  1008.7  360   17     BASE MARAMBIO                                       
+19052026    23 -10.7   64  1007.5  360   24     BASE MARAMBIO                                       
+19052026     0  -4.6   98   962.6  140   46     BASE ORCADAS                                        
+19052026     3  -5.8  100   964.3  160   43     BASE ORCADAS                                        
+19052026     6  -4.2  100   965.8  160   41     BASE ORCADAS                                        
+19052026     9  -3.5  100   971.5  180   46     BASE ORCADAS                                        
+19052026    12  -4.6  100   977.7  160   65     BASE ORCADAS                                        
+19052026    15  -5.7  100   984.0  160   56     BASE ORCADAS                                        
+19052026    18  -7.5  100   988.2  140   56     BASE ORCADAS                                        
+19052026    21  -9.4  100   992.7  140   56     BASE ORCADAS                                        
+19052026     0  -5.9   73  1003.7   50   11     BASE SAN MARTIN                                     
+19052026     3  -5.3   79  1005.8  990    7     BASE SAN MARTIN                                     
+19052026     6  -6.1   83  1007.5   50   13     BASE SAN MARTIN                                     
+19052026     9  -7.2   83  1008.1   50   13     BASE SAN MARTIN                                     
+19052026    12  -7.0   83  1008.0    0    0     BASE SAN MARTIN                                     
+19052026    15  -6.4   78  1007.3   50    7     BASE SAN MARTIN                                     
+19052026    18  -5.2   74  1005.0  180   13     BASE SAN MARTIN                                     
+19052026    21  -4.9   90  1003.6  180    7     BASE SAN MARTIN                                     
+19052026     9   5.7   67  1019.9  320    9     BENITO JUAREZ AERO                                  
+19052026    15  15.5   60  1019.4  230    9     BENITO JUAREZ AERO                                  
+19052026    21   6.8   88  1022.2  230    4     BENITO JUAREZ AERO                                  
+19052026     9   8.5   99          180    9     BERNARDO DE IRIGOYEN AERO                           
+19052026    15  15.5   83          180    9     BERNARDO DE IRIGOYEN AERO                           
+19052026    21   9.2   92          180    9     BERNARDO DE IRIGOYEN AERO                           
+19052026     9   1.6   89  1023.1  320    6     BOLIVAR AERO                                        
+19052026    15  19.0   33          270   19     BOLIVAR AERO                                        
+19052026    21  10.4   63  1023.7  180    4     BOLIVAR AERO                                        
+19052026     0   8.1   77  1024.0  320    4     BUENOS AIRES OBSERVATORIO                           
+19052026     1   8.2   74  1023.6  320    4     BUENOS AIRES OBSERVATORIO                           
+19052026     2   8.0   74  1023.6  320    4     BUENOS AIRES OBSERVATORIO                           
+19052026     3   7.7   77  1023.3  320    4     BUENOS AIRES OBSERVATORIO                           
+19052026     4   7.4   80  1022.8  320    4     BUENOS AIRES OBSERVATORIO                           
+19052026     5   7.2   79  1022.9  320    6     BUENOS AIRES OBSERVATORIO                           
+19052026     6   7.6   78  1022.7  320    6     BUENOS AIRES OBSERVATORIO                           
+19052026     7   7.3   79  1023.2  320    6     BUENOS AIRES OBSERVATORIO                           
+19052026     8   7.2   80  1023.5  320    4     BUENOS AIRES OBSERVATORIO                           
+19052026     9   9.4   68  1023.6  320    4     BUENOS AIRES OBSERVATORIO                           
+19052026    10  12.1   59  1024.0  290    4     BUENOS AIRES OBSERVATORIO                           
+19052026    11  15.0   52  1024.2  270    4     BUENOS AIRES OBSERVATORIO                           
+19052026    12  15.7   50  1023.5  270    9     BUENOS AIRES OBSERVATORIO                           
+19052026    13  17.8   46  1022.6  270    6     BUENOS AIRES OBSERVATORIO                           
+19052026    14  18.9   42  1021.8  270    7     BUENOS AIRES OBSERVATORIO                           
+19052026    15  19.1   41  1021.2  270    7     BUENOS AIRES OBSERVATORIO                           
+19052026    16  19.1   39  1021.0  270    6     BUENOS AIRES OBSERVATORIO                           
+19052026    17  17.2   44  1020.9  270    6     BUENOS AIRES OBSERVATORIO                           
+19052026    18  15.5   44  1021.4  270    6     BUENOS AIRES OBSERVATORIO                           
+19052026    19  13.0   66  1021.8    0    0     BUENOS AIRES OBSERVATORIO                           
+19052026    20  12.2   68  1021.9  290    4     BUENOS AIRES OBSERVATORIO                           
+19052026    21  11.4   72  1022.0    0    0     BUENOS AIRES OBSERVATORIO                           
+19052026    22  10.6   73  1022.2  270    4     BUENOS AIRES OBSERVATORIO                           
+19052026    23  10.2   72  1022.2    0    0     BUENOS AIRES OBSERVATORIO                           
+19052026     9   8.6   77  1024.4  290    9     CAMPO DE MAYO AERO                                  
+19052026    10  10.2   68  1024.5  290   13     CAMPO DE MAYO AERO                                  
+19052026    11  11.8   65  1024.7  270   19     CAMPO DE MAYO AERO                                  
+19052026    12  14.3   60  1023.9  290   19     CAMPO DE MAYO AERO                                  
+19052026    13  15.6   55  1023.0  290   15     CAMPO DE MAYO AERO                                  
+19052026    14  16.7   50  1022.2  270   15     CAMPO DE MAYO AERO                                  
+19052026    15  16.7   47  1021.8  270   15     CAMPO DE MAYO AERO                                  
+19052026    16  17.1   46  1021.6  250   13     CAMPO DE MAYO AERO                                  
+19052026    17  16.2   52  1021.5  270    9     CAMPO DE MAYO AERO                                  
+19052026    18  14.6   61  1021.9  290    6     CAMPO DE MAYO AERO                                  
+19052026    19  10.4   85  1022.2  320    4     CAMPO DE MAYO AERO                                  
+19052026    20   9.2   84  1022.3  320    6     CAMPO DE MAYO AERO                                  
+19052026    21   9.5   80  1022.5  320    7     CAMPO DE MAYO AERO                                  
+19052026     0  11.4   64  1022.2   30   22     CATAMARCA AERO                                      
+19052026     1  10.8   67  1021.9   40   19     CATAMARCA AERO                                      
+19052026     2  10.6   69  1021.7   40   15     CATAMARCA AERO                                      
+19052026     3  10.2   69  1021.6   30   17     CATAMARCA AERO                                      
+19052026     4   9.2   75  1021.4   30   17     CATAMARCA AERO                                      
+19052026     5   8.8   77  1021.5  360    9     CATAMARCA AERO                                      
+19052026     6   4.0   94  1022.0  350    7     CATAMARCA AERO                                      
+19052026     7   3.8   93  1022.8    0    0     CATAMARCA AERO                                      
+19052026     8   1.0   92  1023.7   60    2     CATAMARCA AERO                                      
+19052026     9   1.6   79  1024.5   30    4     CATAMARCA AERO                                      
+19052026    10   9.0   62  1023.9  320    4     CATAMARCA AERO                                      
+19052026    11  12.0   56  1023.8   50    4     CATAMARCA AERO                                      
+19052026    12  15.0   41  1023.1  180    7     CATAMARCA AERO                                      
+19052026    13  16.6   42  1022.0  230    7     CATAMARCA AERO                                      
+19052026    14  17.8   40  1021.0  140    4     CATAMARCA AERO                                      
+19052026    15  18.8   37  1020.1  230    9     CATAMARCA AERO                                      
+19052026    16  19.4   38  1019.8  230    7     CATAMARCA AERO                                      
+19052026    17  19.2   39  1019.9  230    7     CATAMARCA AERO                                      
+19052026    18  17.8   46  1020.6  230    7     CATAMARCA AERO                                      
+19052026    19  14.8   67  1021.6    0    0     CATAMARCA AERO                                      
+19052026    20  10.8   81  1022.9    0    0     CATAMARCA AERO                                      
+19052026    21   9.2   82  1023.7   50    9     CATAMARCA AERO                                      
+19052026    22   8.2   82  1024.0   50   11     CATAMARCA AERO                                      
+19052026    23   8.2   82  1024.1   50   13     CATAMARCA AERO                                      
+19052026     6   5.3   94  1023.6  350    4     CERES AERO                                          
+19052026     7   4.8   95  1023.7  360    6     CERES AERO                                          
+19052026     8   5.0   92  1024.6  330    7     CERES AERO                                          
+19052026     9   7.0   87  1025.0  310    7     CERES AERO                                          
+19052026    10  11.0   75  1025.4  300   11     CERES AERO                                          
+19052026    11  13.8   64  1025.7  300    9     CERES AERO                                          
+19052026    12  14.5   58  1025.2  320   13     CERES AERO                                          
+19052026    13  16.8   47  1024.2  330   13     CERES AERO                                          
+19052026    14  17.4   44  1023.4  320   11     CERES AERO                                          
+19052026    15  17.1   45  1022.6  330    9     CERES AERO                                          
+19052026    16  17.7   41  1022.4  330    7     CERES AERO                                          
+19052026    17  17.7   41  1022.3  330    6     CERES AERO                                          
+19052026    18  16.4   48  1022.5  350    6     CERES AERO                                          
+19052026    19  13.2   65  1022.9    0    0     CERES AERO                                          
+19052026    20  11.3   73  1023.3    0    0     CERES AERO                                          
+19052026    21   8.7   83  1023.8    0    0     CERES AERO                                          
+19052026     9   6.0   82  1023.7    0    0     CHAMICAL AERO                                       
+19052026    10   9.0   65  1025.4  140   15     CHAMICAL AERO                                       
+19052026    11  11.8   57  1026.1  140    9     CHAMICAL AERO                                       
+19052026    12  14.0   53  1024.3   90    4     CHAMICAL AERO                                       
+19052026    13  16.6   44  1022.9   90    9     CHAMICAL AERO                                       
+19052026    14  17.8   40  1021.9   90    9     CHAMICAL AERO                                       
+19052026    15  19.0   39  1021.2    0    0     CHAMICAL AERO                                       
+19052026    16  18.8   38  1020.5    0    0     CHAMICAL AERO                                       
+19052026    17  18.0   38  1021.9   90    9     CHAMICAL AERO                                       
+19052026    18  16.0   47  1018.3    0    0     CHAMICAL AERO                                       
+19052026    19  12.6   53  1021.6    0    0     CHAMICAL AERO                                       
+19052026    20   8.0   58  1022.9    0    0     CHAMICAL AERO                                       
+19052026    21   6.8   78  1024.1    0    0     CHAMICAL AERO                                       
+19052026     0  -3.7   96  1024.4    0    0     CHAPELCO AERO                                       
+19052026     1  -3.1   85  1023.6  230    6     CHAPELCO AERO                                       
+19052026     2  -4.0   96  1023.6  240    6     CHAPELCO AERO                                       
+19052026     3  -4.9   98  1023.6    0    0     CHAPELCO AERO                                       
+19052026     4  -5.2   98  1023.3    0    0     CHAPELCO AERO                                       
+19052026     5  -5.1   95  1022.8  240    7     CHAPELCO AERO                                       
+19052026     6  -5.6   95  1023.6    0    0     CHAPELCO AERO                                       
+19052026     7  -5.9   98  1025.5    0    0     CHAPELCO AERO                                       
+19052026     8  -6.6   95  1027.1    0    0     CHAPELCO AERO                                       
+19052026     9  -6.6   95  1028.2    0    0     CHAPELCO AERO                                       
+19052026    10  -2.6   92  1028.3    0    0     CHAPELCO AERO                                       
+19052026    11   1.2   69  1027.9   50    9     CHAPELCO AERO                                       
+19052026    12   6.2   46  1027.0   40   13     CHAPELCO AERO                                       
+19052026    13  10.4   39  1025.9   40   17     CHAPELCO AERO                                       
+19052026    14  13.0   30  1025.1   50   19     CHAPELCO AERO                                       
+19052026    15  14.4   31  1024.1   70   17     CHAPELCO AERO                                       
+19052026    16  15.0   32  1024.0   90   17     CHAPELCO AERO                                       
+19052026    17  15.4   32  1024.1  110   19     CHAPELCO AERO                                       
+19052026    18  14.6   37  1025.1  100   11     CHAPELCO AERO                                       
+19052026    19   9.8   55  1026.4    0    0     CHAPELCO AERO                                       
+19052026    20   5.6   63  1027.9  260    7     CHAPELCO AERO                                       
+19052026    21   3.8   70  1028.6    0    0     CHAPELCO AERO                                       
+19052026    22   2.0   77  1028.7    0    0     CHAPELCO AERO                                       
+19052026    23    .4   85  1029.0    0    0     CHAPELCO AERO                                       
+19052026     9   3.7   89  1023.1  360    9     CHEPES                                              
+19052026    15  18.6   44           50    4     CHEPES                                              
+19052026    21   8.9   73  1023.2    0    0     CHEPES                                              
+19052026     9   1.3   89            0    0     CHILECITO AERO                                      
+19052026    21  11.8   56          180    7     CHILECITO AERO                                      
+19052026     0  18.3   45  1019.2  190   19     COMODORO RIVADAVIA AERO                             
+19052026     1  17.2   48  1020.4  180   19     COMODORO RIVADAVIA AERO                             
+19052026     2  14.8   62  1021.3  140   11     COMODORO RIVADAVIA AERO                             
+19052026     3  13.9   66  1022.3  140    7     COMODORO RIVADAVIA AERO                             
+19052026     4  13.1   67  1022.3  140    6     COMODORO RIVADAVIA AERO                             
+19052026     5  10.4   73  1022.3  270    7     COMODORO RIVADAVIA AERO                             
+19052026     6   9.8   68  1022.8  230    9     COMODORO RIVADAVIA AERO                             
+19052026     7   9.6   65  1022.9  260   13     COMODORO RIVADAVIA AERO                             
+19052026     8   9.0   62  1023.3  250   15     COMODORO RIVADAVIA AERO                             
+19052026     9   8.3   64  1023.2  280   17     COMODORO RIVADAVIA AERO                             
+19052026    10  10.1   60  1023.8  280   19     COMODORO RIVADAVIA AERO                             
+19052026    11  13.8   57  1023.9  270   15     COMODORO RIVADAVIA AERO                             
+19052026    12  16.6   52  1023.9  280   11     COMODORO RIVADAVIA AERO                             
+19052026    13  17.8   45  1023.9  230   19     COMODORO RIVADAVIA AERO                             
+19052026    14  16.7   51  1024.2  160   13     COMODORO RIVADAVIA AERO                             
+19052026    15  16.8   53  1024.4  150    7     COMODORO RIVADAVIA AERO                             
+19052026    16  16.4   50  1024.5  160   15     COMODORO RIVADAVIA AERO                             
+19052026    17  14.8   61  1025.2  140   11     COMODORO RIVADAVIA AERO                             
+19052026    18  13.6   70  1025.8  180    4     COMODORO RIVADAVIA AERO                             
+19052026    19  11.6   64  1026.5  230    4     COMODORO RIVADAVIA AERO                             
+19052026    20   9.0   71  1027.0  320    7     COMODORO RIVADAVIA AERO                             
+19052026    21   9.7   72  1027.5  290    6     COMODORO RIVADAVIA AERO                             
+19052026    22   8.6   74  1027.9  340    6     COMODORO RIVADAVIA AERO                             
+19052026    23   7.9   77  1028.5  320   13     COMODORO RIVADAVIA AERO                             
+19052026     6    .9   97  1024.8    0    0     CONCORDIA AERO                                      
+19052026     7   1.0   97  1025.0    0    0     CONCORDIA AERO                                      
+19052026     8   1.4   97  1025.5    0    0     CONCORDIA AERO                                      
+19052026     9   5.1   94  1026.0    0    0     CONCORDIA AERO                                      
+19052026    10   9.4   82  1026.3   90    4     CONCORDIA AERO                                      
+19052026    11  12.6   61  1026.4  320    4     CONCORDIA AERO                                      
+19052026    12  14.8   55  1025.7  270    6     CONCORDIA AERO                                      
+19052026    13  15.6   49  1024.9  250    9     CONCORDIA AERO                                      
+19052026    14  16.6   50  1024.0  250    7     CONCORDIA AERO                                      
+19052026    15  17.0   47  1023.3  270    7     CONCORDIA AERO                                      
+19052026    16  17.5   50  1023.0  270    4     CONCORDIA AERO                                      
+19052026    17  16.6   53  1022.9  270    6     CONCORDIA AERO                                      
+19052026    18  13.5   68  1023.1    0    0     CONCORDIA AERO                                      
+19052026    19  12.6   73  1023.3    0    0     CONCORDIA AERO                                      
+19052026    20   9.7   94  1023.5    0    0     CONCORDIA AERO                                      
+19052026    21   8.9   90  1023.9    0    0     CONCORDIA AERO                                      
+19052026     0   1.5   86  1024.8  340    9     CORDOBA AERO                                        
+19052026     1   1.4   81  1024.4  290    6     CORDOBA AERO                                        
+19052026     2   1.0   85  1023.6  270    9     CORDOBA AERO                                        
+19052026     3    .3   84  1023.0  260    9     CORDOBA AERO                                        
+19052026     4   -.8   79  1022.4  320    6     CORDOBA AERO                                        
+19052026     5   -.9   72  1022.2   20    6     CORDOBA AERO                                        
+19052026     6  -2.0   73  1022.7   10    7     CORDOBA AERO                                        
+19052026     7  -2.8   84  1023.4  320    6     CORDOBA AERO                                        
+19052026     8  -1.8   85  1024.2  290    7     CORDOBA AERO                                        
+19052026     9   2.0   63  1024.5  320    4     CORDOBA AERO                                        
+19052026    10   9.1   50  1024.5  990    7     CORDOBA AERO                                        
+19052026    11  11.6   60  1024.9  990    6     CORDOBA AERO                                        
+19052026    12  14.9   45  1024.1  990    7     CORDOBA AERO                                        
+19052026    13  16.9   31  1023.3  200    7     CORDOBA AERO                                        
+19052026    14  19.1   31  1022.2  990   11     CORDOBA AERO                                        
+19052026    15  19.9   24  1021.8  130    6     CORDOBA AERO                                        
+19052026    16  19.5   23  1021.8  150   11     CORDOBA AERO                                        
+19052026    17  19.0   22  1022.0  110    7     CORDOBA AERO                                        
+19052026    18  16.2   45  1022.8  110    9     CORDOBA AERO                                        
+19052026    19   7.0   72  1025.1   80    9     CORDOBA AERO                                        
+19052026    20   6.4   73  1025.2  360   11     CORDOBA AERO                                        
+19052026    21   5.4   75  1025.6  320   11     CORDOBA AERO                                        
+19052026    22   4.2   75  1025.5  300    7     CORDOBA AERO                                        
+19052026    23   4.0   78  1025.7  310    9     CORDOBA AERO                                        
+19052026     0   8.1   74  1024.0  360    4     CORDOBA OBSERVATORIO                                
+19052026     1   7.0   76  1023.6  360    4     CORDOBA OBSERVATORIO                                
+19052026     2   5.9   80  1023.2  320    4     CORDOBA OBSERVATORIO                                
+19052026     3   4.6   80  1022.4  270    2     CORDOBA OBSERVATORIO                                
+19052026     4   3.7   82  1022.0  220    4     CORDOBA OBSERVATORIO                                
+19052026     5   3.0   85  1021.8  230    2     CORDOBA OBSERVATORIO                                
+19052026     6   2.6   90  1021.9  270    4     CORDOBA OBSERVATORIO                                
+19052026     7   1.8   89  1022.3  270    4     CORDOBA OBSERVATORIO                                
+19052026     8   1.3   91  1023.0  270    4     CORDOBA OBSERVATORIO                                
+19052026     9   2.2   88  1023.7  270    2     CORDOBA OBSERVATORIO                                
+19052026    10   8.4   63  1023.7   50    2     CORDOBA OBSERVATORIO                                
+19052026    11  12.5   52  1023.9   90    2     CORDOBA OBSERVATORIO                                
+19052026    12  14.6   45  1023.5   90    4     CORDOBA OBSERVATORIO                                
+19052026    13  17.4   38  1022.4   50    4     CORDOBA OBSERVATORIO                                
+19052026    14  20.0   34  1021.6   90    6     CORDOBA OBSERVATORIO                                
+19052026    15  20.9   30  1021.0   90    7     CORDOBA OBSERVATORIO                                
+19052026    16  21.5   28  1020.9  140    6     CORDOBA OBSERVATORIO                                
+19052026    17  20.4   33  1021.1  140    7     CORDOBA OBSERVATORIO                                
+19052026    18  17.8   39  1021.7  140    6     CORDOBA OBSERVATORIO                                
+19052026    19  15.2   50  1022.7   90    7     CORDOBA OBSERVATORIO                                
+19052026    20  12.9   61  1023.5  110    4     CORDOBA OBSERVATORIO                                
+19052026    21  10.5   67  1024.6  320    2     CORDOBA OBSERVATORIO                                
+19052026    22   9.4   74  1024.7  200    2     CORDOBA OBSERVATORIO                                
+19052026    23   7.6   76  1025.0  230    4     CORDOBA OBSERVATORIO                                
+19052026     6   4.3   67  1021.0  270    9     CORONEL SUAREZ AERO                                 
+19052026     7   4.7   61  1021.3  270   13     CORONEL SUAREZ AERO                                 
+19052026     8   1.4   78  1021.6  290    9     CORONEL SUAREZ AERO                                 
+19052026     9   5.2   62  1022.0  320    7     CORONEL SUAREZ AERO                                 
+19052026    10   8.9   56  1022.2  270   13     CORONEL SUAREZ AERO                                 
+19052026    11  11.7   52  1022.2  270   11     CORONEL SUAREZ AERO                                 
+19052026    12  14.6   51  1022.3  270    4     CORONEL SUAREZ AERO                                 
+19052026    15  19.1   29  1021.1  270    7     CORONEL SUAREZ AERO                                 
+19052026    21   9.3   60  1024.4  180    9     CORONEL SUAREZ AERO                                 
+19052026     0   8.9   96  1025.5  210    6     CORRIENTES AERO                                     
+19052026     1   8.5   97  1025.2  210    7     CORRIENTES AERO                                     
+19052026     2   8.3   96  1024.8  210    4     CORRIENTES AERO                                     
+19052026     3   7.9   97  1024.8  250    6     CORRIENTES AERO                                     
+19052026     4   7.7   97  1024.8  230    4     CORRIENTES AERO                                     
+19052026     5   6.9   95  1024.5  210    7     CORRIENTES AERO                                     
+19052026     6   6.9   97  1023.9  180    7     CORRIENTES AERO                                     
+19052026     7   6.7   97  1024.2  190    9     CORRIENTES AERO                                     
+19052026     8   6.4   97  1024.8  200    7     CORRIENTES AERO                                     
+19052026     9   9.0   92  1025.3  160    7     CORRIENTES AERO                                     
+19052026    10  11.6   91  1026.0  110    7     CORRIENTES AERO                                     
+19052026    11  14.0   66  1026.3  140    9     CORRIENTES AERO                                     
+19052026    12  15.8   52  1025.8  140    9     CORRIENTES AERO                                     
+19052026    13  16.8   50  1024.8  110    7     CORRIENTES AERO                                     
+19052026    14  17.8   46  1023.8  160    6     CORRIENTES AERO                                     
+19052026    15  18.2   46  1023.2  180    7     CORRIENTES AERO                                     
+19052026    16  18.4   46  1022.6  140    4     CORRIENTES AERO                                     
+19052026    17  17.8   46  1022.5  180    7     CORRIENTES AERO                                     
+19052026    18  16.2   55  1022.7  160    6     CORRIENTES AERO                                     
+19052026    19  15.0   64  1023.0  160    4     CORRIENTES AERO                                     
+19052026    20  10.5   85  1023.3  200    7     CORRIENTES AERO                                     
+19052026    21  10.3   88  1023.8  200    6     CORRIENTES AERO                                     
+19052026    22   9.3   92  1024.3  190    6     CORRIENTES AERO                                     
+19052026    23   8.6   95  1024.4  160    6     CORRIENTES AERO                                     
+19052026     9   4.8   81  1021.1  290   15     DOLORES AERO                                        
+19052026    10   8.2   74  1021.3  290   19     DOLORES AERO                                        
+19052026    11  11.0   63  1021.0  290   19     DOLORES AERO                                        
+19052026    12  13.3   56  1020.6  290   22     DOLORES AERO                                        
+19052026    13  15.0   49  1020.2  270   22     DOLORES AERO                                        
+19052026    14  16.1   45  1019.5  250   22     DOLORES AERO                                        
+19052026    15  16.7   46  1018.8  270   22     DOLORES AERO                                        
+19052026    16  16.8   45  1019.0  270   22     DOLORES AERO                                        
+19052026    17  16.2   51  1019.2  270   15     DOLORES AERO                                        
+19052026    18  12.8   65  1019.6  250   11     DOLORES AERO                                        
+19052026    19  11.3   74  1020.1  230    7     DOLORES AERO                                        
+19052026    20  10.2   78  1020.2    0    0     DOLORES AERO                                        
+19052026    21   8.8   84  1020.6  250    7     DOLORES AERO                                        
+19052026     9  -3.7   93  1027.9    0    0     EL BOLSON AERO                                      
+19052026    12   6.3   67  1027.8    0    0     EL BOLSON AERO                                      
+19052026    15  13.3   39  1025.2    0    0     EL BOLSON AERO                                      
+19052026    18  11.8   51  1025.5    0    0     EL BOLSON AERO                                      
+19052026    21   4.9   83  1027.6    0    0     EL BOLSON AERO                                      
+19052026     0   9.0   69  1021.5  270   20     EL CALAFATE AERO                                    
+19052026     1  11.0   57  1021.1  270   22     EL CALAFATE AERO                                    
+19052026     2  10.0   58  1022.3  270    7     EL CALAFATE AERO                                    
+19052026     3  10.8   55  1022.5  320   11     EL CALAFATE AERO                                    
+19052026     4  10.6   54  1022.7  290    9     EL CALAFATE AERO                                    
+19052026     5  11.2   60  1022.7  320   26     EL CALAFATE AERO                                    
+19052026     6  11.0   66  1022.5  320   26     EL CALAFATE AERO                                    
+19052026     7  11.0   66  1022.7  290   17     EL CALAFATE AERO                                    
+19052026     8  15.0   45  1023.1  320   17     EL CALAFATE AERO                                    
+19052026     9  11.4   67  1023.6  290   13     EL CALAFATE AERO                                    
+19052026    10  12.4   61  1024.3  290   24     EL CALAFATE AERO                                    
+19052026    11  14.4   56  1024.9  290   19     EL CALAFATE AERO                                    
+19052026    12  16.8   47  1024.8  270   22     EL CALAFATE AERO                                    
+19052026    13  17.6   41  1025.1  990   11     EL CALAFATE AERO                                    
+19052026    14  16.8   47  1025.5  340   13     EL CALAFATE AERO                                    
+19052026    15  17.8   43  1025.5  270   22     EL CALAFATE AERO                                    
+19052026    16  16.2   53  1025.6  270   22     EL CALAFATE AERO                                    
+19052026    17  16.6   48  1025.8  270   22     EL CALAFATE AERO                                    
+19052026    18  13.6   65  1026.5  270   19     EL CALAFATE AERO                                    
+19052026    19  12.4   53  1026.6  290   17     EL CALAFATE AERO                                    
+19052026    20  11.8   61  1027.2  990    2     EL CALAFATE AERO                                    
+19052026    21   9.8   67  1028.1   90    9     EL CALAFATE AERO                                    
+19052026    22   8.0   83  1028.8  990    4     EL CALAFATE AERO                                    
+19052026    23   7.2   80  1028.8   90   11     EL CALAFATE AERO                                    
+19052026     0    .9   97  1023.9    0    0     EL PALOMAR AERO                                     
+19052026     1    .4   98  1023.6  350    4     EL PALOMAR AERO                                     
+19052026     2    .1   94  1023.5  360    2     EL PALOMAR AERO                                     
+19052026     3    .0   90  1023.3  360    2     EL PALOMAR AERO                                     
+19052026     4   -.4   96  1022.9  320    4     EL PALOMAR AERO                                     
+19052026     5   1.5   91  1022.8  300    7     EL PALOMAR AERO                                     
+19052026     6   5.5   85  1022.9  300    9     EL PALOMAR AERO                                     
+19052026     7   5.0   89  1023.2  290    6     EL PALOMAR AERO                                     
+19052026     8   3.6   93  1023.5  300    6     EL PALOMAR AERO                                     
+19052026     9   7.2   80  1023.6  270    7     EL PALOMAR AERO                                     
+19052026    10  10.3   62  1024.0  280   13     EL PALOMAR AERO                                     
+19052026    11  12.2   59  1024.2  280    9     EL PALOMAR AERO                                     
+19052026    12  13.4   54  1023.9  280   19     EL PALOMAR AERO                                     
+19052026    13  14.8   49  1022.9  270   19     EL PALOMAR AERO                                     
+19052026    14  16.0   47  1022.2  270   17     EL PALOMAR AERO                                     
+19052026    15  16.4   42  1021.6  270   15     EL PALOMAR AERO                                     
+19052026    16  17.2   35  1021.0  260   15     EL PALOMAR AERO                                     
+19052026    17  17.0   37  1020.9  270   19     EL PALOMAR AERO                                     
+19052026    18  16.0   44  1021.0  270    9     EL PALOMAR AERO                                     
+19052026    19   9.4   67  1021.7  330    4     EL PALOMAR AERO                                     
+19052026    20   6.0   82  1021.8  330    4     EL PALOMAR AERO                                     
+19052026    21   4.6   84  1022.0  320    4     EL PALOMAR AERO                                     
+19052026    22   4.0   92  1022.1  330    2     EL PALOMAR AERO                                     
+19052026    23   4.2   93  1022.2  990    2     EL PALOMAR AERO                                     
+19052026     7  -1.8   88  1023.6  270    6     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+19052026     8   -.4   96  1024.2  290    6     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+19052026     9    .4   96  1024.6  230    6     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+19052026    10   5.4   38  1026.9    0    0     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+19052026    11  10.8   69  1026.8  140    6     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+19052026    12  16.0   45  1025.8   50    7     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+19052026    13  18.3   38  1024.8   50    4     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+19052026    14  19.8   34  1022.7   90    6     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+19052026    15  20.4   34  1022.2  990    9     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+19052026    16  20.5   29  1022.2   80    6     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+19052026    17  20.0   28  1022.6   90    6     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+19052026    18  18.6   36  1023.0  120    4     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+19052026    19  14.8   51  1024.2   70    4     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+19052026    20   9.9   57  1025.8    0    0     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+19052026    21   6.9   72  1025.8  270    6     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+19052026     0    .8   75  1024.9  990    4     ESQUEL AERO                                         
+19052026     1    .2   80  1024.6  990    4     ESQUEL AERO                                         
+19052026     2   -.4   85  1024.3  120    6     ESQUEL AERO                                         
+19052026     3   -.4   85  1024.6  990    4     ESQUEL AERO                                         
+19052026     4  -1.0   86  1024.5  250    6     ESQUEL AERO                                         
+19052026     5  -1.0   86  1024.6  990    2     ESQUEL AERO                                         
+19052026     6   -.7   87  1025.5  990    4     ESQUEL AERO                                         
+19052026     7  -1.4   86  1026.4  990    2     ESQUEL AERO                                         
+19052026     8  -1.0   90  1026.2  990    4     ESQUEL AERO                                         
+19052026     9  -1.5   88  1027.3  990    4     ESQUEL AERO                                         
+19052026    10   2.6   68  1027.7  360    7     ESQUEL AERO                                         
+19052026    11   7.5   49  1027.8   40    7     ESQUEL AERO                                         
+19052026    12  10.1   51  1027.7   60    9     ESQUEL AERO                                         
+19052026    13  13.9   42  1026.6   60   17     ESQUEL AERO                                         
+19052026    14  15.1   41  1026.1   60   17     ESQUEL AERO                                         
+19052026    15  15.9   41  1026.0   50   15     ESQUEL AERO                                         
+19052026    16  15.9   42  1026.1   30   13     ESQUEL AERO                                         
+19052026    17  15.5   42  1026.5   30   11     ESQUEL AERO                                         
+19052026    18  12.1   55  1027.7   20    9     ESQUEL AERO                                         
+19052026    19   9.9   57  1028.4  360    9     ESQUEL AERO                                         
+19052026    20   7.0   67  1029.6   60   11     ESQUEL AERO                                         
+19052026    21   5.0   69  1030.4   20    7     ESQUEL AERO                                         
+19052026    22   7.0   54  1029.9   20   13     ESQUEL AERO                                         
+19052026    23   4.4   66  1029.9   10    6     ESQUEL AERO                                         
+19052026     0   7.0   79  1023.9  320    7     EZEIZA AERO                                         
+19052026     1   7.6   72  1023.5  320    9     EZEIZA AERO                                         
+19052026     2   6.8   77  1023.4  320    9     EZEIZA AERO                                         
+19052026     3   6.9   77  1023.1  310    9     EZEIZA AERO                                         
+19052026     4   6.9   74  1022.9  310   11     EZEIZA AERO                                         
+19052026     5   6.8   75  1022.8  310   11     EZEIZA AERO                                         
+19052026     6   5.8   84  1022.9  300    9     EZEIZA AERO                                         
+19052026     7   6.0   82  1023.0  290   13     EZEIZA AERO                                         
+19052026     8   5.6   85  1023.4  280    9     EZEIZA AERO                                         
+19052026     9   7.2   79  1023.5  290   13     EZEIZA AERO                                         
+19052026    10   9.6   73  1023.7  290   17     EZEIZA AERO                                         
+19052026    11  12.3   62  1023.9  280   20     EZEIZA AERO                                         
+19052026    12  14.0   53  1023.4  290   19     EZEIZA AERO                                         
+19052026    13  15.4   52  1022.4  290   20     EZEIZA AERO                                         
+19052026    14  16.4   47  1021.6  270   19     EZEIZA AERO                                         
+19052026    15  16.6   46  1021.0  270   19     EZEIZA AERO                                         
+19052026    16  16.6   46  1020.9  280   17     EZEIZA AERO                                         
+19052026    17  16.2   47  1020.8  290   15     EZEIZA AERO                                         
+19052026    18  15.0   53  1021.3  290    9     EZEIZA AERO                                         
+19052026    19  14.4   57  1021.5  320    7     EZEIZA AERO                                         
+19052026    20  12.0   59  1021.7  320    9     EZEIZA AERO                                         
+19052026    21  10.8   66  1021.9  290    9     EZEIZA AERO                                         
+19052026    22  10.0   68  1022.0  290   11     EZEIZA AERO                                         
+19052026    23   8.2   76  1022.2  290    9     EZEIZA AERO                                         
+19052026     0  10.4   92  1025.1  230    6     FORMOSA AERO                                        
+19052026     1  10.2   92  1024.6  230    9     FORMOSA AERO                                        
+19052026     2   9.5   94  1024.4  200    6     FORMOSA AERO                                        
+19052026     3   9.1   95  1024.4  230    9     FORMOSA AERO                                        
+19052026     4   8.5   95  1024.2  230    9     FORMOSA AERO                                        
+19052026     5   8.0   95  1023.8  230    7     FORMOSA AERO                                        
+19052026     6   7.1  100  1023.4    0    0     FORMOSA AERO                                        
+19052026     7   7.1   99  1023.7  200    6     FORMOSA AERO                                        
+19052026     8   7.5   94  1024.4  230    9     FORMOSA AERO                                        
+19052026     9  10.0   91  1025.2  180    7     FORMOSA AERO                                        
+19052026    10  13.3   77  1025.6  140    7     FORMOSA AERO                                        
+19052026    11  15.4   62  1025.8  140   11     FORMOSA AERO                                        
+19052026    12  16.9   53  1025.2  110   13     FORMOSA AERO                                        
+19052026    13  17.8   53  1024.3  110    7     FORMOSA AERO                                        
+19052026    14  18.4   49  1023.3  140   13     FORMOSA AERO                                        
+19052026    15  18.9   48  1022.5  200   13     FORMOSA AERO                                        
+19052026    16  18.8   48  1022.1  140   13     FORMOSA AERO                                        
+19052026    17  18.1   48  1022.2  140   11     FORMOSA AERO                                        
+19052026    18  16.3   61  1022.5  180    6     FORMOSA AERO                                        
+19052026    19  14.0   74  1022.7  180    7     FORMOSA AERO                                        
+19052026    20  12.4   78  1023.2  180    6     FORMOSA AERO                                        
+19052026    21  10.8   84  1023.6  200    4     FORMOSA AERO                                        
+19052026    22   9.9   90  1024.2  200    4     FORMOSA AERO                                        
+19052026    23   9.5   91  1024.3  180    6     FORMOSA AERO                                        
+19052026     6   3.5   83  1021.3  320    6     GENERAL PICO AERO                                   
+19052026     7   3.1   78  1021.9  320    9     GENERAL PICO AERO                                   
+19052026     8   2.0   89  1022.5  290    6     GENERAL PICO AERO                                   
+19052026     9   1.5   84  1023.1  290    9     GENERAL PICO AERO                                   
+19052026    10   6.8   59  1023.7  230   11     GENERAL PICO AERO                                   
+19052026    11  10.6   53  1024.0  230   11     GENERAL PICO AERO                                   
+19052026    12  15.5   42  1023.5  250   17     GENERAL PICO AERO                                   
+19052026    13  17.3   40  1023.0  250   17     GENERAL PICO AERO                                   
+19052026    14  18.9   36  1022.4  230    9     GENERAL PICO AERO                                   
+19052026    15  19.9   32  1021.6  270   13     GENERAL PICO AERO                                   
+19052026    16  19.8   33  1021.7  290   11     GENERAL PICO AERO                                   
+19052026    17  20.1   33  1021.7  250    7     GENERAL PICO AERO                                   
+19052026    18  19.1   31  1022.1  250    4     GENERAL PICO AERO                                   
+19052026    19  14.1   60  1022.8  160    2     GENERAL PICO AERO                                   
+19052026    20  10.5   74  1023.5   90    6     GENERAL PICO AERO                                   
+19052026    21   7.3   88  1024.0   90    6     GENERAL PICO AERO                                   
+19052026     9   7.2   70  1023.5    0    0     GOBERNADOR GREGORES AERO                            
+19052026    15  15.0   48            0    0     GOBERNADOR GREGORES AERO                            
+19052026    21  12.0   66  1027.5    0    0     GOBERNADOR GREGORES AERO                            
+19052026     6   2.2   93  1023.5   50    4     GUALEGUAYCHU AERO                                   
+19052026     7   2.2   93  1023.6   50    4     GUALEGUAYCHU AERO                                   
+19052026     8   2.3   93  1024.2    0    0     GUALEGUAYCHU AERO                                   
+19052026     9   3.4   90  1024.7  360    4     GUALEGUAYCHU AERO                                   
+19052026    10   8.0   81  1025.0  320    4     GUALEGUAYCHU AERO                                   
+19052026    11  13.2   67  1025.1  270   11     GUALEGUAYCHU AERO                                   
+19052026    12  15.2   57  1024.7  270   17     GUALEGUAYCHU AERO                                   
+19052026    13  16.2   57  1024.0  230   17     GUALEGUAYCHU AERO                                   
+19052026    14  16.9   55  1023.0  230   15     GUALEGUAYCHU AERO                                   
+19052026    15  17.6   53  1022.2  230   15     GUALEGUAYCHU AERO                                   
+19052026    16  17.6   52  1021.9  230   15     GUALEGUAYCHU AERO                                   
+19052026    17  17.0   54  1021.6  250   13     GUALEGUAYCHU AERO                                   
+19052026    18  14.7   63  1021.9  230    7     GUALEGUAYCHU AERO                                   
+19052026    19  11.8   71  1022.2  200    7     GUALEGUAYCHU AERO                                   
+19052026    20  11.5   70  1022.6  200    7     GUALEGUAYCHU AERO                                   
+19052026    21   9.9   79  1022.9  230    6     GUALEGUAYCHU AERO                                   
+19052026     0  11.4   94  1022.8  270    6     IGUAZU AERO                                         
+19052026     1  10.9   94  1022.6  250    6     IGUAZU AERO                                         
+19052026     2  10.8   92  1022.4  250    7     IGUAZU AERO                                         
+19052026     3  10.6   95  1021.7  230    9     IGUAZU AERO                                         
+19052026     4  10.1   95  1021.4  250    6     IGUAZU AERO                                         
+19052026     5   9.0   96  1021.3  250    6     IGUAZU AERO                                         
+19052026     6   8.4   96  1021.2  250    7     IGUAZU AERO                                         
+19052026     7   9.0  100  1021.8  250    7     IGUAZU AERO                                         
+19052026     8   9.2   99  1022.7  230   13     IGUAZU AERO                                         
+19052026     9  10.1   97  1023.5  250    7     IGUAZU AERO                                         
+19052026    10  10.6   97  1024.0  230    7     IGUAZU AERO                                         
+19052026    11  11.6   95  1023.6  230    7     IGUAZU AERO                                         
+19052026    12  15.4   83  1022.8  230    6     IGUAZU AERO                                         
+19052026    13  17.2   71  1022.2  230    6     IGUAZU AERO                                         
+19052026    14  18.2   65  1021.3  270    9     IGUAZU AERO                                         
+19052026    15  18.4   61  1020.8  270   11     IGUAZU AERO                                         
+19052026    16  18.4   63  1020.6  230    7     IGUAZU AERO                                         
+19052026    17  18.0   68  1020.5  270    6     IGUAZU AERO                                         
+19052026    18  15.6   75  1020.9  270    7     IGUAZU AERO                                         
+19052026    19  13.8   82  1021.1  270    6     IGUAZU AERO                                         
+19052026    20  13.2   84  1021.6  230    6     IGUAZU AERO                                         
+19052026    21  12.0   82  1022.2  250    7     IGUAZU AERO                                         
+19052026    22  11.2   85  1022.6  250    7     IGUAZU AERO                                         
+19052026    23  10.9   88  1022.9  230    7     IGUAZU AERO                                         
+19052026     9   9.0   95  1024.1  140    9     ITUZAINGO                                           
+19052026    12  17.4   58  1023.8  140    9     ITUZAINGO                                           
+19052026    15  19.4   51  1021.9   90    9     ITUZAINGO                                           
+19052026    18  13.8   74  1021.9  180    7     ITUZAINGO                                           
+19052026    21  10.8   90  1023.2  180    7     ITUZAINGO                                           
+19052026     9   -.5   90          360    4     JACHAL                                              
+19052026    15  17.8   26          160    9     JACHAL                                              
+19052026    21   8.6   54            0    0     JACHAL                                              
+19052026     0   2.4  100          290    6     JUJUY AERO                                          
+19052026     1   2.4   99          290    4     JUJUY AERO                                          
+19052026     2   2.0   99          240    4     JUJUY AERO                                          
+19052026     3   2.5   97          310    7     JUJUY AERO                                          
+19052026     4   3.0  100          310    7     JUJUY AERO                                          
+19052026     5   3.0   97          300   11     JUJUY AERO                                          
+19052026     6   2.2  100          300    9     JUJUY AERO                                          
+19052026     7   3.6   97          300    9     JUJUY AERO                                          
+19052026     8   3.2   99          290    9     JUJUY AERO                                          
+19052026     9   5.7   91          290    9     JUJUY AERO                                          
+19052026    10   9.9   76          310    4     JUJUY AERO                                          
+19052026    11  11.8   71          990    4     JUJUY AERO                                          
+19052026    12  12.6   72          990    6     JUJUY AERO                                          
+19052026    13  14.8   61          990    6     JUJUY AERO                                          
+19052026    14  15.5   58          990    6     JUJUY AERO                                          
+19052026    15  17.5   52           70    9     JUJUY AERO                                          
+19052026    16  16.0   63           80   11     JUJUY AERO                                          
+19052026    17  15.4   67           70    9     JUJUY AERO                                          
+19052026    18  14.9   67           70    9     JUJUY AERO                                          
+19052026    19  12.2   79           90    6     JUJUY AERO                                          
+19052026    20   9.8   84          180    6     JUJUY AERO                                          
+19052026    21   6.2   97            0    0     JUJUY AERO                                          
+19052026    22   6.8   96          310   11     JUJUY AERO                                          
+19052026    23   7.2   96          290    9     JUJUY AERO                                          
+19052026     6   3.3   95            0    0     JUJUY U N                                           
+19052026     7   2.3   95          320    4     JUJUY U N                                           
+19052026     8   2.1   97            0    0     JUJUY U N                                           
+19052026     9   3.5   93          320    4     JUJUY U N                                           
+19052026    10   7.9   80          320    4     JUJUY U N                                           
+19052026    11  12.0   71           50    4     JUJUY U N                                           
+19052026    12  13.4   63           50    4     JUJUY U N                                           
+19052026    13  15.4   64           50    4     JUJUY U N                                           
+19052026    14  16.4   58          140    9     JUJUY U N                                           
+19052026    15  16.8   55          140    9     JUJUY U N                                           
+19052026    16  16.9   56          140    9     JUJUY U N                                           
+19052026    17  17.0   57          140    9     JUJUY U N                                           
+19052026    18  15.2   62          140    9     JUJUY U N                                           
+19052026    19  13.0   73          140    4     JUJUY U N                                           
+19052026    20  11.2   85            0    0     JUJUY U N                                           
+19052026    21   9.4   89          270    4     JUJUY U N                                           
+19052026    22   8.0   92          270    4     JUJUY U N                                           
+19052026     0   3.1   86  1024.3  340    4     JUNIN AERO                                          
+19052026     1   2.2   89  1024.0  320    4     JUNIN AERO                                          
+19052026     2   1.2   89  1023.7  320    4     JUNIN AERO                                          
+19052026     3   2.0   86  1023.4  320    6     JUNIN AERO                                          
+19052026     4   2.8   88  1023.2  320    6     JUNIN AERO                                          
+19052026     5    .4   90  1023.0  320    4     JUNIN AERO                                          
+19052026     6   1.0   92  1023.0  320    4     JUNIN AERO                                          
+19052026     7    .3   92  1023.1  320    4     JUNIN AERO                                          
+19052026     8    .1   94  1023.8  320    2     JUNIN AERO                                          
+19052026     9    .8   89  1024.2  320    2     JUNIN AERO                                          
+19052026    10   8.6   79  1024.4  320    7     JUNIN AERO                                          
+19052026    11  12.0   66  1024.4  320   19     JUNIN AERO                                          
+19052026    12  14.0   57  1024.1  270   17     JUNIN AERO                                          
+19052026    13  16.0   51  1023.6  270   13     JUNIN AERO                                          
+19052026    14  17.8   42  1022.3  270   11     JUNIN AERO                                          
+19052026    15  18.6   37  1022.1  230    7     JUNIN AERO                                          
+19052026    16  18.4   34  1021.8  230    7     JUNIN AERO                                          
+19052026    17  17.8   43  1022.0  270    6     JUNIN AERO                                          
+19052026    18  15.6   50  1022.1  270    4     JUNIN AERO                                          
+19052026    19  11.0   66  1022.8  290    4     JUNIN AERO                                          
+19052026    20   8.4   75  1023.1  270    4     JUNIN AERO                                          
+19052026    21   7.2   79  1023.5  230    4     JUNIN AERO                                          
+19052026    22   6.2   84  1023.7  230    2     JUNIN AERO                                          
+19052026    23   4.2   87  1024.1    0    0     JUNIN AERO                                          
+19052026     0   5.1   91  1024.0  290    6     LA PLATA AERO                                       
+19052026     1   5.0   89  1023.7  290    4     LA PLATA AERO                                       
+19052026     2   4.8   89  1023.7  290    7     LA PLATA AERO                                       
+19052026     3   5.2   86  1023.4  270    6     LA PLATA AERO                                       
+19052026     4   5.2   89  1023.0  290    6     LA PLATA AERO                                       
+19052026     5   5.2   86  1023.0  290    7     LA PLATA AERO                                       
+19052026     6   6.2   87  1023.1  270    7     LA PLATA AERO                                       
+19052026     7   6.6   83  1023.4  270    7     LA PLATA AERO                                       
+19052026     8   6.4   84  1023.5  290    7     LA PLATA AERO                                       
+19052026     9   8.3   75  1023.9  270    7     LA PLATA AERO                                       
+19052026    10  11.0   67  1024.1  270   13     LA PLATA AERO                                       
+19052026    11  13.0   60  1023.8  290   15     LA PLATA AERO                                       
+19052026    12  14.7   51  1023.5  270   17     LA PLATA AERO                                       
+19052026    13  16.1   50  1022.6  270   13     LA PLATA AERO                                       
+19052026    14  16.7   46  1021.7  270   17     LA PLATA AERO                                       
+19052026    15  17.4   46  1021.3  270   13     LA PLATA AERO                                       
+19052026    16  17.1   43  1021.2  270   13     LA PLATA AERO                                       
+19052026    17  16.7   45  1021.0  300   11     LA PLATA AERO                                       
+19052026    18  14.3   56  1021.4  270    6     LA PLATA AERO                                       
+19052026    19  11.2   69  1021.7  310    6     LA PLATA AERO                                       
+19052026    20  10.1   71  1021.7  300    6     LA PLATA AERO                                       
+19052026    21   9.8   76  1022.0  310    4     LA PLATA AERO                                       
+19052026    22  10.0   71  1022.0  300    6     LA PLATA AERO                                       
+19052026    23   8.5   77  1022.3  290    4     LA PLATA AERO                                       
+19052026     6  -2.4   53            0    0     LA QUIACA OBSERVATORIO                              
+19052026     7  -3.2   57            0    0     LA QUIACA OBSERVATORIO                              
+19052026     8  -2.8   57            0    0     LA QUIACA OBSERVATORIO                              
+19052026     9    .0   57          290    9     LA QUIACA OBSERVATORIO                              
+19052026    10   3.1   55          230    9     LA QUIACA OBSERVATORIO                              
+19052026    11   6.5   52          180    4     LA QUIACA OBSERVATORIO                              
+19052026    12  12.0   45           70    9     LA QUIACA OBSERVATORIO                              
+19052026    13  14.6   40          360    9     LA QUIACA OBSERVATORIO                              
+19052026    14  16.7   33           90    4     LA QUIACA OBSERVATORIO                              
+19052026    15  15.1   26           50    9     LA QUIACA OBSERVATORIO                              
+19052026    16  15.3   22          990    9     LA QUIACA OBSERVATORIO                              
+19052026    17  14.9   20           50   15     LA QUIACA OBSERVATORIO                              
+19052026    18  16.6   23           50    9     LA QUIACA OBSERVATORIO                              
+19052026    19  15.4   27           90    9     LA QUIACA OBSERVATORIO                              
+19052026    20  11.5   31           90    9     LA QUIACA OBSERVATORIO                              
+19052026    21  10.1   35           90    9     LA QUIACA OBSERVATORIO                              
+19052026     0   7.2   75  1024.1  250    4     LA RIOJA AERO                                       
+19052026     1   5.8   80  1023.9  290    7     LA RIOJA AERO                                       
+19052026     2   4.2   88  1023.6  250    4     LA RIOJA AERO                                       
+19052026     3   3.2   89  1023.6  290    9     LA RIOJA AERO                                       
+19052026     4   3.2   87  1023.0  230    6     LA RIOJA AERO                                       
+19052026     5   2.8   93  1023.1  250    6     LA RIOJA AERO                                       
+19052026     6   3.2   80  1023.1  230    9     LA RIOJA AERO                                       
+19052026     7   3.6  100  1023.5  230    4     LA RIOJA AERO                                       
+19052026     8    .8  100  1024.6  270    9     LA RIOJA AERO                                       
+19052026     9   1.8   86  1025.3  230    4     LA RIOJA AERO                                       
+19052026    10   7.7   69  1025.4  230   11     LA RIOJA AERO                                       
+19052026    11   9.8   56  1025.5  200   11     LA RIOJA AERO                                       
+19052026    12  12.0   58  1024.9  200    7     LA RIOJA AERO                                       
+19052026    13  13.6   52  1023.9  230    7     LA RIOJA AERO                                       
+19052026    14  16.8   39  1023.1  180    4     LA RIOJA AERO                                       
+19052026    15  17.7   40  1022.2  180    4     LA RIOJA AERO                                       
+19052026    16  18.0   40  1021.6  180    4     LA RIOJA AERO                                       
+19052026    17  18.8   35  1021.4  230    4     LA RIOJA AERO                                       
+19052026    18  18.6   43  1021.4  230    4     LA RIOJA AERO                                       
+19052026    19  12.9   69  1022.8   90    4     LA RIOJA AERO                                       
+19052026    20  10.3   75  1024.1  270    9     LA RIOJA AERO                                       
+19052026    21   8.4   75  1024.6  270    7     LA RIOJA AERO                                       
+19052026    22   7.2   75  1025.0  270    6     LA RIOJA AERO                                       
+19052026    23   6.6   76  1025.2  270    7     LA RIOJA AERO                                       
+19052026     6   2.1   84  1022.1    0    0     LABOULAYE AERO                                      
+19052026     7   -.3   90  1023.0    0    0     LABOULAYE AERO                                      
+19052026     8  -1.1   90  1024.3    0    0     LABOULAYE AERO                                      
+19052026     9   -.2   96  1024.7    0    0     LABOULAYE AERO                                      
+19052026    10   8.1   59  1024.4    0    0     LABOULAYE AERO                                      
+19052026    11  10.3   52  1024.6    0    0     LABOULAYE AERO                                      
+19052026    12  13.5   46  1024.5    0    0     LABOULAYE AERO                                      
+19052026    13  16.5   37  1024.1    0    0     LABOULAYE AERO                                      
+19052026    14  18.1   32  1023.5  230    4     LABOULAYE AERO                                      
+19052026    15  18.9   27  1022.9    0    0     LABOULAYE AERO                                      
+19052026    16  20.3   26  1022.9    0    0     LABOULAYE AERO                                      
+19052026    17  19.9   26  1023.0    0    0     LABOULAYE AERO                                      
+19052026    18  16.3   41  1023.1    0    0     LABOULAYE AERO                                      
+19052026    19  12.1   53  1024.0    0    0     LABOULAYE AERO                                      
+19052026    20   9.5   61  1024.2    0    0     LABOULAYE AERO                                      
+19052026    21   8.9   60  1024.5    0    0     LABOULAYE AERO                                      
+19052026     6   4.5   86  1021.8    0    0     LAS FLORES                                          
+19052026     9   4.1   90  1022.6  270    7     LAS FLORES                                          
+19052026    12  11.9   66  1022.0  180   11     LAS FLORES                                          
+19052026    15  16.3   48  1020.0  230   11     LAS FLORES                                          
+19052026    18  15.0   67  1019.5  270    4     LAS FLORES                                          
+19052026    21   7.8   86  1020.7  230    7     LAS FLORES                                          
+19052026     9   9.4   87  1025.7  140    6     LAS LOMITAS                                         
+19052026    12  16.0   60  1025.3  140    6     LAS LOMITAS                                         
+19052026    15  19.2   49  1022.8  140    7     LAS LOMITAS                                         
+19052026    18  17.4   58  1022.3   90    2     LAS LOMITAS                                         
+19052026    21  11.8   81  1023.7    0    0     LAS LOMITAS                                         
+19052026     6  -1.8   65          290    7     MALARGUE AERO                                       
+19052026     7  -2.4   72          270    6     MALARGUE AERO                                       
+19052026     8  -3.3   81          270    9     MALARGUE AERO                                       
+19052026     9  -1.8   86          230    6     MALARGUE AERO                                       
+19052026    10   3.2   40            0    0     MALARGUE AERO                                       
+19052026    11   8.0   35            0    0     MALARGUE AERO                                       
+19052026    12  10.8   26            0    0     MALARGUE AERO                                       
+19052026    13  13.0   28            0    0     MALARGUE AERO                                       
+19052026    14  15.2   22           90    6     MALARGUE AERO                                       
+19052026    15  17.0   20          360    6     MALARGUE AERO                                       
+19052026    16  17.6   19           50    7     MALARGUE AERO                                       
+19052026    17  17.0   20           90    7     MALARGUE AERO                                       
+19052026    18  15.8   25           50    7     MALARGUE AERO                                       
+19052026    19  11.8   32           90    6     MALARGUE AERO                                       
+19052026    20   9.0   44          270    6     MALARGUE AERO                                       
+19052026    21   6.2   55          230    6     MALARGUE AERO                                       
+19052026     0   2.0   54            0    0     MAQUINCHAO                                          
+19052026     3  -2.4   67            0    0     MAQUINCHAO                                          
+19052026     7  -5.6   80            0    0     MAQUINCHAO                                          
+19052026     8  -5.2   85            0    0     MAQUINCHAO                                          
+19052026     9  -5.6   85            0    0     MAQUINCHAO                                          
+19052026    10  -1.6   72            0    0     MAQUINCHAO                                          
+19052026    11   2.6   55            0    0     MAQUINCHAO                                          
+19052026    12   6.6   39            0    0     MAQUINCHAO                                          
+19052026    13  10.6   42            0    0     MAQUINCHAO                                          
+19052026    14  13.4   49            0    0     MAQUINCHAO                                          
+19052026    15  14.0   46            0    0     MAQUINCHAO                                          
+19052026    16  15.0   43            0    0     MAQUINCHAO                                          
+19052026    17  15.0   43            0    0     MAQUINCHAO                                          
+19052026    18  14.4   52            0    0     MAQUINCHAO                                          
+19052026    19   9.2   59            0    0     MAQUINCHAO                                          
+19052026    20   7.4   66            0    0     MAQUINCHAO                                          
+19052026    21   4.0   75            0    0     MAQUINCHAO                                          
+19052026     0   3.9   80  1019.8  320   15     MAR DEL PLATA AERO                                  
+19052026     1   3.8   80  1019.2  320   15     MAR DEL PLATA AERO                                  
+19052026     2   3.3   83  1018.9  320   19     MAR DEL PLATA AERO                                  
+19052026     3   4.4   81  1018.7  320   17     MAR DEL PLATA AERO                                  
+19052026     4   3.4   85  1018.1  320   15     MAR DEL PLATA AERO                                  
+19052026     5   2.6   88  1017.7  320   13     MAR DEL PLATA AERO                                  
+19052026     6   2.6   89  1017.4  320   15     MAR DEL PLATA AERO                                  
+19052026     7   3.9   80  1017.5  320   17     MAR DEL PLATA AERO                                  
+19052026     8   3.3   83  1018.2  290    7     MAR DEL PLATA AERO                                  
+19052026     9  10.2   58  1018.4  250   17     MAR DEL PLATA AERO                                  
+19052026    10  11.6   58  1018.8  250   17     MAR DEL PLATA AERO                                  
+19052026    11  13.4   65  1019.2  250   19     MAR DEL PLATA AERO                                  
+19052026    12  13.8   72  1019.3  230   17     MAR DEL PLATA AERO                                  
+19052026    13  13.4   73  1019.0  200   13     MAR DEL PLATA AERO                                  
+19052026    14  14.3   70  1018.7  230   11     MAR DEL PLATA AERO                                  
+19052026    15  14.6   66  1018.7  200   17     MAR DEL PLATA AERO                                  
+19052026    16  13.5   67  1019.1  230   15     MAR DEL PLATA AERO                                  
+19052026    17  12.3   61  1019.5  230   13     MAR DEL PLATA AERO                                  
+19052026    18  10.4   75  1019.7  250    9     MAR DEL PLATA AERO                                  
+19052026    19   9.0   82  1020.3  250    4     MAR DEL PLATA AERO                                  
+19052026    20   7.2   92  1020.6  250    4     MAR DEL PLATA AERO                                  
+19052026    21   5.2   97  1020.4  320    6     MAR DEL PLATA AERO                                  
+19052026    22   6.0   99  1020.4  340    6     MAR DEL PLATA AERO                                  
+19052026    23   5.9  100  1020.7  290    7     MAR DEL PLATA AERO                                  
+19052026     9   4.1   90  1024.5  360    2     MARCOS JUAREZ AERO                                  
+19052026    10   8.5   88  1025.0  340    7     MARCOS JUAREZ AERO                                  
+19052026    11  11.3   79  1025.1  360    7     MARCOS JUAREZ AERO                                  
+19052026    12  14.3   63  1024.7  320   15     MARCOS JUAREZ AERO                                  
+19052026    13  16.3   58  1023.8  360   11     MARCOS JUAREZ AERO                                  
+19052026    14  17.9   51  1022.8  320    9     MARCOS JUAREZ AERO                                  
+19052026    15  18.3   46  1022.3  230    6     MARCOS JUAREZ AERO                                  
+19052026    16  19.0   44  1021.9   50    4     MARCOS JUAREZ AERO                                  
+19052026    17  18.1   45  1021.8  360    4     MARCOS JUAREZ AERO                                  
+19052026    18  15.3   54  1022.2  140    4     MARCOS JUAREZ AERO                                  
+19052026    19  11.2   61  1023.1   90    6     MARCOS JUAREZ AERO                                  
+19052026    20   8.5   72  1023.3   50    4     MARCOS JUAREZ AERO                                  
+19052026    21   8.3   72  1023.8   50    9     MARCOS JUAREZ AERO                                  
+19052026     8   4.2   93  1023.4  290    9     MARIANO MORENO AERO                                 
+19052026     9   5.8   77  1023.7  290    9     MARIANO MORENO AERO                                 
+19052026    10   9.2   74  1024.1  270   13     MARIANO MORENO AERO                                 
+19052026    11  11.8   65  1024.3  270   11     MARIANO MORENO AERO                                 
+19052026    12  13.3   64  1023.5  290   19     MARIANO MORENO AERO                                 
+19052026    13  14.8   55  1023.0  290   17     MARIANO MORENO AERO                                 
+19052026    14  16.0   47  1021.9  270   15     MARIANO MORENO AERO                                 
+19052026    15  17.0   43  1021.2  250   17     MARIANO MORENO AERO                                 
+19052026    16  17.1   43  1021.0  270    9     MARIANO MORENO AERO                                 
+19052026    17  16.4   48  1021.0  270   11     MARIANO MORENO AERO                                 
+19052026    18  14.5   54  1021.5  270    6     MARIANO MORENO AERO                                 
+19052026    19  13.2   62  1021.9  290    7     MARIANO MORENO AERO                                 
+19052026    20  11.8   62  1022.0  290    7     MARIANO MORENO AERO                                 
+19052026    21  11.0   64  1022.2  290    7     MARIANO MORENO AERO                                 
+19052026     0   6.6   78  1022.8  230    4     MENDOZA AERO                                        
+19052026     1   4.8   79  1022.7  230   11     MENDOZA AERO                                        
+19052026     2   5.0   81  1022.2  230    7     MENDOZA AERO                                        
+19052026     3   4.8   77  1021.9  230    6     MENDOZA AERO                                        
+19052026     4   4.2   78  1021.9  230    6     MENDOZA AERO                                        
+19052026     5   3.2   80  1021.4    0    0     MENDOZA AERO                                        
+19052026     6   3.0   80  1021.3    0    0     MENDOZA AERO                                        
+19052026     7   2.8   83  1022.0  230    4     MENDOZA AERO                                        
+19052026     8   2.6   90  1022.6  230    4     MENDOZA AERO                                        
+19052026     9   3.2   89  1023.5  230    4     MENDOZA AERO                                        
+19052026    10   8.8   65  1023.3    0    0     MENDOZA AERO                                        
+19052026    11  10.9   54  1023.5  360    4     MENDOZA AERO                                        
+19052026    12  13.6   52  1023.2   50    6     MENDOZA AERO                                        
+19052026    13  14.8   45  1023.0  360    6     MENDOZA AERO                                        
+19052026    14  16.3   40  1022.3  360    7     MENDOZA AERO                                        
+19052026    15  17.8   40  1021.3  990    4     MENDOZA AERO                                        
+19052026    16  18.1   35  1021.9   90    6     MENDOZA AERO                                        
+19052026    17  19.1   37  1021.0  990    4     MENDOZA AERO                                        
+19052026    18  17.9   38  1021.4   90    6     MENDOZA AERO                                        
+19052026    19  15.7   46  1022.2   90    6     MENDOZA AERO                                        
+19052026    20  13.0   60  1023.1    0    0     MENDOZA AERO                                        
+19052026    21  11.5   62  1024.3  230    7     MENDOZA AERO                                        
+19052026    22  10.0   72  1024.3  230    7     MENDOZA AERO                                        
+19052026    23   9.2   67  1024.9  230    7     MENDOZA AERO                                        
+19052026     0   6.0   75          250    9     MENDOZA OBSERVATORIO                                
+19052026     3   4.2   82          250    9     MENDOZA OBSERVATORIO                                
+19052026     6   3.6   83          250    9     MENDOZA OBSERVATORIO                                
+19052026     7   3.0   84          250    7     MENDOZA OBSERVATORIO                                
+19052026     8   3.3   80          250    9     MENDOZA OBSERVATORIO                                
+19052026     9   4.9   72          250    9     MENDOZA OBSERVATORIO                                
+19052026    10  10.3   57            0    0     MENDOZA OBSERVATORIO                                
+19052026    11  12.6   57            0    0     MENDOZA OBSERVATORIO                                
+19052026    12  14.6   51            0    0     MENDOZA OBSERVATORIO                                
+19052026    13  15.6   50            0    0     MENDOZA OBSERVATORIO                                
+19052026    14  15.8   49          350    6     MENDOZA OBSERVATORIO                                
+19052026    15  16.8   47          100    6     MENDOZA OBSERVATORIO                                
+19052026    16  17.8   46          110    7     MENDOZA OBSERVATORIO                                
+19052026    17  16.6   54            0    0     MENDOZA OBSERVATORIO                                
+19052026    18  14.7   57            0    0     MENDOZA OBSERVATORIO                                
+19052026    19  10.8   71            0    0     MENDOZA OBSERVATORIO                                
+19052026    20   9.9   71          250    6     MENDOZA OBSERVATORIO                                
+19052026    21   9.2   72          270    7     MENDOZA OBSERVATORIO                                
+19052026    22   8.9   65          270    7     MENDOZA OBSERVATORIO                                
+19052026    23   8.6   65          250    9     MENDOZA OBSERVATORIO                                
+19052026     9   6.6   92  1025.9  360    4     MERCEDES AERO (CTES)                                
+19052026    12  16.2   53  1025.8  160    6     MERCEDES AERO (CTES)                                
+19052026    15  18.0   47  1023.3  140   11     MERCEDES AERO (CTES)                                
+19052026    18  16.4   61  1023.0  140    7     MERCEDES AERO (CTES)                                
+19052026    21  10.4   80  1023.9  140    9     MERCEDES AERO (CTES)                                
+19052026     0   4.0   93  1024.9    0    0     MERLO AERO                                          
+19052026     3   4.4   84  1024.1  270    6     MERLO AERO                                          
+19052026     6   5.4   82  1023.9  270    4     MERLO AERO                                          
+19052026     7   5.3   83  1024.2  270    4     MERLO AERO                                          
+19052026     8   5.1   86  1024.4  270    4     MERLO AERO                                          
+19052026     9   6.7   75  1024.8  270    7     MERLO AERO                                          
+19052026    10   9.7   61  1025.0  270    9     MERLO AERO                                          
+19052026    11  11.8   61  1024.6  270    9     MERLO AERO                                          
+19052026    12  13.8   57  1023.7  270   19     MERLO AERO                                          
+19052026    13  15.2   49  1023.4  230   19     MERLO AERO                                          
+19052026    14  16.2   45  1024.2  270    9     MERLO AERO                                          
+19052026    15  17.2   44  1022.2  270    9     MERLO AERO                                          
+19052026    16  17.2   35  1021.9  270   19     MERLO AERO                                          
+19052026    17  17.0   43  1022.0  270    9     MERLO AERO                                          
+19052026    18  14.6   64  1022.0  270    6     MERLO AERO                                          
+19052026    19  11.0   84  1022.2    0    0     MERLO AERO                                          
+19052026    20   9.5   83  1022.4    0    0     MERLO AERO                                          
+19052026    21   8.6   89  1022.2    0    0     MERLO AERO                                          
+19052026     9   7.0   89          230    4     METAN                                               
+19052026    15  17.0   56           50    9     METAN                                               
+19052026    21   8.8   92          320    4     METAN                                               
+19052026     0   6.8   85  1025.8  180    6     MONTE CASEROS AERO                                  
+19052026     1   5.8   88  1026.0  200    4     MONTE CASEROS AERO                                  
+19052026     2   5.0   91  1025.5  270    4     MONTE CASEROS AERO                                  
+19052026     3   4.8   91  1025.1  270    4     MONTE CASEROS AERO                                  
+19052026     4   4.2   93  1024.9  250    6     MONTE CASEROS AERO                                  
+19052026     5   3.8   90  1024.7  230    6     MONTE CASEROS AERO                                  
+19052026     6   4.2   90  1024.6  200    2     MONTE CASEROS AERO                                  
+19052026     7   3.0   97  1025.0  230    4     MONTE CASEROS AERO                                  
+19052026     8   3.2   97  1025.6  270    6     MONTE CASEROS AERO                                  
+19052026     9   6.2   76  1025.9  320    2     MONTE CASEROS AERO                                  
+19052026    10   9.2   76  1026.4  270    2     MONTE CASEROS AERO                                  
+19052026    11  13.2   64  1026.5  200    4     MONTE CASEROS AERO                                  
+19052026    12  14.4   60  1025.8  110    6     MONTE CASEROS AERO                                  
+19052026    13  16.0   54  1025.0  140    7     MONTE CASEROS AERO                                  
+19052026    14  16.2   53  1024.2  140    7     MONTE CASEROS AERO                                  
+19052026    15  16.6   52  1023.3  140   13     MONTE CASEROS AERO                                  
+19052026    16  16.8   49  1023.2  180   11     MONTE CASEROS AERO                                  
+19052026    17  16.4   55  1023.0  140    9     MONTE CASEROS AERO                                  
+19052026    18  14.8   64  1023.0  180    6     MONTE CASEROS AERO                                  
+19052026    19  12.6   77  1023.6  110    2     MONTE CASEROS AERO                                  
+19052026    20  10.9   81  1023.7  230    2     MONTE CASEROS AERO                                  
+19052026    21   9.6   87  1023.9  320    2     MONTE CASEROS AERO                                  
+19052026    22   8.2   92  1024.3  200    2     MONTE CASEROS AERO                                  
+19052026    23   8.0   93  1024.4  140    4     MONTE CASEROS AERO                                  
+19052026     0   5.2   85  1023.5  320    6     MORON AERO                                          
+19052026     1   5.0   88  1023.4  320    4     MORON AERO                                          
+19052026     2   4.7   86  1023.3  320    4     MORON AERO                                          
+19052026     3   4.4   87  1022.8  320    6     MORON AERO                                          
+19052026     4   4.2   90  1022.9  320    6     MORON AERO                                          
+19052026     5   4.2   89  1022.5  320    7     MORON AERO                                          
+19052026     6   4.1   90  1022.3  320    6     MORON AERO                                          
+19052026     7   5.1   83  1022.7  290    9     MORON AERO                                          
+19052026     8   5.8   79  1023.1  290    9     MORON AERO                                          
+19052026     9   7.4   73  1023.2  290    9     MORON AERO                                          
+19052026    10  10.3   61  1023.6  290   13     MORON AERO                                          
+19052026    11  12.7   54  1023.7  270   20     MORON AERO                                          
+19052026    12  14.3   51  1023.0  270   17     MORON AERO                                          
+19052026    13  15.7   46  1022.1  270   19     MORON AERO                                          
+19052026    14  16.3   40  1021.3  270   20     MORON AERO                                          
+19052026    15  16.8   36  1020.8  250   17     MORON AERO                                          
+19052026    16  17.4   37  1020.7  270   13     MORON AERO                                          
+19052026    17  17.1   36  1020.5  270   15     MORON AERO                                          
+19052026    18  15.3   45  1021.0  230    9     MORON AERO                                          
+19052026    19  12.8   56  1021.2  290    6     MORON AERO                                          
+19052026    20  11.4   62  1021.3  320    7     MORON AERO                                          
+19052026    21  11.6   60  1021.5  290    7     MORON AERO                                          
+19052026    22  11.4   61  1021.5  290    9     MORON AERO                                          
+19052026    23  10.6   64  1021.8  290    7     MORON AERO                                          
+19052026     0   3.6   64  1021.4  270    7     NEUQUEN AERO                                        
+19052026     1   1.4   58  1021.3  270    4     NEUQUEN AERO                                        
+19052026     2   1.0   74  1021.0    0    0     NEUQUEN AERO                                        
+19052026     3    .8   72  1021.3  290    6     NEUQUEN AERO                                        
+19052026     4   1.3   65  1021.0    0    0     NEUQUEN AERO                                        
+19052026     5    .7   64  1020.8  270    6     NEUQUEN AERO                                        
+19052026     6   -.2   80  1021.6  270    6     NEUQUEN AERO                                        
+19052026     7   -.6   76  1022.6    0    0     NEUQUEN AERO                                        
+19052026     8   -.8   76  1023.4  270    6     NEUQUEN AERO                                        
+19052026     9   -.4   80  1024.5  270    6     NEUQUEN AERO                                        
+19052026    10   4.3   64  1025.0  270    7     NEUQUEN AERO                                        
+19052026    11   8.1   51  1025.2  290    9     NEUQUEN AERO                                        
+19052026    12  12.0   45  1025.0  270    6     NEUQUEN AERO                                        
+19052026    13  14.6   45  1024.9    0    0     NEUQUEN AERO                                        
+19052026    14  18.2   34  1024.2    0    0     NEUQUEN AERO                                        
+19052026    15  19.0   28  1023.4   90   13     NEUQUEN AERO                                        
+19052026    16  19.0   28  1023.3   90   15     NEUQUEN AERO                                        
+19052026    17  18.8   30  1023.6   90   15     NEUQUEN AERO                                        
+19052026    18  17.8   33  1024.3   90   13     NEUQUEN AERO                                        
+19052026    19  15.3   51  1025.0  180    4     NEUQUEN AERO                                        
+19052026    20  11.4   67  1026.0  110    4     NEUQUEN AERO                                        
+19052026    21   9.0   69  1026.9  110    6     NEUQUEN AERO                                        
+19052026    22   7.0   84  1027.3    0    0     NEUQUEN AERO                                        
+19052026    23   5.2   76  1028.1    0    0     NEUQUEN AERO                                        
+19052026     9   4.6   84  1023.0  320    6     NUEVE DE JULIO                                      
+19052026    15  20.0   41  1021.4  290   11     NUEVE DE JULIO                                      
+19052026    21  10.2   72  1023.0  230    4     NUEVE DE JULIO                                      
+19052026     9   7.8   89  1025.1  180    4     OBERA                                               
+19052026    15  15.3   86  1020.7   90    4     OBERA                                               
+19052026    21  10.8   90  1020.8  360    4     OBERA                                               
+19052026     9   2.6   86  1023.9  180    7     OLAVARRIA AERO                                      
+19052026    10   5.4   77  1022.2  230    7     OLAVARRIA AERO                                      
+19052026    11  11.4   57  1022.3  230   17     OLAVARRIA AERO                                      
+19052026    12  14.2   48  1022.2  230   11     OLAVARRIA AERO                                      
+19052026    13  16.1   45  1022.2  230   17     OLAVARRIA AERO                                      
+19052026    14  17.2   46  1021.4  230   11     OLAVARRIA AERO                                      
+19052026    15  18.8   35  1021.8  180    7     OLAVARRIA AERO                                      
+19052026    21  10.1   79  1022.7  180    4     OLAVARRIA AERO                                      
+19052026     6   6.2   97  1023.0    0    0     ORAN AERO                                           
+19052026     7   6.4   97  1023.7    0    0     ORAN AERO                                           
+19052026     8   7.2   94  1024.1    0    0     ORAN AERO                                           
+19052026     9   8.5   95  1024.5  180    4     ORAN AERO                                           
+19052026    10   9.2   94  1024.9  180    4     ORAN AERO                                           
+19052026    11  10.8   92  1024.8  180    9     ORAN AERO                                           
+19052026    12  13.6   88  1023.6  140    4     ORAN AERO                                           
+19052026    13  15.6   71  1022.3   50    4     ORAN AERO                                           
+19052026    14  18.2   63  1020.6  180    9     ORAN AERO                                           
+19052026    15  18.1   67  1019.4  180    9     ORAN AERO                                           
+19052026    16  18.1   63  1019.9    0    0     ORAN AERO                                           
+19052026    17  18.2   66  1019.7   90    9     ORAN AERO                                           
+19052026    18  18.0   70  1020.9    0    0     ORAN AERO                                           
+19052026    19  16.4   84  1021.5    0    0     ORAN AERO                                           
+19052026    20  15.1   86  1022.3    0    0     ORAN AERO                                           
+19052026    21  13.7   89  1023.0    0    0     ORAN AERO                                           
+19052026     0   7.0   85  1025.3    0    0     PARANA AERO                                         
+19052026     1   6.6   85  1026.0    0    0     PARANA AERO                                         
+19052026     2   5.7   90  1025.6    0    0     PARANA AERO                                         
+19052026     3   6.5   87  1024.7  320    9     PARANA AERO                                         
+19052026     4   4.8   95  1024.8    0    0     PARANA AERO                                         
+19052026     5   4.0   93  1024.0    0    0     PARANA AERO                                         
+19052026     6   4.1   95  1023.7    0    0     PARANA AERO                                         
+19052026     7   3.1   99  1023.9    0    0     PARANA AERO                                         
+19052026     8   3.4   97  1024.6  180    4     PARANA AERO                                         
+19052026     9   5.4   88  1024.9   50    4     PARANA AERO                                         
+19052026    10  10.4   75  1025.2  360    6     PARANA AERO                                         
+19052026    11  13.5   68  1025.3  320   13     PARANA AERO                                         
+19052026    12  14.9   65  1025.6  320   13     PARANA AERO                                         
+19052026    13  16.0   59  1024.2  290   13     PARANA AERO                                         
+19052026    14  16.8   56  1023.4  290   11     PARANA AERO                                         
+19052026    15  17.6   50  1022.9  300    9     PARANA AERO                                         
+19052026    16  17.8   48  1022.6  290    7     PARANA AERO                                         
+19052026    17  17.7   49  1022.4  290    7     PARANA AERO                                         
+19052026    18  16.7   54  1022.5  290    4     PARANA AERO                                         
+19052026    19  13.0   69  1022.8  350    4     PARANA AERO                                         
+19052026    20  12.3   71  1023.9  150    4     PARANA AERO                                         
+19052026    21  10.8   72  1024.1    0    0     PARANA AERO                                         
+19052026    22  11.2   73  1023.8    0    0     PARANA AERO                                         
+19052026    23  10.0   75  1024.7    0    0     PARANA AERO                                         
+19052026     9   3.3   94  1025.3    0    0     PASO DE INDIOS                                      
+19052026    12  12.6   57          230   11     PASO DE INDIOS                                      
+19052026    15  17.2   54          270    7     PASO DE INDIOS                                      
+19052026    18  15.9   48            0    0     PASO DE INDIOS                                      
+19052026    21   7.5   78  1029.3    0    0     PASO DE INDIOS                                      
+19052026     6   4.2   99  1024.7  230    7     PASO DE LOS LIBRES AERO                             
+19052026     7   3.9   95  1025.0  230    7     PASO DE LOS LIBRES AERO                             
+19052026     8   4.0   97  1025.7  230    6     PASO DE LOS LIBRES AERO                             
+19052026     9   6.8   94  1026.0  230    6     PASO DE LOS LIBRES AERO                             
+19052026    10  11.4   82  1026.5  140    4     PASO DE LOS LIBRES AERO                             
+19052026    11  13.8   61  1026.7  180    6     PASO DE LOS LIBRES AERO                             
+19052026    12  15.0   49  1026.0  180   15     PASO DE LOS LIBRES AERO                             
+19052026    13  15.4   47  1025.2  180   15     PASO DE LOS LIBRES AERO                             
+19052026    14  16.6   52  1024.3  230    9     PASO DE LOS LIBRES AERO                             
+19052026    15  16.8   50  1023.4  180    9     PASO DE LOS LIBRES AERO                             
+19052026    16  17.0   49  1023.3  230    9     PASO DE LOS LIBRES AERO                             
+19052026    17  16.6   46  1023.1  230   11     PASO DE LOS LIBRES AERO                             
+19052026    18  14.6   64  1023.4  270    6     PASO DE LOS LIBRES AERO                             
+19052026    19  11.9   79  1023.9  230    4     PASO DE LOS LIBRES AERO                             
+19052026    20  10.4   85  1024.0  180    4     PASO DE LOS LIBRES AERO                             
+19052026    21   9.4   86  1024.0  360    4     PASO DE LOS LIBRES AERO                             
+19052026     9   6.6   75  1023.2  320   11     PEHUAJO AERO                                        
+19052026    10   8.1   73  1023.4  320    9     PEHUAJO AERO                                        
+19052026    11  11.0   65  1023.7  230    9     PEHUAJO AERO                                        
+19052026    12  13.8   57  1023.4  230   11     PEHUAJO AERO                                        
+19052026    13  15.5   52  1022.9  230   11     PEHUAJO AERO                                        
+19052026    14  17.1   46  1022.2  270    9     PEHUAJO AERO                                        
+19052026    15  18.6   41  1021.8  230    9     PEHUAJO AERO                                        
+19052026    16  18.9   43  1021.7  230    9     PEHUAJO AERO                                        
+19052026    17  18.5   43  1021.8  270    7     PEHUAJO AERO                                        
+19052026    18  16.8   52  1022.2  270    6     PEHUAJO AERO                                        
+19052026    19  14.1   58  1022.6  270    7     PEHUAJO AERO                                        
+19052026    20  11.3   68  1023.2  270    6     PEHUAJO AERO                                        
+19052026    21   8.5   83  1023.4  270    6     PEHUAJO AERO                                        
+19052026     9   -.2   98  1026.4    0    0     PERITO MORENO AERO                                  
+19052026    10   1.7   95  1027.6    0    0     PERITO MORENO AERO                                  
+19052026    11   4.7   91  1027.6    0    0     PERITO MORENO AERO                                  
+19052026    12   8.2   82  1027.2    0    0     PERITO MORENO AERO                                  
+19052026    13  11.8   67  1026.8    0    0     PERITO MORENO AERO                                  
+19052026    14  12.3   64  1026.0    0    0     PERITO MORENO AERO                                  
+19052026    15  13.3   58  1026.0    0    0     PERITO MORENO AERO                                  
+19052026    16  13.6   60  1025.4    0    0     PERITO MORENO AERO                                  
+19052026    17  13.8   54  1025.7    0    0     PERITO MORENO AERO                                  
+19052026    18  11.3   63  1027.9    0    0     PERITO MORENO AERO                                  
+19052026    19   8.0   76  1028.7    0    0     PERITO MORENO AERO                                  
+19052026    20   6.1   82  1029.4    0    0     PERITO MORENO AERO                                  
+19052026    21   5.8   78  1030.0    0    0     PERITO MORENO AERO                                  
+19052026     9   6.7   60  1022.2  270    4     PIGUE AERO                                          
+19052026    15  17.9   30  1021.2  180   15     PIGUE AERO                                          
+19052026    21   9.1   69  1024.5  180    9     PIGUE AERO                                          
+19052026     6   -.8   94  1022.9    0    0     PILAR OBSERVATORIO                                  
+19052026     7  -1.2   94  1023.3    0    0     PILAR OBSERVATORIO                                  
+19052026     8  -1.4   96  1024.0    0    0     PILAR OBSERVATORIO                                  
+19052026     9    .9   83  1024.7    0    0     PILAR OBSERVATORIO                                  
+19052026    10   5.5   77  1024.9    0    0     PILAR OBSERVATORIO                                  
+19052026    11  10.8   56  1025.0  360    2     PILAR OBSERVATORIO                                  
+19052026    12  14.3   45  1024.2  360    6     PILAR OBSERVATORIO                                  
+19052026    13  16.6   36  1023.2    0    0     PILAR OBSERVATORIO                                  
+19052026    14  18.8   28  1021.6    0    0     PILAR OBSERVATORIO                                  
+19052026    15  19.1   28  1022.1   50    7     PILAR OBSERVATORIO                                  
+19052026    16  19.5   28  1021.9   50    7     PILAR OBSERVATORIO                                  
+19052026    17  18.7   32  1022.2   50    7     PILAR OBSERVATORIO                                  
+19052026    18  17.2   39  1022.7   20    6     PILAR OBSERVATORIO                                  
+19052026    19  12.6   66  1023.6    0    0     PILAR OBSERVATORIO                                  
+19052026    20   9.8   73  1024.3    0    0     PILAR OBSERVATORIO                                  
+19052026    21   8.2   74  1025.0    0    0     PILAR OBSERVATORIO                                  
+19052026     0  10.0   83  1024.5  110    6     POSADAS AERO                                        
+19052026     1  10.5   75  1024.1  140    9     POSADAS AERO                                        
+19052026     2   9.9   77  1023.7  140    9     POSADAS AERO                                        
+19052026     3   9.6   78  1023.3  140    9     POSADAS AERO                                        
+19052026     4   9.1   79  1023.2  140    6     POSADAS AERO                                        
+19052026     5   8.5   84  1022.9  140    6     POSADAS AERO                                        
+19052026     6   8.4   82  1022.9  160    7     POSADAS AERO                                        
+19052026     7   7.5   82  1023.5  140    9     POSADAS AERO                                        
+19052026     8   7.6   83  1024.2  140    6     POSADAS AERO                                        
+19052026     9   9.5   77  1024.2  140    9     POSADAS AERO                                        
+19052026    10  12.5   70  1024.7   90    9     POSADAS AERO                                        
+19052026    11  14.8   64  1025.0  110    9     POSADAS AERO                                        
+19052026    12  16.3   52  1024.5  140   11     POSADAS AERO                                        
+19052026    13  17.5   49  1023.7  160   13     POSADAS AERO                                        
+19052026    14  18.2   46  1022.7  160   13     POSADAS AERO                                        
+19052026    15  18.4   44  1022.3  140    9     POSADAS AERO                                        
+19052026    16  18.4   44  1022.0  140    9     POSADAS AERO                                        
+19052026    17  18.2   42  1022.0  140    9     POSADAS AERO                                        
+19052026    18  18.0   42  1022.1  160    9     POSADAS AERO                                        
+19052026    19  14.8   61  1022.6  160    7     POSADAS AERO                                        
+19052026    20  13.1   67  1022.9  160   11     POSADAS AERO                                        
+19052026    21  12.5   68  1023.1  160    9     POSADAS AERO                                        
+19052026    22  11.9   71  1023.4  160   11     POSADAS AERO                                        
+19052026    23  11.7   72  1023.8  160    9     POSADAS AERO                                        
+19052026     0   3.0   93  1026.1    0    0     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+19052026     1   2.4   97  1026.2    0    0     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+19052026     2   2.0  100  1026.2    0    0     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+19052026     3   3.4   93  1025.4  140    2     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+19052026     4   1.2  100  1024.4    0    0     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+19052026     5   1.0   97  1024.3    0    0     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+19052026     6    .9   98  1024.2    0    0     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+19052026     7    .9   98  1024.6    0    0     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+19052026     8   1.1   97  1025.1    0    0     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+19052026     9   3.7   97  1025.9    0    0     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+19052026    10  10.6   89  1026.3   70    2     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+19052026    11  14.2   71  1026.4  110    6     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+19052026    12  16.4   57  1025.8   20    6     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+19052026    13  17.4   55  1024.8  140    6     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+19052026    14  18.1   51  1023.8  110    6     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+19052026    15  18.3   51  1023.0  110    6     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+19052026    16  18.5   49  1022.5  110    6     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+19052026    17  18.0   48  1022.4  140    6     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+19052026    18  17.0   54  1022.5  110    6     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+19052026    19  11.5   83  1023.0    0    0     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+19052026    20   7.8   90  1023.5    0    0     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+19052026    21   6.0   93  1024.0    0    0     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+19052026    22   4.7   92  1024.3    0    0     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+19052026    23   4.4   92  1024.6    0    0     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+19052026     9   4.3   86  1020.2  270   15     PUERTO DESEADO AERO                                 
+19052026    15  10.2   49          250   44     PUERTO DESEADO AERO                                 
+19052026    21   7.7   77  1025.6  230    9     PUERTO DESEADO AERO                                 
+19052026     5   8.2   76  1021.2  250    9     PUERTO MADRYN AERO                                  
+19052026     6   7.2   78  1021.5  250   11     PUERTO MADRYN AERO                                  
+19052026     7   8.0   83  1022.1  200   11     PUERTO MADRYN AERO                                  
+19052026     8  10.1   80  1022.6  160   15     PUERTO MADRYN AERO                                  
+19052026     9   9.8   81  1023.2  160   15     PUERTO MADRYN AERO                                  
+19052026    10   9.8   83  1023.9  270    7     PUERTO MADRYN AERO                                  
+19052026    11  11.2   83  1024.5  250    9     PUERTO MADRYN AERO                                  
+19052026    12  14.6   56  1024.8  200   19     PUERTO MADRYN AERO                                  
+19052026    13  15.4   41  1024.7  180   22     PUERTO MADRYN AERO                                  
+19052026    14  16.3   38  1024.2  230   15     PUERTO MADRYN AERO                                  
+19052026    15  16.0   42  1023.7  230   20     PUERTO MADRYN AERO                                  
+19052026    16  16.2   39  1023.7  230   20     PUERTO MADRYN AERO                                  
+19052026    17  15.8   43  1024.0  230   26     PUERTO MADRYN AERO                                  
+19052026    18  14.2   48  1024.4  230   17     PUERTO MADRYN AERO                                  
+19052026    19  11.6   56  1025.1  230   15     PUERTO MADRYN AERO                                  
+19052026    20  13.2   54  1025.4  200   19     PUERTO MADRYN AERO                                  
+19052026    21  12.0   65  1026.4  180   15     PUERTO MADRYN AERO                                  
+19052026    22  10.8   73  1027.0  180   17     PUERTO MADRYN AERO                                  
+19052026    23   9.8   80  1027.6  180   11     PUERTO MADRYN AERO                                  
+19052026     9   7.0   85  1022.6  340   15     PUNTA INDIO B.A.                                    
+19052026    10  10.4   73  1022.7  300   20     PUNTA INDIO B.A.                                    
+19052026    11  12.2   73  1022.6  290   24     PUNTA INDIO B.A.                                    
+19052026    12  14.2   67  1022.1  290   26     PUNTA INDIO B.A.                                    
+19052026    13  15.0   69  1021.2  320   26     PUNTA INDIO B.A.                                    
+19052026    14  16.2   62  1020.7  300   24     PUNTA INDIO B.A.                                    
+19052026    15  16.8   63  1020.1  320   20     PUNTA INDIO B.A.                                    
+19052026    16  16.0   70  1019.9  290   24     PUNTA INDIO B.A.                                    
+19052026    17  15.8   74  1020.1  290   17     PUNTA INDIO B.A.                                    
+19052026    18  14.0   69  1020.4  320    9     PUNTA INDIO B.A.                                    
+19052026    19  12.8   68  1020.4  340   13     PUNTA INDIO B.A.                                    
+19052026    20  10.0   77  1020.9  320   13     PUNTA INDIO B.A.                                    
+19052026    21  10.0   80  1021.1  340   11     PUNTA INDIO B.A.                                    
+19052026     6   4.6   94  1023.7   20   11     RAFAELA AERO                                        
+19052026     9   7.9   91  1025.0  340    7     RAFAELA AERO                                        
+19052026    12  15.5   57  1024.7  320   15     RAFAELA AERO                                        
+19052026    15  18.5   42  1022.1  320   15     RAFAELA AERO                                        
+19052026    18  17.5   49  1021.6  360    4     RAFAELA AERO                                        
+19052026    21   8.8   83  1023.8  320    4     RAFAELA AERO                                        
+19052026     0   8.2   89  1026.4   50    6     RECONQUISTA AERO                                    
+19052026     1   6.6   94  1026.0   50    6     RECONQUISTA AERO                                    
+19052026     2   6.8   92  1025.8   50    4     RECONQUISTA AERO                                    
+19052026     3   6.2   94  1025.7   50    6     RECONQUISTA AERO                                    
+19052026     4   6.2   94  1025.1  360    9     RECONQUISTA AERO                                    
+19052026     5   5.6   94  1025.0  360    9     RECONQUISTA AERO                                    
+19052026     6   5.2   95  1024.7  360    9     RECONQUISTA AERO                                    
+19052026     7   5.2   94  1024.9   20    9     RECONQUISTA AERO                                    
+19052026     8   5.4   94  1025.5   70    4     RECONQUISTA AERO                                    
+19052026     9   8.3   89  1025.7  110    4     RECONQUISTA AERO                                    
+19052026    10  12.0   74  1026.2  120    4     RECONQUISTA AERO                                    
+19052026    11  14.8   68  1026.4   40    4     RECONQUISTA AERO                                    
+19052026    12  16.1   63  1026.1  320    9     RECONQUISTA AERO                                    
+19052026    13  17.1   60  1025.4  310    7     RECONQUISTA AERO                                    
+19052026    14  17.6   53  1024.4  320    7     RECONQUISTA AERO                                    
+19052026    15  18.3   54  1023.8  320    7     RECONQUISTA AERO                                    
+19052026    16  18.5   53  1023.4  160    4     RECONQUISTA AERO                                    
+19052026    17  18.5   53  1023.1  250    2     RECONQUISTA AERO                                    
+19052026    18  16.9   63  1023.2    0    0     RECONQUISTA AERO                                    
+19052026    19  13.7   72  1023.5   90    6     RECONQUISTA AERO                                    
+19052026    20  13.0   75  1023.9   20    2     RECONQUISTA AERO                                    
+19052026    21  11.2   79  1023.9    0    0     RECONQUISTA AERO                                    
+19052026    22   9.6   88  1024.7  230    4     RECONQUISTA AERO                                    
+19052026    23   8.8   88  1025.2  270    2     RECONQUISTA AERO                                    
+19052026     0   7.3   94  1025.6  210    6     RESISTENCIA AERO                                    
+19052026     1   6.1   94  1025.3  230    4     RESISTENCIA AERO                                    
+19052026     2   6.5   94  1025.1  220    6     RESISTENCIA AERO                                    
+19052026     3   6.3   94  1025.1  200    6     RESISTENCIA AERO                                    
+19052026     4   5.9   94  1024.8  200    6     RESISTENCIA AERO                                    
+19052026     5   5.5   94  1024.4  180    6     RESISTENCIA AERO                                    
+19052026     6   4.9   94  1024.0  180    4     RESISTENCIA AERO                                    
+19052026     7   4.7   97  1024.3  180    4     RESISTENCIA AERO                                    
+19052026     8   4.9   97  1024.9  140    4     RESISTENCIA AERO                                    
+19052026     9   7.2   92  1025.4  140    4     RESISTENCIA AERO                                    
+19052026    10  12.1   51  1025.9  140    4     RESISTENCIA AERO                                    
+19052026    11  12.8   48  1026.3  110    6     RESISTENCIA AERO                                    
+19052026    12  13.7   57  1025.5  110    6     RESISTENCIA AERO                                    
+19052026    13  17.4   47  1024.7  140    6     RESISTENCIA AERO                                    
+19052026    14  17.7   46  1023.8  140    6     RESISTENCIA AERO                                    
+19052026    15  19.4   40  1023.0   90    9     RESISTENCIA AERO                                    
+19052026    16  18.7   46  1022.6  140   11     RESISTENCIA AERO                                    
+19052026    17  17.6   50  1022.5  140    6     RESISTENCIA AERO                                    
+19052026    18  16.1   57  1022.7  180    6     RESISTENCIA AERO                                    
+19052026    19  12.3   75  1023.1  210    4     RESISTENCIA AERO                                    
+19052026    20   9.9   87  1023.3  200    2     RESISTENCIA AERO                                    
+19052026    21   8.5   92  1023.8    0    0     RESISTENCIA AERO                                    
+19052026    22   7.7   89  1024.3  240    2     RESISTENCIA AERO                                    
+19052026    23   6.9   92  1024.5  210    4     RESISTENCIA AERO                                    
+19052026     6   2.4   88  1021.6  270   15     RIO CUARTO AERO                                     
+19052026     7   2.1   78  1022.1  270   15     RIO CUARTO AERO                                     
+19052026     8   2.6   68  1022.8  280   15     RIO CUARTO AERO                                     
+19052026     9   3.3   63  1023.2  280   15     RIO CUARTO AERO                                     
+19052026    10   7.9   51  1024.1  280   11     RIO CUARTO AERO                                     
+19052026    11  12.8   44  1023.7  270    7     RIO CUARTO AERO                                     
+19052026    12  16.2   39  1022.9    0    0     RIO CUARTO AERO                                     
+19052026    13  17.6   32  1021.9  120   20     RIO CUARTO AERO                                     
+19052026    14  18.4   26  1021.1  120   15     RIO CUARTO AERO                                     
+19052026    15  19.2   23  1020.3  110   15     RIO CUARTO AERO                                     
+19052026    16  19.2   24  1021.5  110   19     RIO CUARTO AERO                                     
+19052026    17  18.8   24  1021.7  110   15     RIO CUARTO AERO                                     
+19052026    18  16.0   32  1022.5  110   13     RIO CUARTO AERO                                     
+19052026    19  12.0   44  1023.5   90   11     RIO CUARTO AERO                                     
+19052026    20  10.4   54  1024.0   50    7     RIO CUARTO AERO                                     
+19052026    21  10.4   54  1024.4  360   11     RIO CUARTO AERO                                     
+19052026     0   3.0   86  1018.9  250   17     RIO GALLEGOS AERO                                   
+19052026     1   3.4   83  1019.0  250   24     RIO GALLEGOS AERO                                   
+19052026     2   4.0   82  1019.2  250   20     RIO GALLEGOS AERO                                   
+19052026     3   4.0   75  1019.8  230   15     RIO GALLEGOS AERO                                   
+19052026     4   5.0   77  1020.0  230   22     RIO GALLEGOS AERO                                   
+19052026     5   5.6   69  1020.0  230   19     RIO GALLEGOS AERO                                   
+19052026     6   5.8   81  1019.7  230   19     RIO GALLEGOS AERO                                   
+19052026     7   5.7   85  1020.4  250   13     RIO GALLEGOS AERO                                   
+19052026     8   4.9   91  1020.5  260   19     RIO GALLEGOS AERO                                   
+19052026     9   5.7   88  1020.7  250   24     RIO GALLEGOS AERO                                   
+19052026    10   6.9   85  1021.1  240   28     RIO GALLEGOS AERO                                   
+19052026    11   8.1   84  1022.1  240   15     RIO GALLEGOS AERO                                   
+19052026    12  10.1   72  1022.2  230   30     RIO GALLEGOS AERO                                   
+19052026    13  11.4   70  1022.5  240   33     RIO GALLEGOS AERO                                   
+19052026    14  12.1   73  1022.2  230   37     RIO GALLEGOS AERO                                   
+19052026    15  13.9   61  1022.5  210   35     RIO GALLEGOS AERO                                   
+19052026    16  13.7   63  1022.7  320   33     RIO GALLEGOS AERO                                   
+19052026    17  12.9   66  1023.5  210   24     RIO GALLEGOS AERO                                   
+19052026    18  12.1   65  1024.3  230   17     RIO GALLEGOS AERO                                   
+19052026    19  11.8   75  1024.8  250   20     RIO GALLEGOS AERO                                   
+19052026    20  11.0   81  1025.5  230   19     RIO GALLEGOS AERO                                   
+19052026    21  10.8   81  1025.7  250   30     RIO GALLEGOS AERO                                   
+19052026    22   9.7   85  1025.8  250   28     RIO GALLEGOS AERO                                   
+19052026    23   9.8   77  1026.1  250   26     RIO GALLEGOS AERO                                   
+19052026     0   1.8   80  1013.1  260   20     RIO GRANDE B.A.                                     
+19052026     1    .6   83  1013.7  270   15     RIO GRANDE B.A.                                     
+19052026     2   1.4   84  1014.1  260   17     RIO GRANDE B.A.                                     
+19052026     3   1.6   84  1014.6  270   20     RIO GRANDE B.A.                                     
+19052026     4   2.2   81  1015.1  270   19     RIO GRANDE B.A.                                     
+19052026     5   3.0   75  1015.0  270   20     RIO GRANDE B.A.                                     
+19052026     6   2.2   84  1015.3  260   20     RIO GRANDE B.A.                                     
+19052026     7   3.0   81  1016.2  270   13     RIO GRANDE B.A.                                     
+19052026     8   3.0   81  1016.8  250   15     RIO GRANDE B.A.                                     
+19052026     9   3.0   84  1017.3  170    4     RIO GRANDE B.A.                                     
+19052026    10   3.2   82  1017.9  210    7     RIO GRANDE B.A.                                     
+19052026    11   4.0   82  1018.5  240   13     RIO GRANDE B.A.                                     
+19052026    12   5.2   80  1019.2  990    7     RIO GRANDE B.A.                                     
+19052026    13   5.8   79  1019.8  990    6     RIO GRANDE B.A.                                     
+19052026    14   6.3   78  1019.8  990    6     RIO GRANDE B.A.                                     
+19052026    15   8.1   70  1019.7  200    6     RIO GRANDE B.A.                                     
+19052026    16   9.2   72  1020.0  220    6     RIO GRANDE B.A.                                     
+19052026    17   8.2   73  1020.6  990    4     RIO GRANDE B.A.                                     
+19052026    18   5.0   95  1021.0  330    9     RIO GRANDE B.A.                                     
+19052026    19   3.4   95  1021.4  340    7     RIO GRANDE B.A.                                     
+19052026    20   5.3   85  1021.8  270   11     RIO GRANDE B.A.                                     
+19052026    21   5.2   91  1022.0  200    7     RIO GRANDE B.A.                                     
+19052026    22   4.2   92  1021.9  210    4     RIO GRANDE B.A.                                     
+19052026    23   4.9   89  1022.1  190    4     RIO GRANDE B.A.                                     
+19052026     9   5.4   97  1024.8    0    0     RIVADAVIA                                           
+19052026    12  17.6   50          360    4     RIVADAVIA                                           
+19052026    15  20.6   44            0    0     RIVADAVIA                                           
+19052026    18  20.4   50            0    0     RIVADAVIA                                           
+19052026    21  13.6   80  1022.1    0    0     RIVADAVIA                                           
+19052026     0   5.3   89  1024.6    0    0     ROSARIO AERO                                        
+19052026     1   4.5   90  1024.5  270    6     ROSARIO AERO                                        
+19052026     2   3.2   95  1024.5  320    4     ROSARIO AERO                                        
+19052026     3   3.7   93  1024.4    0    0     ROSARIO AERO                                        
+19052026     4   3.5   93  1023.7    0    0     ROSARIO AERO                                        
+19052026     5   2.1   97  1023.2    0    0     ROSARIO AERO                                        
+19052026     6   2.0   98  1023.1    0    0     ROSARIO AERO                                        
+19052026     7   1.2  100  1023.3    0    0     ROSARIO AERO                                        
+19052026     8    .7  100  1023.9    0    0     ROSARIO AERO                                        
+19052026     9   2.8   89  1024.3    0    0     ROSARIO AERO                                        
+19052026    10   7.8   78  1024.7  340    4     ROSARIO AERO                                        
+19052026    11  11.0   71  1024.9  290    9     ROSARIO AERO                                        
+19052026    12  14.2   54  1024.5  290   13     ROSARIO AERO                                        
+19052026    13  16.0   58  1023.9  290    9     ROSARIO AERO                                        
+19052026    14  16.8   54  1023.0  290    7     ROSARIO AERO                                        
+19052026    15  17.8   52  1022.3  270    7     ROSARIO AERO                                        
+19052026    16  18.4   48  1022.0  270    6     ROSARIO AERO                                        
+19052026    17  17.6   57  1021.8  290    6     ROSARIO AERO                                        
+19052026    18  16.8   65  1021.8  270    4     ROSARIO AERO                                        
+19052026    19  13.0   65  1022.2  290    2     ROSARIO AERO                                        
+19052026    20  11.4   81  1022.8    0    0     ROSARIO AERO                                        
+19052026    21   8.8   85  1023.0    0    0     ROSARIO AERO                                        
+19052026    22   8.4   86  1023.3  270    4     ROSARIO AERO                                        
+19052026    23   6.6   97  1023.7    0    0     ROSARIO AERO                                        
+19052026     0   4.1   92          270    6     SALTA AERO                                          
+19052026     1   2.8   93            0    0     SALTA AERO                                          
+19052026     2   2.2   95            0    0     SALTA AERO                                          
+19052026     3   2.2   97            0    0     SALTA AERO                                          
+19052026     4   1.0   97            0    0     SALTA AERO                                          
+19052026     5    .8   97            0    0     SALTA AERO                                          
+19052026     6    .2   98            0    0     SALTA AERO                                          
+19052026     7    .6   98            0    0     SALTA AERO                                          
+19052026     8    .2  100            0    0     SALTA AERO                                          
+19052026     9   1.6   99            0    0     SALTA AERO                                          
+19052026    10   7.0   88          180    2     SALTA AERO                                          
+19052026    11   9.7   78           50    4     SALTA AERO                                          
+19052026    12  11.9   68          140    6     SALTA AERO                                          
+19052026    13  14.2   58            0    0     SALTA AERO                                          
+19052026    14  15.8   49          140    4     SALTA AERO                                          
+19052026    15  17.8   37           20    9     SALTA AERO                                          
+19052026    16  19.4   41          340    6     SALTA AERO                                          
+19052026    17  17.8   46           50   15     SALTA AERO                                          
+19052026    18  15.6   53           50   13     SALTA AERO                                          
+19052026    19  12.4   62           50   11     SALTA AERO                                          
+19052026    20  10.1   75           20    9     SALTA AERO                                          
+19052026    21   9.5   81            0    0     SALTA AERO                                          
+19052026    22   8.3   86          340    6     SALTA AERO                                          
+19052026    23   7.7   89          340    4     SALTA AERO                                          
+19052026     9   3.0   86  1024.3  290    9     SAN ANTONIO OESTE AERO                              
+19052026    15  15.0   67          290    9     SAN ANTONIO OESTE AERO                              
+19052026    21   7.2   87  1028.2  320    4     SAN ANTONIO OESTE AERO                              
+19052026     0   5.8   88  1024.1  310    4     SAN FERNANDO AERO                                   
+19052026     1   5.7   90  1024.0  320    6     SAN FERNANDO AERO                                   
+19052026     2   6.6   85  1023.7  310    6     SAN FERNANDO AERO                                   
+19052026     3   6.8   83  1023.6  320    6     SAN FERNANDO AERO                                   
+19052026     4   6.4   87  1023.0  320    7     SAN FERNANDO AERO                                   
+19052026     5   5.2   89  1023.0  290    6     SAN FERNANDO AERO                                   
+19052026     6   6.0   85  1023.1  310    7     SAN FERNANDO AERO                                   
+19052026     7   6.0   84  1023.3  310    9     SAN FERNANDO AERO                                   
+19052026     8   5.7   85  1023.8  320    6     SAN FERNANDO AERO                                   
+19052026     9   7.4   80  1023.9  310   11     SAN FERNANDO AERO                                   
+19052026    10  10.3   71  1024.2  320   13     SAN FERNANDO AERO                                   
+19052026    11  12.2   63  1024.3  300   15     SAN FERNANDO AERO                                   
+19052026    12  14.2   58  1023.7  290   20     SAN FERNANDO AERO                                   
+19052026    13  15.5   53  1022.8  310   19     SAN FERNANDO AERO                                   
+19052026    14  16.8   47  1021.9  290   17     SAN FERNANDO AERO                                   
+19052026    15  17.0   40  1021.3  270   17     SAN FERNANDO AERO                                   
+19052026    16  17.1   41  1021.2  270   15     SAN FERNANDO AERO                                   
+19052026    17  16.8   43  1021.1  270   13     SAN FERNANDO AERO                                   
+19052026    18  15.8   46  1021.5  280    7     SAN FERNANDO AERO                                   
+19052026    19   9.9   71  1021.8  310    6     SAN FERNANDO AERO                                   
+19052026    20   9.0   74  1022.0  330    7     SAN FERNANDO AERO                                   
+19052026    21  10.2   72  1022.1  320    7     SAN FERNANDO AERO                                   
+19052026    22   9.2   79  1022.2  320    7     SAN FERNANDO AERO                                   
+19052026    23   8.9   80  1022.5  300    4     SAN FERNANDO AERO                                   
+19052026     6    .5   82  1022.4    0    0     SAN JUAN AERO                                       
+19052026     7    .7   90  1022.9    0    0     SAN JUAN AERO                                       
+19052026     8   -.2   85  1023.7    0    0     SAN JUAN AERO                                       
+19052026     9   -.2   79  1024.8    0    0     SAN JUAN AERO                                       
+19052026    10   5.0   75  1025.6    0    0     SAN JUAN AERO                                       
+19052026    11  10.0   57  1025.2    0    0     SAN JUAN AERO                                       
+19052026    12  14.0   47  1024.4    0    0     SAN JUAN AERO                                       
+19052026    13  16.0   43  1023.6  360    4     SAN JUAN AERO                                       
+19052026    14  17.2   37  1021.8  140   11     SAN JUAN AERO                                       
+19052026    15  18.3   35  1021.9   40    4     SAN JUAN AERO                                       
+19052026    16  18.4   35  1021.3  180   17     SAN JUAN AERO                                       
+19052026    17  18.6   33  1021.3  200   11     SAN JUAN AERO                                       
+19052026    18  17.8   35  1021.8  180   13     SAN JUAN AERO                                       
+19052026    19  14.5   41  1022.7  200    7     SAN JUAN AERO                                       
+19052026    20  12.0   45  1023.8  200    7     SAN JUAN AERO                                       
+19052026    21   9.4   56  1024.7  220    4     SAN JUAN AERO                                       
+19052026     9   8.6   68  1022.2  230   30     SAN JULIAN AERO                                     
+19052026    15  13.0   47  1024.2  230   28     SAN JULIAN AERO                                     
+19052026    21  11.6   73  1027.6  230   19     SAN JULIAN AERO                                     
+19052026     0   6.7   65  1023.3  360    7     SAN LUIS AERO                                       
+19052026     1   4.8   62  1023.6  350    7     SAN LUIS AERO                                       
+19052026     2   4.4   60  1022.9  360   11     SAN LUIS AERO                                       
+19052026     3   5.3   56  1022.3   20   13     SAN LUIS AERO                                       
+19052026     4   3.4   61  1022.3  340    4     SAN LUIS AERO                                       
+19052026     5   3.1   66  1022.0  300    6     SAN LUIS AERO                                       
+19052026     6   2.4   70  1022.1  340   11     SAN LUIS AERO                                       
+19052026     7   2.5   66  1022.8  360   13     SAN LUIS AERO                                       
+19052026     8   3.1   57  1023.5  350   13     SAN LUIS AERO                                       
+19052026     9   4.1   67  1024.1  360   11     SAN LUIS AERO                                       
+19052026    10   9.3   43  1023.9  340   13     SAN LUIS AERO                                       
+19052026    11  12.7   41  1023.8  340   19     SAN LUIS AERO                                       
+19052026    12  15.3   32  1023.8  340   13     SAN LUIS AERO                                       
+19052026    13  15.9   35  1023.6  340   17     SAN LUIS AERO                                       
+19052026    14  17.1   34  1023.0  320   13     SAN LUIS AERO                                       
+19052026    15  18.0   34  1022.0  320   13     SAN LUIS AERO                                       
+19052026    16  18.3   34  1021.9  320    9     SAN LUIS AERO                                       
+19052026    17  18.7   35  1021.8  270    7     SAN LUIS AERO                                       
+19052026    18  17.5   40  1022.2  250    7     SAN LUIS AERO                                       
+19052026    19  13.9   55  1023.4  200    2     SAN LUIS AERO                                       
+19052026    20  11.9   64  1024.0   70    9     SAN LUIS AERO                                       
+19052026    21   9.9   70  1024.2   90   11     SAN LUIS AERO                                       
+19052026    22   7.9   64  1024.8   70    9     SAN LUIS AERO                                       
+19052026    23   6.4   73  1025.2   60    9     SAN LUIS AERO                                       
+19052026     9   2.8   70  1023.2  230   17     SAN MARTIN (MZA)                                    
+19052026    10   5.3   72  1023.4  230    9     SAN MARTIN (MZA)                                    
+19052026    11   8.8   61  1023.8  230    6     SAN MARTIN (MZA)                                    
+19052026    12  12.2   50  1023.4  270    4     SAN MARTIN (MZA)                                    
+19052026    13  15.8   40  1022.6  320    4     SAN MARTIN (MZA)                                    
+19052026    14  16.7   37  1022.0   50    6     SAN MARTIN (MZA)                                    
+19052026    15  18.2   33  1021.0  140    6     SAN MARTIN (MZA)                                    
+19052026    16  19.2   34  1020.5   20    6     SAN MARTIN (MZA)                                    
+19052026    17  19.7   33  1020.4    0    0     SAN MARTIN (MZA)                                    
+19052026    18  18.4   35  1020.9  360    4     SAN MARTIN (MZA)                                    
+19052026    19  14.4   55  1021.8    0    0     SAN MARTIN (MZA)                                    
+19052026    20  12.5   56  1022.7  320    4     SAN MARTIN (MZA)                                    
+19052026    21   9.6   71  1023.9  320    4     SAN MARTIN (MZA)                                    
+19052026     6   5.2   65  1019.8  270   15     SAN RAFAEL AERO                                     
+19052026     7   5.0   67  1020.2  230   13     SAN RAFAEL AERO                                     
+19052026     8   4.6   66  1021.3  270   17     SAN RAFAEL AERO                                     
+19052026     9   6.0   60  1021.8  230   13     SAN RAFAEL AERO                                     
+19052026    10   7.8   58  1022.9  230    7     SAN RAFAEL AERO                                     
+19052026    11  14.0   30  1023.5  180   13     SAN RAFAEL AERO                                     
+19052026    12  16.4   26  1021.7  180   15     SAN RAFAEL AERO                                     
+19052026    13  17.3   25  1020.7  230    4     SAN RAFAEL AERO                                     
+19052026    14  18.2   27  1020.0  140    9     SAN RAFAEL AERO                                     
+19052026    15  18.8   25  1019.2  140   17     SAN RAFAEL AERO                                     
+19052026    16  19.0   24  1020.7  140   19     SAN RAFAEL AERO                                     
+19052026    17  18.6   26  1020.6  140   15     SAN RAFAEL AERO                                     
+19052026    18  18.0   26  1021.4  140    7     SAN RAFAEL AERO                                     
+19052026    19  17.6   27  1021.7  140    6     SAN RAFAEL AERO                                     
+19052026    20   8.8   50  1024.5  180    4     SAN RAFAEL AERO                                     
+19052026    21   7.6   55  1025.2  180    6     SAN RAFAEL AERO                                     
+19052026     9   9.9   65  1021.0  200   37     SANTA CRUZ AERO                                     
+19052026    15  12.8   76          250   46     SANTA CRUZ AERO                                     
+19052026    21  11.1   80  1026.2  250   37     SANTA CRUZ AERO                                     
+19052026     0   8.9   54  1021.9  330   17     SANTA ROSA AERO                                     
+19052026     1   7.8   58  1021.8  310    6     SANTA ROSA AERO                                     
+19052026     2   6.3   64  1021.5  300    7     SANTA ROSA AERO                                     
+19052026     3   5.1   67  1021.1  310    7     SANTA ROSA AERO                                     
+19052026     4   4.1   68  1020.9  300    6     SANTA ROSA AERO                                     
+19052026     5   2.9   74  1021.1  220    4     SANTA ROSA AERO                                     
+19052026     6   2.5   77  1021.0  270    6     SANTA ROSA AERO                                     
+19052026     7   1.8   77  1021.7  290    6     SANTA ROSA AERO                                     
+19052026     8   1.4   78  1022.5  290    6     SANTA ROSA AERO                                     
+19052026     9   2.0   75  1022.8  290    6     SANTA ROSA AERO                                     
+19052026    10   5.6   69  1023.5  250    9     SANTA ROSA AERO                                     
+19052026    11  11.4   55  1023.3  270   13     SANTA ROSA AERO                                     
+19052026    12  14.8   45  1023.2  270   13     SANTA ROSA AERO                                     
+19052026    13  17.2   41  1022.5  270    9     SANTA ROSA AERO                                     
+19052026    14  19.0   37  1022.1  200    6     SANTA ROSA AERO                                     
+19052026    15  19.6   36  1021.8  230    6     SANTA ROSA AERO                                     
+19052026    16  19.5   34  1021.8  230    4     SANTA ROSA AERO                                     
+19052026    17  19.8   40  1022.0  270    2     SANTA ROSA AERO                                     
+19052026    18  17.0   51  1022.5  140    7     SANTA ROSA AERO                                     
+19052026    19  14.3   58  1023.3  110    2     SANTA ROSA AERO                                     
+19052026    20  11.5   64  1023.8   20    2     SANTA ROSA AERO                                     
+19052026    21  10.8   61  1024.7  140    7     SANTA ROSA AERO                                     
+19052026    22   9.2   65  1025.4  140    4     SANTA ROSA AERO                                     
+19052026    23   8.7   68  1025.9  140    6     SANTA ROSA AERO                                     
+19052026     8  -5.6   66  1026.6    0    0     SANTA ROSA DE CONLARA AERO                          
+19052026     9  -4.6   90  1027.1    0    0     SANTA ROSA DE CONLARA AERO                          
+19052026    10   -.2   87  1029.2    0    0     SANTA ROSA DE CONLARA AERO                          
+19052026    11   6.3   71  1028.2    0    0     SANTA ROSA DE CONLARA AERO                          
+19052026    12  11.9   54  1026.1    0    0     SANTA ROSA DE CONLARA AERO                          
+19052026    13  13.8   44  1023.6    0    0     SANTA ROSA DE CONLARA AERO                          
+19052026    14  15.4   37  1022.3    0    0     SANTA ROSA DE CONLARA AERO                          
+19052026    15  16.7   35  1021.1    0    0     SANTA ROSA DE CONLARA AERO                          
+19052026    16  18.7   30  1020.1  270    7     SANTA ROSA DE CONLARA AERO                          
+19052026    17  18.6   31  1019.3    0    0     SANTA ROSA DE CONLARA AERO                          
+19052026    18  18.8   29  1022.7    0    0     SANTA ROSA DE CONLARA AERO                          
+19052026    19  10.0   47  1022.8    0    0     SANTA ROSA DE CONLARA AERO                          
+19052026    20   6.0   58  1024.7    0    0     SANTA ROSA DE CONLARA AERO                          
+19052026    21   4.8   65  1025.0    0    0     SANTA ROSA DE CONLARA AERO                          
+19052026     0   5.9   95  1025.1   50    4     SANTIAGO DEL ESTERO AERO                            
+19052026     1   5.2   95  1024.9  360    7     SANTIAGO DEL ESTERO AERO                            
+19052026     2   4.2   93  1024.4  340    4     SANTIAGO DEL ESTERO AERO                            
+19052026     3   4.4   97  1024.3  290    4     SANTIAGO DEL ESTERO AERO                            
+19052026     4   4.4   97  1023.9    0    0     SANTIAGO DEL ESTERO AERO                            
+19052026     5   3.0   97  1023.8  320    6     SANTIAGO DEL ESTERO AERO                            
+19052026     6   1.7   98  1023.6  320    4     SANTIAGO DEL ESTERO AERO                            
+19052026     7    .8   98  1023.7  250    4     SANTIAGO DEL ESTERO AERO                            
+19052026     8    .2   96  1024.7    0    0     SANTIAGO DEL ESTERO AERO                            
+19052026     9   2.4   89  1025.2    0    0     SANTIAGO DEL ESTERO AERO                            
+19052026    10   9.0   76  1025.3  350    6     SANTIAGO DEL ESTERO AERO                            
+19052026    11  13.4   62  1025.0   10    9     SANTIAGO DEL ESTERO AERO                            
+19052026    12  15.9   50  1024.5  360   13     SANTIAGO DEL ESTERO AERO                            
+19052026    13  17.9   44  1023.7  360   11     SANTIAGO DEL ESTERO AERO                            
+19052026    14  19.3   42  1022.4   20   11     SANTIAGO DEL ESTERO AERO                            
+19052026    15  19.4   44  1021.8  360    7     SANTIAGO DEL ESTERO AERO                            
+19052026    16  19.8   45  1021.5   60    6     SANTIAGO DEL ESTERO AERO                            
+19052026    17  20.0   44  1021.4   40    7     SANTIAGO DEL ESTERO AERO                            
+19052026    18  17.6   57  1022.0   60    6     SANTIAGO DEL ESTERO AERO                            
+19052026    19  15.3   70  1022.3   50    6     SANTIAGO DEL ESTERO AERO                            
+19052026    20  12.2   88  1023.1   50    6     SANTIAGO DEL ESTERO AERO                            
+19052026    21  11.4   85  1023.5   50    4     SANTIAGO DEL ESTERO AERO                            
+19052026    22  10.0   70  1024.0  250    4     SANTIAGO DEL ESTERO AERO                            
+19052026    23   7.2   83  1024.3    0    0     SANTIAGO DEL ESTERO AERO                            
+19052026     0   5.2   92  1025.6   50    6     SAUCE VIEJO AERO                                    
+19052026     1   4.5   90  1025.7   50    7     SAUCE VIEJO AERO                                    
+19052026     2   4.2   92  1025.8  360    7     SAUCE VIEJO AERO                                    
+19052026     3   3.8   93  1025.0   50    9     SAUCE VIEJO AERO                                    
+19052026     4   3.2   93  1024.5   50    7     SAUCE VIEJO AERO                                    
+19052026     5   2.9   95  1024.2   50    7     SAUCE VIEJO AERO                                    
+19052026     6   2.6   98  1023.9   50    6     SAUCE VIEJO AERO                                    
+19052026     7   3.7   97  1024.0   50    7     SAUCE VIEJO AERO                                    
+19052026     8   3.6   97  1024.5   50    7     SAUCE VIEJO AERO                                    
+19052026     9   6.1   91  1024.9   20    6     SAUCE VIEJO AERO                                    
+19052026    10   9.4   91  1025.3   20   11     SAUCE VIEJO AERO                                    
+19052026    11  13.6   74  1025.5  360   15     SAUCE VIEJO AERO                                    
+19052026    12  16.3   62  1025.1  340   13     SAUCE VIEJO AERO                                    
+19052026    13  17.6   52  1024.3  360   11     SAUCE VIEJO AERO                                    
+19052026    14  18.1   51  1023.6  320   11     SAUCE VIEJO AERO                                    
+19052026    15  18.4   44  1023.0    0    0     SAUCE VIEJO AERO                                    
+19052026    16  19.5   51  1022.7  320    6     SAUCE VIEJO AERO                                    
+19052026    17  19.3   49  1022.4  320    4     SAUCE VIEJO AERO                                    
+19052026    19  13.3   68  1022.8    0    0     SAUCE VIEJO AERO                                    
+19052026    20  10.4   84  1023.2   60    4     SAUCE VIEJO AERO                                    
+19052026    21   9.5   91  1023.6   60    4     SAUCE VIEJO AERO                                    
+19052026    22   8.8   92  1024.0   50    6     SAUCE VIEJO AERO                                    
+19052026    23   7.8   94  1024.3   50    4     SAUCE VIEJO AERO                                    
+19052026     0   5.1   97  1025.6    0    0     SUNCHALES AERO                                      
+19052026     1   4.5   99  1025.6    0    0     SUNCHALES AERO                                      
+19052026     2   4.0   99  1025.6    0    0     SUNCHALES AERO                                      
+19052026     3   3.2   99  1025.5    0    0     SUNCHALES AERO                                      
+19052026     4   2.5   98  1025.2    0    0     SUNCHALES AERO                                      
+19052026     5   4.0   95  1024.5   20    4     SUNCHALES AERO                                      
+19052026     6   4.9   93  1023.5   20    9     SUNCHALES AERO                                      
+19052026     7   5.4   95  1023.5  360    9     SUNCHALES AERO                                      
+19052026     8   6.1   94  1024.1  360    9     SUNCHALES AERO                                      
+19052026     9   7.6   93  1024.5  340    9     SUNCHALES AERO                                      
+19052026    10  10.1   81  1025.1  340    9     SUNCHALES AERO                                      
+19052026    11  14.0   68  1025.2  340   15     SUNCHALES AERO                                      
+19052026    12  15.8   57  1024.9  320   15     SUNCHALES AERO                                      
+19052026    13  17.1   49  1024.0  340   15     SUNCHALES AERO                                      
+19052026    14  18.4   46  1023.3  320   15     SUNCHALES AERO                                      
+19052026    15  18.6   41  1022.7  320   15     SUNCHALES AERO                                      
+19052026    16  19.0   42  1022.4  320   15     SUNCHALES AERO                                      
+19052026    17  19.0   42  1022.4  320    9     SUNCHALES AERO                                      
+19052026    18  17.8   48  1022.4  360    4     SUNCHALES AERO                                      
+19052026    19  13.0   69  1022.7  360    4     SUNCHALES AERO                                      
+19052026    20  10.8   76  1022.9  360    4     SUNCHALES AERO                                      
+19052026    21   8.6   84  1023.6  320    4     SUNCHALES AERO                                      
+19052026    22   7.6   86  1024.1    0    0     SUNCHALES AERO                                      
+19052026    23   6.5   93  1024.3    0    0     SUNCHALES AERO                                      
+19052026     8   1.3   84  1020.6   20    4     TANDIL AERO                                         
+19052026     9   4.0   72  1021.0   90    4     TANDIL AERO                                         
+19052026    10   8.6   66  1021.0  220    6     TANDIL AERO                                         
+19052026    11  12.6   46  1020.8  230   17     TANDIL AERO                                         
+19052026    12  14.2   42  1020.5  230   13     TANDIL AERO                                         
+19052026    13  15.1   42  1020.0  230   13     TANDIL AERO                                         
+19052026    14  15.9   46  1019.5  190   11     TANDIL AERO                                         
+19052026    15  16.2   51  1019.0  240   13     TANDIL AERO                                         
+19052026    16  16.5   54  1019.3  230   15     TANDIL AERO                                         
+19052026    17  15.3   57  1019.7  220   15     TANDIL AERO                                         
+19052026    18  13.3   62  1020.8  220   11     TANDIL AERO                                         
+19052026    19  10.2   68  1021.3  210    9     TANDIL AERO                                         
+19052026    20  10.0   70  1022.0  220   15     TANDIL AERO                                         
+19052026    21   9.1   75  1022.3  210   15     TANDIL AERO                                         
+19052026     9   9.8   94  1024.6   50    4     TARTAGAL AERO                                       
+19052026    12  15.8   60           50    4     TARTAGAL AERO                                       
+19052026    15  19.1   48           50    4     TARTAGAL AERO                                       
+19052026    18  18.0   51           70    4     TARTAGAL AERO                                       
+19052026    21  15.0   81  1022.3  270    4     TARTAGAL AERO                                       
+19052026     9   3.3   91  1024.8  320    9     TERMAS DE RIO HONDO AERO                            
+19052026    10   6.2   78  1025.0  340    7     TERMAS DE RIO HONDO AERO                            
+19052026    11   9.1   74  1025.1  290    6     TERMAS DE RIO HONDO AERO                            
+19052026    12  11.1   72  1024.5  250   13     TERMAS DE RIO HONDO AERO                            
+19052026    13  12.6   70  1023.6  210    7     TERMAS DE RIO HONDO AERO                            
+19052026    14  13.9   63  1022.3  210    7     TERMAS DE RIO HONDO AERO                            
+19052026    15  15.8   72  1021.7  230   13     TERMAS DE RIO HONDO AERO                            
+19052026    16  17.5   52  1021.2  230   13     TERMAS DE RIO HONDO AERO                            
+19052026    17  18.1   63  1021.4  220    9     TERMAS DE RIO HONDO AERO                            
+19052026    18  17.7   64  1021.4  200    7     TERMAS DE RIO HONDO AERO                            
+19052026    19  15.2   82  1022.0  210    6     TERMAS DE RIO HONDO AERO                            
+19052026    20  13.1   85  1023.1   70   11     TERMAS DE RIO HONDO AERO                            
+19052026    21  12.4   78  1023.5   50    9     TERMAS DE RIO HONDO AERO                            
+19052026     9   3.2   67          290   15     TINOGASTA                                           
+19052026    12  15.0   43           50    9     TINOGASTA                                           
+19052026    15  17.8   37          140    9     TINOGASTA                                           
+19052026    21  10.8   58          290   15     TINOGASTA                                           
+19052026     0   9.6   65  1020.0  250   11     TRELEW AERO                                         
+19052026     1  10.2   63  1020.3  240   11     TRELEW AERO                                         
+19052026     2  10.8   57  1020.6  250   11     TRELEW AERO                                         
+19052026     3  10.0   70  1021.0  250    4     TRELEW AERO                                         
+19052026     4  10.6   64  1021.8  230    7     TRELEW AERO                                         
+19052026     5   9.2   76  1021.7    0    0     TRELEW AERO                                         
+19052026     6  10.6   75  1022.2  230    4     TRELEW AERO                                         
+19052026     7  10.4   78  1022.5    0    0     TRELEW AERO                                         
+19052026     8  10.8   78  1023.4    0    0     TRELEW AERO                                         
+19052026     9   8.8   81  1023.7  250    9     TRELEW AERO                                         
+19052026    10  10.0   75  1024.6  240   11     TRELEW AERO                                         
+19052026    11  12.0   61  1025.2  230   13     TRELEW AERO                                         
+19052026    12  13.0   54  1025.4  230   11     TRELEW AERO                                         
+19052026    13  15.0   43  1024.8  230   11     TRELEW AERO                                         
+19052026    14  16.2   39  1024.6  240   13     TRELEW AERO                                         
+19052026    15  17.1   39  1024.4  250   15     TRELEW AERO                                         
+19052026    16  17.5   38  1024.5  250   19     TRELEW AERO                                         
+19052026    17  17.6   38  1024.8  230   17     TRELEW AERO                                         
+19052026    18  16.6   42  1025.1  230   13     TRELEW AERO                                         
+19052026    19  15.1   46  1025.7  240   11     TRELEW AERO                                         
+19052026    20  15.1   54  1026.5  190   17     TRELEW AERO                                         
+19052026    21  12.6   68  1027.6  150   13     TRELEW AERO                                         
+19052026    22  11.8   67  1028.1  180   17     TRELEW AERO                                         
+19052026    23  11.1   71  1028.8  180    4     TRELEW AERO                                         
+19052026     9   4.9   78  1023.3  270    7     TRENQUE LAUQUEN                                     
+19052026    12  15.4   47  1023.4  270   11     TRENQUE LAUQUEN                                     
+19052026    15  20.2   37  1021.8  270   11     TRENQUE LAUQUEN                                     
+19052026    18  18.2   47  1022.5  230    7     TRENQUE LAUQUEN                                     
+19052026    21  11.4   78  1023.8  230    4     TRENQUE LAUQUEN                                     
+19052026     9   4.9       1020.1  270    7     TRES ARROYOS                                        
+19052026    12  13.9   67  1021.5  230   13     TRES ARROYOS                                        
+19052026    15  16.4   39  1021.0  200   17     TRES ARROYOS                                        
+19052026    18  13.9   64  1021.1  230    6     TRES ARROYOS                                        
+19052026    21   9.4   85  1021.2  200    9     TRES ARROYOS                                        
+19052026     0   7.1   90  1024.5   20    9     TUCUMAN AERO                                        
+19052026     1   6.4   92  1024.0   20   11     TUCUMAN AERO                                        
+19052026     2   5.1   94  1023.5   20    6     TUCUMAN AERO                                        
+19052026     3   5.4   93  1023.1  360    7     TUCUMAN AERO                                        
+19052026     4   5.1   94  1023.0  360    9     TUCUMAN AERO                                        
+19052026     5   5.0   94  1022.8  360    7     TUCUMAN AERO                                        
+19052026     6   4.9   95  1022.5   20    7     TUCUMAN AERO                                        
+19052026     7   4.8   94  1023.1  360    7     TUCUMAN AERO                                        
+19052026     8   4.7   92  1023.8   10    9     TUCUMAN AERO                                        
+19052026     9   7.1   85  1024.5  350    9     TUCUMAN AERO                                        
+19052026    10   9.7   81  1024.4  350    9     TUCUMAN AERO                                        
+19052026    11  12.4   75  1024.5  990    4     TUCUMAN AERO                                        
+19052026    12  14.6   63  1024.0  280    7     TUCUMAN AERO                                        
+19052026    13  15.3   61  1023.0  990    6     TUCUMAN AERO                                        
+19052026    14  16.3   59  1022.2  990    4     TUCUMAN AERO                                        
+19052026    15  17.1   57  1021.4  990    4     TUCUMAN AERO                                        
+19052026    16  17.7   53  1021.2  160    7     TUCUMAN AERO                                        
+19052026    17  18.7   53  1021.2  990    4     TUCUMAN AERO                                        
+19052026    18  17.4   59  1021.5  200    7     TUCUMAN AERO                                        
+19052026    19  15.1   68  1022.1  200    4     TUCUMAN AERO                                        
+19052026    20  13.5   73  1023.1  250    6     TUCUMAN AERO                                        
+19052026    21  11.4   81  1023.6  360    6     TUCUMAN AERO                                        
+19052026    22  11.1   82  1024.1   20    6     TUCUMAN AERO                                        
+19052026    23   8.5   91  1024.2  360   11     TUCUMAN AERO                                        
+19052026     0   4.8   83  1014.3  230   43     USHUAIA AERO                                        
+19052026     1   4.9   79  1014.6  230   37     USHUAIA AERO                                        
+19052026     3   4.9   79  1015.0  230   44     USHUAIA AERO                                        
+19052026     4   5.0   80  1015.0  230   41     USHUAIA AERO                                        
+19052026     5   5.1   80  1015.2  230   37     USHUAIA AERO                                        
+19052026     6   5.2   78  1015.5  230   37     USHUAIA AERO                                        
+19052026     7   5.4   85  1016.2  230   43     USHUAIA AERO                                        
+19052026     8   5.0   88  1016.5  230   39     USHUAIA AERO                                        
+19052026     9   5.4   85  1017.2  230   39     USHUAIA AERO                                        
+19052026    10   5.6   82  1017.8  230   35     USHUAIA AERO                                        
+19052026    11   6.0   81  1018.3  230   37     USHUAIA AERO                                        
+19052026    12   6.6   83  1018.6  230   35     USHUAIA AERO                                        
+19052026    13   7.1   81  1018.6  230   37     USHUAIA AERO                                        
+19052026    14   7.5   83  1018.8  230   33     USHUAIA AERO                                        
+19052026    15   8.2   78  1018.8  230   31     USHUAIA AERO                                        
+19052026    16   8.4   78  1019.1  230   41     USHUAIA AERO                                        
+19052026    17   8.6   79  1019.5  230   31     USHUAIA AERO                                        
+19052026    18   9.0   74  1020.5  230   28     USHUAIA AERO                                        
+19052026    19   9.2   75  1020.8  230   24     USHUAIA AERO                                        
+19052026    20   9.0   80  1021.1  230   28     USHUAIA AERO                                        
+19052026    21   8.3   89  1021.2  230   30     USHUAIA AERO                                        
+19052026    22   8.3   88  1020.9  230   41     USHUAIA AERO                                        
+19052026    23   8.3   86  1020.8  230   46     USHUAIA AERO                                        
+19052026     9  -5.8   81            0    0     USPALLATA                                           
+19052026    12   8.6   49            0    0     USPALLATA                                           
+19052026    15  15.3   25          140    4     USPALLATA                                           
+19052026    18  16.0   32            0    0     USPALLATA                                           
+19052026    21   5.7   52            0    0     USPALLATA                                           
+19052026     6   1.1   92  1023.8  270    4     VENADO TUERTO AERO                                  
+19052026     7   1.0   94  1023.5  360    4     VENADO TUERTO AERO                                  
+19052026     8   -.8   95  1023.8  360    4     VENADO TUERTO AERO                                  
+19052026     9   1.2   92  1024.7  360    4     VENADO TUERTO AERO                                  
+19052026    10   6.4   85  1025.1  360    4     VENADO TUERTO AERO                                  
+19052026    11  11.1   76  1025.6  290    4     VENADO TUERTO AERO                                  
+19052026    12  13.4   64  1025.0  290    9     VENADO TUERTO AERO                                  
+19052026    13  15.7   47  1024.9  290    9     VENADO TUERTO AERO                                  
+19052026    14  16.6   47  1023.7  250    9     VENADO TUERTO AERO                                  
+19052026    15  18.0   43  1022.9  270    9     VENADO TUERTO AERO                                  
+19052026    16  19.0   37  1022.2  290    4     VENADO TUERTO AERO                                  
+19052026    17  18.8   35  1022.2  270    4     VENADO TUERTO AERO                                  
+19052026    18  17.0   49  1022.7  230    4     VENADO TUERTO AERO                                  
+19052026    19  13.2   57  1023.1  230    4     VENADO TUERTO AERO                                  
+19052026    20  10.3   64  1023.5    0    0     VENADO TUERTO AERO                                  
+19052026    21   8.3   71  1024.2  290    4     VENADO TUERTO AERO                                  
+19052026     9   2.7   77  1023.0  360    9     VICTORICA                                           
+19052026    15  19.7   33  1021.6  320    9     VICTORICA                                           
+19052026    21   9.5   75  1024.7  180    4     VICTORICA                                           
+19052026     0   6.4   68  1018.2  300   11     VIEDMA AERO                                         
+19052026     1   6.7   65  1018.3  270   11     VIEDMA AERO                                         
+19052026     2   6.6   74  1018.6  230   13     VIEDMA AERO                                         
+19052026     3   8.5   85  1018.9  200   13     VIEDMA AERO                                         
+19052026     4   6.8   88  1019.4  200   13     VIEDMA AERO                                         
+19052026     5   5.9   93  1019.3  200   11     VIEDMA AERO                                         
+19052026     6   5.3   95  1019.7  990    4     VIEDMA AERO                                         
+19052026     7   4.4   95  1020.2  280    7     VIEDMA AERO                                         
+19052026     8   6.3   88  1020.8  990    2     VIEDMA AERO                                         
+19052026     9   7.4   94  1021.5  290    6     VIEDMA AERO                                         
+19052026    10  11.3   88  1022.3  220   13     VIEDMA AERO                                         
+19052026    11  13.3   84  1022.5  240    6     VIEDMA AERO                                         
+19052026    12  15.5   75  1023.1  210   17     VIEDMA AERO                                         
+19052026    13  16.4   66  1022.9  220   15     VIEDMA AERO                                         
+19052026    14  16.1   62  1022.5  220   20     VIEDMA AERO                                         
+19052026    15  16.1   52  1022.5  210   26     VIEDMA AERO                                         
+19052026    16  15.0   50  1023.0  210   22     VIEDMA AERO                                         
+19052026    17  14.2   63  1023.4  230   20     VIEDMA AERO                                         
+19052026    18  12.2   70  1023.8  230   19     VIEDMA AERO                                         
+19052026    19  10.0   77  1024.1  230   13     VIEDMA AERO                                         
+19052026    20  10.5   70  1024.5  200   15     VIEDMA AERO                                         
+19052026    21   8.6   80  1025.0  200    9     VIEDMA AERO                                         
+19052026    22   8.8   84  1025.0  240    9     VIEDMA AERO                                         
+19052026    23  10.0   82  1025.4  230   11     VIEDMA AERO                                         
+19052026     9   8.7   71  1024.7  270    4     VILLA DE MARIA DEL RIO SEC                          
+                                            O                                                       
+                                                                                                    
+19052026    15  20.2   35  1021.6  340    9     VILLA DE MARIA DEL RIO SEC                          
+                                            O                                                       
+                                                                                                    
+19052026    21   5.0   82  1023.9    0    0     VILLA DE MARIA DEL RIO SEC                          
+                                            O                                                       
+                                                                                                    
+19052026     9   2.8   75  1026.4   90    4     VILLA DOLORES AERO                                  
+19052026    10   8.8   55  1026.3   90    7     VILLA DOLORES AERO                                  
+19052026    11  12.6   42  1026.2  360    7     VILLA DOLORES AERO                                  
+19052026    12  13.8   39  1025.9    0    0     VILLA DOLORES AERO                                  
+19052026    13  13.8   35  1025.2  270    7     VILLA DOLORES AERO                                  
+19052026    14  15.5   32  1024.1  320   11     VILLA DOLORES AERO                                  
+19052026    15  17.2   29  1023.2  320    6     VILLA DOLORES AERO                                  
+19052026    16  17.4   28  1022.9  270    6     VILLA DOLORES AERO                                  
+19052026    17  17.6   25  1022.6  230    6     VILLA DOLORES AERO                                  
+19052026    18  16.8   28  1022.6  270    4     VILLA DOLORES AERO                                  
+19052026    19  13.0   48  1023.3  270    6     VILLA DOLORES AERO                                  
+19052026    20   7.4   65  1024.5  140   13     VILLA DOLORES AERO                                  
+19052026    21   5.6   65  1025.2  140   13     VILLA DOLORES AERO                                  
+19052026     8   3.2   88  1019.1  260   17     VILLA GESELL AERO                                   
+19052026     9   5.0   70  1019.6  250   13     VILLA GESELL AERO                                   
+19052026    10   8.5   64  1019.5  250   22     VILLA GESELL AERO                                   
+19052026    11  11.0   63  1019.7  230   20     VILLA GESELL AERO                                   
+19052026    12  13.1   60  1019.5  220   19     VILLA GESELL AERO                                   
+19052026    13  13.5   62  1019.1  200   19     VILLA GESELL AERO                                   
+19052026    14  14.1   70  1018.8  200   17     VILLA GESELL AERO                                   
+19052026    15  14.6   70  1018.2  200   17     VILLA GESELL AERO                                   
+19052026    16  14.1   75  1019.0  160   15     VILLA GESELL AERO                                   
+19052026    17  13.5   81  1019.2  160    9     VILLA GESELL AERO                                   
+19052026    18  10.0   75  1019.7  170    9     VILLA GESELL AERO                                   
+19052026    19   8.8   89  1019.9  180    7     VILLA GESELL AERO                                   
+19052026    20   7.5   93  1020.7  190    6     VILLA GESELL AERO                                   
+19052026    21   6.3   91  1021.2  190    7     VILLA GESELL AERO                                   
+19052026     0   -.4   96  1024.5  320    4     VILLA REYNOLDS AERO                                 
+19052026     1  -1.4   91  1024.4  320    4     VILLA REYNOLDS AERO                                 
+19052026     2  -1.8   94  1024.1  320    4     VILLA REYNOLDS AERO                                 
+19052026     3  -2.1   94  1024.1  320    9     VILLA REYNOLDS AERO                                 
+19052026     4  -2.5   94  1023.2    0    0     VILLA REYNOLDS AERO                                 
+19052026     5  -2.8   94  1023.2  320    4     VILLA REYNOLDS AERO                                 
+19052026     6  -2.5   96  1023.1  360    9     VILLA REYNOLDS AERO                                 
+19052026     7  -3.0   89  1023.9  360    4     VILLA REYNOLDS AERO                                 
+19052026     8  -3.2   86  1025.3  320    4     VILLA REYNOLDS AERO                                 
+19052026     9  -1.8   85  1025.3  360    6     VILLA REYNOLDS AERO                                 
+19052026    10   2.8   54  1025.5  320    7     VILLA REYNOLDS AERO                                 
+19052026    11   8.6   58  1025.7  360    6     VILLA REYNOLDS AERO                                 
+19052026    12  12.7   38  1025.6  320    6     VILLA REYNOLDS AERO                                 
+19052026    13  16.1   31  1024.9  270    9     VILLA REYNOLDS AERO                                 
+19052026    14  18.8   24  1023.8  340    9     VILLA REYNOLDS AERO                                 
+19052026    15  20.2   20  1023.1  360    9     VILLA REYNOLDS AERO                                 
+19052026    16  20.8   20  1022.4  360    9     VILLA REYNOLDS AERO                                 
+19052026    17  19.6   22  1022.8   50   11     VILLA REYNOLDS AERO                                 
+19052026    18  16.6   32  1023.4   50   11     VILLA REYNOLDS AERO                                 
+19052026    19  12.7   44  1024.5   50    9     VILLA REYNOLDS AERO                                 
+19052026    20  10.5   56  1025.5   50   11     VILLA REYNOLDS AERO                                 
+19052026    21   6.6   63  1026.4   50    6     VILLA REYNOLDS AERO                                 
+19052026    22   6.0   66  1026.4  360    6     VILLA REYNOLDS AERO                                 
+19052026    23   4.7   68  1026.5  360    9     VILLA REYNOLDS AERO                                 

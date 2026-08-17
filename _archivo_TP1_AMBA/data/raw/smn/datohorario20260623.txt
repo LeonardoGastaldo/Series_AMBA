@@ -1,0 +1,1909 @@
+FECHA     HORA  TEMP   HUM   PNM    DD    FF     NOMBRE                                             
+         [HOA]  [ºC]   [%]  [hPa]  [gr] [km/hr]                                                     
+23062026     0   9.0   62  1017.6  250    6     AEROPARQUE AERO                                     
+23062026     1   8.9   61  1017.3  260    7     AEROPARQUE AERO                                     
+23062026     2   8.5   64  1016.8  250    9     AEROPARQUE AERO                                     
+23062026     3   7.5   72  1016.3  250    7     AEROPARQUE AERO                                     
+23062026     4   6.4   76  1016.4  260   11     AEROPARQUE AERO                                     
+23062026     5   6.0   78  1016.0  250    7     AEROPARQUE AERO                                     
+23062026     6   6.2   76  1015.8  280    7     AEROPARQUE AERO                                     
+23062026     7   5.9   72  1016.4  270    9     AEROPARQUE AERO                                     
+23062026     8   5.7   72  1016.9  270   11     AEROPARQUE AERO                                     
+23062026     9   6.2   71  1017.2  270   11     AEROPARQUE AERO                                     
+23062026    10   7.1   65  1017.4  270    6     AEROPARQUE AERO                                     
+23062026    11   8.8   58  1017.7  990    9     AEROPARQUE AERO                                     
+23062026    12   9.6   55  1017.7  250   15     AEROPARQUE AERO                                     
+23062026    13  10.5   51  1017.0  230   13     AEROPARQUE AERO                                     
+23062026    14  11.4   47  1016.3  250   13     AEROPARQUE AERO                                     
+23062026    15  11.7   43  1016.1  230    9     AEROPARQUE AERO                                     
+23062026    16  11.6   44  1016.0  230   11     AEROPARQUE AERO                                     
+23062026    17  12.4   44  1016.2  270   11     AEROPARQUE AERO                                     
+23062026    18  11.5   48  1016.6  990    7     AEROPARQUE AERO                                     
+23062026    19  10.8   53  1017.1  290    6     AEROPARQUE AERO                                     
+23062026    20  10.5   54  1017.6  280    7     AEROPARQUE AERO                                     
+23062026    21  10.2   52  1018.0  250    7     AEROPARQUE AERO                                     
+23062026    22   9.6   56  1018.2  240    6     AEROPARQUE AERO                                     
+23062026    23   8.8   61  1018.4  240    6     AEROPARQUE AERO                                     
+23062026     0   5.4   85  1016.8  270    9     AZUL AERO                                           
+23062026     1   5.3   88  1016.5  270    9     AZUL AERO                                           
+23062026     2   4.0   92  1016.2  270    9     AZUL AERO                                           
+23062026     3   3.3   92  1015.6  270   11     AZUL AERO                                           
+23062026     4   3.1   93  1015.4  270    9     AZUL AERO                                           
+23062026     5   1.6   89  1014.9  270    9     AZUL AERO                                           
+23062026     6   1.2   91  1014.9  270    9     AZUL AERO                                           
+23062026     7   1.6   89  1015.0  270    9     AZUL AERO                                           
+23062026     8   1.6   89  1015.4  270   11     AZUL AERO                                           
+23062026     9   1.7   87  1015.7  270   11     AZUL AERO                                           
+23062026    10   5.0   74  1015.8  270   15     AZUL AERO                                           
+23062026    11   7.2   62  1015.9  270   13     AZUL AERO                                           
+23062026    12   8.9   57  1016.0  270   15     AZUL AERO                                           
+23062026    13   9.9   53  1015.7  270   11     AZUL AERO                                           
+23062026    14   9.7   55  1015.3  270   13     AZUL AERO                                           
+23062026    15   9.4   57  1015.2  230    9     AZUL AERO                                           
+23062026    16   8.9   61  1015.5  230   11     AZUL AERO                                           
+23062026    17   8.4   65  1015.9  180   11     AZUL AERO                                           
+23062026    18   7.3   73  1016.4  180    4     AZUL AERO                                           
+23062026    19   6.6   83  1017.0  230    9     AZUL AERO                                           
+23062026    20   6.8   85  1017.7  230    7     AZUL AERO                                           
+23062026    21   6.4   88  1017.8  250    6     AZUL AERO                                           
+23062026    22   5.7   91  1017.6  230    6     AZUL AERO                                           
+23062026    23   4.9   91  1017.8  230    7     AZUL AERO                                           
+23062026     0   3.6   87  1018.6  270   13     BAHIA BLANCA AERO                                   
+23062026     1   3.2   86  1018.1  270   13     BAHIA BLANCA AERO                                   
+23062026     2   2.6       1017.5  290   15     BAHIA BLANCA AERO                                   
+23062026     3   2.3   84  1017.0  290   13     BAHIA BLANCA AERO                                   
+23062026     4   2.4   83  1017.0  270   15     BAHIA BLANCA AERO                                   
+23062026     5   1.6   89  1015.5  320   13     BAHIA BLANCA AERO                                   
+23062026     6   1.5   87  1015.9  300   13     BAHIA BLANCA AERO                                   
+23062026     7   1.2   85  1016.3  300   15     BAHIA BLANCA AERO                                   
+23062026     8    .8   85  1016.8  290   15     BAHIA BLANCA AERO                                   
+23062026     9    .8   85  1016.5  290   11     BAHIA BLANCA AERO                                   
+23062026    10   2.8   77  1017.1  270   17     BAHIA BLANCA AERO                                   
+23062026    11   3.7   80  1017.3  270   24     BAHIA BLANCA AERO                                   
+23062026    12   4.3   89  1017.9  270   17     BAHIA BLANCA AERO                                   
+23062026    13   6.2   85  1017.7  270   20     BAHIA BLANCA AERO                                   
+23062026    14   9.5   73  1017.4  250   17     BAHIA BLANCA AERO                                   
+23062026    15   9.9   72  1017.4  210   22     BAHIA BLANCA AERO                                   
+23062026    16  10.1   70  1017.6  230   15     BAHIA BLANCA AERO                                   
+23062026    17   9.5   73  1018.2  230   11     BAHIA BLANCA AERO                                   
+23062026    18   8.7   71  1018.5  250   13     BAHIA BLANCA AERO                                   
+23062026    19   7.8   77  1019.0  230   13     BAHIA BLANCA AERO                                   
+23062026    20   7.2   80  1019.4  230   13     BAHIA BLANCA AERO                                   
+23062026    21   6.1   81  1019.5  230   13     BAHIA BLANCA AERO                                   
+23062026    22   4.7   87  1019.4  270   13     BAHIA BLANCA AERO                                   
+23062026    23   4.1   89  1019.6  270   11     BAHIA BLANCA AERO                                   
+23062026     0   2.8   68          270   26     BARILOCHE AERO                                      
+23062026     1   2.9   68          270   26     BARILOCHE AERO                                      
+23062026     2   2.6   71          280   15     BARILOCHE AERO                                      
+23062026     3    .4   70          250   31     BARILOCHE AERO                                      
+23062026     4    .7   67          160    9     BARILOCHE AERO                                      
+23062026     5   2.2   59          270   15     BARILOCHE AERO                                      
+23062026     6  -1.5   71          230   13     BARILOCHE AERO                                      
+23062026     7  -2.5   75          250    9     BARILOCHE AERO                                      
+23062026     8  -3.0   77           90    7     BARILOCHE AERO                                      
+23062026     9  -3.3   72          990    7     BARILOCHE AERO                                      
+23062026    10  -1.8   74          990    7     BARILOCHE AERO                                      
+23062026    11   1.9   61          990    4     BARILOCHE AERO                                      
+23062026    12   4.1   63          270   24     BARILOCHE AERO                                      
+23062026    13   4.6   62          270   33     BARILOCHE AERO                                      
+23062026    14   4.9   62          270   31     BARILOCHE AERO                                      
+23062026    15   5.4   58          270   31     BARILOCHE AERO                                      
+23062026    16   5.7   58          270   35     BARILOCHE AERO                                      
+23062026    17   4.9   61          270   31     BARILOCHE AERO                                      
+23062026    18   4.7   62          270   33     BARILOCHE AERO                                      
+23062026    19   4.6   59          290   24     BARILOCHE AERO                                      
+23062026    20   4.4   62          290   26     BARILOCHE AERO                                      
+23062026    21   3.9   71          290   22     BARILOCHE AERO                                      
+23062026    22   3.8   70          290   26     BARILOCHE AERO                                      
+23062026    23   3.9   67          270   35     BARILOCHE AERO                                      
+23062026     0 -19.6   59   987.0  110    4     BASE BELGRANO II                                    
+23062026     3 -21.1   68   986.7  140   37     BASE BELGRANO II                                    
+23062026     6 -20.3   50   985.5  140   35     BASE BELGRANO II                                    
+23062026     9 -20.9   42   985.2  140   33     BASE BELGRANO II                                    
+23062026    12 -21.2   61   983.5  140   43     BASE BELGRANO II                                    
+23062026    15 -21.0   61   984.0  140   50     BASE BELGRANO II                                    
+23062026    18 -18.7   55   983.1  140   13     BASE BELGRANO II                                    
+23062026    21 -19.9   26   983.1  110   20     BASE BELGRANO II                                    
+23062026     0  -1.1   81   993.0  270   22     BASE CARLINI (EX JUBANY)                            
+23062026     3   -.9   82   993.4  290   24     BASE CARLINI (EX JUBANY)                            
+23062026     6  -2.4   96   993.5  250   37     BASE CARLINI (EX JUBANY)                            
+23062026     9  -3.0   93   994.4  270   39     BASE CARLINI (EX JUBANY)                            
+23062026    12  -4.5   96   996.7  140   31     BASE CARLINI (EX JUBANY)                            
+23062026    15  -6.3   94   999.3  110   26     BASE CARLINI (EX JUBANY)                            
+23062026    18  -6.4   91  1001.3   90   26     BASE CARLINI (EX JUBANY)                            
+23062026    21  -5.0   83  1002.4  340   11     BASE CARLINI (EX JUBANY)                            
+23062026     0  -7.1   83   990.7  140   11     BASE ESPERANZA                                      
+23062026     3  -6.8   83   990.7  180   11     BASE ESPERANZA                                      
+23062026     6  -5.6   80   991.5  140    9     BASE ESPERANZA                                      
+23062026     9              994.5  230   35     BASE ESPERANZA                                      
+23062026    12 -13.1   77   999.0  250   54     BASE ESPERANZA                                      
+23062026    15 -11.7   79  1001.7  160   19     BASE ESPERANZA                                      
+23062026    18 -13.5   76  1002.9  200   11     BASE ESPERANZA                                      
+23062026    21 -13.9   80  1003.4    0    0     BASE ESPERANZA                                      
+23062026     0 -13.3   61   991.5   20   13     BASE MARAMBIO                                       
+23062026     1 -13.2   57   991.3   70   13     BASE MARAMBIO                                       
+23062026     2 -13.1   62   991.4   70   11     BASE MARAMBIO                                       
+23062026     3 -12.7   66   991.6   50   11     BASE MARAMBIO                                       
+23062026     4 -12.9   58   991.9   70   15     BASE MARAMBIO                                       
+23062026     5 -12.4   56   992.2   90   15     BASE MARAMBIO                                       
+23062026     6 -12.8   55   992.7   90   11     BASE MARAMBIO                                       
+23062026     7 -12.5   56   994.2  200   31     BASE MARAMBIO                                       
+23062026     8 -17.8   52   995.3  180   50     BASE MARAMBIO                                       
+23062026     9 -18.8   60   997.0  180   44     BASE MARAMBIO                                       
+23062026    10 -18.8   60   997.4  180   48     BASE MARAMBIO                                       
+23062026    11 -19.8   70   998.4  200   56     BASE MARAMBIO                                       
+23062026    12 -19.5   65   999.7  200   54     BASE MARAMBIO                                       
+23062026    13 -20.2   57  1001.1  180   46     BASE MARAMBIO                                       
+23062026    14 -20.8   28  1001.4  200   43     BASE MARAMBIO                                       
+23062026    15 -20.6   36  1002.2  200   37     BASE MARAMBIO                                       
+23062026    16 -21.5   32  1003.0  180   28     BASE MARAMBIO                                       
+23062026    17 -21.2   33  1002.9  200   31     BASE MARAMBIO                                       
+23062026    18 -20.8   35  1003.4  200   22     BASE MARAMBIO                                       
+23062026    19 -20.4   30  1003.0  200   22     BASE MARAMBIO                                       
+23062026    20 -19.7   46  1003.7  230   17     BASE MARAMBIO                                       
+23062026    21 -19.8   33  1003.6  200   13     BASE MARAMBIO                                       
+23062026    22 -20.0   45  1003.5   50    9     BASE MARAMBIO                                       
+23062026    23 -21.2   54  1003.8  180   11     BASE MARAMBIO                                       
+23062026     0  -8.4   97   994.0  160   11     BASE ORCADAS                                        
+23062026     3  -9.6  100   993.6  160   11     BASE ORCADAS                                        
+23062026     6 -10.1  100   993.1  160   13     BASE ORCADAS                                        
+23062026     9 -10.8   92   992.5  180   19     BASE ORCADAS                                        
+23062026    12 -12.2   92   992.8  180   26     BASE ORCADAS                                        
+23062026    15 -14.0   91   993.3  180   26     BASE ORCADAS                                        
+23062026    18 -14.4   91   995.0  180   26     BASE ORCADAS                                        
+23062026    21 -15.4   90   996.4  180   24     BASE ORCADAS                                        
+23062026     0  -3.2   95   988.8  230    7     BASE SAN MARTIN                                     
+23062026     3  -4.0   95   992.4   50    9     BASE SAN MARTIN                                     
+23062026     6  -3.6   95   995.6  340    9     BASE SAN MARTIN                                     
+23062026     9  -4.9   74   997.4   50   13     BASE SAN MARTIN                                     
+23062026    12  -4.0   73   999.3   50    9     BASE SAN MARTIN                                     
+23062026    15  -2.7   68   999.9   20   19     BASE SAN MARTIN                                     
+23062026    18  -4.2   73  1000.6   50    9     BASE SAN MARTIN                                     
+23062026    21  -6.4   78  1001.2  320    4     BASE SAN MARTIN                                     
+23062026     9   2.0   78  1014.0  270    4     BENITO JUAREZ AERO                                  
+23062026    15   8.6   70  1013.6  230   24     BENITO JUAREZ AERO                                  
+23062026    21   5.6   97  1015.3  270    4     BENITO JUAREZ AERO                                  
+23062026     9   5.1   93          180    9     BERNARDO DE IRIGOYEN AERO                           
+23062026    12   7.1   92          180   15     BERNARDO DE IRIGOYEN AERO                           
+23062026    15   8.2   87          180    9     BERNARDO DE IRIGOYEN AERO                           
+23062026    18   5.8   91          180    9     BERNARDO DE IRIGOYEN AERO                           
+23062026    21   3.8   94          180    9     BERNARDO DE IRIGOYEN AERO                           
+23062026     9   -.5   90  1018.2  270    4     BOLIVAR AERO                                        
+23062026    10   2.0   78  1018.4  270    9     BOLIVAR AERO                                        
+23062026    11   6.6   65  1018.3  270    9     BOLIVAR AERO                                        
+23062026    12   8.8   54  1017.7  270    9     BOLIVAR AERO                                        
+23062026    13   8.8   57  1017.4  270   15     BOLIVAR AERO                                        
+23062026    14  10.4   49  1016.7  360   15     BOLIVAR AERO                                        
+23062026    15  10.5   53  1016.5  230   15     BOLIVAR AERO                                        
+23062026    16   9.8   63  1017.0  230   15     BOLIVAR AERO                                        
+23062026    17   7.6   64  1017.5  230   19     BOLIVAR AERO                                        
+23062026    18   5.4   78  1018.4  230    9     BOLIVAR AERO                                        
+23062026    19   5.4   88  1019.1  230    9     BOLIVAR AERO                                        
+23062026    20   3.2   90  1019.7  230    4     BOLIVAR AERO                                        
+23062026    21   2.2   97  1020.0    0    0     BOLIVAR AERO                                        
+23062026     0   8.8   71  1017.8  270    4     BUENOS AIRES OBSERVATORIO                           
+23062026     1   8.8   71  1017.5  270    4     BUENOS AIRES OBSERVATORIO                           
+23062026     2   8.2   71  1017.0  270    7     BUENOS AIRES OBSERVATORIO                           
+23062026     3   8.0   70  1016.5  250    7     BUENOS AIRES OBSERVATORIO                           
+23062026     4   6.2   76  1016.6  230    4     BUENOS AIRES OBSERVATORIO                           
+23062026     5   5.4   82  1016.0  230    4     BUENOS AIRES OBSERVATORIO                           
+23062026     6   5.4   78  1016.1    0    0     BUENOS AIRES OBSERVATORIO                           
+23062026     7   5.2   78  1016.5  270    4     BUENOS AIRES OBSERVATORIO                           
+23062026     8   4.9   78  1017.2  270    4     BUENOS AIRES OBSERVATORIO                           
+23062026     9   5.4   74  1017.3  270    6     BUENOS AIRES OBSERVATORIO                           
+23062026    10   8.5   64  1017.7  230    7     BUENOS AIRES OBSERVATORIO                           
+23062026    11  10.3   55  1018.0  230   11     BUENOS AIRES OBSERVATORIO                           
+23062026    12  10.9   53  1018.0  230   13     BUENOS AIRES OBSERVATORIO                           
+23062026    13  12.3   48  1017.1  230   11     BUENOS AIRES OBSERVATORIO                           
+23062026    14  12.9   46  1016.5  230   13     BUENOS AIRES OBSERVATORIO                           
+23062026    15  12.3   45  1016.3  230   11     BUENOS AIRES OBSERVATORIO                           
+23062026    16  12.6   45  1016.1  230   13     BUENOS AIRES OBSERVATORIO                           
+23062026    17  12.0   50  1016.4  230    9     BUENOS AIRES OBSERVATORIO                           
+23062026    18  10.4   57  1016.8  230    7     BUENOS AIRES OBSERVATORIO                           
+23062026    19   9.5   64  1017.3  270    4     BUENOS AIRES OBSERVATORIO                           
+23062026    20   8.7   77  1017.7  260    4     BUENOS AIRES OBSERVATORIO                           
+23062026    21   8.6   75  1018.1  240    7     BUENOS AIRES OBSERVATORIO                           
+23062026    22   8.4   77  1018.4  230    6     BUENOS AIRES OBSERVATORIO                           
+23062026    23   7.4   69  1018.5  250    6     BUENOS AIRES OBSERVATORIO                           
+23062026     9   4.2   79  1017.8  270   15     CAMPO DE MAYO AERO                                  
+23062026    10   5.7   75  1018.1  270   15     CAMPO DE MAYO AERO                                  
+23062026    11   7.9   66  1018.6  270   15     CAMPO DE MAYO AERO                                  
+23062026    12  10.4   57  1018.4  250   20     CAMPO DE MAYO AERO                                  
+23062026    13  11.2   54  1017.5  230   17     CAMPO DE MAYO AERO                                  
+23062026    14  11.9   50  1017.0  230   19     CAMPO DE MAYO AERO                                  
+23062026    15  12.1   53  1016.7  250   19     CAMPO DE MAYO AERO                                  
+23062026    16  12.3   52  1016.6  230   13     CAMPO DE MAYO AERO                                  
+23062026    17  10.6   58  1016.9  250    9     CAMPO DE MAYO AERO                                  
+23062026    18   9.7   63  1017.2  250    7     CAMPO DE MAYO AERO                                  
+23062026    19   8.4   73  1017.7  270    7     CAMPO DE MAYO AERO                                  
+23062026    20   7.4   73  1018.3  290    6     CAMPO DE MAYO AERO                                  
+23062026    21   8.1   66  1018.5  270    7     CAMPO DE MAYO AERO                                  
+23062026     0   2.1   88  1023.5    0    0     CATAMARCA AERO                                      
+23062026     1   2.1   80  1023.5  360    4     CATAMARCA AERO                                      
+23062026     2   2.8   80  1022.9   20    9     CATAMARCA AERO                                      
+23062026     3   4.0   67  1022.3   30   11     CATAMARCA AERO                                      
+23062026     4   4.2   83  1022.3   30    9     CATAMARCA AERO                                      
+23062026     5   3.7   81  1022.5   20   11     CATAMARCA AERO                                      
+23062026     6   3.3   82  1022.5   30   13     CATAMARCA AERO                                      
+23062026     7   3.2   80  1022.9   30   13     CATAMARCA AERO                                      
+23062026     8   1.3   91  1023.7   10    6     CATAMARCA AERO                                      
+23062026     9   4.4   88  1023.4   50   17     CATAMARCA AERO                                      
+23062026    10   7.2   70  1023.0   20   17     CATAMARCA AERO                                      
+23062026    11  11.2   63  1022.7  230    7     CATAMARCA AERO                                      
+23062026    12  14.2   57  1022.2  230    9     CATAMARCA AERO                                      
+23062026    13  16.2   42  1021.8  230   24     CATAMARCA AERO                                      
+23062026    14  17.2   35  1020.0  180   15     CATAMARCA AERO                                      
+23062026    15  18.2   37  1019.1  230   11     CATAMARCA AERO                                      
+23062026    16  18.2   37  1018.9  230   19     CATAMARCA AERO                                      
+23062026    17  17.8   40  1019.3  230   20     CATAMARCA AERO                                      
+23062026    18  17.2   40  1019.7  180   22     CATAMARCA AERO                                      
+23062026    19  13.2   55  1020.7  230   11     CATAMARCA AERO                                      
+23062026    20  10.2   73  1021.9  270    7     CATAMARCA AERO                                      
+23062026    21   8.4   82  1023.3  360    6     CATAMARCA AERO                                      
+23062026    22   4.8   88  1024.1   30    4     CATAMARCA AERO                                      
+23062026    23   5.4   74  1024.3   30    9     CATAMARCA AERO                                      
+23062026     6   4.0   93  1021.9  280    2     CERES AERO                                          
+23062026     7   2.6   97  1022.3    0    0     CERES AERO                                          
+23062026     8   2.2   97  1023.0    0    0     CERES AERO                                          
+23062026     9   2.6   93  1023.3    0    0     CERES AERO                                          
+23062026    10   8.6   87  1024.0  280    7     CERES AERO                                          
+23062026    11  11.8   67  1023.5  270   11     CERES AERO                                          
+23062026    12  14.7   55  1022.8  270   13     CERES AERO                                          
+23062026    13  15.8   38  1022.1  280   15     CERES AERO                                          
+23062026    14  16.4   42  1021.2  270   15     CERES AERO                                          
+23062026    15  16.9   41  1020.6  260   13     CERES AERO                                          
+23062026    16  17.0   40  1020.3  250    7     CERES AERO                                          
+23062026    17  16.8   38  1020.3  270    6     CERES AERO                                          
+23062026    18  15.0   45  1020.4    0    0     CERES AERO                                          
+23062026    19   9.8   65  1021.0  100    4     CERES AERO                                          
+23062026    20   8.0   74  1021.2   70    4     CERES AERO                                          
+23062026    21   7.4   79  1021.7   50    4     CERES AERO                                          
+23062026     9   3.8   72  1022.6    0    0     CHAMICAL AERO                                       
+23062026    10   6.6   61  1022.9    0    0     CHAMICAL AERO                                       
+23062026    11   8.0   53  1023.8    0    0     CHAMICAL AERO                                       
+23062026    12  13.6   26  1023.7    0    0     CHAMICAL AERO                                       
+23062026    13  14.6   26  1022.8    0    0     CHAMICAL AERO                                       
+23062026    14  16.6   23  1023.3    0    0     CHAMICAL AERO                                       
+23062026    15  17.0   25  1021.2    0    0     CHAMICAL AERO                                       
+23062026    16  17.2   27  1019.2    0    0     CHAMICAL AERO                                       
+23062026    17  17.6   30  1018.4    0    0     CHAMICAL AERO                                       
+23062026    18  16.0   26  1018.0    0    0     CHAMICAL AERO                                       
+23062026    19  15.0   27  1019.0    0    0     CHAMICAL AERO                                       
+23062026    20  10.0   48  1020.4    0    0     CHAMICAL AERO                                       
+23062026    21   7.4   60  1022.3    0    0     CHAMICAL AERO                                       
+23062026     6   2.4   67  1024.1  250   28     CHAPELCO AERO                                       
+23062026     7   2.4   67  1025.2  250   35     CHAPELCO AERO                                       
+23062026     8   2.0   70  1026.2  240   24     CHAPELCO AERO                                       
+23062026     9   1.4   76  1026.0  240   26     CHAPELCO AERO                                       
+23062026    10   2.0   74  1026.9  260   17     CHAPELCO AERO                                       
+23062026    11   2.8   74  1026.9  240   20     CHAPELCO AERO                                       
+23062026    12   4.4   64  1027.0  250   17     CHAPELCO AERO                                       
+23062026    13   5.0   66  1025.8  240   19     CHAPELCO AERO                                       
+23062026    14   5.8   59  1024.9  240   20     CHAPELCO AERO                                       
+23062026    15   6.6   52  1023.5  250   24     CHAPELCO AERO                                       
+23062026    16   7.2   48  1022.9  250   30     CHAPELCO AERO                                       
+23062026    17   6.4   51  1023.1  260   31     CHAPELCO AERO                                       
+23062026    18   5.0   57  1023.5  260   22     CHAPELCO AERO                                       
+23062026    19   4.4   62  1023.0  260   26     CHAPELCO AERO                                       
+23062026    20   4.4   62  1023.4  250   22     CHAPELCO AERO                                       
+23062026    21   4.2   67  1023.1  250   26     CHAPELCO AERO                                       
+23062026     9   -.3   80  1023.8  360    4     CHEPES                                              
+23062026    15  16.4   35            0    0     CHEPES                                              
+23062026    21   6.4   62  1023.4    0    0     CHEPES                                              
+23062026     9   2.2   83          320    4     CHILECITO AERO                                      
+23062026    21   7.8   71          210    7     CHILECITO AERO                                      
+23062026     0   9.3   45  1017.1  220   17     COMODORO RIVADAVIA AERO                             
+23062026     1   9.4   44  1017.4  250   20     COMODORO RIVADAVIA AERO                             
+23062026     2   9.1   44  1017.7  250   26     COMODORO RIVADAVIA AERO                             
+23062026     3   9.5   42  1018.2  250   31     COMODORO RIVADAVIA AERO                             
+23062026     4   9.6   40  1018.4  250   24     COMODORO RIVADAVIA AERO                             
+23062026     5   9.3   40  1018.5  230   22     COMODORO RIVADAVIA AERO                             
+23062026     6   8.3   46  1019.4  290   15     COMODORO RIVADAVIA AERO                             
+23062026     7   8.0   52  1019.9  220   13     COMODORO RIVADAVIA AERO                             
+23062026     8   5.5   57  1020.6  250   13     COMODORO RIVADAVIA AERO                             
+23062026     9   5.3   59  1020.9  230   13     COMODORO RIVADAVIA AERO                             
+23062026    10   6.0   58  1020.9  240   15     COMODORO RIVADAVIA AERO                             
+23062026    11   8.9   52  1020.9  200   13     COMODORO RIVADAVIA AERO                             
+23062026    12   9.9   51  1021.1  200   15     COMODORO RIVADAVIA AERO                             
+23062026    13  10.3   50  1020.4  180   11     COMODORO RIVADAVIA AERO                             
+23062026    14  10.0   55  1019.4  140    9     COMODORO RIVADAVIA AERO                             
+23062026    15  10.0   53  1018.6   90    7     COMODORO RIVADAVIA AERO                             
+23062026    16   9.6   57  1017.5   90    6     COMODORO RIVADAVIA AERO                             
+23062026    17   9.0   54  1017.0   50    7     COMODORO RIVADAVIA AERO                             
+23062026    18   5.6   77  1016.5   30    7     COMODORO RIVADAVIA AERO                             
+23062026    19   4.7   63  1015.7  990    4     COMODORO RIVADAVIA AERO                             
+23062026    20   5.7   57  1014.8  340    9     COMODORO RIVADAVIA AERO                             
+23062026    21   3.9   82  1013.6  340    6     COMODORO RIVADAVIA AERO                             
+23062026    22   3.7   80  1012.3  290    6     COMODORO RIVADAVIA AERO                             
+23062026    23   3.8   77  1011.0  290    9     COMODORO RIVADAVIA AERO                             
+23062026     6   1.8   97  1020.3    0    0     CONCORDIA AERO                                      
+23062026     7   1.5   98  1020.5    0    0     CONCORDIA AERO                                      
+23062026     8   1.2   97  1020.9    0    0     CONCORDIA AERO                                      
+23062026     9   3.4   86  1021.2    0    0     CONCORDIA AERO                                      
+23062026    10   7.0   74  1021.5  320    7     CONCORDIA AERO                                      
+23062026    11   9.8   63  1021.6  320    9     CONCORDIA AERO                                      
+23062026    12  11.8   56  1021.2  290    7     CONCORDIA AERO                                      
+23062026    13  12.8   51  1020.2  290   13     CONCORDIA AERO                                      
+23062026    14  12.7   46  1019.7  270   15     CONCORDIA AERO                                      
+23062026    15  13.9   39  1018.9  290   15     CONCORDIA AERO                                      
+23062026    16  13.7   42  1018.8  290   11     CONCORDIA AERO                                      
+23062026    17  12.8   53  1018.8  290    6     CONCORDIA AERO                                      
+23062026    18  10.5   69  1019.2    0    0     CONCORDIA AERO                                      
+23062026    19   8.4   76  1019.9  290    4     CONCORDIA AERO                                      
+23062026    20   7.5   83  1020.5    0    0     CONCORDIA AERO                                      
+23062026    21   6.7   85  1020.7    0    0     CONCORDIA AERO                                      
+23062026    22   2.7   95  1020.0    0    0     CONCORDIA AERO                                      
+23062026     0   1.8   77  1024.5  320    9     CORDOBA AERO                                        
+23062026     1   1.1   84  1024.3  320   13     CORDOBA AERO                                        
+23062026     2    .4   83  1023.9  320   11     CORDOBA AERO                                        
+23062026     3    .5   81  1023.5  320   11     CORDOBA AERO                                        
+23062026     4    .3   81  1023.0  340    9     CORDOBA AERO                                        
+23062026     5  -1.5   92  1022.8  320    9     CORDOBA AERO                                        
+23062026     6   -.9   84  1022.7  310    9     CORDOBA AERO                                        
+23062026     7    .1   81  1022.8  330   15     CORDOBA AERO                                        
+23062026     8   -.5   85  1023.5  320   11     CORDOBA AERO                                        
+23062026     9    .5   78  1024.3  320    6     CORDOBA AERO                                        
+23062026    10   6.4   69  1023.5    0    0     CORDOBA AERO                                        
+23062026    11   9.7   67  1023.7  990    4     CORDOBA AERO                                        
+23062026    12  13.7   36  1022.8  100    9     CORDOBA AERO                                        
+23062026    13  14.1   38  1022.5   90    7     CORDOBA AERO                                        
+23062026    14  14.9   30  1021.1   50   11     CORDOBA AERO                                        
+23062026    15  16.0   34  1020.3  110    6     CORDOBA AERO                                        
+23062026    16  15.9   27  1019.7  110    4     CORDOBA AERO                                        
+23062026    17  15.5   29  1019.8   90   13     CORDOBA AERO                                        
+23062026    18  13.3   49  1020.7  140    6     CORDOBA AERO                                        
+23062026    19   4.8   79  1022.4   60    2     CORDOBA AERO                                        
+23062026    20   4.9   70  1023.8  270    9     CORDOBA AERO                                        
+23062026    21   2.8   83  1025.1    0    0     CORDOBA AERO                                        
+23062026    22   1.9   81  1025.4  140    6     CORDOBA AERO                                        
+23062026    23   2.2   69  1025.1  290    9     CORDOBA AERO                                        
+23062026     6   1.5   89  1021.9  310    4     CORDOBA OBSERVATORIO                                
+23062026     7   1.2   89  1022.1  310    4     CORDOBA OBSERVATORIO                                
+23062026     8   1.3   85  1022.9  270    6     CORDOBA OBSERVATORIO                                
+23062026     9   2.2   81  1023.4  360    2     CORDOBA OBSERVATORIO                                
+23062026    10   5.1   69          320    4     CORDOBA OBSERVATORIO                                
+23062026    11   6.9   65          300    2     CORDOBA OBSERVATORIO                                
+23062026    12  12.6   41  1023.0   90    4     CORDOBA OBSERVATORIO                                
+23062026    13  14.3   44  1021.5   90    4     CORDOBA OBSERVATORIO                                
+23062026    14  16.2   33  1019.8   30    6     CORDOBA OBSERVATORIO                                
+23062026    15  16.2   33  1018.9  140    6     CORDOBA OBSERVATORIO                                
+23062026    16  16.8   32           60    7     CORDOBA OBSERVATORIO                                
+23062026    17  16.6   32  1019.3   90    7     CORDOBA OBSERVATORIO                                
+23062026    18  13.4   51  1020.2   90    4     CORDOBA OBSERVATORIO                                
+23062026    19  10.8   57  1021.2  120    4     CORDOBA OBSERVATORIO                                
+23062026    20   9.6   62  1022.6  220    4     CORDOBA OBSERVATORIO                                
+23062026    21   8.6   68  1023.7  160    7     CORDOBA OBSERVATORIO                                
+23062026     6   2.0   80  1015.8  250    9     CORONEL SUAREZ AERO                                 
+23062026     7   3.1   76  1016.0  250   15     CORONEL SUAREZ AERO                                 
+23062026     8   2.1   80  1016.2  270    6     CORONEL SUAREZ AERO                                 
+23062026     9   2.8   73  1016.5  250   15     CORONEL SUAREZ AERO                                 
+23062026    10   4.9   65  1016.6   20    6     CORONEL SUAREZ AERO                                 
+23062026    11   5.2   68  1016.9  270    9     CORONEL SUAREZ AERO                                 
+23062026    12   6.2   61  1017.1  230    7     CORONEL SUAREZ AERO                                 
+23062026    15   6.4   70  1017.2  230   15     CORONEL SUAREZ AERO                                 
+23062026    21   4.2   84  1019.3  320    4     CORONEL SUAREZ AERO                                 
+23062026     0   7.7   90  1022.9  250    4     CORRIENTES AERO                                     
+23062026     1   7.4   92  1023.3  270    4     CORRIENTES AERO                                     
+23062026     2   6.5   95  1023.0  190    4     CORRIENTES AERO                                     
+23062026     3   6.0   94  1023.0  180    4     CORRIENTES AERO                                     
+23062026     4   5.8   94  1021.8  210    4     CORRIENTES AERO                                     
+23062026     5   5.4   97  1021.6  200    6     CORRIENTES AERO                                     
+23062026     6   5.1   95  1021.2  190    6     CORRIENTES AERO                                     
+23062026     7   5.5   97  1022.5  190    4     CORRIENTES AERO                                     
+23062026     8   4.2   97  1023.4  360    2     CORRIENTES AERO                                     
+23062026     9   7.6   92  1023.4    0    0     CORRIENTES AERO                                     
+23062026    10  11.2   82  1023.7  320    6     CORRIENTES AERO                                     
+23062026    11  13.2   67  1023.8  320    6     CORRIENTES AERO                                     
+23062026    12  14.5   56  1023.5  320    9     CORRIENTES AERO                                     
+23062026    13  15.4   59  1022.9  260   11     CORRIENTES AERO                                     
+23062026    14  15.6   45  1021.9  270   19     CORRIENTES AERO                                     
+23062026    15  16.0   41  1021.1  270   17     CORRIENTES AERO                                     
+23062026    16  16.0   38  1020.8  240   19     CORRIENTES AERO                                     
+23062026    17  15.6   38  1020.8  230   15     CORRIENTES AERO                                     
+23062026    18  13.5   48  1021.0  230   11     CORRIENTES AERO                                     
+23062026    19  11.7   57  1021.2  230    6     CORRIENTES AERO                                     
+23062026    20   9.8   72  1021.7  200    4     CORRIENTES AERO                                     
+23062026    21   8.4   81  1022.0    0    0     CORRIENTES AERO                                     
+23062026    22   8.0   81  1022.7  360    4     CORRIENTES AERO                                     
+23062026    23   6.8   85  1023.0   20    2     CORRIENTES AERO                                     
+23062026     9   3.2   91  1014.4  270   17     DOLORES AERO                                        
+23062026    10   4.8   89  1014.5  270   17     DOLORES AERO                                        
+23062026    11   6.6   84  1015.1  270   20     DOLORES AERO                                        
+23062026    12   8.6   80  1014.9  270   22     DOLORES AERO                                        
+23062026    13   8.8   77  1014.5  270   26     DOLORES AERO                                        
+23062026    14  10.2   71  1014.0  270   26     DOLORES AERO                                        
+23062026    15   9.8   66  1013.9  270   19     DOLORES AERO                                        
+23062026    16  10.2   64  1014.0  270   20     DOLORES AERO                                        
+23062026    17   9.4   73  1014.1  270   11     DOLORES AERO                                        
+23062026    18   8.4   77  1014.5  270   11     DOLORES AERO                                        
+23062026    19   7.2   79  1015.2  270   15     DOLORES AERO                                        
+23062026    20   6.8   79  1015.9  270   15     DOLORES AERO                                        
+23062026    21   6.6   84  1016.2  270   11     DOLORES AERO                                        
+23062026     9  -2.9   96  1030.1    0    0     EL BOLSON AERO                                      
+23062026    12   3.1   82  1029.2    0    0     EL BOLSON AERO                                      
+23062026    15   6.5   67  1026.5    0    0     EL BOLSON AERO                                      
+23062026    18   6.3   69  1025.8    0    0     EL BOLSON AERO                                      
+23062026    21   2.9   88  1023.4    0    0     EL BOLSON AERO                                      
+23062026     0   2.8   66  1018.6  230   22     EL CALAFATE AERO                                    
+23062026     1   6.2   54  1019.3  290   15     EL CALAFATE AERO                                    
+23062026     2   3.6   67  1019.0  250   11     EL CALAFATE AERO                                    
+23062026     3   3.6   61  1019.5  250   17     EL CALAFATE AERO                                    
+23062026     4   1.0   67  1019.4   50    9     EL CALAFATE AERO                                    
+23062026     5   5.6   58  1019.5  270   15     EL CALAFATE AERO                                    
+23062026     6    .8   74  1019.8  110   15     EL CALAFATE AERO                                    
+23062026     7    .8   74  1019.9  110   15     EL CALAFATE AERO                                    
+23062026     8    .8   74  1019.8  140   13     EL CALAFATE AERO                                    
+23062026     9    .4   73  1019.3  110   15     EL CALAFATE AERO                                    
+23062026    10    .6   70  1019.3  110   13     EL CALAFATE AERO                                    
+23062026    11   1.2   74  1018.8  110   11     EL CALAFATE AERO                                    
+23062026    12   2.6   76  1018.8  140    7     EL CALAFATE AERO                                    
+23062026    13   4.4   68  1017.7  110    7     EL CALAFATE AERO                                    
+23062026    14   5.4   67  1016.1  110    6     EL CALAFATE AERO                                    
+23062026    15   5.6   64  1014.6  110    4     EL CALAFATE AERO                                    
+23062026    16   5.0   66  1013.5   50    7     EL CALAFATE AERO                                    
+23062026    17   4.4   68  1012.6    0    0     EL CALAFATE AERO                                    
+23062026    18   3.4   67  1012.2    0    0     EL CALAFATE AERO                                    
+23062026    19   2.0   68  1011.5  110    9     EL CALAFATE AERO                                    
+23062026    20   2.4   69  1010.7  140    9     EL CALAFATE AERO                                    
+23062026    21   1.4   74  1010.3  110   11     EL CALAFATE AERO                                    
+23062026    22   3.0   70  1010.2   90    7     EL CALAFATE AERO                                    
+23062026    23   3.0   76  1009.9  990    4     EL CALAFATE AERO                                    
+23062026     0   7.4   71  1017.8  260    9     EL PALOMAR AERO                                     
+23062026     1   7.4   69  1017.6  270   11     EL PALOMAR AERO                                     
+23062026     2   6.6   81  1017.0  270   11     EL PALOMAR AERO                                     
+23062026     3   5.2   78  1016.6  270   11     EL PALOMAR AERO                                     
+23062026     4   4.4   84  1016.7  270    9     EL PALOMAR AERO                                     
+23062026     5   4.6   81  1016.0  270    7     EL PALOMAR AERO                                     
+23062026     6   4.2   84  1016.3  270   11     EL PALOMAR AERO                                     
+23062026     7   3.6   83  1016.6  290    9     EL PALOMAR AERO                                     
+23062026     8   3.4   85  1017.2  280    9     EL PALOMAR AERO                                     
+23062026     9   4.2   74  1017.4  290    7     EL PALOMAR AERO                                     
+23062026    10   6.4   68  1017.6  280   11     EL PALOMAR AERO                                     
+23062026    11   8.1   59  1018.0  240   19     EL PALOMAR AERO                                     
+23062026    12   9.8   55  1018.1  240   19     EL PALOMAR AERO                                     
+23062026    13  11.0   47  1017.1  250   22     EL PALOMAR AERO                                     
+23062026    14  10.9   47  1016.5  240   22     EL PALOMAR AERO                                     
+23062026    15  12.0   41  1016.2  240   19     EL PALOMAR AERO                                     
+23062026    16  11.6   43  1016.1  240   19     EL PALOMAR AERO                                     
+23062026    17  11.6   44  1016.4  260   19     EL PALOMAR AERO                                     
+23062026    18   9.3   56  1016.7  260    7     EL PALOMAR AERO                                     
+23062026    19   6.2   76  1017.1  270    6     EL PALOMAR AERO                                     
+23062026    20   3.6   82  1017.8  280    4     EL PALOMAR AERO                                     
+23062026    21   5.6   82  1018.1  270    6     EL PALOMAR AERO                                     
+23062026    22   6.2   71  1018.5  250    9     EL PALOMAR AERO                                     
+23062026    23   5.2   76  1018.6  260    9     EL PALOMAR AERO                                     
+23062026     0   1.0   85  1025.1  270    4     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+23062026     8   -.2   81  1024.1  270    6     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+23062026     9   -.4   85  1024.9  230    4     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+23062026    10   4.4   78  1024.3  300    2     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+23062026    11   8.3   66  1024.3  340    4     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+23062026    12  12.9   45  1023.7   40    7     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+23062026    13  14.2   34  1023.0   30    9     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+23062026    14  14.7   31  1021.4  360   11     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+23062026    15  15.8   24  1020.2   20    9     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+23062026    16  16.0   32  1019.7   50   11     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+23062026    17  15.8   27  1020.6   50    7     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+23062026    18  14.0   29  1021.2   50    7     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+23062026    19   9.4   64  1022.6  200    4     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+23062026    20   6.3   69  1024.3  250   13     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+23062026    21   4.6   69  1025.5  160    4     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+23062026    22   3.6   71  1025.8  200   11     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+23062026    23   2.0   74  1025.8  300    9     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+23062026     6   1.5   69  1025.5  230   13     ESQUEL AERO                                         
+23062026     7   1.7   68  1026.1  220   15     ESQUEL AERO                                         
+23062026     8   1.4   71  1026.6  220   17     ESQUEL AERO                                         
+23062026     9   1.6   65  1026.4  230   15     ESQUEL AERO                                         
+23062026    10   1.3   62  1026.6  240   13     ESQUEL AERO                                         
+23062026    11   2.2   58  1026.8  220   17     ESQUEL AERO                                         
+23062026    12   4.6   51  1026.4  250   11     ESQUEL AERO                                         
+23062026    13   4.9   50  1024.8  250   13     ESQUEL AERO                                         
+23062026    14   5.2   53  1023.7  240   11     ESQUEL AERO                                         
+23062026    15   5.4   55  1022.7  250    9     ESQUEL AERO                                         
+23062026    16   6.2   51  1022.5  250   13     ESQUEL AERO                                         
+23062026    17   5.6   54  1021.9  230   15     ESQUEL AERO                                         
+23062026    18   5.4   52  1021.5  250   11     ESQUEL AERO                                         
+23062026    19   4.6   56  1021.0  230    7     ESQUEL AERO                                         
+23062026    20   4.4   57  1020.2  990    4     ESQUEL AERO                                         
+23062026    21   3.9   59  1019.3  990    4     ESQUEL AERO                                         
+23062026     0   7.0   77  1017.7  290   13     EZEIZA AERO                                         
+23062026     1   6.4   80  1017.2  270   13     EZEIZA AERO                                         
+23062026     2   4.8   88  1016.8  270   11     EZEIZA AERO                                         
+23062026     3   3.8   90  1016.5  270   13     EZEIZA AERO                                         
+23062026     4   3.0   90  1016.5  290   13     EZEIZA AERO                                         
+23062026     5   2.0   93  1016.0  290   11     EZEIZA AERO                                         
+23062026     6   2.0   95  1015.9  290   13     EZEIZA AERO                                         
+23062026     7   1.6   93  1016.4  270   13     EZEIZA AERO                                         
+23062026     8   1.6   93  1017.1  290   13     EZEIZA AERO                                         
+23062026     9   2.3   91  1017.3  280   11     EZEIZA AERO                                         
+23062026    10   5.1   80  1017.6  270   13     EZEIZA AERO                                         
+23062026    11   7.1   72  1017.9  270   19     EZEIZA AERO                                         
+23062026    12   8.9   64  1017.9  270   20     EZEIZA AERO                                         
+23062026    13  10.2   58  1016.8  250   19     EZEIZA AERO                                         
+23062026    14  11.3   57  1016.3  250   19     EZEIZA AERO                                         
+23062026    15  11.6   49  1016.1  250   19     EZEIZA AERO                                         
+23062026    16  11.4   50  1015.9  270   20     EZEIZA AERO                                         
+23062026    17  10.1   57  1016.3  270   15     EZEIZA AERO                                         
+23062026    18   9.2   59  1016.6  300    7     EZEIZA AERO                                         
+23062026    19   8.1   59  1017.0  290    7     EZEIZA AERO                                         
+23062026    20   5.8   73  1017.8  280   11     EZEIZA AERO                                         
+23062026    21   5.9   76  1018.1  270   11     EZEIZA AERO                                         
+23062026    22   5.8   77  1018.5  250    9     EZEIZA AERO                                         
+23062026    23   4.8   79  1018.6  290   11     EZEIZA AERO                                         
+23062026     0  10.0   85  1023.0  250    7     FORMOSA AERO                                        
+23062026     1  10.0   86  1022.5  230   13     FORMOSA AERO                                        
+23062026     2   8.3   90  1021.9  180   15     FORMOSA AERO                                        
+23062026     3   8.1   90  1021.6  180    9     FORMOSA AERO                                        
+23062026     4   7.9   90  1021.5  160    4     FORMOSA AERO                                        
+23062026     5   7.3   96  1021.7  180    4     FORMOSA AERO                                        
+23062026     6   6.2   94  1022.4  290    4     FORMOSA AERO                                        
+23062026     7   5.9   97  1023.0  290    4     FORMOSA AERO                                        
+23062026     8   5.2   97  1023.5  250    6     FORMOSA AERO                                        
+23062026     9   7.2   92  1024.0  250    6     FORMOSA AERO                                        
+23062026    10  10.8   82  1024.3  180    4     FORMOSA AERO                                        
+23062026    11  13.0   65  1023.9  160    9     FORMOSA AERO                                        
+23062026    12  14.4   48  1023.6  160   13     FORMOSA AERO                                        
+23062026    13  15.4   42  1022.8  200    7     FORMOSA AERO                                        
+23062026    14  16.1   40  1021.7  200   13     FORMOSA AERO                                        
+23062026    15  16.2   41  1021.0  180    7     FORMOSA AERO                                        
+23062026    16  16.2   39  1020.8  200   22     FORMOSA AERO                                        
+23062026    17  15.7   44  1020.5  230   15     FORMOSA AERO                                        
+23062026    18  14.8   54  1020.7  200    6     FORMOSA AERO                                        
+23062026    19  11.8   76  1021.4    0    0     FORMOSA AERO                                        
+23062026    20  10.2   85  1022.2    0    0     FORMOSA AERO                                        
+23062026    21   8.5   90  1022.4    0    0     FORMOSA AERO                                        
+23062026    22   7.9   90  1022.7    0    0     FORMOSA AERO                                        
+23062026    23   7.4   92  1023.3    0    0     FORMOSA AERO                                        
+23062026     6   -.2   85  1019.2  290    9     GENERAL PICO AERO                                   
+23062026     7   -.3   84  1019.1  290   15     GENERAL PICO AERO                                   
+23062026     8   -.3   84  1019.6  290   15     GENERAL PICO AERO                                   
+23062026     9    .2   78  1020.0  270   15     GENERAL PICO AERO                                   
+23062026    10   2.7   71  1020.2  250   15     GENERAL PICO AERO                                   
+23062026    11   5.6   61  1019.9  250   15     GENERAL PICO AERO                                   
+23062026    12   6.9   55  1020.4  230   24     GENERAL PICO AERO                                   
+23062026    13   9.4   47  1020.0  230   24     GENERAL PICO AERO                                   
+23062026    14  10.9   40  1019.7  200   24     GENERAL PICO AERO                                   
+23062026    15  12.0   38  1019.4  230   24     GENERAL PICO AERO                                   
+23062026    16  12.5   34  1019.3  200   24     GENERAL PICO AERO                                   
+23062026    17  12.1   35  1019.8  230   33     GENERAL PICO AERO                                   
+23062026    18  10.4   43  1020.4  230   15     GENERAL PICO AERO                                   
+23062026    19   6.3   61  1021.1  250    9     GENERAL PICO AERO                                   
+23062026    20   5.3   59  1021.8  250    9     GENERAL PICO AERO                                   
+23062026    21   4.4   62  1022.2  250    9     GENERAL PICO AERO                                   
+23062026     9  -2.0   78  1020.0    0    0     GOBERNADOR GREGORES AERO                            
+23062026    15   6.0   48            0    0     GOBERNADOR GREGORES AERO                            
+23062026    21   3.0   83  1010.2  270    9     GOBERNADOR GREGORES AERO                            
+23062026     6   1.0   81  1017.9  270    4     GUALEGUAYCHU AERO                                   
+23062026     7    .0  100  1018.4  270    4     GUALEGUAYCHU AERO                                   
+23062026     8   -.2   98  1019.1  270    4     GUALEGUAYCHU AERO                                   
+23062026     9   1.6   93  1019.5  270    4     GUALEGUAYCHU AERO                                   
+23062026    10   5.8   82  1019.4  270    4     GUALEGUAYCHU AERO                                   
+23062026    11   8.8   74  1019.4  270    4     GUALEGUAYCHU AERO                                   
+23062026    12  10.4   68  1019.5  270    4     GUALEGUAYCHU AERO                                   
+23062026    13  12.4   57  1018.8  270   11     GUALEGUAYCHU AERO                                   
+23062026    14  12.8   53  1017.9  290   15     GUALEGUAYCHU AERO                                   
+23062026    15  12.9   53  1017.3  290   17     GUALEGUAYCHU AERO                                   
+23062026    16  13.5   51  1017.0  270   15     GUALEGUAYCHU AERO                                   
+23062026    17  12.0   59  1017.4  250   11     GUALEGUAYCHU AERO                                   
+23062026    18   9.4   69  1017.6  250    6     GUALEGUAYCHU AERO                                   
+23062026    19   8.2   73  1018.2  230    4     GUALEGUAYCHU AERO                                   
+23062026    20   7.7   77  1018.5  230    4     GUALEGUAYCHU AERO                                   
+23062026    21   7.6   78  1018.9    0    0     GUALEGUAYCHU AERO                                   
+23062026     0   8.7   92  1020.1  320    9     IGUAZU AERO                                         
+23062026     1   8.5   92  1019.6  270    6     IGUAZU AERO                                         
+23062026     2   8.1   93  1020.0  290    6     IGUAZU AERO                                         
+23062026     3   7.3   94  1019.8    0    0     IGUAZU AERO                                         
+23062026     4   6.7   94  1020.4    0    0     IGUAZU AERO                                         
+23062026     5   5.9   95  1020.5  290    4     IGUAZU AERO                                         
+23062026     6   6.0  100  1019.9  250    6     IGUAZU AERO                                         
+23062026     7   5.7   97  1020.9  320    4     IGUAZU AERO                                         
+23062026     8   5.0   99  1021.8  270    2     IGUAZU AERO                                         
+23062026     9   7.2   97  1022.6  250    4     IGUAZU AERO                                         
+23062026    10   8.0   93  1023.1  230    7     IGUAZU AERO                                         
+23062026    11   9.0   90  1023.2  250    9     IGUAZU AERO                                         
+23062026    12  10.2   78  1022.8  200   13     IGUAZU AERO                                         
+23062026    13  11.6   68  1021.5  200    9     IGUAZU AERO                                         
+23062026    14  12.5   61  1020.2  200   15     IGUAZU AERO                                         
+23062026    15  12.0   61  1020.2  250   19     IGUAZU AERO                                         
+23062026    16  12.5   61  1020.1  200    7     IGUAZU AERO                                         
+23062026    17  12.0   60  1020.0  250    7     IGUAZU AERO                                         
+23062026    18  10.4   75  1020.7  250    4     IGUAZU AERO                                         
+23062026    19   8.5   85  1021.5    0    0     IGUAZU AERO                                         
+23062026    20   7.5   86  1022.1    0    0     IGUAZU AERO                                         
+23062026    21   6.5   87  1021.9    0    0     IGUAZU AERO                                         
+23062026    22   6.1   88  1022.8  230    4     IGUAZU AERO                                         
+23062026    23   6.7   90  1023.1  230    4     IGUAZU AERO                                         
+23062026     9   6.8   92  1022.6  180    9     ITUZAINGO                                           
+23062026    12  14.4   54  1021.5  140   15     ITUZAINGO                                           
+23062026    15  15.0   51  1020.6  180    9     ITUZAINGO                                           
+23062026    18  11.0   74  1020.2  230    6     ITUZAINGO                                           
+23062026    21   7.2   94  1021.4    0    0     ITUZAINGO                                           
+23062026     9  -3.1   82          270    4     JACHAL                                              
+23062026    12   9.1   39          180   15     JACHAL                                              
+23062026    15  11.8   33          160   15     JACHAL                                              
+23062026    18  12.1   35          140    9     JACHAL                                              
+23062026    21   3.1   55            0    0     JACHAL                                              
+23062026     0   6.9   96          230    2     JUJUY AERO                                          
+23062026     1   6.8   92          230    6     JUJUY AERO                                          
+23062026     2   6.6   92          270    4     JUJUY AERO                                          
+23062026     3   6.4   96          360    6     JUJUY AERO                                          
+23062026     4   6.2   97          320    7     JUJUY AERO                                          
+23062026     5   6.0   94          320    7     JUJUY AERO                                          
+23062026     6   5.9   99          360    2     JUJUY AERO                                          
+23062026     7   6.2   99            0    0     JUJUY AERO                                          
+23062026     8   6.1   99          310    4     JUJUY AERO                                          
+23062026     9   6.9   96          320    6     JUJUY AERO                                          
+23062026    10   7.8   91          100    4     JUJUY AERO                                          
+23062026    11   8.4   84          990    6     JUJUY AERO                                          
+23062026    12   9.9   81          990    4     JUJUY AERO                                          
+23062026    13  10.2   78          990    4     JUJUY AERO                                          
+23062026    14  11.4   67          990    7     JUJUY AERO                                          
+23062026    15  12.3   65           70    9     JUJUY AERO                                          
+23062026    16  12.5   65           70    9     JUJUY AERO                                          
+23062026    17  11.2   74           70    6     JUJUY AERO                                          
+23062026    18  10.5   79          100    6     JUJUY AERO                                          
+23062026    19   9.7   83          990    2     JUJUY AERO                                          
+23062026    20   9.4   82          990    4     JUJUY AERO                                          
+23062026    21   6.7   93          990    4     JUJUY AERO                                          
+23062026    22   5.8   97          340    9     JUJUY AERO                                          
+23062026    23   5.7   99           20    6     JUJUY AERO                                          
+23062026     6   5.0   96            0    0     JUJUY U N                                           
+23062026     7   5.0   96            0    0     JUJUY U N                                           
+23062026     8   5.0   94          270    4     JUJUY U N                                           
+23062026     9   5.4   93          270    4     JUJUY U N                                           
+23062026    10   5.9   91          320    4     JUJUY U N                                           
+23062026    11   7.0   85          140    4     JUJUY U N                                           
+23062026    12   7.8   83          140    4     JUJUY U N                                           
+23062026    13   9.6   76          140    4     JUJUY U N                                           
+23062026    14   9.0   76          140    4     JUJUY U N                                           
+23062026    15   9.1   77          320    4     JUJUY U N                                           
+23062026    16  10.1   71          320    4     JUJUY U N                                           
+23062026    17   9.6   69          140    4     JUJUY U N                                           
+23062026    18   8.8   76          140    9     JUJUY U N                                           
+23062026    19   8.3   81          270    4     JUJUY U N                                           
+23062026    20   7.9   83           90    4     JUJUY U N                                           
+23062026    21   7.8   86           90    4     JUJUY U N                                           
+23062026    22   7.5   87          270    4     JUJUY U N                                           
+23062026     0   1.8   89  1020.3  270    7     JUNIN AERO                                          
+23062026     1   2.3   89  1019.7  270    9     JUNIN AERO                                          
+23062026     2   2.1   84  1019.5  270    9     JUNIN AERO                                          
+23062026     3   1.4   87  1019.2  270    9     JUNIN AERO                                          
+23062026     4    .7   90  1018.9  270   11     JUNIN AERO                                          
+23062026     5    .1   90  1018.3  270   11     JUNIN AERO                                          
+23062026     6    .2   89  1018.5  230    7     JUNIN AERO                                          
+23062026     7    .5   87  1019.2  270   11     JUNIN AERO                                          
+23062026     8   -.9   90  1018.8  270    6     JUNIN AERO                                          
+23062026     9    .3   82  1019.4  270    7     JUNIN AERO                                          
+23062026    10   2.9   80  1019.5  270   11     JUNIN AERO                                          
+23062026    11   5.8   72  1019.8  270   15     JUNIN AERO                                          
+23062026    12   8.2   63  1019.3  270   13     JUNIN AERO                                          
+23062026    13  10.3   52  1018.5  270   11     JUNIN AERO                                          
+23062026    14  12.0   47  1017.7  250   15     JUNIN AERO                                          
+23062026    15  12.6   44  1017.7  250   13     JUNIN AERO                                          
+23062026    16  11.0   46  1017.7  250   17     JUNIN AERO                                          
+23062026    17  10.5   48  1018.4  230   15     JUNIN AERO                                          
+23062026    18   9.6   57  1018.7  230   11     JUNIN AERO                                          
+23062026    19   8.5   63  1019.7  230   11     JUNIN AERO                                          
+23062026    20   7.8   69  1020.2  230    9     JUNIN AERO                                          
+23062026    21   6.6   74  1020.6  270    7     JUNIN AERO                                          
+23062026    22   7.0   72  1020.7  230    7     JUNIN AERO                                          
+23062026    23   6.8   71  1020.6  270    9     JUNIN AERO                                          
+23062026     0   7.5   71  1017.4  270   11     LA PLATA AERO                                       
+23062026     1   7.4   72  1016.8  270    4     LA PLATA AERO                                       
+23062026     2   6.2   79  1016.3  270    9     LA PLATA AERO                                       
+23062026     3   5.6   80  1016.0  270   11     LA PLATA AERO                                       
+23062026     4   4.7   84  1015.9  270    9     LA PLATA AERO                                       
+23062026     5   4.5   86  1015.6  270   11     LA PLATA AERO                                       
+23062026     6   4.8   86  1015.3  290   11     LA PLATA AERO                                       
+23062026     7   5.1   81  1016.1  270   13     LA PLATA AERO                                       
+23062026     8   4.8   84  1016.8  270   15     LA PLATA AERO                                       
+23062026     9   5.0   80  1017.3  270   13     LA PLATA AERO                                       
+23062026    10   5.6   80  1017.4  270    9     LA PLATA AERO                                       
+23062026    11   7.7   70  1017.7  270   13     LA PLATA AERO                                       
+23062026    12   9.2   69  1017.5  270   15     LA PLATA AERO                                       
+23062026    13  10.9   61  1017.2  270   17     LA PLATA AERO                                       
+23062026    14  11.2   57  1016.3  270   22     LA PLATA AERO                                       
+23062026    15  10.9   53  1016.1  230   17     LA PLATA AERO                                       
+23062026    16  11.7   49  1016.1  230   19     LA PLATA AERO                                       
+23062026    17  10.5   54  1016.6  230    7     LA PLATA AERO                                       
+23062026    18   9.9   58  1016.8  270    4     LA PLATA AERO                                       
+23062026    19   6.1   75  1017.4    0    0     LA PLATA AERO                                       
+23062026    20   5.5   82  1017.7  320    6     LA PLATA AERO                                       
+23062026    21   6.5   71  1018.2  270    7     LA PLATA AERO                                       
+23062026    22   5.2   80  1018.4  270    7     LA PLATA AERO                                       
+23062026    23   4.8   78  1018.6  270    7     LA PLATA AERO                                       
+23062026     6  -1.5   44            0    0     LA QUIACA OBSERVATORIO                              
+23062026     7   1.1   51          320    4     LA QUIACA OBSERVATORIO                              
+23062026     8   2.0   50          270    4     LA QUIACA OBSERVATORIO                              
+23062026     9   2.4   54          320    4     LA QUIACA OBSERVATORIO                              
+23062026    10   7.1   47          320    4     LA QUIACA OBSERVATORIO                              
+23062026    11   9.5   43          320   15     LA QUIACA OBSERVATORIO                              
+23062026    12  10.9   41          290   24     LA QUIACA OBSERVATORIO                              
+23062026    13  12.3   36          320   24     LA QUIACA OBSERVATORIO                              
+23062026    14  13.4   35          320   24     LA QUIACA OBSERVATORIO                              
+23062026    15  14.4   31          320   15     LA QUIACA OBSERVATORIO                              
+23062026    16  14.0   27          320   24     LA QUIACA OBSERVATORIO                              
+23062026    17  11.6   23          230   24     LA QUIACA OBSERVATORIO                              
+23062026    18   9.9   23          230   15     LA QUIACA OBSERVATORIO                              
+23062026    19   7.4   29          230    9     LA QUIACA OBSERVATORIO                              
+23062026    20   4.5   31          230    9     LA QUIACA OBSERVATORIO                              
+23062026    21   2.5   34          230    9     LA QUIACA OBSERVATORIO                              
+23062026     0   6.6   71  1024.2  270    7     LA RIOJA AERO                                       
+23062026     1   6.2   74  1023.8  270    7     LA RIOJA AERO                                       
+23062026     2   6.1   76  1023.5    0    0     LA RIOJA AERO                                       
+23062026     3   5.9   77  1023.1    0    0     LA RIOJA AERO                                       
+23062026     4   5.8   78  1023.2  270    7     LA RIOJA AERO                                       
+23062026     5   5.7   80  1023.1    0    0     LA RIOJA AERO                                       
+23062026     6   5.6   81  1022.7    0    0     LA RIOJA AERO                                       
+23062026     7   1.5   86  1023.1  270    6     LA RIOJA AERO                                       
+23062026     8    .6   84  1023.6  270    9     LA RIOJA AERO                                       
+23062026     9   1.5   79  1024.2  270    7     LA RIOJA AERO                                       
+23062026    10   5.4   66  1024.1    0    0     LA RIOJA AERO                                       
+23062026    11  11.0   47  1023.7  180    4     LA RIOJA AERO                                       
+23062026    12  12.4   40  1024.2  140    7     LA RIOJA AERO                                       
+23062026    13  13.5   39  1022.4  180    6     LA RIOJA AERO                                       
+23062026    14  15.4   34  1021.3  230    4     LA RIOJA AERO                                       
+23062026    15  16.1   35  1020.6  180    7     LA RIOJA AERO                                       
+23062026    16  17.1   24  1020.2  180    7     LA RIOJA AERO                                       
+23062026    17  17.1   30  1020.4  180    7     LA RIOJA AERO                                       
+23062026    18  16.8   36  1020.8    0    0     LA RIOJA AERO                                       
+23062026    19  12.8   59  1022.0  290   11     LA RIOJA AERO                                       
+23062026    20   9.0   60  1023.3  270    7     LA RIOJA AERO                                       
+23062026    21   8.2   59  1024.2  270    7     LA RIOJA AERO                                       
+23062026    22   7.4   65  1024.7  270    6     LA RIOJA AERO                                       
+23062026    23   5.2   82  1024.8  250    7     LA RIOJA AERO                                       
+23062026     6   1.3   72  1020.0  270    9     LABOULAYE AERO                                      
+23062026     7    .7   75  1020.2  270    9     LABOULAYE AERO                                      
+23062026     8   -.3   90  1020.6  270    9     LABOULAYE AERO                                      
+23062026     9    .9   75  1020.9  270   15     LABOULAYE AERO                                      
+23062026    10   3.7   62  1020.9  260   15     LABOULAYE AERO                                      
+23062026    11   7.3   54  1021.4  270   15     LABOULAYE AERO                                      
+23062026    12  10.3   43  1020.8  270   15     LABOULAYE AERO                                      
+23062026    13  11.9   38  1020.4  260   24     LABOULAYE AERO                                      
+23062026    14  13.1   27  1019.7  230   33     LABOULAYE AERO                                      
+23062026    15  13.7   25  1019.0  270   33     LABOULAYE AERO                                      
+23062026    16  12.7   28  1019.2  270   33     LABOULAYE AERO                                      
+23062026    17  12.7   32  1019.6  270   33     LABOULAYE AERO                                      
+23062026    18  10.9   40  1020.4  230    9     LABOULAYE AERO                                      
+23062026    19   8.5   49  1021.1  230    9     LABOULAYE AERO                                      
+23062026    20   7.7   50  1021.8  230    4     LABOULAYE AERO                                      
+23062026    21   6.5   56  1022.4  230    4     LABOULAYE AERO                                      
+23062026     6   2.6   95  1014.7  230    7     LAS FLORES                                          
+23062026     9   1.6   98  1016.0  230    7     LAS FLORES                                          
+23062026    12   8.4   65  1016.2  230   19     LAS FLORES                                          
+23062026    15  11.0   57  1015.0  230   22     LAS FLORES                                          
+23062026    18   7.8   78  1015.0  230    4     LAS FLORES                                          
+23062026    21   4.0   93  1016.8  230    7     LAS FLORES                                          
+23062026     9   6.4   91  1025.0  230    4     LAS LOMITAS                                         
+23062026    12  15.0   55  1024.8  140    6     LAS LOMITAS                                         
+23062026    15  17.4   31  1021.4  180    4     LAS LOMITAS                                         
+23062026    18  16.0   47  1021.4  180    4     LAS LOMITAS                                         
+23062026    21   9.8   85  1023.1    0    0     LAS LOMITAS                                         
+23062026     6  -4.3   76          280   11     MALARGUE AERO                                       
+23062026     7  -6.8   85          340    9     MALARGUE AERO                                       
+23062026     8  -6.7   83          230    6     MALARGUE AERO                                       
+23062026     9  -6.1   78          230    9     MALARGUE AERO                                       
+23062026    10  -3.6   72          230    6     MALARGUE AERO                                       
+23062026    11   -.1   64          340    7     MALARGUE AERO                                       
+23062026    12   5.1   31           20    9     MALARGUE AERO                                       
+23062026    13   7.5   19           50    7     MALARGUE AERO                                       
+23062026    14   9.9   33           20    9     MALARGUE AERO                                       
+23062026    15  11.4   30           50   11     MALARGUE AERO                                       
+23062026    16  11.6   29           20    7     MALARGUE AERO                                       
+23062026    17   9.3   33           20   11     MALARGUE AERO                                       
+23062026    18   8.6   37           40   11     MALARGUE AERO                                       
+23062026    19   5.6   36           20    6     MALARGUE AERO                                       
+23062026    20   3.4   41          270    9     MALARGUE AERO                                       
+23062026    21   1.6   50          230   17     MALARGUE AERO                                       
+23062026     0   1.2   69          270   15     MAQUINCHAO                                          
+23062026     3   -.8   74          270   15     MAQUINCHAO                                          
+23062026     6  -2.4   80          270   15     MAQUINCHAO                                          
+23062026     7  -2.0   80          270   15     MAQUINCHAO                                          
+23062026     8  -2.2   76          270   15     MAQUINCHAO                                          
+23062026     9  -2.8   83          270    9     MAQUINCHAO                                          
+23062026    10  -1.6   76          270    9     MAQUINCHAO                                          
+23062026    11   1.8   67          270    9     MAQUINCHAO                                          
+23062026    12   3.0   59          270   15     MAQUINCHAO                                          
+23062026    13   4.6   55          270   15     MAQUINCHAO                                          
+23062026    14   5.0   54          270   15     MAQUINCHAO                                          
+23062026    15   6.2   48          230    9     MAQUINCHAO                                          
+23062026    16   6.0   46          270   15     MAQUINCHAO                                          
+23062026    17   5.6   47          270    9     MAQUINCHAO                                          
+23062026    18   4.4   50          270    9     MAQUINCHAO                                          
+23062026    19   2.4   61          270    4     MAQUINCHAO                                          
+23062026    20    .0   63            0    0     MAQUINCHAO                                          
+23062026    21  -1.8   68            0    0     MAQUINCHAO                                          
+23062026     0   5.7   99  1013.5  250   11     MAR DEL PLATA AERO                                  
+23062026     1   5.4  100  1012.9  270   13     MAR DEL PLATA AERO                                  
+23062026     2   5.6  100  1012.3  250   15     MAR DEL PLATA AERO                                  
+23062026     3   5.0   99  1011.8  250   11     MAR DEL PLATA AERO                                  
+23062026     4   4.8  100  1011.3  270   11     MAR DEL PLATA AERO                                  
+23062026     5   4.4  100  1010.9  250    9     MAR DEL PLATA AERO                                  
+23062026     6   4.6  100  1010.7  270   17     MAR DEL PLATA AERO                                  
+23062026     7   4.0   99  1011.1  270    9     MAR DEL PLATA AERO                                  
+23062026     8   5.2   97  1011.4  250   11     MAR DEL PLATA AERO                                  
+23062026     9   5.3   95  1012.0  250   19     MAR DEL PLATA AERO                                  
+23062026    10   7.4   93  1012.3  250   19     MAR DEL PLATA AERO                                  
+23062026    11   8.2   89  1012.5  250   19     MAR DEL PLATA AERO                                  
+23062026    12   9.1   83  1012.5  230   15     MAR DEL PLATA AERO                                  
+23062026    13   8.9   88  1012.5  250   15     MAR DEL PLATA AERO                                  
+23062026    14   8.7   88  1012.1  270   13     MAR DEL PLATA AERO                                  
+23062026    15  10.2   79  1012.1  270   22     MAR DEL PLATA AERO                                  
+23062026    16  10.2   78  1012.3  250   17     MAR DEL PLATA AERO                                  
+23062026    17   9.2   82  1012.8  270   19     MAR DEL PLATA AERO                                  
+23062026    18   8.1   95  1013.5  250   15     MAR DEL PLATA AERO                                  
+23062026    19   7.0   97  1013.9  270    9     MAR DEL PLATA AERO                                  
+23062026    20   6.6   99  1014.3  270   11     MAR DEL PLATA AERO                                  
+23062026    21   7.1   99  1014.6  270   15     MAR DEL PLATA AERO                                  
+23062026    22   6.4   99  1014.8  250   13     MAR DEL PLATA AERO                                  
+23062026    23   5.4   99  1014.7  290   11     MAR DEL PLATA AERO                                  
+23062026     9    .0   80  1021.8  270    9     MARCOS JUAREZ AERO                                  
+23062026    10   5.2   71  1022.2  270   19     MARCOS JUAREZ AERO                                  
+23062026    11   7.9   61  1022.3  270   19     MARCOS JUAREZ AERO                                  
+23062026    12  12.1   44  1021.9  270   26     MARCOS JUAREZ AERO                                  
+23062026    13  13.6   35  1020.9  250   30     MARCOS JUAREZ AERO                                  
+23062026    14  14.5   32  1019.7  250   33     MARCOS JUAREZ AERO                                  
+23062026    15  15.5   32  1019.1  250   31     MARCOS JUAREZ AERO                                  
+23062026    16  15.7   31  1018.5  270   35     MARCOS JUAREZ AERO                                  
+23062026    17  14.5   32  1018.7  250   31     MARCOS JUAREZ AERO                                  
+23062026    18  11.9   45  1019.0  250   13     MARCOS JUAREZ AERO                                  
+23062026    19   8.8   52  1020.3  230   15     MARCOS JUAREZ AERO                                  
+23062026    20   4.6   67  1021.6  230   15     MARCOS JUAREZ AERO                                  
+23062026    21   5.5   66  1022.3  230   15     MARCOS JUAREZ AERO                                  
+23062026     8   1.8   86  1017.2  290   17     MARIANO MORENO AERO                                 
+23062026     9   2.5   87  1017.5  290   20     MARIANO MORENO AERO                                 
+23062026    10   5.2   78  1017.7  270   17     MARIANO MORENO AERO                                 
+23062026    11   7.6   64  1018.0  250   15     MARIANO MORENO AERO                                 
+23062026    12  10.0   55  1018.0  230   15     MARIANO MORENO AERO                                 
+23062026    13  11.9   55  1017.5  270   19     MARIANO MORENO AERO                                 
+23062026    14  10.8   52  1016.4  180   17     MARIANO MORENO AERO                                 
+23062026    15  12.0   52  1016.3  230   20     MARIANO MORENO AERO                                 
+23062026    16  11.5   50  1016.0  200   15     MARIANO MORENO AERO                                 
+23062026    17  10.2   58  1016.4  250    9     MARIANO MORENO AERO                                 
+23062026    18   8.5   64  1016.8  250    7     MARIANO MORENO AERO                                 
+23062026    19   8.2   60  1017.1  270    7     MARIANO MORENO AERO                                 
+23062026    20   7.2   69  1018.0  270    7     MARIANO MORENO AERO                                 
+23062026    21   6.2   71  1018.3  270    7     MARIANO MORENO AERO                                 
+23062026     0   2.6   67  1024.3    0    0     MENDOZA AERO                                        
+23062026     1   2.7   65  1023.7    0    0     MENDOZA AERO                                        
+23062026     2   3.7   59  1023.3  200    9     MENDOZA AERO                                        
+23062026     3   1.2   66  1023.1    0    0     MENDOZA AERO                                        
+23062026     4    .1   74  1022.9    0    0     MENDOZA AERO                                        
+23062026     5   1.0   73  1021.7  270    7     MENDOZA AERO                                        
+23062026     6    .9   74  1022.0  230    6     MENDOZA AERO                                        
+23062026     7    .7   76  1022.7  230    4     MENDOZA AERO                                        
+23062026     8    .3   76  1023.4  180    4     MENDOZA AERO                                        
+23062026     9   1.8   65  1023.7  230    6     MENDOZA AERO                                        
+23062026    10   2.6   64  1023.7  320    4     MENDOZA AERO                                        
+23062026    11   6.8   51  1023.5   90   13     MENDOZA AERO                                        
+23062026    12   8.0   44  1024.4   90    7     MENDOZA AERO                                        
+23062026    13  10.0   41  1024.1   90    7     MENDOZA AERO                                        
+23062026    14  10.8   35  1023.6  140    9     MENDOZA AERO                                        
+23062026    15  12.4   34  1022.7   90   11     MENDOZA AERO                                        
+23062026    16  13.5   30  1022.1  140    6     MENDOZA AERO                                        
+23062026    17  13.4   31  1021.9   90    7     MENDOZA AERO                                        
+23062026    18  12.3   37  1022.6  140    7     MENDOZA AERO                                        
+23062026    19  11.0   41  1023.6    0    0     MENDOZA AERO                                        
+23062026    20   8.2   46  1024.6    0    0     MENDOZA AERO                                        
+23062026    21   7.8   51  1024.8  230    9     MENDOZA AERO                                        
+23062026    22   6.5   53  1025.0    0    0     MENDOZA AERO                                        
+23062026    23   4.8   62  1024.6  180    9     MENDOZA AERO                                        
+23062026     0   2.8   62          250    9     MENDOZA OBSERVATORIO                                
+23062026     3   2.0   60          250    9     MENDOZA OBSERVATORIO                                
+23062026     6    .7   67          250    7     MENDOZA OBSERVATORIO                                
+23062026     7    .5   66          250   11     MENDOZA OBSERVATORIO                                
+23062026     8    .8   65          250    7     MENDOZA OBSERVATORIO                                
+23062026     9   1.0   62          250    9     MENDOZA OBSERVATORIO                                
+23062026    10   5.0   60            0    0     MENDOZA OBSERVATORIO                                
+23062026    11   8.9   48          100    6     MENDOZA OBSERVATORIO                                
+23062026    12  10.2   47           50    6     MENDOZA OBSERVATORIO                                
+23062026    13  11.4   47           90    7     MENDOZA OBSERVATORIO                                
+23062026    14  12.8   40          110    7     MENDOZA OBSERVATORIO                                
+23062026    15  13.4   40           20    6     MENDOZA OBSERVATORIO                                
+23062026    16  13.6   44            0    0     MENDOZA OBSERVATORIO                                
+23062026    17  12.2   46            0    0     MENDOZA OBSERVATORIO                                
+23062026    18  10.9   55            0    0     MENDOZA OBSERVATORIO                                
+23062026    19   6.9   64            0    0     MENDOZA OBSERVATORIO                                
+23062026    20   6.0   64          250   11     MENDOZA OBSERVATORIO                                
+23062026    21   5.6   63          270   11     MENDOZA OBSERVATORIO                                
+23062026    22   5.5   63          230   11     MENDOZA OBSERVATORIO                                
+23062026    23   5.3   63          250    9     MENDOZA OBSERVATORIO                                
+23062026     9   4.2   92  1022.4  230    7     MERCEDES AERO (CTES)                                
+23062026    12  13.6   46  1022.5  200   19     MERCEDES AERO (CTES)                                
+23062026    15  15.2   34  1020.5  200   20     MERCEDES AERO (CTES)                                
+23062026    18  11.8   54  1020.7  210    9     MERCEDES AERO (CTES)                                
+23062026    21   6.9   70  1021.8  200    4     MERCEDES AERO (CTES)                                
+23062026     0   8.2   71  1018.8  270    9     MERLO AERO                                          
+23062026     3   6.8   60  1017.9  270    9     MERLO AERO                                          
+23062026     6   3.0   83  1016.9  270    4     MERLO AERO                                          
+23062026     7   3.0   81  1017.4  270    4     MERLO AERO                                          
+23062026     8   3.0   81  1018.3  270    9     MERLO AERO                                          
+23062026     9   3.1   82  1019.0  270    9     MERLO AERO                                          
+23062026    10   5.0   77  1018.4  270    6     MERLO AERO                                          
+23062026    11   7.6   63  1018.7  270    9     MERLO AERO                                          
+23062026    12   9.7   55  1018.7  270   13     MERLO AERO                                          
+23062026    13  11.1   53  1018.0  230   13     MERLO AERO                                          
+23062026    14  11.8   46  1017.3  230   19     MERLO AERO                                          
+23062026    15  12.0   44  1016.9  230   22     MERLO AERO                                          
+23062026    16  12.3   44  1016.8  230   19     MERLO AERO                                          
+23062026    17  11.4   50  1017.0  270   13     MERLO AERO                                          
+23062026    18   9.5   63  1017.7  270    9     MERLO AERO                                          
+23062026    19   7.5   78  1018.0  270    9     MERLO AERO                                          
+23062026    20   7.7   66  1018.4  270    6     MERLO AERO                                          
+23062026    21   7.5   66  1018.7  270    4     MERLO AERO                                          
+23062026     9   5.8   86          270    4     METAN                                               
+23062026    15  15.4   63          360   15     METAN                                               
+23062026    21   7.0   99          320    4     METAN                                               
+23062026     0   5.8   85  1020.1  270   15     MONTE CASEROS AERO                                  
+23062026     1   5.4   85  1020.4  270   13     MONTE CASEROS AERO                                  
+23062026     2   5.2   88  1021.1  290   15     MONTE CASEROS AERO                                  
+23062026     3   4.8   91  1021.4  270   11     MONTE CASEROS AERO                                  
+23062026     4   5.6   88  1021.2  270   13     MONTE CASEROS AERO                                  
+23062026     5   4.0   93  1020.7  290   13     MONTE CASEROS AERO                                  
+23062026     6   3.8   93  1021.0  270   13     MONTE CASEROS AERO                                  
+23062026     7   3.2   97  1021.4  290   13     MONTE CASEROS AERO                                  
+23062026     8   3.0   97  1021.3  290   15     MONTE CASEROS AERO                                  
+23062026     9   4.2   95  1021.8  290   17     MONTE CASEROS AERO                                  
+23062026    10   7.4   83  1021.8  290   11     MONTE CASEROS AERO                                  
+23062026    11  10.6   64  1022.0  320   13     MONTE CASEROS AERO                                  
+23062026    12  12.0   54  1022.0  270   20     MONTE CASEROS AERO                                  
+23062026    13  13.0   48  1021.1  250   19     MONTE CASEROS AERO                                  
+23062026    14  13.4   46  1020.4  270   26     MONTE CASEROS AERO                                  
+23062026    15  13.2   40  1020.0  270   28     MONTE CASEROS AERO                                  
+23062026    16  13.6   41  1019.6  270   19     MONTE CASEROS AERO                                  
+23062026    17  13.8   43  1019.4  290   19     MONTE CASEROS AERO                                  
+23062026    18  11.0   55  1020.0  270   11     MONTE CASEROS AERO                                  
+23062026    19   9.8   70  1020.0  270   11     MONTE CASEROS AERO                                  
+23062026    20   8.4   71  1020.7  270   11     MONTE CASEROS AERO                                  
+23062026    21   7.2   69  1021.0  270   13     MONTE CASEROS AERO                                  
+23062026    22   7.0   72  1021.3  320    9     MONTE CASEROS AERO                                  
+23062026    23   6.8   85  1021.1  290    9     MONTE CASEROS AERO                                  
+23062026     0   7.6   71  1017.4  250   13     MORON AERO                                          
+23062026     1   7.2   72  1016.9  270   13     MORON AERO                                          
+23062026     2   6.8   74  1017.6  270   13     MORON AERO                                          
+23062026     3   6.6   74  1016.1  270   17     MORON AERO                                          
+23062026     4   6.4   74  1016.1  270   15     MORON AERO                                          
+23062026     5   6.2   74  1015.6  270   15     MORON AERO                                          
+23062026     6   5.6   73  1015.8  270   15     MORON AERO                                          
+23062026     7   4.2   74  1016.1  290   11     MORON AERO                                          
+23062026     8   3.8   79  1016.8  270   13     MORON AERO                                          
+23062026     9   4.4   74  1016.8  270   15     MORON AERO                                          
+23062026    10   5.9   68  1017.2  250   17     MORON AERO                                          
+23062026    11   7.6   60  1017.7  250   20     MORON AERO                                          
+23062026    12   9.6   52  1017.5  250   22     MORON AERO                                          
+23062026    13  10.8   50  1016.5  270   26     MORON AERO                                          
+23062026    14  11.2   44  1016.0  240   24     MORON AERO                                          
+23062026    15  11.8   42  1015.8  250   24     MORON AERO                                          
+23062026    16  11.3   45  1015.7  240   19     MORON AERO                                          
+23062026    17  10.4   49  1016.0  250   15     MORON AERO                                          
+23062026    18   9.4   53  1016.3  270    7     MORON AERO                                          
+23062026    19   9.0   56  1016.7  270    7     MORON AERO                                          
+23062026    20   8.4   60  1017.4  270   11     MORON AERO                                          
+23062026    21   7.6   62  1017.7  270   11     MORON AERO                                          
+23062026    22   7.2   64  1018.2  250    9     MORON AERO                                          
+23062026    23   7.4   64  1018.2  250   11     MORON AERO                                          
+23062026     0   5.2   56  1022.4  270   11     NEUQUEN AERO                                        
+23062026     1   6.2   57  1022.3  230   15     NEUQUEN AERO                                        
+23062026     2   6.0   62  1021.3  250    9     NEUQUEN AERO                                        
+23062026     3   6.4   61  1021.1  230   11     NEUQUEN AERO                                        
+23062026     4   6.6   61  1021.0  250   11     NEUQUEN AERO                                        
+23062026     5   6.0   62  1020.9  250    7     NEUQUEN AERO                                        
+23062026     6   5.8   62  1021.1  270   11     NEUQUEN AERO                                        
+23062026     7   5.4   58  1022.0  230   17     NEUQUEN AERO                                        
+23062026     8   5.1   56  1022.9  270   11     NEUQUEN AERO                                        
+23062026     9   4.7   52  1023.7  270   13     NEUQUEN AERO                                        
+23062026    10   5.2   56  1024.4  250    9     NEUQUEN AERO                                        
+23062026    11   8.0   49  1025.1  230   19     NEUQUEN AERO                                        
+23062026    12   8.8   38  1025.1  230   20     NEUQUEN AERO                                        
+23062026    13  10.3   34  1025.1  250   17     NEUQUEN AERO                                        
+23062026    14  11.2   31  1023.8  270   13     NEUQUEN AERO                                        
+23062026    15  12.0   30  1023.2  250   15     NEUQUEN AERO                                        
+23062026    16  12.7   30  1022.6  270   13     NEUQUEN AERO                                        
+23062026    17  12.9   31  1022.2  250   13     NEUQUEN AERO                                        
+23062026    18  11.7   31  1022.1  270   11     NEUQUEN AERO                                        
+23062026    19   9.3   41  1022.2  270    6     NEUQUEN AERO                                        
+23062026    20   4.8   60  1022.2  320    4     NEUQUEN AERO                                        
+23062026    21   3.6   61  1022.0    0    0     NEUQUEN AERO                                        
+23062026    22   1.2   67  1021.8  270    7     NEUQUEN AERO                                        
+23062026    23   1.8   64  1021.0  180    4     NEUQUEN AERO                                        
+23062026     9   1.4   71  1018.3  270    4     NUEVE DE JULIO                                      
+23062026    12  10.6   54  1018.0  270   11     NUEVE DE JULIO                                      
+23062026    15  11.4   47  1017.0  230   11     NUEVE DE JULIO                                      
+23062026    18   7.8   72  1018.4  230    9     NUEVE DE JULIO                                      
+23062026    21   4.6   93  1019.8  230    9     NUEVE DE JULIO                                      
+23062026     9   5.8   88  1024.8  180    4     OBERA                                               
+23062026    15  14.0   96  1021.0   90    4     OBERA                                               
+23062026    21   7.2   83  1022.4  180    4     OBERA                                               
+23062026     9   1.4   84  1013.7  230    6     OLAVARRIA AERO                                      
+23062026    10   3.8   71  1014.4  230   11     OLAVARRIA AERO                                      
+23062026    11   7.2   70  1014.3  270    9     OLAVARRIA AERO                                      
+23062026    12   8.4   62  1014.3  230   17     OLAVARRIA AERO                                      
+23062026    13   9.3   62  1014.3  230   17     OLAVARRIA AERO                                      
+23062026    14   8.9   56  1013.7  230   22     OLAVARRIA AERO                                      
+23062026    15   9.1   50  1013.7  230   15     OLAVARRIA AERO                                      
+23062026    21   5.4   84  1015.8  230    9     OLAVARRIA AERO                                      
+23062026     6  11.4   92  1022.9  360    9     ORAN AERO                                           
+23062026     7  11.2   91  1023.0    0    0     ORAN AERO                                           
+23062026     8  11.1   91  1023.6    0    0     ORAN AERO                                           
+23062026     9  11.3   90  1024.4    0    0     ORAN AERO                                           
+23062026    10  13.1   85  1024.5    0    0     ORAN AERO                                           
+23062026    11  13.9   80  1024.2  320    9     ORAN AERO                                           
+23062026    12  14.1   77  1023.6  360    9     ORAN AERO                                           
+23062026    13  14.5   71  1022.9    0    0     ORAN AERO                                           
+23062026    14  14.4   68  1021.9  320    4     ORAN AERO                                           
+23062026    15  14.8   62  1020.5  360    9     ORAN AERO                                           
+23062026    16  15.4   59  1020.0  360    9     ORAN AERO                                           
+23062026    17  15.0   61  1019.8  320    9     ORAN AERO                                           
+23062026    18  14.6   68  1020.4  360   15     ORAN AERO                                           
+23062026    19  13.8   74  1021.1  360    9     ORAN AERO                                           
+23062026    20  12.8   82  1021.9  320    4     ORAN AERO                                           
+23062026    21  12.4   85  1022.6  140    4     ORAN AERO                                           
+23062026     0   6.4   74  1021.3  230    9     PARANA AERO                                         
+23062026     1   5.7   77  1021.3  230    9     PARANA AERO                                         
+23062026     2   5.5   80  1021.1  260    9     PARANA AERO                                         
+23062026     3   4.7   86  1020.9  270    7     PARANA AERO                                         
+23062026     4   4.0   90  1020.8  270    7     PARANA AERO                                         
+23062026     5   3.6   90  1020.3  270    9     PARANA AERO                                         
+23062026     6   3.1   91  1020.1  270   11     PARANA AERO                                         
+23062026     7   2.4   93  1020.9  270    7     PARANA AERO                                         
+23062026     8   2.6   93  1020.9  270   15     PARANA AERO                                         
+23062026     9   4.2   84  1021.2  270    9     PARANA AERO                                         
+23062026    10   5.7   79  1021.2  270   15     PARANA AERO                                         
+23062026    11   7.9   66  1021.3  270   17     PARANA AERO                                         
+23062026    12  10.0   60  1021.4  270   17     PARANA AERO                                         
+23062026    13  11.6   51  1020.9  230   19     PARANA AERO                                         
+23062026    14  13.0   43  1019.9  230   19     PARANA AERO                                         
+23062026    15  13.9   41  1019.3  230   19     PARANA AERO                                         
+23062026    16  13.9   39  1018.7  270   19     PARANA AERO                                         
+23062026    17  13.8   41  1018.9  230   17     PARANA AERO                                         
+23062026    18  12.2   50  1019.0  230    4     PARANA AERO                                         
+23062026    19  10.0   60  1019.5  270    6     PARANA AERO                                         
+23062026    20  10.3   58  1020.2  270    7     PARANA AERO                                         
+23062026    21   9.1   63  1020.3  230    7     PARANA AERO                                         
+23062026    22   8.9   57  1021.5  230    9     PARANA AERO                                         
+23062026    23   7.6   69  1021.2  250    9     PARANA AERO                                         
+23062026     9   2.8   76  1023.1  270   28     PASO DE INDIOS                                      
+23062026    12   5.7   62          270   30     PASO DE INDIOS                                      
+23062026    15   8.3   51          230   28     PASO DE INDIOS                                      
+23062026    18   6.9   62          230   19     PASO DE INDIOS                                      
+23062026    21   6.7   58  1016.2  230   20     PASO DE INDIOS                                      
+23062026     6   4.0   97  1020.8  250    9     PASO DE LOS LIBRES AERO                             
+23062026     7   4.0   97  1021.5  320    7     PASO DE LOS LIBRES AERO                             
+23062026     8   4.2   93  1021.9  320   13     PASO DE LOS LIBRES AERO                             
+23062026     9   5.4   94  1022.1  290    6     PASO DE LOS LIBRES AERO                             
+23062026    10   8.4   80  1022.3  270    7     PASO DE LOS LIBRES AERO                             
+23062026    11  11.2   69  1022.3  270   11     PASO DE LOS LIBRES AERO                             
+23062026    12  12.7   50  1022.3  250   26     PASO DE LOS LIBRES AERO                             
+23062026    13  13.6   41  1021.5  230   26     PASO DE LOS LIBRES AERO                             
+23062026    14  13.5   43  1020.7  250   24     PASO DE LOS LIBRES AERO                             
+23062026    15  13.6   43  1020.3  230   22     PASO DE LOS LIBRES AERO                             
+23062026    16  13.9   43  1020.1  250   20     PASO DE LOS LIBRES AERO                             
+23062026    17  13.1   53  1020.2  270   13     PASO DE LOS LIBRES AERO                             
+23062026    18  10.8   67  1020.5  270    6     PASO DE LOS LIBRES AERO                             
+23062026    19   8.6   79  1020.9   20    4     PASO DE LOS LIBRES AERO                             
+23062026    20   6.9   87  1021.1  320   11     PASO DE LOS LIBRES AERO                             
+23062026    21   7.4   76  1021.5  270   13     PASO DE LOS LIBRES AERO                             
+23062026     9   1.1   89  1018.9  270    9     PEHUAJO AERO                                        
+23062026    10   3.8   85  1018.5  270   11     PEHUAJO AERO                                        
+23062026    11   5.5   80  1018.8  270   11     PEHUAJO AERO                                        
+23062026    12   8.2   72  1018.7  230   13     PEHUAJO AERO                                        
+23062026    13   9.3   66  1018.5  230   15     PEHUAJO AERO                                        
+23062026    14   8.9   66  1018.2  230   15     PEHUAJO AERO                                        
+23062026    15   9.4   64  1018.2  250   17     PEHUAJO AERO                                        
+23062026    16   9.2   66  1018.4  200   20     PEHUAJO AERO                                        
+23062026    17   9.2   69  1018.9  200   19     PEHUAJO AERO                                        
+23062026    18   8.1   69  1019.3  230   13     PEHUAJO AERO                                        
+23062026    19   5.8   77  1019.8  230    6     PEHUAJO AERO                                        
+23062026    20   5.1   83  1020.3  250    6     PEHUAJO AERO                                        
+23062026    21   3.0   83  1020.6  230    6     PEHUAJO AERO                                        
+23062026     9   4.6   65  1021.6  290   15     PERITO MORENO AERO                                  
+23062026    10   4.8   71  1020.9  290   15     PERITO MORENO AERO                                  
+23062026    11   5.6   71  1020.6  290   19     PERITO MORENO AERO                                  
+23062026    12   5.8   65  1020.1  270   22     PERITO MORENO AERO                                  
+23062026    13   6.0   64  1019.7  270   28     PERITO MORENO AERO                                  
+23062026    14   7.0   55  1018.4  270   33     PERITO MORENO AERO                                  
+23062026    15   7.0   50  1016.5  270   37     PERITO MORENO AERO                                  
+23062026    16   7.2   43  1015.7  270   37     PERITO MORENO AERO                                  
+23062026    17   7.3   49  1013.9  270   35     PERITO MORENO AERO                                  
+23062026    18   7.3   49  1013.2  270   31     PERITO MORENO AERO                                  
+23062026    19   6.8   56  1012.5  270   33     PERITO MORENO AERO                                  
+23062026    20   6.8   55  1010.9  270   28     PERITO MORENO AERO                                  
+23062026    21   5.2   65  1010.4    0    0     PERITO MORENO AERO                                  
+23062026     9   -.9   83  1017.0  230    9     PIGUE AERO                                          
+23062026    15   8.3   68  1017.3  180   33     PIGUE AERO                                          
+23062026    21   3.3   86  1019.7  230   15     PIGUE AERO                                          
+23062026     6    .6   82  1022.0    0    0     PILAR OBSERVATORIO                                  
+23062026     7   1.0   81  1022.6  270    2     PILAR OBSERVATORIO                                  
+23062026     8   1.0   79  1023.3  270    4     PILAR OBSERVATORIO                                  
+23062026     9   1.8   73  1023.8  270    4     PILAR OBSERVATORIO                                  
+23062026    10   5.5   66  1023.5    0    0     PILAR OBSERVATORIO                                  
+23062026    11   8.8   56  1023.8  320    9     PILAR OBSERVATORIO                                  
+23062026    12  12.9   40  1023.0  340   15     PILAR OBSERVATORIO                                  
+23062026    13  14.6   33  1022.2  360    6     PILAR OBSERVATORIO                                  
+23062026    14  15.4   30  1021.3  360    4     PILAR OBSERVATORIO                                  
+23062026    15  16.4   26  1020.5  110    4     PILAR OBSERVATORIO                                  
+23062026    16  16.8   24  1019.8  360    9     PILAR OBSERVATORIO                                  
+23062026    17  16.9   25  1019.9   20    6     PILAR OBSERVATORIO                                  
+23062026    18  15.5   34  1020.4  110    4     PILAR OBSERVATORIO                                  
+23062026    19  10.9   59  1021.6    0    0     PILAR OBSERVATORIO                                  
+23062026    20  11.5   36  1023.4  180   11     PILAR OBSERVATORIO                                  
+23062026    21  10.7   43  1023.9  180    9     PILAR OBSERVATORIO                                  
+23062026     0   9.4   77  1020.3  200   15     POSADAS AERO                                        
+23062026     1   7.6   89  1021.8  230   11     POSADAS AERO                                        
+23062026     2   7.0   92  1021.8  180    9     POSADAS AERO                                        
+23062026     3   7.2   88  1021.0  180   11     POSADAS AERO                                        
+23062026     4   7.0   88  1020.8  180    9     POSADAS AERO                                        
+23062026     5   7.0   85  1020.5  160   11     POSADAS AERO                                        
+23062026     6   6.6   87  1020.4  160   13     POSADAS AERO                                        
+23062026     7   6.4   81  1021.6  180    7     POSADAS AERO                                        
+23062026     8   5.1   92  1022.6   70    4     POSADAS AERO                                        
+23062026     9   6.5   90  1023.1   70    4     POSADAS AERO                                        
+23062026    10  10.2   68  1023.5  200    4     POSADAS AERO                                        
+23062026    11  11.5   67  1023.0  200   11     POSADAS AERO                                        
+23062026    12  12.6   52  1022.4  200    9     POSADAS AERO                                        
+23062026    13  14.1   43  1021.7  200   13     POSADAS AERO                                        
+23062026    14  14.5   38  1021.0  230   11     POSADAS AERO                                        
+23062026    15  14.5   38  1020.6  230   15     POSADAS AERO                                        
+23062026    16  14.8   38  1020.2  230   19     POSADAS AERO                                        
+23062026    17  14.5   36  1020.2  180   15     POSADAS AERO                                        
+23062026    18  13.8   41  1020.2  180   11     POSADAS AERO                                        
+23062026    19  11.5   59  1021.0  200    9     POSADAS AERO                                        
+23062026    20  10.9   59  1021.6  200    9     POSADAS AERO                                        
+23062026    21   8.5   76  1022.0  230    4     POSADAS AERO                                        
+23062026    22   8.5   76  1022.5  230    4     POSADAS AERO                                        
+23062026    23   8.5   72  1022.6  200    7     POSADAS AERO                                        
+23062026     0   3.7   92  1023.8    0    0     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+23062026     1   2.9   93  1023.4    0    0     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+23062026     2   2.5   93  1022.9    0    0     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+23062026     3   2.5   93  1022.4    0    0     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+23062026     4   2.0   95  1022.2    0    0     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+23062026     5   1.9   97  1022.2    0    0     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+23062026     6   1.2   94  1022.5    0    0     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+23062026     7   -.5   94  1023.3    0    0     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+23062026     8    .2   96  1023.9    0    0     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+23062026     9   2.4   93  1024.2    0    0     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+23062026    10   9.3   86  1024.5    0    0     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+23062026    11  13.0   69  1024.6  320    6     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+23062026    12  15.0   69  1024.4  360    6     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+23062026    13  16.0   49  1023.5  360    2     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+23062026    14  16.2   44  1022.6  270    6     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+23062026    15  16.8   43  1021.8  230    9     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+23062026    16  16.7   43  1021.2  270    7     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+23062026    17  16.7   46  1021.0  200    6     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+23062026    18  15.1   54  1021.1  180    4     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+23062026    19   8.5   88  1021.7    0    0     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+23062026    20   6.1   94  1022.1    0    0     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+23062026    21   5.4   91  1022.6    0    0     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+23062026    22   3.5   91  1023.2    0    0     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+23062026    23   2.9   93  1023.3    0    0     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+23062026     9   1.8   75  1017.3  230   24     PUERTO DESEADO AERO                                 
+23062026    15   6.4   65          250    9     PUERTO DESEADO AERO                                 
+23062026    21    .8   87  1013.4  230    9     PUERTO DESEADO AERO                                 
+23062026     6   2.8   73  1017.6  230   26     PUERTO MADRYN AERO                                  
+23062026     7   3.0   70  1017.9  230   22     PUERTO MADRYN AERO                                  
+23062026     8   1.8   71  1019.0  230   22     PUERTO MADRYN AERO                                  
+23062026     9   2.0   71  1019.7  230   22     PUERTO MADRYN AERO                                  
+23062026    10   2.8   69  1019.9  230   22     PUERTO MADRYN AERO                                  
+23062026    11   5.6   64  1020.4  230   26     PUERTO MADRYN AERO                                  
+23062026    12   8.0   59  1020.8  200   26     PUERTO MADRYN AERO                                  
+23062026    13   9.2   54  1020.3  200   30     PUERTO MADRYN AERO                                  
+23062026    14  10.2   49  1019.6  200   30     PUERTO MADRYN AERO                                  
+23062026    15  10.2   47  1019.6  200   33     PUERTO MADRYN AERO                                  
+23062026    16  10.1   46  1019.3  210   28     PUERTO MADRYN AERO                                  
+23062026    17   9.6   43  1019.1  200   28     PUERTO MADRYN AERO                                  
+23062026    18   7.4   53  1019.2  230   13     PUERTO MADRYN AERO                                  
+23062026    19   4.3   64  1018.9  260   13     PUERTO MADRYN AERO                                  
+23062026    20   2.3   68  1019.0  260   11     PUERTO MADRYN AERO                                  
+23062026    21   1.0   72  1018.7  260    9     PUERTO MADRYN AERO                                  
+23062026    22   1.2   72  1017.7  290    7     PUERTO MADRYN AERO                                  
+23062026    23   1.1   70  1016.5  290    9     PUERTO MADRYN AERO                                  
+23062026     9   4.8   90  1015.6  310   19     PUNTA INDIO B.A.                                    
+23062026    10   6.2   82  1015.8  290   20     PUNTA INDIO B.A.                                    
+23062026    11   8.2   70  1016.1  270   20     PUNTA INDIO B.A.                                    
+23062026    12  10.0   73  1015.8  290   26     PUNTA INDIO B.A.                                    
+23062026    13  10.0   75  1015.6  290   24     PUNTA INDIO B.A.                                    
+23062026    14  10.2   70  1015.0  300   22     PUNTA INDIO B.A.                                    
+23062026    15  10.4   73  1014.8  270   19     PUNTA INDIO B.A.                                    
+23062026    16  10.0   75  1014.8  280   17     PUNTA INDIO B.A.                                    
+23062026    17  10.0   75  1015.4  280    9     PUNTA INDIO B.A.                                    
+23062026    18   9.8   77  1015.7  320    9     PUNTA INDIO B.A.                                    
+23062026    19   8.4   81  1016.3  320   11     PUNTA INDIO B.A.                                    
+23062026    20   6.4   79  1016.9  310   11     PUNTA INDIO B.A.                                    
+23062026    21   5.4   93  1017.2  320    9     PUNTA INDIO B.A.                                    
+23062026     6    .4   85  1020.5    0    0     RAFAELA AERO                                        
+23062026     9   3.0   80  1022.3  140    4     RAFAELA AERO                                        
+23062026    12  12.4   51  1022.2  230    9     RAFAELA AERO                                        
+23062026    15  17.2   37  1021.2  270   15     RAFAELA AERO                                        
+23062026    18  13.1   48  1019.9  270   15     RAFAELA AERO                                        
+23062026     0   8.0   86  1022.8  270   13     RECONQUISTA AERO                                    
+23062026     1   7.5   82  1023.0  290   11     RECONQUISTA AERO                                    
+23062026     2   6.0   85  1023.0  320   11     RECONQUISTA AERO                                    
+23062026     3   5.5   92  1022.3  320   11     RECONQUISTA AERO                                    
+23062026     4   5.4   94  1022.1  290   11     RECONQUISTA AERO                                    
+23062026     5   5.7   92  1022.1  200   11     RECONQUISTA AERO                                    
+23062026     6   5.7   92  1022.2  200    4     RECONQUISTA AERO                                    
+23062026     7   5.8   91  1022.7  200    4     RECONQUISTA AERO                                    
+23062026     8   5.9   93  1022.9  270   11     RECONQUISTA AERO                                    
+23062026     9   6.7   92  1023.2  260    9     RECONQUISTA AERO                                    
+23062026    10   9.2   79  1023.3  270    7     RECONQUISTA AERO                                    
+23062026    11  11.9   71  1023.6  270    7     RECONQUISTA AERO                                    
+23062026    12  13.6   57  1023.4  230   13     RECONQUISTA AERO                                    
+23062026    13  15.0   40  1022.5  230   22     RECONQUISTA AERO                                    
+23062026    14  15.5   39  1021.7  250   15     RECONQUISTA AERO                                    
+23062026    15  15.8   35  1021.4  220   26     RECONQUISTA AERO                                    
+23062026    16  16.0   36  1020.8  250   20     RECONQUISTA AERO                                    
+23062026    17  15.7   38  1020.8  230   15     RECONQUISTA AERO                                    
+23062026    18  14.1   53  1021.0  250    6     RECONQUISTA AERO                                    
+23062026    19  11.5   67  1021.2  270    4     RECONQUISTA AERO                                    
+23062026    20   9.2   75  1021.8  300    4     RECONQUISTA AERO                                    
+23062026    21   8.0   81  1022.1  280    4     RECONQUISTA AERO                                    
+23062026    22   8.4   86  1022.0  330    6     RECONQUISTA AERO                                    
+23062026    23   7.8   86  1022.1  320    4     RECONQUISTA AERO                                    
+23062026     0   6.3   88  1023.2  290    4     RESISTENCIA AERO                                    
+23062026     1   5.5   91  1023.3  320    6     RESISTENCIA AERO                                    
+23062026     2   5.5   91  1023.0  240    4     RESISTENCIA AERO                                    
+23062026     3   4.3   90  1022.4  230    2     RESISTENCIA AERO                                    
+23062026     4   3.9   90  1021.9  220    2     RESISTENCIA AERO                                    
+23062026     5   3.1   93  1021.8  200    2     RESISTENCIA AERO                                    
+23062026     6   3.1   90  1022.0  270    2     RESISTENCIA AERO                                    
+23062026     7   2.9   95  1022.8  310    4     RESISTENCIA AERO                                    
+23062026     8   2.9   95  1023.4  320    4     RESISTENCIA AERO                                    
+23062026     9   5.2   92  1023.6  350    4     RESISTENCIA AERO                                    
+23062026    10  10.3   86  1023.8  270    4     RESISTENCIA AERO                                    
+23062026    11  12.7   70  1023.9  240    4     RESISTENCIA AERO                                    
+23062026    12  14.8   53  1023.4  230    7     RESISTENCIA AERO                                    
+23062026    13  15.4   47  1023.0  230    7     RESISTENCIA AERO                                    
+23062026    14  16.3   40  1021.8  230    9     RESISTENCIA AERO                                    
+23062026    15  16.7   39  1021.2  230   15     RESISTENCIA AERO                                    
+23062026    16  16.3   39  1020.8  210   15     RESISTENCIA AERO                                    
+23062026    17  15.7   41  1020.8  210   13     RESISTENCIA AERO                                    
+23062026    18  13.1   56  1021.2  200    7     RESISTENCIA AERO                                    
+23062026    19  10.4   70  1021.3  230    6     RESISTENCIA AERO                                    
+23062026    20   8.8   79  1021.8  230    4     RESISTENCIA AERO                                    
+23062026    21   7.1   90  1022.2  230    4     RESISTENCIA AERO                                    
+23062026    22   6.0   91  1022.7  230    2     RESISTENCIA AERO                                    
+23062026    23   5.0   91  1023.1  310    4     RESISTENCIA AERO                                    
+23062026     6   2.0   71  1020.7  270   19     RIO CUARTO AERO                                     
+23062026     7   2.0   71  1021.5  270   19     RIO CUARTO AERO                                     
+23062026     8   3.0   66  1021.7  270   15     RIO CUARTO AERO                                     
+23062026     9   3.4   66  1021.9  270   19     RIO CUARTO AERO                                     
+23062026    10   6.4   54  1022.1  270   17     RIO CUARTO AERO                                     
+23062026    11  10.0   45  1022.1  270   13     RIO CUARTO AERO                                     
+23062026    12  12.8   38  1021.6  230   24     RIO CUARTO AERO                                     
+23062026    13  13.2   35  1020.4  230   28     RIO CUARTO AERO                                     
+23062026    14  13.8   32  1019.3  230   22     RIO CUARTO AERO                                     
+23062026    15  14.2   30  1018.7  230   28     RIO CUARTO AERO                                     
+23062026    16  14.3   27  1019.4  230   35     RIO CUARTO AERO                                     
+23062026    17  13.7   28  1019.6  230   30     RIO CUARTO AERO                                     
+23062026    18  11.4   30  1021.1  230   24     RIO CUARTO AERO                                     
+23062026    19   8.6   40  1022.5  230   15     RIO CUARTO AERO                                     
+23062026    20   7.6   46  1023.4  230   15     RIO CUARTO AERO                                     
+23062026    21   6.9   51  1023.7  230   13     RIO CUARTO AERO                                     
+23062026     0   3.3   82  1014.1  250   41     RIO GALLEGOS AERO                                   
+23062026     1   2.8   88  1015.0  250   35     RIO GALLEGOS AERO                                   
+23062026     2   2.1   89  1015.9  250   30     RIO GALLEGOS AERO                                   
+23062026     3   2.0   89  1016.5  250   26     RIO GALLEGOS AERO                                   
+23062026     4   1.6   87  1016.9  250   24     RIO GALLEGOS AERO                                   
+23062026     5   1.6   87  1017.2  250   26     RIO GALLEGOS AERO                                   
+23062026     6   1.8   86  1017.6  250   22     RIO GALLEGOS AERO                                   
+23062026     7   1.5   91  1018.4  290    7     RIO GALLEGOS AERO                                   
+23062026     8    .8   94  1018.9  360    6     RIO GALLEGOS AERO                                   
+23062026     9   -.1   94  1018.8  300   19     RIO GALLEGOS AERO                                   
+23062026    10    .1   92  1018.5  290   19     RIO GALLEGOS AERO                                   
+23062026    11   1.8   91  1018.0  290    4     RIO GALLEGOS AERO                                   
+23062026    12   2.3   93  1017.7  270    7     RIO GALLEGOS AERO                                   
+23062026    13   3.2   91  1017.2  290    6     RIO GALLEGOS AERO                                   
+23062026    14   4.0   87  1016.2  320   11     RIO GALLEGOS AERO                                   
+23062026    15   3.9   87  1015.2  320   11     RIO GALLEGOS AERO                                   
+23062026    16   3.9   85  1014.1  320   13     RIO GALLEGOS AERO                                   
+23062026    17   3.2   90  1013.5  300    7     RIO GALLEGOS AERO                                   
+23062026    18   3.0   88  1013.0  310   11     RIO GALLEGOS AERO                                   
+23062026    19   3.6   80  1012.2  320    7     RIO GALLEGOS AERO                                   
+23062026    20   3.4   83  1011.4  300    7     RIO GALLEGOS AERO                                   
+23062026    21   3.6   80  1010.7  270    6     RIO GALLEGOS AERO                                   
+23062026    22   1.4   89  1009.9  270    7     RIO GALLEGOS AERO                                   
+23062026    23   2.0   82  1009.1  340   15     RIO GALLEGOS AERO                                   
+23062026     0   2.2   87  1009.1  240   20     RIO GRANDE B.A.                                     
+23062026     1   1.8   91  1010.4  230   17     RIO GRANDE B.A.                                     
+23062026     2   1.0   91  1011.9  230   13     RIO GRANDE B.A.                                     
+23062026     3    .6   90  1013.3  220   11     RIO GRANDE B.A.                                     
+23062026     4    .8   89  1014.1  200   11     RIO GRANDE B.A.                                     
+23062026     5    .7   90  1014.7  990    4     RIO GRANDE B.A.                                     
+23062026     6    .4   87  1015.2  150   13     RIO GRANDE B.A.                                     
+23062026     7    .4   83  1015.7  990    4     RIO GRANDE B.A.                                     
+23062026     8  -1.0   94  1016.5  290    9     RIO GRANDE B.A.                                     
+23062026     9  -1.3   96  1016.8  990    4     RIO GRANDE B.A.                                     
+23062026    10  -1.5   96  1016.5  280    6     RIO GRANDE B.A.                                     
+23062026    11   -.1   80  1016.6  270    7     RIO GRANDE B.A.                                     
+23062026    12    .2   90  1016.5  990    2     RIO GRANDE B.A.                                     
+23062026    13   1.6   82  1015.8  990    2     RIO GRANDE B.A.                                     
+23062026    14   1.7   86  1014.8  990    2     RIO GRANDE B.A.                                     
+23062026    15   3.3   73  1013.7   20   11     RIO GRANDE B.A.                                     
+23062026    16   3.2   82  1012.3  350   11     RIO GRANDE B.A.                                     
+23062026    17   3.1   86  1011.7  330   15     RIO GRANDE B.A.                                     
+23062026    18   2.5   95  1011.0  300   15     RIO GRANDE B.A.                                     
+23062026    19   1.5   93  1010.6  290   17     RIO GRANDE B.A.                                     
+23062026    20    .9   92  1009.8  290   11     RIO GRANDE B.A.                                     
+23062026    21    .8   94  1008.9  990    2     RIO GRANDE B.A.                                     
+23062026    22   1.0   94  1008.2  280    7     RIO GRANDE B.A.                                     
+23062026    23    .2   98  1007.4  280    7     RIO GRANDE B.A.                                     
+23062026     9   9.8   80  1023.5    0    0     RIVADAVIA                                           
+23062026    12  16.0   59           90    4     RIVADAVIA                                           
+23062026    15  18.0   49           90    4     RIVADAVIA                                           
+23062026    18  16.4   53            0    0     RIVADAVIA                                           
+23062026    21  11.6   76  1022.8    0    0     RIVADAVIA                                           
+23062026     0   2.6   83  1020.6  270    7     ROSARIO AERO                                        
+23062026     1   1.0   92  1020.5  270    9     ROSARIO AERO                                        
+23062026     2   1.0   89  1020.2  270    7     ROSARIO AERO                                        
+23062026     3   1.3   89  1019.9  270    7     ROSARIO AERO                                        
+23062026     4    .4   89  1019.8  280    9     ROSARIO AERO                                        
+23062026     5   1.0   81  1019.4  260    9     ROSARIO AERO                                        
+23062026     6   3.2   78  1019.3  260    7     ROSARIO AERO                                        
+23062026     7   2.0   84  1019.5  270    7     ROSARIO AERO                                        
+23062026     8   2.4   79  1020.1  230    6     ROSARIO AERO                                        
+23062026     9   2.0   78  1020.1  240    6     ROSARIO AERO                                        
+23062026    10   5.8   70  1020.0  240    9     ROSARIO AERO                                        
+23062026    11   7.3   61  1020.5  270   11     ROSARIO AERO                                        
+23062026    12   9.7   57  1020.6  230   20     ROSARIO AERO                                        
+23062026    13  11.6   48  1020.1  200   20     ROSARIO AERO                                        
+23062026    14  13.1   41  1018.7  200   20     ROSARIO AERO                                        
+23062026    15  14.3   36  1017.7  230   20     ROSARIO AERO                                        
+23062026    16  14.4   34  1017.6  230   24     ROSARIO AERO                                        
+23062026    17  13.8   36  1017.7  200   19     ROSARIO AERO                                        
+23062026    18  13.4   40  1018.2  230   20     ROSARIO AERO                                        
+23062026    19  11.6   46  1019.0  230   19     ROSARIO AERO                                        
+23062026    20   9.1   59  1019.4  200   11     ROSARIO AERO                                        
+23062026    21   7.3   68  1020.2  200    9     ROSARIO AERO                                        
+23062026    22   5.7   73  1020.8  200   11     ROSARIO AERO                                        
+23062026    23   4.9   75  1021.0  200   11     ROSARIO AERO                                        
+23062026     0   5.1   91          340    6     SALTA AERO                                          
+23062026     1   5.0   93            0    0     SALTA AERO                                          
+23062026     2   4.9   93            0    0     SALTA AERO                                          
+23062026     3   4.1   95           20    2     SALTA AERO                                          
+23062026     4   4.1   95            0    0     SALTA AERO                                          
+23062026     5   3.4   97            0    0     SALTA AERO                                          
+23062026     6   2.9   97            0    0     SALTA AERO                                          
+23062026     7   3.0   92            0    0     SALTA AERO                                          
+23062026     8   3.4   94            0    0     SALTA AERO                                          
+23062026     9   3.6   97            0    0     SALTA AERO                                          
+23062026    10   4.8   88          360    6     SALTA AERO                                          
+23062026    11   7.0   73          360    4     SALTA AERO                                          
+23062026    12   8.6   70           50    4     SALTA AERO                                          
+23062026    13   9.4   64           50    6     SALTA AERO                                          
+23062026    14  10.0   60           90    9     SALTA AERO                                          
+23062026    15  10.2   60           50    9     SALTA AERO                                          
+23062026    16  10.2   60           20    7     SALTA AERO                                          
+23062026    17  10.2   61           70    4     SALTA AERO                                          
+23062026    18   9.2   68           50    7     SALTA AERO                                          
+23062026    19   8.2   75           50    6     SALTA AERO                                          
+23062026    20   7.8   77          360   11     SALTA AERO                                          
+23062026    21   6.0   88           20    7     SALTA AERO                                          
+23062026    22   4.7   93            0    0     SALTA AERO                                          
+23062026    23   3.0   92          270    4     SALTA AERO                                          
+23062026     9   8.2   45  1020.4  200   33     SAN ANTONIO OESTE AERO                              
+23062026    15  12.1   39          200   24     SAN ANTONIO OESTE AERO                              
+23062026    21   1.7   68  1020.9  180    9     SAN ANTONIO OESTE AERO                              
+23062026     0   7.4   69  1017.9  270   13     SAN FERNANDO AERO                                   
+23062026     1   7.5   69  1017.7  270   15     SAN FERNANDO AERO                                   
+23062026     2   7.5   69  1017.4  270   15     SAN FERNANDO AERO                                   
+23062026     3   5.6   77  1016.9  260   13     SAN FERNANDO AERO                                   
+23062026     4   4.9   79  1016.8  270   17     SAN FERNANDO AERO                                   
+23062026     5   4.6   83  1016.3  270   13     SAN FERNANDO AERO                                   
+23062026     6   4.8   81  1016.3  280   15     SAN FERNANDO AERO                                   
+23062026     7   4.0   80  1016.9  290   13     SAN FERNANDO AERO                                   
+23062026     8   3.7   77  1017.3  300   11     SAN FERNANDO AERO                                   
+23062026     9   5.0   75  1017.6  300   11     SAN FERNANDO AERO                                   
+23062026    10   6.5   67  1017.8  270   19     SAN FERNANDO AERO                                   
+23062026    11   8.7   60  1018.1  260   20     SAN FERNANDO AERO                                   
+23062026    12  10.3   54  1018.1  260   22     SAN FERNANDO AERO                                   
+23062026    13  11.5   51  1017.0  260   24     SAN FERNANDO AERO                                   
+23062026    14  11.0   48  1016.6  250   26     SAN FERNANDO AERO                                   
+23062026    15  12.4   44  1016.3  240   22     SAN FERNANDO AERO                                   
+23062026    16  12.4   47  1016.2  240   22     SAN FERNANDO AERO                                   
+23062026    17  12.0   45  1016.4  260   19     SAN FERNANDO AERO                                   
+23062026    18  10.1   53  1016.9  260   11     SAN FERNANDO AERO                                   
+23062026    19   9.2   56  1017.4  270    6     SAN FERNANDO AERO                                   
+23062026    20   6.7   68  1017.8  300    6     SAN FERNANDO AERO                                   
+23062026    21   7.8   62  1018.2  280    9     SAN FERNANDO AERO                                   
+23062026    22   7.7   63  1018.5  280    9     SAN FERNANDO AERO                                   
+23062026    23   6.8   69  1018.6  250   13     SAN FERNANDO AERO                                   
+23062026     0   2.0   61  1024.7  360    6     SAN JUAN AERO                                       
+23062026     1    .3   63  1024.8   20    7     SAN JUAN AERO                                       
+23062026     2    .6   58  1024.7  360    7     SAN JUAN AERO                                       
+23062026     3    .3   59  1024.6  360    7     SAN JUAN AERO                                       
+23062026     4   -.5   67  1023.7  360    4     SAN JUAN AERO                                       
+23062026     5  -1.5   64  1023.0   50   11     SAN JUAN AERO                                       
+23062026     6  -1.4   68  1022.7  360    7     SAN JUAN AERO                                       
+23062026     7  -1.7   63  1023.1   20   11     SAN JUAN AERO                                       
+23062026     8   -.8   73  1023.5  320   11     SAN JUAN AERO                                       
+23062026     9  -3.5   77  1024.8  140    6     SAN JUAN AERO                                       
+23062026    10   1.0   61  1025.6  270    4     SAN JUAN AERO                                       
+23062026    11   5.7   61  1025.0    0    0     SAN JUAN AERO                                       
+23062026    12   9.3   49  1024.4  360    7     SAN JUAN AERO                                       
+23062026    13  12.2   35  1023.8   50    6     SAN JUAN AERO                                       
+23062026    14  14.0   33  1022.6   70    6     SAN JUAN AERO                                       
+23062026    15  14.5   31  1022.4  160    7     SAN JUAN AERO                                       
+23062026    16  14.9   29  1021.9  140   19     SAN JUAN AERO                                       
+23062026    17  14.4   28  1022.3  180   17     SAN JUAN AERO                                       
+23062026    18  13.7   21  1022.4  180   13     SAN JUAN AERO                                       
+23062026    19  11.7   24  1023.3  180   13     SAN JUAN AERO                                       
+23062026    20   9.0   33  1024.6  180   13     SAN JUAN AERO                                       
+23062026    21   6.3   42  1026.1  200    4     SAN JUAN AERO                                       
+23062026    22   4.1   57  1026.0  200    6     SAN JUAN AERO                                       
+23062026    23   4.0   57  1025.3    0    0     SAN JUAN AERO                                       
+23062026     9   1.8   77  1020.0  230   22     SAN JULIAN AERO                                     
+23062026    15   5.8   72  1017.7  230   19     SAN JULIAN AERO                                     
+23062026    21   1.8   84  1012.7  270    6     SAN JULIAN AERO                                     
+23062026     0   3.9   64  1024.6   20   15     SAN LUIS AERO                                       
+23062026     1   3.7   67  1024.5   20    9     SAN LUIS AERO                                       
+23062026     2   3.4   71  1024.3   20   11     SAN LUIS AERO                                       
+23062026     3   3.9   61  1023.5  360   11     SAN LUIS AERO                                       
+23062026     4   3.7   64  1022.7  360   13     SAN LUIS AERO                                       
+23062026     5   4.0   61  1022.1  360   15     SAN LUIS AERO                                       
+23062026     6   4.5   56  1021.7   20   13     SAN LUIS AERO                                       
+23062026     7   4.7   54  1023.1  360    7     SAN LUIS AERO                                       
+23062026     8   2.1   68  1023.5  340   15     SAN LUIS AERO                                       
+23062026     9   2.3   64  1024.1  360   11     SAN LUIS AERO                                       
+23062026    10   7.5   46  1023.9  340    9     SAN LUIS AERO                                       
+23062026    11  10.3   38  1024.2  320   11     SAN LUIS AERO                                       
+23062026    12  10.9   37  1024.6  270   15     SAN LUIS AERO                                       
+23062026    13  10.8   37  1024.2  250   13     SAN LUIS AERO                                       
+23062026    14  11.4   35  1023.5  270   13     SAN LUIS AERO                                       
+23062026    15  12.4   33  1022.7  250   17     SAN LUIS AERO                                       
+23062026    16  12.1   34  1022.7  220   15     SAN LUIS AERO                                       
+23062026    17  12.0   28  1022.7  190   15     SAN LUIS AERO                                       
+23062026    18  11.1   29  1022.9  190   11     SAN LUIS AERO                                       
+23062026    19   9.0   37  1023.8  150    7     SAN LUIS AERO                                       
+23062026    20   6.6   49  1025.0  120    6     SAN LUIS AERO                                       
+23062026    21   5.6   51  1025.7  110    9     SAN LUIS AERO                                       
+23062026    22   5.1   46  1025.2   90    9     SAN LUIS AERO                                       
+23062026    23   5.9   46  1024.2   80   13     SAN LUIS AERO                                       
+23062026     9    .0   64  1024.0  230   11     SAN MARTIN (MZA)                                    
+23062026    10   1.8   59  1024.0  220    9     SAN MARTIN (MZA)                                    
+23062026    11   6.6   46  1023.8  190    4     SAN MARTIN (MZA)                                    
+23062026    12  10.3   36  1024.0  170    9     SAN MARTIN (MZA)                                    
+23062026    13  12.3   33  1023.7  160    9     SAN MARTIN (MZA)                                    
+23062026    14  14.2   30  1022.7   70    6     SAN MARTIN (MZA)                                    
+23062026    15  14.3   32  1021.5  150    6     SAN MARTIN (MZA)                                    
+23062026    16  15.0   29  1022.3  130    6     SAN MARTIN (MZA)                                    
+23062026    17  15.1   26  1021.3   90    7     SAN MARTIN (MZA)                                    
+23062026    18  13.8   31  1022.1  120    9     SAN MARTIN (MZA)                                    
+23062026    19  10.4   44  1023.3  140    6     SAN MARTIN (MZA)                                    
+23062026    20   8.3   48  1024.2    0    0     SAN MARTIN (MZA)                                    
+23062026     6  -1.4   88  1022.5  230   13     SAN RAFAEL AERO                                     
+23062026     7  -1.0   72  1022.8  250    9     SAN RAFAEL AERO                                     
+23062026     8   -.8   62  1024.0  270   15     SAN RAFAEL AERO                                     
+23062026     9   -.6   50  1024.9  230   13     SAN RAFAEL AERO                                     
+23062026    10   2.8   45  1024.9  180    7     SAN RAFAEL AERO                                     
+23062026    11   7.4   34  1025.9  180    6     SAN RAFAEL AERO                                     
+23062026    12   9.8   36  1024.4  230    6     SAN RAFAEL AERO                                     
+23062026    13  12.4   32  1023.0    0    0     SAN RAFAEL AERO                                     
+23062026    14  13.2   26  1021.4   50    7     SAN RAFAEL AERO                                     
+23062026    15  13.0   22  1020.7   90   11     SAN RAFAEL AERO                                     
+23062026    16  12.8   22  1022.3   90    9     SAN RAFAEL AERO                                     
+23062026    17  13.2   23  1022.6   90   15     SAN RAFAEL AERO                                     
+23062026    18  12.2   24  1023.3   50    6     SAN RAFAEL AERO                                     
+23062026    19   8.4   32  1024.5   90   11     SAN RAFAEL AERO                                     
+23062026    20   4.8   44  1026.0  110    4     SAN RAFAEL AERO                                     
+23062026    21   3.4   49  1026.4    0    0     SAN RAFAEL AERO                                     
+23062026     9   2.3   89  1018.3  200   37     SANTA CRUZ AERO                                     
+23062026    15   3.3   80          290   19     SANTA CRUZ AERO                                     
+23062026    21    .9   92  1009.9  290   28     SANTA CRUZ AERO                                     
+23062026     0   1.4   80  1021.0  270    6     SANTA ROSA AERO                                     
+23062026     1   1.1   79  1020.7  270    4     SANTA ROSA AERO                                     
+23062026     2   -.2   82  1019.9  270    6     SANTA ROSA AERO                                     
+23062026     3   -.2   80  1019.5  270   11     SANTA ROSA AERO                                     
+23062026     4   -.2   84  1019.9  270    9     SANTA ROSA AERO                                     
+23062026     5   -.3   84  1019.1  270    4     SANTA ROSA AERO                                     
+23062026     6   -.6   84  1018.7  270    9     SANTA ROSA AERO                                     
+23062026     7  -1.0   88  1018.9  270    7     SANTA ROSA AERO                                     
+23062026     8  -1.3   85  1019.7  270    9     SANTA ROSA AERO                                     
+23062026     9   -.8   88  1019.7  270    7     SANTA ROSA AERO                                     
+23062026    10   1.5   82  1019.9  270    7     SANTA ROSA AERO                                     
+23062026    11   4.1   69  1020.5  230   11     SANTA ROSA AERO                                     
+23062026    12   7.9   53  1020.6  200   20     SANTA ROSA AERO                                     
+23062026    13  10.0   42  1020.3  200   28     SANTA ROSA AERO                                     
+23062026    14  10.5   40  1020.0  200   26     SANTA ROSA AERO                                     
+23062026    15  11.4   38  1019.7  200   26     SANTA ROSA AERO                                     
+23062026    16  11.8   35  1019.6  180   33     SANTA ROSA AERO                                     
+23062026    17  11.2   35  1020.2  200   28     SANTA ROSA AERO                                     
+23062026    18  10.2   39  1020.7  200   20     SANTA ROSA AERO                                     
+23062026    19   8.6   43  1021.3  200   13     SANTA ROSA AERO                                     
+23062026    20   5.6   60  1022.1  240    7     SANTA ROSA AERO                                     
+23062026    21   4.1   62  1022.1  240    7     SANTA ROSA AERO                                     
+23062026    22   2.4   70  1022.3  240    6     SANTA ROSA AERO                                     
+23062026    23   1.1   70  1022.1  270    6     SANTA ROSA AERO                                     
+23062026     8  -5.5   88  1025.6  140    7     SANTA ROSA DE CONLARA AERO                          
+23062026     9  -6.0   90  1025.9    0    0     SANTA ROSA DE CONLARA AERO                          
+23062026    10  -3.0   89  1027.4    0    0     SANTA ROSA DE CONLARA AERO                          
+23062026    11   2.4   81  1026.6  180    7     SANTA ROSA DE CONLARA AERO                          
+23062026    12   8.1   58  1024.9    0    0     SANTA ROSA DE CONLARA AERO                          
+23062026    13  12.6   39  1022.5  320    7     SANTA ROSA DE CONLARA AERO                          
+23062026    14  13.8   36  1020.3  320   15     SANTA ROSA DE CONLARA AERO                          
+23062026    15  14.3   33  1019.4  320   17     SANTA ROSA DE CONLARA AERO                          
+23062026    16  14.7   32  1019.0  270    9     SANTA ROSA DE CONLARA AERO                          
+23062026    17  14.4   33  1019.1    0    0     SANTA ROSA DE CONLARA AERO                          
+23062026    18  13.8   36  1022.6  140   13     SANTA ROSA DE CONLARA AERO                          
+23062026    19   9.9   36  1023.5  140   13     SANTA ROSA DE CONLARA AERO                          
+23062026    20   6.7   48  1025.0  140   13     SANTA ROSA DE CONLARA AERO                          
+23062026    21   5.0   51  1025.9  140   13     SANTA ROSA DE CONLARA AERO                          
+23062026     0   4.5   86  1023.6  320    4     SANTIAGO DEL ESTERO AERO                            
+23062026     1   2.8   89  1023.4  290    4     SANTIAGO DEL ESTERO AERO                            
+23062026     2   3.0   90  1023.0  320    4     SANTIAGO DEL ESTERO AERO                            
+23062026     3   3.0   90  1022.5  320    4     SANTIAGO DEL ESTERO AERO                            
+23062026     4   1.5   94  1022.4  320    2     SANTIAGO DEL ESTERO AERO                            
+23062026     5   1.5   94  1022.5  290    4     SANTIAGO DEL ESTERO AERO                            
+23062026     6   -.6   96  1023.3  230    4     SANTIAGO DEL ESTERO AERO                            
+23062026     7    .4   92  1023.3  290    4     SANTIAGO DEL ESTERO AERO                            
+23062026     8   -.5   96  1024.0  300    6     SANTIAGO DEL ESTERO AERO                            
+23062026     9    .9   94  1024.6  310    9     SANTIAGO DEL ESTERO AERO                            
+23062026    10   7.2   85  1024.4  310    6     SANTIAGO DEL ESTERO AERO                            
+23062026    11  12.1   67  1024.1  330   11     SANTIAGO DEL ESTERO AERO                            
+23062026    12  15.4   58  1023.5  330    6     SANTIAGO DEL ESTERO AERO                            
+23062026    13  18.0   45  1022.6  360    7     SANTIAGO DEL ESTERO AERO                            
+23062026    14  18.6   42  1021.7   50    9     SANTIAGO DEL ESTERO AERO                            
+23062026    15  19.1   40  1020.2   10   13     SANTIAGO DEL ESTERO AERO                            
+23062026    16  19.1   38  1020.0   30    9     SANTIAGO DEL ESTERO AERO                            
+23062026    17  19.0   34  1019.8   20   11     SANTIAGO DEL ESTERO AERO                            
+23062026    18  18.2   40  1020.7  360    6     SANTIAGO DEL ESTERO AERO                            
+23062026    19  14.5   65  1021.0   10    6     SANTIAGO DEL ESTERO AERO                            
+23062026    20  10.0   77  1021.6   50    4     SANTIAGO DEL ESTERO AERO                            
+23062026    21   7.4   83  1022.3    0    0     SANTIAGO DEL ESTERO AERO                            
+23062026    22   6.0   82  1023.0    0    0     SANTIAGO DEL ESTERO AERO                            
+23062026    23   4.8   88  1023.3  270    4     SANTIAGO DEL ESTERO AERO                            
+23062026     0   4.3   89  1022.0  320    6     SAUCE VIEJO AERO                                    
+23062026     1   4.0   90  1022.0    0    0     SAUCE VIEJO AERO                                    
+23062026     2   3.1   93  1021.8  300    4     SAUCE VIEJO AERO                                    
+23062026     3   2.6   93  1021.6  330    6     SAUCE VIEJO AERO                                    
+23062026     4   2.1   95  1021.5  320    6     SAUCE VIEJO AERO                                    
+23062026     5   3.0   93  1021.0  320    4     SAUCE VIEJO AERO                                    
+23062026     6    .8   97  1020.7  320    6     SAUCE VIEJO AERO                                    
+23062026     7    .4   94  1021.0  360    6     SAUCE VIEJO AERO                                    
+23062026     8   -.7   98  1021.4  360    6     SAUCE VIEJO AERO                                    
+23062026     9   1.1   92  1022.1  320    9     SAUCE VIEJO AERO                                    
+23062026    10   4.7   78  1021.9  320    9     SAUCE VIEJO AERO                                    
+23062026    11   7.4   68  1022.2  270   15     SAUCE VIEJO AERO                                    
+23062026    12  10.6   49  1022.2  270   17     SAUCE VIEJO AERO                                    
+23062026    13  12.9   50  1021.5  270   22     SAUCE VIEJO AERO                                    
+23062026    14  14.5   42  1020.5  270   30     SAUCE VIEJO AERO                                    
+23062026    15  14.9   41  1019.8  270   26     SAUCE VIEJO AERO                                    
+23062026    16  15.3   39  1019.2  270   24     SAUCE VIEJO AERO                                    
+23062026    17  15.1   40  1019.4  270   22     SAUCE VIEJO AERO                                    
+23062026    18  13.1   58  1019.4  290    9     SAUCE VIEJO AERO                                    
+23062026    19   9.7   61  1020.0  320    7     SAUCE VIEJO AERO                                    
+23062026    20   8.2   78  1020.6  320    7     SAUCE VIEJO AERO                                    
+23062026    21   8.4   80  1021.0  270    6     SAUCE VIEJO AERO                                    
+23062026    22   8.7   75  1021.7  270   11     SAUCE VIEJO AERO                                    
+23062026    23   7.8   74  1022.0  270   13     SAUCE VIEJO AERO                                    
+23062026     0   5.6   76  1022.5  270    4     SUNCHALES AERO                                      
+23062026     1   5.2   78  1022.7  270    4     SUNCHALES AERO                                      
+23062026     2   4.9   77  1022.4  270    4     SUNCHALES AERO                                      
+23062026     3   4.4   78  1022.1  270    9     SUNCHALES AERO                                      
+23062026     4   4.2   79  1021.9  270    9     SUNCHALES AERO                                      
+23062026     5   4.0   80  1021.5  270    9     SUNCHALES AERO                                      
+23062026     6   2.8   84  1021.1  270    4     SUNCHALES AERO                                      
+23062026     7   2.4   79  1021.5  270    4     SUNCHALES AERO                                      
+23062026     8   2.4   79  1022.1  270    4     SUNCHALES AERO                                      
+23062026     9   3.1   78  1022.8  270    9     SUNCHALES AERO                                      
+23062026    10   7.9   63  1022.8  270    9     SUNCHALES AERO                                      
+23062026    11  10.7   54  1022.7  270    9     SUNCHALES AERO                                      
+23062026    12  13.4   47  1022.4  290   15     SUNCHALES AERO                                      
+23062026    13  14.7   43  1021.9  270   15     SUNCHALES AERO                                      
+23062026    14  16.0   37  1020.9  270   15     SUNCHALES AERO                                      
+23062026    15  16.2   30  1020.1  270   15     SUNCHALES AERO                                      
+23062026    16  16.8   32  1019.3  270    9     SUNCHALES AERO                                      
+23062026    17  16.4   32  1019.3  270   15     SUNCHALES AERO                                      
+23062026    18  14.0   43  1020.0  270   15     SUNCHALES AERO                                      
+23062026    19  13.0   39  1020.4  270    9     SUNCHALES AERO                                      
+23062026    20   9.2   64  1021.2  270    9     SUNCHALES AERO                                      
+23062026    21   8.8   63  1021.5  270    9     SUNCHALES AERO                                      
+23062026    22   8.6   64  1022.0  230    9     SUNCHALES AERO                                      
+23062026    23   8.2   69  1022.7  230    9     SUNCHALES AERO                                      
+23062026     8   2.7   93  1013.7  220   17     TANDIL AERO                                         
+23062026     9   2.8   89  1014.6  230   20     TANDIL AERO                                         
+23062026    10   4.6   84  1014.5  230   22     TANDIL AERO                                         
+23062026    11   5.8   81  1014.8  230   22     TANDIL AERO                                         
+23062026    12   7.7   74  1014.9  230   20     TANDIL AERO                                         
+23062026    13   9.3   66  1014.5  230   24     TANDIL AERO                                         
+23062026    14   9.6   63  1013.9  240   22     TANDIL AERO                                         
+23062026    15   9.2   61  1013.8  240   20     TANDIL AERO                                         
+23062026    16   9.8   61  1013.9  240   20     TANDIL AERO                                         
+23062026    17   8.8   67  1014.4  250   15     TANDIL AERO                                         
+23062026    18   6.8   79  1015.3  240   15     TANDIL AERO                                         
+23062026    19   6.8   81  1016.0  230   22     TANDIL AERO                                         
+23062026    20   6.4   87  1016.7  230   13     TANDIL AERO                                         
+23062026    21   6.7   87  1017.0  230   19     TANDIL AERO                                         
+23062026     9  10.6   90  1024.2    0    0     TARTAGAL AERO                                       
+23062026    12  14.0   57           90    4     TARTAGAL AERO                                       
+23062026    15  16.8   40          230    4     TARTAGAL AERO                                       
+23062026    18  15.4   58          230    4     TARTAGAL AERO                                       
+23062026    21   9.4   88  1021.9  270    9     TARTAGAL AERO                                       
+23062026     9   3.5   95  1024.0  360    7     TERMAS DE RIO HONDO AERO                            
+23062026    10   6.6   95  1024.2  310    4     TERMAS DE RIO HONDO AERO                            
+23062026    11   7.9   94  1024.2  280    6     TERMAS DE RIO HONDO AERO                            
+23062026    12   9.5   86  1024.0  230    7     TERMAS DE RIO HONDO AERO                            
+23062026    13  10.7   84  1022.9  210    9     TERMAS DE RIO HONDO AERO                            
+23062026    14  13.8   64  1021.4  210   13     TERMAS DE RIO HONDO AERO                            
+23062026    15  15.7   58  1020.5  220   11     TERMAS DE RIO HONDO AERO                            
+23062026    16  15.8   61  1019.8  230    9     TERMAS DE RIO HONDO AERO                            
+23062026    17  16.4   56  1020.1  200   11     TERMAS DE RIO HONDO AERO                            
+23062026    18  15.9   61  1020.4  160    7     TERMAS DE RIO HONDO AERO                            
+23062026    19  13.9   72  1021.0  200    6     TERMAS DE RIO HONDO AERO                            
+23062026    20  11.0   80  1021.6  180    4     TERMAS DE RIO HONDO AERO                            
+23062026    21   8.9   83  1022.4    0    0     TERMAS DE RIO HONDO AERO                            
+23062026     9   -.6   79           20   15     TINOGASTA                                           
+23062026    12  10.2   48          180   15     TINOGASTA                                           
+23062026    15  15.8   38          200   15     TINOGASTA                                           
+23062026    18  14.6   39          200   33     TINOGASTA                                           
+23062026    21   7.2   59           20   15     TINOGASTA                                           
+23062026     0   4.9   67  1017.9  240    7     TRELEW AERO                                         
+23062026     1   3.6   71  1017.8  260   11     TRELEW AERO                                         
+23062026     2   2.5   74  1017.9  240    6     TRELEW AERO                                         
+23062026     3   2.4   72  1017.8  260   11     TRELEW AERO                                         
+23062026     4   3.5   67  1017.6  240   19     TRELEW AERO                                         
+23062026     5   3.0   70  1017.6  250   20     TRELEW AERO                                         
+23062026     6   3.5   65  1017.8  240   22     TRELEW AERO                                         
+23062026     7   3.4   69  1018.5  250   20     TRELEW AERO                                         
+23062026     8   3.2   67  1019.3  240   22     TRELEW AERO                                         
+23062026     9   3.3   69  1019.9  230   19     TRELEW AERO                                         
+23062026    10   3.8   66  1020.5  250   19     TRELEW AERO                                         
+23062026    11   5.7   63  1020.7  260   22     TRELEW AERO                                         
+23062026    12   8.4   58  1021.1  240   19     TRELEW AERO                                         
+23062026    13   9.6   55  1021.0  240   19     TRELEW AERO                                         
+23062026    14  10.8   47  1020.3  230   24     TRELEW AERO                                         
+23062026    15  11.0   37  1019.7  230   31     TRELEW AERO                                         
+23062026    16  10.8   37  1019.6  230   28     TRELEW AERO                                         
+23062026    17  10.5   37  1019.2  230   19     TRELEW AERO                                         
+23062026    18   8.0   44  1019.0  250    9     TRELEW AERO                                         
+23062026    19   5.6   56  1019.0  260   11     TRELEW AERO                                         
+23062026    20   3.2   63  1018.8  250    7     TRELEW AERO                                         
+23062026    21   1.0   67  1018.5  320    6     TRELEW AERO                                         
+23062026    22   1.6   68  1017.6  320    7     TRELEW AERO                                         
+23062026    23   1.2   71  1016.3  290    9     TRELEW AERO                                         
+23062026     9    .0   88  1019.4  270    9     TRENQUE LAUQUEN                                     
+23062026    12   6.0   71  1019.6  270    9     TRENQUE LAUQUEN                                     
+23062026    15  11.4   47  1018.5  230   19     TRENQUE LAUQUEN                                     
+23062026    18  10.6   54  1019.5  230   11     TRENQUE LAUQUEN                                     
+23062026    21   6.2   68  1021.3  270   11     TRENQUE LAUQUEN                                     
+23062026     9   4.2   92  1014.1  250   15     TRES ARROYOS                                        
+23062026    12   7.6   82  1015.2  230   22     TRES ARROYOS                                        
+23062026    15   9.1   78  1015.3  230   22     TRES ARROYOS                                        
+23062026    18   7.4   92  1016.5  230   13     TRES ARROYOS                                        
+23062026    21   5.6   93  1017.7  250    7     TRES ARROYOS                                        
+23062026     0   7.5   82  1023.6   20   11     TUCUMAN AERO                                        
+23062026     1   7.5   82  1023.4  360   11     TUCUMAN AERO                                        
+23062026     2   8.5   78  1022.8  360   17     TUCUMAN AERO                                        
+23062026     3   8.7   81  1022.3  360   13     TUCUMAN AERO                                        
+23062026     4   8.9   83  1021.8   20   13     TUCUMAN AERO                                        
+23062026     5   8.5   86  1022.0  360   13     TUCUMAN AERO                                        
+23062026     6   8.1   83  1022.2  360    9     TUCUMAN AERO                                        
+23062026     7   7.1   87  1022.8   20    7     TUCUMAN AERO                                        
+23062026     8   6.9   87  1024.0  320    6     TUCUMAN AERO                                        
+23062026     9   6.3   87  1024.6   20    7     TUCUMAN AERO                                        
+23062026    10  10.1   72  1024.0   20    6     TUCUMAN AERO                                        
+23062026    11  12.5   66  1023.3   70   15     TUCUMAN AERO                                        
+23062026    12  14.9   53  1022.4   80   15     TUCUMAN AERO                                        
+23062026    13  15.9   47  1021.3   80   19     TUCUMAN AERO                                        
+23062026    14  16.9   42  1020.3   90   13     TUCUMAN AERO                                        
+23062026    15  17.7   42  1019.6  100   13     TUCUMAN AERO                                        
+23062026    16  17.7   46  1019.1  100    9     TUCUMAN AERO                                        
+23062026    17  17.1   49  1018.9  110    9     TUCUMAN AERO                                        
+23062026    18  15.9   56  1019.4  130    6     TUCUMAN AERO                                        
+23062026    19  14.1   66  1020.6  120    6     TUCUMAN AERO                                        
+23062026    20  12.3   72  1021.7  250    4     TUCUMAN AERO                                        
+23062026    21  11.3   76  1022.3  250    6     TUCUMAN AERO                                        
+23062026    22  10.7   80  1022.7  290    4     TUCUMAN AERO                                        
+23062026    23   7.6   86  1023.4  360    7     TUCUMAN AERO                                        
+23062026     0   4.5   86  1010.8  230   28     USHUAIA AERO                                        
+23062026     1   4.3   86  1012.0  230   20     USHUAIA AERO                                        
+23062026     2   4.1   76  1013.2  180   26     USHUAIA AERO                                        
+23062026     3   3.8   75  1014.4  200   15     USHUAIA AERO                                        
+23062026     4   3.3   78  1015.5  140   19     USHUAIA AERO                                        
+23062026     5   3.0   80  1015.7  230   17     USHUAIA AERO                                        
+23062026     6   2.8   74  1016.0  230   17     USHUAIA AERO                                        
+23062026     7   2.6   77  1016.3  250   13     USHUAIA AERO                                        
+23062026     8   3.0   68  1016.3  250   15     USHUAIA AERO                                        
+23062026     9   3.2   63  1015.7  270   11     USHUAIA AERO                                        
+23062026    10   2.6   73  1015.7  270   11     USHUAIA AERO                                        
+23062026    11   2.8   71  1015.0  270    9     USHUAIA AERO                                        
+23062026    12   3.0   71  1014.5  360   15     USHUAIA AERO                                        
+23062026    13   2.9   73  1014.2   20   11     USHUAIA AERO                                        
+23062026    14   3.2   73  1012.6  340    7     USHUAIA AERO                                        
+23062026    15   2.9   71  1011.2  200    2     USHUAIA AERO                                        
+23062026    16   2.9   71  1010.1   70    2     USHUAIA AERO                                        
+23062026    17   2.9   70  1009.4  180    2     USHUAIA AERO                                        
+23062026    18   3.0   70  1008.9  290    6     USHUAIA AERO                                        
+23062026    19   2.9   71  1008.0  230    4     USHUAIA AERO                                        
+23062026    20   2.9   71  1007.6  230    6     USHUAIA AERO                                        
+23062026    21   3.0   71  1007.2  360    4     USHUAIA AERO                                        
+23062026    22   2.9   73  1006.0  320    4     USHUAIA AERO                                        
+23062026    23   2.4   77  1005.1  270    6     USHUAIA AERO                                        
+23062026     9  -8.6   62            0    0     USPALLATA                                           
+23062026    12   2.8   44            0    0     USPALLATA                                           
+23062026    15   8.2   40            0    0     USPALLATA                                           
+23062026    18   8.0   48            0    0     USPALLATA                                           
+23062026    21   1.0   81            0    0     USPALLATA                                           
+23062026     6  -1.2   91  1019.3  270    4     VENADO TUERTO AERO                                  
+23062026     7  -1.4   92  1019.9  270    4     VENADO TUERTO AERO                                  
+23062026     8  -1.2   89  1019.8  270    9     VENADO TUERTO AERO                                  
+23062026     9   -.6   90  1019.8  270    9     VENADO TUERTO AERO                                  
+23062026    10   2.4   81  1020.2  270   15     VENADO TUERTO AERO                                  
+23062026    11   6.5   74  1020.8  270    4     VENADO TUERTO AERO                                  
+23062026    12   8.2   63  1020.5  270    9     VENADO TUERTO AERO                                  
+23062026    13  12.0   46  1019.0  230   15     VENADO TUERTO AERO                                  
+23062026    14  13.5   42  1018.1  230   33     VENADO TUERTO AERO                                  
+23062026    15  13.1   42  1017.8  230   33     VENADO TUERTO AERO                                  
+23062026    16  12.8   44  1017.8  230   24     VENADO TUERTO AERO                                  
+23062026    17  12.3   42  1018.3  230   24     VENADO TUERTO AERO                                  
+23062026    18  10.8   51  1018.9  200   15     VENADO TUERTO AERO                                  
+23062026    19   7.7   62  1019.7  200   15     VENADO TUERTO AERO                                  
+23062026    20   6.1   65  1020.6  200    9     VENADO TUERTO AERO                                  
+23062026    21   5.4   74  1021.3  200    9     VENADO TUERTO AERO                                  
+23062026     9    .8   79  1021.6  230    9     VICTORICA                                           
+23062026    15  11.0   52  1021.9  230   24     VICTORICA                                           
+23062026    21   3.7   61  1023.6  230    9     VICTORICA                                           
+23062026     0   4.6   90  1016.5  300   11     VIEDMA AERO                                         
+23062026     1   5.0   88  1016.2  280   13     VIEDMA AERO                                         
+23062026     2   4.0   90  1015.9  280   11     VIEDMA AERO                                         
+23062026     3   3.3   91  1015.1  290   11     VIEDMA AERO                                         
+23062026     4   3.8   90  1015.2  270   13     VIEDMA AERO                                         
+23062026     5   3.5   91  1014.7  290    9     VIEDMA AERO                                         
+23062026     6   4.8   89  1014.6  270   13     VIEDMA AERO                                         
+23062026     7   7.0   88  1014.3  240   11     VIEDMA AERO                                         
+23062026     8   7.2   85  1015.1  240   17     VIEDMA AERO                                         
+23062026     9   6.1   91  1015.4  250   13     VIEDMA AERO                                         
+23062026    10   7.0   87  1016.0  230   17     VIEDMA AERO                                         
+23062026    11  10.1   75  1016.6  210   30     VIEDMA AERO                                         
+23062026    12  11.1   69  1016.9  210   26     VIEDMA AERO                                         
+23062026    13  10.5   70  1017.1  210   31     VIEDMA AERO                                         
+23062026    14  11.8   64  1016.9  210   31     VIEDMA AERO                                         
+23062026    15  11.5   64  1016.9  210   30     VIEDMA AERO                                         
+23062026    16  10.8   75  1017.2  210   28     VIEDMA AERO                                         
+23062026    17   9.0   75  1017.6  210   20     VIEDMA AERO                                         
+23062026    18   8.4   73  1018.1  220   37     VIEDMA AERO                                         
+23062026    19   6.3   87  1018.1  220   15     VIEDMA AERO                                         
+23062026    20   5.5   82  1018.0  200   13     VIEDMA AERO                                         
+23062026    21   3.4   85  1018.1  280   11     VIEDMA AERO                                         
+23062026    22   2.9   84  1017.8  250   13     VIEDMA AERO                                         
+23062026    23   2.6   84  1017.3  240   13     VIEDMA AERO                                         
+23062026     9  -2.5   92  1024.8    0    0     VILLA DE MARIA DEL RIO SEC                          
+                                            O                                                       
+                                                                                                    
+23062026    15  18.0   33  1020.6  180    4     VILLA DE MARIA DEL RIO SEC                          
+                                            O                                                       
+                                                                                                    
+23062026    21   9.0   60  1022.9  230    9     VILLA DE MARIA DEL RIO SEC                          
+                                            O                                                       
+                                                                                                    
+23062026     9   1.0   78  1024.9  140   11     VILLA DOLORES AERO                                  
+23062026    10   4.8   61  1024.6   90    7     VILLA DOLORES AERO                                  
+23062026    11  10.2   50  1024.5  320    6     VILLA DOLORES AERO                                  
+23062026    12  11.6   40  1024.5  320    9     VILLA DOLORES AERO                                  
+23062026    13  13.5   35  1023.5  320    7     VILLA DOLORES AERO                                  
+23062026    14  14.3   35  1022.8  320   11     VILLA DOLORES AERO                                  
+23062026    15  14.4   31  1022.0  270   11     VILLA DOLORES AERO                                  
+23062026    16  14.4   29  1021.7  320    9     VILLA DOLORES AERO                                  
+23062026    17  14.2   31  1021.9  270    7     VILLA DOLORES AERO                                  
+23062026    18  13.6   33  1022.1  270    6     VILLA DOLORES AERO                                  
+23062026    19  10.4   49  1023.0    0    0     VILLA DOLORES AERO                                  
+23062026    20   7.0   54  1024.8  180    9     VILLA DOLORES AERO                                  
+23062026    21   5.0   55  1025.6  180   11     VILLA DOLORES AERO                                  
+23062026     8   2.5   95  1012.2  230   17     VILLA GESELL AERO                                   
+23062026     9   3.0   83  1012.6  250   17     VILLA GESELL AERO                                   
+23062026    10   5.5   85  1013.0  240   22     VILLA GESELL AERO                                   
+23062026    11   6.8   81  1013.3  240   24     VILLA GESELL AERO                                   
+23062026    12   8.5   80  1012.9  230   24     VILLA GESELL AERO                                   
+23062026    13   9.7   72  1012.7  230   26     VILLA GESELL AERO                                   
+23062026    14  10.1   75  1012.6  240   28     VILLA GESELL AERO                                   
+23062026    15   9.7   80  1012.1  230   22     VILLA GESELL AERO                                   
+23062026    16   9.5   82  1012.9  200   19     VILLA GESELL AERO                                   
+23062026    17   8.8   89  1013.2  230   17     VILLA GESELL AERO                                   
+23062026    18   6.3   88  1013.7  230    7     VILLA GESELL AERO                                   
+23062026    19   5.0   94  1014.0  230   11     VILLA GESELL AERO                                   
+23062026    20   5.8   85  1014.7  230    7     VILLA GESELL AERO                                   
+23062026    21   5.5   92  1014.9  230   11     VILLA GESELL AERO                                   
+23062026     0   1.0   75  1024.7  320   15     VILLA REYNOLDS AERO                                 
+23062026     1   -.2   85  1025.2  320    9     VILLA REYNOLDS AERO                                 
+23062026     2    .0   82  1024.3  320    9     VILLA REYNOLDS AERO                                 
+23062026     3   1.0   80  1023.5  320    9     VILLA REYNOLDS AERO                                 
+23062026     4   1.0   78  1022.9  320    9     VILLA REYNOLDS AERO                                 
+23062026     5  -1.0   90  1022.5  320    9     VILLA REYNOLDS AERO                                 
+23062026     6   1.2   87  1022.8  270   19     VILLA REYNOLDS AERO                                 
+23062026     7   2.0   72  1022.9  320   22     VILLA REYNOLDS AERO                                 
+23062026     8   1.2   73  1023.3  270   11     VILLA REYNOLDS AERO                                 
+23062026     9   1.0   77  1023.8  270   17     VILLA REYNOLDS AERO                                 
+23062026    10   6.0   47  1024.0  270   26     VILLA REYNOLDS AERO                                 
+23062026    11   8.1   57  1024.6  270   19     VILLA REYNOLDS AERO                                 
+23062026    12  11.0   37  1024.1  230   22     VILLA REYNOLDS AERO                                 
+23062026    13  13.0   31  1023.5  230   24     VILLA REYNOLDS AERO                                 
+23062026    14  13.6   26  1022.6  230   28     VILLA REYNOLDS AERO                                 
+23062026    15  14.3   24  1021.8  230   30     VILLA REYNOLDS AERO                                 
+23062026    16  13.2   21  1022.6  230   28     VILLA REYNOLDS AERO                                 
+23062026    17  11.9   22  1023.2  230   28     VILLA REYNOLDS AERO                                 
+23062026    18  10.2   29  1023.6  230   22     VILLA REYNOLDS AERO                                 
+23062026    19   6.8   58  1024.5  230    9     VILLA REYNOLDS AERO                                 
+23062026    20   4.7   68  1025.4  270   11     VILLA REYNOLDS AERO                                 
+23062026    21   4.6   49  1025.8  270   15     VILLA REYNOLDS AERO                                 
+23062026    22   4.0   47  1025.5  270   15     VILLA REYNOLDS AERO                                 
+23062026    23    .1   66  1025.8  270    9     VILLA REYNOLDS AERO                                 

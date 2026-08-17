@@ -1,0 +1,28 @@
+{
+  "orden_sarima": [
+    1,
+    0,
+    1,
+    1,
+    1,
+    1,
+    24
+  ],
+  "metricas": {
+    "ozono_ppm": {
+      "MAE": 0.011052,
+      "RMSE": 0.013785,
+      "MAPE": null
+    },
+    "temperatura_c": {
+      "MAE": 2.040817,
+      "RMSE": 2.511834,
+      "MAPE": 0.084917
+    },
+    "radiacion_ghi_wm2": {
+      "MAE": 34.865034,
+      "RMSE": 67.399116,
+      "MAPE": null
+    }
+  }
+}
