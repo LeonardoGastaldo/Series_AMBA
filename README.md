@@ -142,12 +142,6 @@ Serie_Temporales/
 
 ---
 
-# Próximo paso
-
-Ejecutar `01_descarga_datos.ipynb`: crea la estructura de carpetas, descarga las tres series (EPA AQS y NOAA ISD sin necesidad de credenciales; NSRDB requiere que cada integrante saque su propia API key gratuita), y valida que los archivos anuales esperados estén completos antes de pasar a `02_limpieza.ipynb`.
-
----
-
 # Portabilidad — correrlo desde cualquier ubicación
 
 El notebook detecta la raíz del proyecto de forma relativa (a partir del directorio donde corre, no de una ruta fija), así que **la carpeta `Serie_Temporales/` puede copiarse a cualquier disco, usuario o equipo** (`C:\`, `C:\TEMP`, un pendrive, etc.) y funciona igual, sin editar ninguna ruta en el código. Cada integrante del grupo sólo necesita:
