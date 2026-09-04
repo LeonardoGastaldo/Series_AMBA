@@ -1,0 +1,17 @@
+{
+  "ozono_ppm": {
+    "MAE": 0.010690678329827548,
+    "RMSE": 0.014634617890987016,
+    "mejor_modelo": "GLS"
+  },
+  "temperatura_c": {
+    "MAE": 1.1620961510262457,
+    "RMSE": 1.5155182808004217,
+    "mejor_modelo": "SectionalMotif"
+  },
+  "radiacion_ghi_wm2": {
+    "MAE": 50.182886904761915,
+    "RMSE": 88.70954644534612,
+    "mejor_modelo": "SeasonalityMotif"
+  }
+}

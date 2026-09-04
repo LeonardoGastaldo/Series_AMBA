@@ -116,7 +116,13 @@ Serie_Temporales/
 │   ├── 04_estacionariedad.ipynb
 │   ├── 05_sarima.ipynb
 │   ├── 06_var.ipynb
-│   └── 07_pronosticos.ipynb
+│   ├── 07_pronosticos.ipynb              (fin del TP1)
+│   ├── 07b_tratamiento_datos.ipynb       (atípicos, faltantes, espacio de estados — inicio del TP2)
+│   ├── 08_lstm.ipynb
+│   ├── 09_prophet_neuralprophet.ipynb
+│   ├── 10_darts.ipynb
+│   ├── 11_automl.ipynb
+│   └── 12_foundation_models.ipynb        (Chronos, TimeGPT, TSMixer)
 │
 ├── src/
 │   ├── descarga.py
@@ -139,6 +145,23 @@ Serie_Temporales/
 │
 └── requirements.txt
 ```
+
+---
+
+# TP2 — Modelos de Machine Learning / Deep Learning / Híbridos e Informe Final
+
+El TP1 (`01`-`07`) queda cerrado tal cual está: sus resultados (SARIMA, VAR, ensambles ML vía skforecast) no se recalculan. El TP2 agrega, sin tocar lo anterior:
+
+- **`07b_tratamiento_datos.ipynb`** — cierra un hueco real que había quedado del TP1: el EDA original (`03_eda.ipynb`) nunca hizo detección de atípicos ni documentó una política de imputación, y quedaban ~1,4% de horas completamente ausentes del índice temporal (no NaN en filas existentes, sino timestamps faltantes — invisibles a `isna().sum()`). Este notebook:
+  - Detecta atípicos comparando cada valor contra la mediana/MAD **de la misma hora del día** en una ventana de ±30 días (evita confundir el ciclo diario de ozono/radiación con anomalías).
+  - Corrige por interpolación lineal sólo los atípicos **aislados** (≤3 horas seguidas); los sostenidos (>3h) se documentan como eventos reales (episodio de contaminación, ola de calor) y no se tocan.
+  - Completa los huecos del índice temporal (reindexado a grilla horaria regular + interpolación) — una sola vez, en vez de repetirlo en cada notebook de modelado como pasaba antes (ver `feedback_dl_libs_compat` en la memoria del proyecto).
+  - Agrega dos categorías de modelo pedidas en la consigna que no estaban cubiertas: **espacio de estados** (`statsmodels.tsa.statespace.structural.UnobservedComponents`) y **suavizado exponencial formulado explícitamente como espacio de estados** (`statsmodels.tsa.exponential_smoothing.ets.ETSModel`, la formulación ETS detrás del `ExponentialSmoothing` que ya se usaba en `10_darts.ipynb`).
+  - Corre Ljung-Box sobre los residuos de ambos modelos para chequear si son ruido blanco (mismo diagnóstico que ya se le había hecho a SARIMA en `05_sarima.ipynb`, nunca repetido para los modelos nuevos).
+  - Produce **`data/processed/serie_california_tratada.csv`**, que usan `08` en adelante (`01`-`07` siguen usando `serie_california.csv`, sin tratar, para no invalidar resultados ya calculados con grid searches costosos).
+- **`08`-`12`**: LSTM (TensorFlow/Keras), Prophet + NeuralProphet, Darts (ExponentialSmoothing/AutoARIMA/Theta/FFT), AutoTS + MLForecast, y modelos fundacionales (Chronos zero-shot, TimeGPT, TSMixer) — los 5 sobre `serie_california_tratada.csv`.
+
+Ver `docs/Observaciones_TP_Final_Modelos_Clase6_7.md` para el detalle de qué se evaluó y descartó (PyCaret, H2O AutoML, ANDET, FEDOT) y por qué.
 
 ---
 

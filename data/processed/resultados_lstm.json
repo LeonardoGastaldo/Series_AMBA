@@ -1,0 +1,20 @@
+{
+  "ozono_ppm": {
+    "MAE": 0.01172007396658938,
+    "RMSE": 0.01598618262214586,
+    "epochs": 50,
+    "input_length": 24
+  },
+  "temperatura_c": {
+    "MAE": 3.467611782134525,
+    "RMSE": 4.233010253893252,
+    "epochs": 50,
+    "input_length": 24
+  },
+  "radiacion_ghi_wm2": {
+    "MAE": 62.890606885155044,
+    "RMSE": 90.98487473553885,
+    "epochs": 50,
+    "input_length": 24
+  }
+}

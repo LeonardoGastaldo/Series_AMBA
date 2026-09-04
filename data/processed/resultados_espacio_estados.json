@@ -1,0 +1,44 @@
+{
+  "ozono_ppm": {
+    "UnobservedComponents": {
+      "MAE": 0.01598768855847262,
+      "RMSE": 0.01972354373743462,
+      "ljung_box_p": 3.292818424433384e-148,
+      "es_ruido_blanco": false
+    },
+    "ETSModel": {
+      "MAE": 0.016241615718956545,
+      "RMSE": 0.019975546472859273,
+      "ljung_box_p": 1.7561872134315838e-146,
+      "es_ruido_blanco": false
+    }
+  },
+  "temperatura_c": {
+    "UnobservedComponents": {
+      "MAE": 1.1794556781177177,
+      "RMSE": 1.5292728178608104,
+      "ljung_box_p": 9.158777918882909e-288,
+      "es_ruido_blanco": false
+    },
+    "ETSModel": {
+      "MAE": 1.0895230475419329,
+      "RMSE": 1.3585903608739267,
+      "ljung_box_p": 0.0,
+      "es_ruido_blanco": false
+    }
+  },
+  "radiacion_ghi_wm2": {
+    "UnobservedComponents": {
+      "MAE": 84.1440982009503,
+      "RMSE": 114.77691730853469,
+      "ljung_box_p": 1.4047770840548418e-146,
+      "es_ruido_blanco": false
+    },
+    "ETSModel": {
+      "MAE": 71.7501679401922,
+      "RMSE": 91.45283598418393,
+      "ljung_box_p": 1.2200553178098754e-141,
+      "es_ruido_blanco": false
+    }
+  }
+}

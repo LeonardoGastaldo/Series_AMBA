@@ -1,0 +1,47 @@
+{
+  "ozono_ppm": {
+    "mejor_modelo": "LinearRegression",
+    "LightGBM": {
+      "MAE": 0.011709525465279012,
+      "RMSE": 0.014274080563400085
+    },
+    "RandomForest": {
+      "MAE": 0.01106379301303854,
+      "RMSE": 0.013290269697479005
+    },
+    "LinearRegression": {
+      "MAE": 0.010972834918845879,
+      "RMSE": 0.014932664679344308
+    }
+  },
+  "temperatura_c": {
+    "mejor_modelo": "LightGBM",
+    "LightGBM": {
+      "MAE": 1.9859110298207927,
+      "RMSE": 2.4760863812604614
+    },
+    "RandomForest": {
+      "MAE": 2.1424784722222086,
+      "RMSE": 2.451100618593029
+    },
+    "LinearRegression": {
+      "MAE": 3.403876170913759,
+      "RMSE": 3.973141851063881
+    }
+  },
+  "radiacion_ghi_wm2": {
+    "mejor_modelo": "RandomForest",
+    "LightGBM": {
+      "MAE": 29.926032028276918,
+      "RMSE": 53.51279153880754
+    },
+    "RandomForest": {
+      "MAE": 25.130904513888886,
+      "RMSE": 53.288717616765815
+    },
+    "LinearRegression": {
+      "MAE": 246.6428133134708,
+      "RMSE": 306.3717910547922
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "ozono_ppm": {
+    "mejor_modelo": "FFT",
+    "ExponentialSmoothing": {
+      "MAE": 0.01732147376088952,
+      "RMSE": 0.02092373220841844
+    },
+    "AutoARIMA": {
+      "MAE": 0.016430367528582658,
+      "RMSE": 0.020600238151088416
+    },
+    "FFT": {
+      "MAE": 0.009370515806684073,
+      "RMSE": 0.011399096807258126
+    }
+  },
+  "temperatura_c": {
+    "mejor_modelo": "ExponentialSmoothing",
+    "ExponentialSmoothing": {
+      "MAE": 1.194577553729275,
+      "RMSE": 1.531110323875826
+    },
+    "AutoARIMA": {
+      "MAE": 1.7526561157580114,
+      "RMSE": 2.2529082571092442
+    },
+    "Theta": {
+      "MAE": 1.2751884680672796,
+      "RMSE": 1.5718965815266759
+    },
+    "FFT": {
+      "MAE": 3.0087428874408175,
+      "RMSE": 3.3153559707385276
+    }
+  },
+  "radiacion_ghi_wm2": {
+    "mejor_modelo": "ExponentialSmoothing",
+    "ExponentialSmoothing": {
+      "MAE": 45.180903961333854,
+      "RMSE": 65.21970496213073
+    },
+    "AutoARIMA": {
+      "MAE": 285.1571773696127,
+      "RMSE": 315.4360102859164
+    },
+    "FFT": {
+      "MAE": 68.15816859981008,
+      "RMSE": 94.44276533094657
+    }
+  }
+}
