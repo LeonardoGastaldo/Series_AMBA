@@ -1,6 +1,8 @@
+# docs/: sólo se versionan los PDF de la raíz (sin subcarpetas ni otros formatos)
+docs/*
+!docs/*.pdf
+!docs/*.PDF
 docs/Informe_Final_Series_Temporales_TP FINAL-version 1.pdf
-docs/Recomendaciones_revision_TP FINAL_Series_Temporales -version 1.md
-docs/TP FINAL_Series Temporales - version 2.md
 
 __pycache__/
 *.pyc
